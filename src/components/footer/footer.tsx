@@ -61,7 +61,7 @@ const Footer = () => {
               key="heading"
               heading={heading}
               menuItems={menuItems}
-              last={index === footerUnits - 1}
+              last={index === footerUnits.length - 1}
             />
           ))}
         </div>

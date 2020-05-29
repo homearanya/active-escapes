@@ -38,7 +38,7 @@ const Header = () => {
     >
       <div className="header-wrapper">
         <div className="logo">
-          <Link to="/">
+          <Link className="logo-link" to="/">
             <WhiteLogo className="normal" />
             <ColorLogo className="gray-logo" />
           </Link>
@@ -47,7 +47,10 @@ const Header = () => {
             <a href="tel:+27842407277">+27 84 240 7277</a>
           </span>
         </div>
-        <SearchForm handleCloseSearch={handleCloseSearch} />
+        <SearchForm
+          handleCloseSearch={handleCloseSearch}
+          handleOpenSearch={handleOpenSearch}
+        />
         <Navigation handleOpenSearch={handleOpenSearch} />
       </div>
     </header>

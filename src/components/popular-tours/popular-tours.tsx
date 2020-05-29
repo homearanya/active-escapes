@@ -14,42 +14,42 @@ const PopularTours = () => {
     query {
       photo1: file(relativePath: { eq: "listing/img-01-pondoexplore.JPG" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "listing/img-02-kosi.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
       }
       photo3: file(relativePath: { eq: "listing/img-03-amphi.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
       }
       photo4: file(relativePath: { eq: "listing/img-04-clarens.JPG" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
       }
       photo5: file(relativePath: { eq: "listing/img-05-nberg.JPG" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }
       }
       photo6: file(relativePath: { eq: "listing/img-06-vulturehike.JPG" }) {
         childImageSharp {
-          fixed(width: 370, height: 215) {
+          fixed(width: 500, height: 291) {
             ...GatsbyImageSharpFixed_withWebp
           }
         }

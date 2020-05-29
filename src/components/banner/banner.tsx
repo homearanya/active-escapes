@@ -53,6 +53,7 @@ const Banner = () => {
         infiniteLoop={true}
         interval={5000}
         showThumbs={false}
+        showIndicators={false}
       >
         <Slide
           fluid={slide1.childImageSharp.fluid}

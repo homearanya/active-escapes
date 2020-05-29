@@ -1,10 +1,11 @@
 import React, { useState } from 'react'
 
 interface SearchFormProps {
+  handleOpenSearch: () => void
   handleCloseSearch: () => void
 }
 
-export default ({ handleCloseSearch }: SearchFormProps) => {
+export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
   const [formData, setFormData] = useState({
     destination: '',
     activity: '',
@@ -12,7 +13,7 @@ export default ({ handleCloseSearch }: SearchFormProps) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     alert(
-      `You have chosen activity: ${formData.activity}, destination: ${formData.destination}`,
+      `You have chosen activity: ${formData.activity}, destination: ${formData.destination}`
     )
   }
 
@@ -30,7 +31,10 @@ export default ({ handleCloseSearch }: SearchFormProps) => {
   return (
     <form className="search-form" action="#" onSubmit={handleSubmit}>
       <fieldset>
-        <a href="#" className="search-opener hidden-md hidden-lg">
+        <a
+          onClick={handleOpenSearch}
+          className="search-opener hidden-md hidden-lg"
+        >
           <span className="icon-search"></span>
         </a>
         <div className="search-wrap">

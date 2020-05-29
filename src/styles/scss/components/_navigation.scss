@@ -8,6 +8,7 @@
   font-size: 14px;
   letter-spacing: 0.05em;
   font-family: $navigation-font-family;
+  position: static;
 
   .container-fluid,
   .navbar-header {
@@ -25,14 +26,19 @@
     &:focus,
     &:hover {
       background: none;
+
+      .icon-bar {
+        background-color: $nav-hover-color;
+        border: 1px solid $nav-hover-color;
+      }
     }
 
     .icon-bar {
       width: 28px;
       height: 1px;
-      background-color: $gray;
+      background-color: $scarpa-flow;
       border-radius: 0;
-      border: 1px solid $gray;
+      border: 1px solid $scarpa-flow;
 
       + .icon-bar {
         margin-top: 6px;
@@ -96,6 +102,7 @@
   }
 
   @include breakpoint-max($screen-md - 1) {
+    flex: 0 1 auto;
     min-height: 0;
 
     .navbar-collapse {
@@ -309,7 +316,36 @@
   padding: 0;
 
   &.in {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
     overflow-y: auto;
+    max-height: calc(100vh - 70px);
+    -webkit-overflow-scrolling: touch;
+
+    li {
+      max-width: 600px;
+      margin: 0 auto;
+      width: 100%;
+
+      span {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+
+        .icon-angle-down {
+          margin-left: auto;
+          display: flex;
+          justify-content: flex-end;
+        }
+      }
+
+      .subscribe {
+        padding: 0;
+      }
+    }
   }
 
   @include breakpoint-min($screen-md) {

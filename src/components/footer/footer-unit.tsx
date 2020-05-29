@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { useState } from 'react'
 import UniversalLink from '../universal-link'
+import useMedia from 'use-media'
 
 type MenuItem = {
   iconClassName?: string
@@ -14,10 +15,27 @@ interface FooterUnitProps {
 }
 
 const FooterUnit = ({ heading, menuItems, last = false }: FooterUnitProps) => {
+  const isMobile = useMedia({ maxWidth: 768 - 1 })
+  const [active, setActive] = useState(last)
   return (
-    <nav className={`col-sm-4 col-lg-2 footer-nav ${last ? 'last' : ''}`}>
-      <h3>{heading}</h3>
-      <ul className="slide address-block">
+    <nav
+      className={`col-sm-4 col-lg-2 footer-nav${active ? ' active' : ''}${
+        last ? ' last' : ''
+      }`}
+    >
+      <h3 onClick={() => isMobile && setActive((active) => !active)}>
+        {heading}
+      </h3>
+      <ul
+        className="slide address-block"
+        style={
+          isMobile
+            ? active
+              ? {}
+              : { position: 'absolute', top: '-9999px', left: '-9999px' }
+            : {}
+        }
+      >
         {menuItems.map(({ iconClassName, link, name }) => (
           <li key={name} className="wrap-text">
             {iconClassName ? <span className={iconClassName}></span> : null}

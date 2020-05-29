@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import Burger from './burger'
 import MenuItem from './menu-item'
@@ -33,11 +33,26 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
       }
     }
   `)
+
+  const [openMenu, setOpenMenu] = useState(false)
+  const handleClick = () => setOpenMenu((openMenu) => !openMenu)
+  useEffect(() => {
+    // Update the document title using the browser API
+    if (openMenu) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = 'unset'
+    }
+  }, [openMenu])
+
   return (
     <nav className="navbar navbar-default">
-      <Burger />
+      <Burger handleClick={handleClick} />
 
-      <div className="collapse navbar-collapse" id="nav">
+      <div
+        className={`collapse navbar-collapse${openMenu ? ' in' : ''}`}
+        id="nav"
+      >
         <ul className="nav navbar-nav">
           {menuItems.map(({ name, link, menuItems }) => (
             <>
@@ -51,7 +66,6 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
           ))}
           <li className="visible-xs visible-sm">
             <a href="login.html" className="subscribe">
-              <WhiteLogo className="newsletter-icon" />
               <span className="text">Subscribe</span>
             </a>
           </li>

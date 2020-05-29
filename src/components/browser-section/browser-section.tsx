@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import MenuDropDown from '../header/navigation/menu-dropdown'
+import useMedia from 'use-media'
 
 const BrowserSection = () => {
+  const isMobile = useMedia({ maxWidth: 992 - 1 })
   const {
     site: {
       siteMetadata: {
@@ -28,16 +30,24 @@ const BrowserSection = () => {
     }
   `)
 
-  const [dropdown, setDropdown] = useState(false)
-  const [sectionOffset, setSectionOffset] = useState(0)
+  const [activityDropdown, setActivityDropdown] = useState(false)
+  const [destinationDropdown, setDestinationDropdown] = useState(false)
+  const [activityDivOffset, setActivityDivOffset] = useState(0)
+  const [destinationDivOffset, setDestinationDivOffset] = useState(0)
 
   const handleScroll = () => {
     const scrollTop = window.pageYOffset
 
-    if (scrollTop > sectionOffset - window.innerHeight / 2) {
-      setDropdown(true)
+    if (scrollTop > activityDivOffset - window.innerHeight / 2) {
+      setActivityDropdown(true)
     } else {
-      setDropdown(false)
+      setActivityDropdown(false)
+    }
+
+    if (scrollTop > destinationDivOffset - window.innerHeight / 2) {
+      setDestinationDropdown(true)
+    } else {
+      setDestinationDropdown(false)
     }
   }
 
@@ -55,25 +65,28 @@ const BrowserSection = () => {
   )
 
   return (
-    <section
-      ref={(section) => section && setSectionOffset(section.offsetTop)}
-      className="browse-block"
-    >
-      <div className="browse-destination column">
+    <section className="browse-block">
+      <div
+        ref={(div) => div && setDestinationDivOffset(div.offsetTop)}
+        className="browse-destination column"
+      >
         <div className="dropdown">
           <span className="dropdown-toggle">BROWSE BY DESTINATION</span>
           <MenuDropDown
             menuItems={menuItems[destinationIndex].menuItems}
-            className={dropdown ? 'down' : ''}
+            className={isMobile ? '' : destinationDropdown ? 'down' : ''}
           />
         </div>
       </div>
-      <div className="browse-adventures column">
+      <div
+        ref={(div) => div && setActivityDivOffset(div.offsetTop)}
+        className="browse-adventures column"
+      >
         <div className="dropdown">
           <span className="dropdown-toggle">BROWSE BY ADVENTURES</span>
           <MenuDropDown
             menuItems={menuItems[activityIndex].menuItems}
-            className={dropdown ? 'down' : ''}
+            className={isMobile ? 'down' : activityDropdown ? 'down' : ''}
           />
         </div>
       </div>

@@ -9,6 +9,8 @@
 
   @include breakpoint-max($screen-md - 1) {
     width: 100%;
+    background: $desert-storm;
+    box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.2);
   }
 
   .header-wrapper {
@@ -16,9 +18,9 @@
 
     @include breakpoint-max($screen-md - 1) {
       align-items: center;
-      padding: 0;
+      padding: 0 15px;
       position: relative;
-      width: 100%;
+      width: 100vw;
     }
   }
 
@@ -119,30 +121,43 @@
   transition: all 0.2s linear;
   border-right: 0 !important;
 
+  .logo-link:hover {
+    .normal,
+    .gray-logo {
+      transform: rotateY(180deg);
+    }
+  }
+
   .normal {
     color: white;
+
     &:hover {
       color: $nav-hover-color;
     }
-    @include breakpoint-max($screen-md) {
+    @include breakpoint-max($screen-md - 1) {
       display: none;
     }
   }
 
   .normal,
   .gray-logo {
+    transform: rotateY(0);
+    transition: all 0.3s;
+
     height: 70px;
     width: auto;
     margin: 0 20px;
 
-    @include breakpoint-max($screen-md) {
+    @include breakpoint-max($screen-md - 1) {
       height: 50px;
+      margin-left: 0;
+      margin-right: 10px;
     }
   }
 
   .gray-logo {
     display: none;
-    @include breakpoint-max($screen-md) {
+    @include breakpoint-max($screen-md - 1) {
       display: block;
     }
   }
@@ -159,25 +174,31 @@
     display: flex;
     align-items: center;
   }
+  color: $scarpa-flow;
 
+  &:hover {
+    color: $nav-hover-color;
+  }
   span {
-    color: white;
+    color: $white;
     font-size: 28px;
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 1.1;
-    @include breakpoint-max($screen-md) {
-      font-size: 24px;
+    @include breakpoint-max($screen-md - 1) {
+      color: $scarpa-flow;
+      font-size: 22px;
     }
 
     a {
-      color: white;
-      font-size: 20px;
+      color: $white;
+      font-size: 18px;
       margin-top: 5px;
       display: flex;
       justify-content: flex-end;
       z-index: 10;
-      @include breakpoint-max($screen-md) {
+      @include breakpoint-max($screen-md - 1) {
+        color: $scarpa-flow;
         font-size: 18px;
       }
       &:hover {
@@ -194,6 +215,10 @@
 
   @include breakpoint-min($screen-lg) {
     width: 300px;
+  }
+  @include breakpoint-max($screen-md - 1) {
+    height: 70px;
+    flex: 1 0 auto;
   }
 }
 

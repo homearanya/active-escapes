@@ -1,8 +1,10 @@
 /* gallery list styles */
-.gallery-home-holder {
-  .text-block {
-    .centered {
-      padding-top: 0 !important;
+@include breakpoint-min($screen-md) {
+  .gallery-home-holder {
+    .text-block {
+      .centered {
+        padding-top: 0 !important;
+      }
     }
   }
 }

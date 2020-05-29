@@ -183,6 +183,17 @@
         font-size: 44px;
         color: white;
         opacity: 1;
+
+        @include breakpoint-max($screen-lg - 1) {
+          top: calc(50% - 75px);
+        }
+        @include breakpoint-max($screen-md - 1) {
+          top: calc(50% - 70px);
+        }
+        @include breakpoint-max($screen-sm - 1) {
+          width: 100%;
+          top: calc(50% - 66px);
+        }
       }
       .slide-icon.rotate {
         transform: translate(-50%, -50%) rotateY(180deg);
@@ -209,8 +220,15 @@
         font-size: 47px !important;
         text-transform: uppercase;
         opacity: 1;
-        @include breakpoint-max($screen-lg) {
+        @include breakpoint-max($screen-lg - 1) {
           font-size: 37px !important;
+        }
+        @include breakpoint-max($screen-md - 1) {
+          font-size: 27px !important;
+        }
+        @include breakpoint-max($screen-sm - 1) {
+          width: 100%;
+          font-size: 23px !important;
         }
       }
 
@@ -228,8 +246,18 @@
         color: #b0a377;
         opacity: 1;
 
-        @include breakpoint-max($screen-lg) {
+        @include breakpoint-max($screen-lg - 1) {
           font-size: 50px !important;
+          top: calc(50% +65px);
+        }
+        @include breakpoint-max($screen-md - 1) {
+          font-size: 40px !important;
+          top: calc(50% + 60px);
+        }
+        @include breakpoint-max($screen-sm - 1) {
+          width: 100%;
+          font-size: 32px !important;
+          top: calc(50% + 56px);
         }
       }
       .button-wrapper {
@@ -239,6 +267,17 @@
         left: 50%;
         transform: translate(-50%, -50%);
         opacity: 1;
+
+        @include breakpoint-max($screen-lg - 1) {
+          top: calc(50% + 155px);
+        }
+        @include breakpoint-max($screen-md - 1) {
+          top: calc(50% + 140px);
+        }
+        @include breakpoint-max($screen-sm - 1) {
+          width: 100%;
+          top: calc(50% + 120px);
+        }
       }
       .slide-button {
         border-color: #6b6957;
