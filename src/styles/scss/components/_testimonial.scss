@@ -1,0 +1,93 @@
+/* testimonial block styles */
+.testimonial-holder {
+  position: relative;
+  color: $white;
+  text-align: center;
+  padding: $global-md-space 0;
+
+  .carousel-slider {
+    overflow-y: visible !important;
+    padding-bottom: 70px;
+    .slide {
+      background: none;
+    }
+    .slide {
+      a {
+        color: white;
+        &:hover {
+          color: white;
+        }
+      }
+      .text {
+        q {
+          white-space: normal;
+        }
+      }
+    }
+  }
+
+  blockquote {
+    .img {
+      border: 2px solid $white;
+      width: 90px;
+      border-radius: 100%;
+      margin: 0 auto $global-sm-space;
+
+      img {
+        max-width: 100%;
+        border-radius: 100%;
+      }
+
+      @include breakpoint-min($screen-md) {
+        display: inline-block;
+        vertical-align: top;
+        width: 112px;
+        margin: 20px 0 0;
+      }
+    }
+
+    .text {
+      @include breakpoint-min($screen-md) {
+        display: inline-block;
+        vertical-align: top;
+        width: calc(100% - 150px);
+        padding-left: 55px;
+      }
+    }
+
+    cite {
+      display: block;
+      border-bottom: 1px solid $platinum;
+      padding-bottom: 20px;
+      margin-bottom: $global-sm-space;
+      position: relative;
+
+      &:after {
+        @include translate(-50%, 0);
+        width: 170px;
+        height: 8px;
+        background: $platinum;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+      }
+
+      @include breakpoint-min($screen-sm) {
+        padding-bottom: $global-sm-space;
+        letter-spacing: 1px;
+      }
+    }
+
+    @include breakpoint-min($screen-sm) {
+      margin: 0 8.2%;
+    }
+  }
+  @include breakpoint-min($screen-sm) {
+    padding: $global-space 0;
+  }
+
+  @include breakpoint-min($screen-md) {
+    padding: $global-top-space 0 $global-bottom-space;
+  }
+}

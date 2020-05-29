@@ -1,0 +1,59 @@
+.browse-block {
+  overflow: visible !important;
+  .column {
+    &.browse-destination,
+    &.browse-adventures {
+      overflow: visible !important;
+
+      .dropdown {
+        height: auto;
+
+        .dropdown-menu {
+          margin: 0;
+          top: -1px;
+          transform: translateY(-100%);
+          width: 100%;
+          background-color: #b0a377;
+          box-shadow: none;
+
+          ul {
+            padding: 20px 0;
+            li {
+              a {
+                max-width: 350px;
+                margin: 0 auto;
+              }
+            }
+          }
+          &.down {
+            top: calc(100% + 1px);
+            transform: translateY(0);
+          }
+        }
+      }
+      span {
+        background: #b0a377;
+        color: #fff;
+        display: block;
+        height: 100%;
+        transition: background 0.3s linear;
+        line-height: 150px;
+        cursor: pointer;
+      }
+    }
+
+    &.browse-adventures {
+      &.browse-destination,
+      &.browse-adventures {
+        .dropdown {
+          .dropdown-menu {
+            background-color: #474d4b;
+          }
+        }
+        span {
+          background: #474d4b;
+        }
+      }
+    }
+  }
+}

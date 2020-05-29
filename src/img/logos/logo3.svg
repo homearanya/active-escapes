@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkpad (http://www.taptrix.com/) --><svg xmlns:inkpad="http://taptrix.com/inkpad/svg_extensions" height="50pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="314pt" version="1.1" viewBox="0,0,314,50">
+<defs>
+<path id="TextPath" d="M12.8458+29.0324L2012.85+29.0324" transform="matrix(1 -0 -0 1 0 0)"/>
+</defs>
+<g id=" " inkpad:layerName=" ">
+<text stroke="#dcdebc" font-family="'ArialMT'" stroke-width="0" fill="#dcdebc" font-size="40" opacity="1" transform="matrix(1 0 0 1 0 0)" stroke-linejoin="round">
+<textPath xlink:href="#TextPath" method="align" startOffset="0pt">
+<![CDATA[t]]></textPath>
+</text>
+</g>
+</svg>

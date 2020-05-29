@@ -1,0 +1,18 @@
+.blog-section {
+  padding-bottom: 0;
+  .row {
+    display: flex;
+  }
+  .row {
+    &:last-child {
+      flex-direction: row-reverse;
+    }
+  }
+
+  .image {
+    height: 100%;
+    .gatsby-image-wrapper {
+      height: 100%;
+    }
+  }
+}
