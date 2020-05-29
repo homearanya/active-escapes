@@ -38,15 +38,67 @@ module.exports = {
         {
           name: 'Activities',
           link: null,
+          megaMenu: true,
           menuItems: [
-            { name: 'Hiking / Slackpacking', link: '/activity/hiking/' },
-            { name: 'Mountain Biking', link: '/activity/mountainbiking/' },
-            { name: 'Horse Riding', link: '/activity/horseriding/' },
-            { name: 'Nature', link: '/activity/nature/' },
-            { name: 'Family', link: '/activity/family/' },
-            { name: 'Groups', link: '/activity/groups/' },
-            { name: 'Rafting', link: '/activity/rafting/' },
-            { name: 'Running', link: '/activity/running/' },
+            {
+              name: 'Hiking / Slackpacking',
+              link: '/activity/hiking/',
+              img: 'hiking',
+              blurb:
+                'South Africa has a vast range of mountains, forests and coastline, which hold incredible hiking, trekking and backpacking opportunity.',
+            },
+            {
+              name: 'Mountain Biking',
+              link: '/activity/mountainbiking/',
+              img: 'cycling',
+              blurb:
+                "Whether you're looking for adrenalin-pumping downhill, flowing single-track or tranquil country road riding, Active Escapes has a tour to get your wheels rolling.",
+            },
+            {
+              name: 'Horse Riding',
+              link: '/activity/horseriding/',
+              img: 'horseriding',
+              blurb:
+                'Forging streams, galloping plains or cantering up golden miles of beach, we have multi-day riding adventures in the berg and coast.',
+            },
+            {
+              name: 'Nature',
+              link: '/activity/nature/',
+              img: 'nature',
+              blurb:
+                '“Look into nature, and then you will be able to understand everything better.”  Albert Einstein Nature is not just a place to visit. It is home.',
+            },
+            {
+              name: 'Family',
+              link: '/activity/family/',
+              img: 'family',
+              blurb:
+                'Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure -   that’s what Active Escapes family holiday packages are all about.',
+            },
+
+            {
+              name: 'Groups',
+              link: '/activity/groups/',
+              img: 'groups',
+              blurb:
+                'Friends united or the extended family-gathering, with occasion for uninterrupted connection and/or space – many of our trips and destinations provide the perfect opportunity for both.',
+            },
+
+            {
+              name: 'Rafting',
+              link: '/activity/rafting/',
+              img: 'rafting',
+              blurb:
+                '“When you put your hand in a flowing stream, you touch the last that has gone before and the first of what is still to come" Leonardo DaVinci. Come take on the white water of the Tugela & Umkomaas.',
+            },
+
+            {
+              name: 'Running',
+              link: '/activity/running/',
+              img: 'running',
+              blurb:
+                'Most of our hiking trails can be taken on at a jog. We can combine hike days to make more of the mileages and with luggage transfers to the next lodge, you can run wild and free. ',
+            },
           ],
         },
         {

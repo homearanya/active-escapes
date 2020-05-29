@@ -1,11 +1,14 @@
 import React, { useState } from 'react'
 import UniversalLink from '../../universal-link'
 import MenuDropdown from './menu-dropdown'
+import MenuMega from './menu-mega'
 import useMedia from 'use-media'
 
 type MenuItem = {
   name: string
   link: string
+  img?: string
+  blurb?: string
 }
 
 export type MenuItems = MenuItem[]
@@ -13,11 +16,18 @@ export type MenuItems = MenuItem[]
 interface MenuItemProps {
   name: string
   link: string
+  megaMenu: boolean
   menuItems: MenuItems
   props?: React.HTMLAttributes<HTMLAnchorElement | HTMLSpanElement>
 }
 
-const MenuItem = ({ name, link, menuItems, ...props }: MenuItemProps) => {
+const MenuItem = ({
+  name,
+  link,
+  megaMenu = false,
+  menuItems,
+  ...props
+}: MenuItemProps) => {
   const isMobile = useMedia({ maxWidth: 992 - 1 })
   const [openDropdown, setOpenDropdown] = useState(false)
   return (
@@ -27,7 +37,13 @@ const MenuItem = ({ name, link, menuItems, ...props }: MenuItemProps) => {
         !!menuItems &&
         setOpenDropdown((openDropdown) => !openDropdown)
       }
-      className={!!menuItems ? `dropdown${openDropdown ? ' open' : ''}` : ''}
+      className={
+        !!menuItems
+          ? `dropdown${megaMenu ? '  has-mega-dropdown' : ''}${
+              openDropdown ? ' open' : ''
+            }`
+          : ''
+      }
     >
       <UniversalLink
         activeClassName="active"
@@ -38,7 +54,8 @@ const MenuItem = ({ name, link, menuItems, ...props }: MenuItemProps) => {
       >
         {name} {!!menuItems ? <b className="icon-angle-down"></b> : null}
       </UniversalLink>
-      {!!menuItems ? <MenuDropdown menuItems={menuItems} /> : null}
+      {!!menuItems && !megaMenu ? <MenuDropdown menuItems={menuItems} /> : null}
+      {megaMenu ? <MenuMega menuItems={menuItems} /> : null}
     </li>
   )
 }

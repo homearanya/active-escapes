@@ -23,9 +23,12 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
             menuItems {
               name
               link
+              megaMenu
               menuItems {
                 name
                 link
+                img
+                blurb
               }
             }
           }
@@ -54,11 +57,12 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
         id="nav"
       >
         <ul className="nav navbar-nav">
-          {menuItems.map(({ name, link, menuItems }) => (
+          {menuItems.map(({ name, link, megaMenu, menuItems }) => (
             <>
               <MenuItem
                 key={name}
                 name={name}
+                megaMenu={megaMenu}
                 link={link}
                 menuItems={menuItems}
               />
