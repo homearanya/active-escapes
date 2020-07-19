@@ -124,7 +124,7 @@
   .logo-link:hover {
     .normal,
     .gray-logo {
-      transform: rotateY(180deg);
+      transform: rotateY(0);
     }
   }
 
@@ -141,7 +141,7 @@
 
   .normal,
   .gray-logo {
-    transform: rotateY(0);
+    transform: rotateY(180deg);
     transition: all 0.3s;
 
     height: 70px;
@@ -182,7 +182,7 @@
   span {
     color: $white;
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 400;
     letter-spacing: 1px;
     line-height: 1.1;
     @include breakpoint-max($screen-md - 1) {

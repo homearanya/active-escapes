@@ -348,6 +348,11 @@
     color: $black;
     letter-spacing: 0.1em;
   }
+
+  p {
+    text-align: justify;
+    text-justify: auto;
+  }
   .col {
     display: table-cell;
     vertical-align: middle;

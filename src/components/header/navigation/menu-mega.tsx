@@ -2,7 +2,6 @@ import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import { MenuItems } from './menu-item'
-import { textTruncate } from '../../../utils/helpers'
 
 interface MenuDropdownProps {
   menuItems: MenuItems
@@ -27,62 +26,62 @@ const MenuDropdown = ({
   } = useStaticQuery(graphql`
     query {
       hikingImg: file(
-        relativePath: { eq: "generic/activity-slackpacking.JPG" }
+        relativePath: { eq: "generic/activity-slackpacking.jpg" }
       ) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       cyclingImg: file(relativePath: { eq: "generic/activity-mtb.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       horseridingImg: file(
-        relativePath: { eq: "generic/activity-horseriding.JPG" }
+        relativePath: { eq: "generic/activity-horseriding.jpg" }
       ) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      natureImg: file(relativePath: { eq: "generic/activity-nature.JPG" }) {
+      natureImg: file(relativePath: { eq: "generic/activity-nature.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      familyImg: file(relativePath: { eq: "generic/activity-family.JPG" }) {
+      familyImg: file(relativePath: { eq: "generic/activity-family.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       groupsImg: file(relativePath: { eq: "generic/activity-groups.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       raftingImg: file(relativePath: { eq: "generic/activity-rafting.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       runningImg: file(relativePath: { eq: "generic/activity-running.jpg" }) {
         childImageSharp {
-          fixed(width: 370, height: 175) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
@@ -105,14 +104,14 @@ const MenuDropdown = ({
     >
       <div className="drop-wrap">
         <div className="drop-holder">
-          <div className="row">
+          <div className="row menu-mega-row">
             {menuItems.map(({ name, link, img, blurb }) => (
-              <div className="col-sm-6 col-md-3">
+              <div key={link} className="col-sm-6 col-md-3">
                 <div className="col">
                   <div className="img-wrap">
                     <Link to={link}>
                       <Img
-                        fixed={images[img as string].childImageSharp.fixed}
+                        fluid={images[img as string].childImageSharp.fluid}
                         alt={name}
                       />
                     </Link>
@@ -121,7 +120,7 @@ const MenuDropdown = ({
                     <strong className="title">
                       <Link to={link}>{name}</Link>
                     </strong>
-                    <p>{textTruncate(blurb as string, 150)}</p>
+                    <p>{blurb}</p>
                   </div>
                 </div>
               </div>

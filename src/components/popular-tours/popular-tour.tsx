@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img, { FixedObject } from 'gatsby-image'
+import Img, { FluidObject } from 'gatsby-image'
 
 import UniversalLink from '../universal-link'
 
 interface PopularTourProps {
   tourLink: string
-  fixed: FixedObject
+  fluid: FluidObject
   alt: string
   tag: string
   price: string
@@ -20,7 +20,7 @@ const PopularTour = ({
   tourLink,
   heartLink,
   replyLink,
-  fixed,
+  fluid,
   alt,
   tag,
   price,
@@ -30,27 +30,10 @@ const PopularTour = ({
   <article className="col-sm-6 col-md-4 article has-hover-s3">
     <div className="img-wrap">
       <Link to={tourLink} className="img-link">
-        <Img fixed={fixed} alt={alt} />
+        <Img fluid={fluid} alt={alt} />
       </Link>
       <div className="img-caption text-uppercase">{tag}</div>
       <div className="hover-article">
-        <div className="star-rating">
-          <span>
-            <span className="icon-star"></span>
-          </span>
-          <span>
-            <span className="icon-star"></span>
-          </span>
-          <span>
-            <span className="icon-star"></span>
-          </span>
-          <span>
-            <span className="icon-star"></span>
-          </span>
-          <span className="disable">
-            <span className="icon-star"></span>
-          </span>
-        </div>
         <div className="icons">
           <UniversalLink href={heartLink}>
             <span className="icon-heart"></span>

@@ -7,7 +7,7 @@ import FeatureBlock from './feature-block'
 import WhiteLogo from '../../img/logos/logo-white.inline.svg'
 
 const Banner = () => {
-  const { slide1, slide2, slide3 } = useStaticQuery(graphql`
+  const { slide1, slide2, slide3, slide4 } = useStaticQuery(graphql`
     query {
       slide1: file(relativePath: { eq: "banner/img-01-kosi-1920x964.jpg" }) {
         childImageSharp {
@@ -15,6 +15,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
+            quality: 80
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -26,6 +27,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
+            quality: 80
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -37,6 +39,19 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
+            quality: 80
+          ) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      slide4: file(relativePath: { eq: "banner/img-06-sisal1920x964.jpg" }) {
+        childImageSharp {
+          fluid(
+            maxWidth: 1920
+            sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
+            srcSetBreakpoints: [1600, 1920]
+            quality: 80
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -91,6 +106,15 @@ const Banner = () => {
             />
           }
           button={{ text: 'activities', link: '/activities/' }}
+        />
+        <Slide
+          fluid={slide4.childImageSharp.fluid}
+          alt="Sunset"
+          heading1="WILD DESTINATIONS"
+          heading2="SOUTHERN AFRICA"
+          animation="animation2"
+          icon={<span className="icon-hiking-camping slide-icon" />}
+          button={{ text: 'destinations', link: '/destinations/' }}
         />
       </Carousel>
       <FeatureBlock />

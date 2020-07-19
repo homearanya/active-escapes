@@ -8,14 +8,14 @@ const BlogSection = () => {
     query {
       photo1: file(relativePath: { eq: "pondo-pedal.JPG" }) {
         childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627) {
+          fluid(maxWidth: 960, maxHeight: 627, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "turtle-tracking.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627) {
+          fluid(maxWidth: 960, maxHeight: 627, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

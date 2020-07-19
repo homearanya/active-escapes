@@ -15,6 +15,23 @@
     color: $text-color;
   }
 
+  h2.intro-heading {
+    font-size: 1.71428em;
+    letter-spacing: 0;
+    font-weight: 600;
+    margin-bottom: 15px;
+
+    @include breakpoint-min($screen-sm) {
+      font-size: 1.857142em;
+      margin-bottom: 25px;
+    }
+
+    @include breakpoint-min($screen-md) {
+      font-size: 1.79em;
+      margin-bottom: 35px;
+    }
+  }
+
   @include breakpoint-min($screen-sm) {
     margin-top: $global-md-space;
 

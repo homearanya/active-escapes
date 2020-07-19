@@ -29,7 +29,8 @@ const BrowserSection = () => {
       }
     }
   `)
-
+  // const [showActivities, setShowActivities] = useState(false)
+  // const [showDestinations, setShowDestinations] = useState(false)
   const [activityDropdown, setActivityDropdown] = useState(false)
   const [destinationDropdown, setDestinationDropdown] = useState(false)
   const [activityDivOffset, setActivityDivOffset] = useState(0)
@@ -71,7 +72,14 @@ const BrowserSection = () => {
         className="browse-destination column"
       >
         <div className="dropdown">
-          <span className="dropdown-toggle">BROWSE BY DESTINATION</span>
+          <span
+            // onClick={() =>
+            //   setShowDestinations((showDestinations) => !showDestinations)
+            // }
+            className="dropdown-toggle"
+          >
+            BROWSE BY DESTINATION
+          </span>
           <MenuDropDown
             menuItems={menuItems[destinationIndex].menuItems}
             className={isMobile ? '' : destinationDropdown ? 'down' : ''}
@@ -83,7 +91,14 @@ const BrowserSection = () => {
         className="browse-adventures column"
       >
         <div className="dropdown">
-          <span className="dropdown-toggle">BROWSE BY ADVENTURES</span>
+          <span
+            // onClick={() =>
+            //   setShowActivities((showActivities) => !showActivities)
+            // }
+            className="dropdown-toggle"
+          >
+            BROWSE BY ADVENTURES
+          </span>
           <MenuDropDown
             menuItems={menuItems[activityIndex].menuItems}
             className={isMobile ? 'down' : activityDropdown ? 'down' : ''}

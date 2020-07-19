@@ -12,45 +12,45 @@ const PopularTours = () => {
     photo6,
   } = useStaticQuery(graphql`
     query {
-      photo1: file(relativePath: { eq: "listing/img-01-pondoexplore.JPG" }) {
+      photo1: file(relativePath: { eq: "listing/img-01-pondoexplore.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "listing/img-02-kosi.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo3: file(relativePath: { eq: "listing/img-03-amphi.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      photo4: file(relativePath: { eq: "listing/img-04-clarens.JPG" }) {
+      photo4: file(relativePath: { eq: "listing/img-04-clarens.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      photo5: file(relativePath: { eq: "listing/img-05-nberg.JPG" }) {
+      photo5: file(relativePath: { eq: "listing/img-05-nberg.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      photo6: file(relativePath: { eq: "listing/img-06-vulturehike.JPG" }) {
+      photo6: file(relativePath: { eq: "listing/img-06-vulturehike.jpg" }) {
         childImageSharp {
-          fixed(width: 500, height: 291) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
@@ -70,7 +70,7 @@ const PopularTours = () => {
           <div className="row db-3-col">
             <PopularTour
               tourLink="/destination/wildcoast/hikes/pondo-explore/"
-              fixed={photo1.childImageSharp.fixed}
+              fluid={photo1.childImageSharp.fluid}
               alt="Pondo Exploring"
               tag="Pondo Exploring"
               price="R6 400/pp"
@@ -96,7 +96,7 @@ const PopularTours = () => {
             />
             <PopularTour
               tourLink="/destination/kosibay/kosihike"
-              fixed={photo2.childImageSharp.fixed}
+              fluid={photo2.childImageSharp.fluid}
               alt="Adventures in Kosi"
               tag="Adventures in Kosi"
               price="R6 500/pp"
@@ -115,7 +115,7 @@ const PopularTours = () => {
             />
             <PopularTour
               tourLink="/destination/drakensberg/hikes/amphitheatre/amphitheatre_hike"
-              fixed={photo3.childImageSharp.fixed}
+              fluid={photo3.childImageSharp.fluid}
               alt="Aim for the summit"
               tag="Aim for the summit"
               price="R6 500/pp"
@@ -134,7 +134,7 @@ const PopularTours = () => {
             />
             <PopularTour
               tourLink="/destination/free_state/clarens_hike"
-              fixed={photo4.childImageSharp.fixed}
+              fluid={photo4.childImageSharp.fluid}
               alt="San Traverse - Clarens"
               tag="San Traverse - Clarens"
               price="R6 500/pp"
@@ -151,7 +151,7 @@ const PopularTours = () => {
             />
             <PopularTour
               tourLink="/destination/tugela/tugela_mtbtours"
-              fixed={photo5.childImageSharp.fixed}
+              fluid={photo5.childImageSharp.fluid}
               alt="Northern Berg MTB"
               tag="Northern Berg MTB"
               price="R5 500/pp"
@@ -170,7 +170,7 @@ const PopularTours = () => {
             />
             <PopularTour
               tourLink="/destination/drakensberg/hikes/vulture/vulture_hike"
-              fixed={photo6.childImageSharp.fixed}
+              fluid={photo6.childImageSharp.fluid}
               alt="Vulture Sightings"
               tag="Vulture Sightings"
               price="R4 300/pp"

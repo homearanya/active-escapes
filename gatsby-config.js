@@ -73,7 +73,7 @@ module.exports = {
               link: '/activity/family/',
               img: 'family',
               blurb:
-                'Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure -   that’s what Active Escapes family holiday packages are all about.',
+                'Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure - that’s what Active Escapes family holiday packages are all about.',
             },
 
             {
@@ -121,7 +121,7 @@ module.exports = {
         {
           heading: 'About Us',
           menuItems: [
-            { name: 'The company', link: '/about-us/the-company/' },
+            { name: 'The Company', link: '/about-us/the-company/' },
             { name: 'Our Ethos', link: '/about-us/our-ethos/' },
             { name: 'Our Guides', link: '/about-us/our-guides/' },
           ],
@@ -146,10 +146,10 @@ module.exports = {
           heading: 'Reservations',
           menuItems: [
             {
-              name: 'Terms and Conditions',
+              name: 'Terms & Conditions',
               link: '/activity/terms-and-conditions/',
             },
-            { name: 'Tour Entquiry', link: '/contact' },
+            { name: 'Tour Enquiry', link: '/contact' },
           ],
         },
         {

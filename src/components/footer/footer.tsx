@@ -58,10 +58,10 @@ const Footer = () => {
         <div className="row footer-holder">
           {footerUnits.map(({ heading, menuItems }, index) => (
             <FooterUnit
-              key="heading"
+              key={index}
               heading={heading}
               menuItems={menuItems}
-              last={index === footerUnits.length - 1}
+              last={index === footerUnits - 1}
             />
           ))}
         </div>
@@ -98,4 +98,5 @@ const Footer = () => {
     </footer>
   )
 }
+
 export default Footer

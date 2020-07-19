@@ -18,64 +18,64 @@ const GallerySection = () => {
     query {
       photo1: file(relativePath: { eq: "gallery/img-01-hiking.JPG" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "gallery/img-02-cycling.jpg" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo3: file(relativePath: { eq: "gallery/img-03-rafting.JPG" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo4: file(relativePath: { eq: "gallery/img-04-drakensberg.jpg" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo5: file(relativePath: { eq: "gallery/img-05-midlands.jpg" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo6: file(relativePath: { eq: "gallery/img-06-wildcoast.jpg" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo7: file(relativePath: { eq: "gallery/img-07-kosi.JPG" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo8: file(relativePath: { eq: "gallery/img-08-freestate.jpg" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo9: file(relativePath: { eq: "gallery/img-08-westerncape.JPG" }) {
         childImageSharp {
-          fixed(width: 170, height: 165) {
-            ...GatsbyImageSharpFixed_withWebp
+          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
@@ -90,63 +90,63 @@ const GallerySection = () => {
               <ul className="gallery-list gallery-with-icon">
                 <Photo
                   link="/activity/hiking/"
-                  fixed={photo1.childImageSharp.fixed}
+                  fluid={photo1.childImageSharp.fluid}
                   alt="Hiking"
                   icon={<span className="hover icon-hiking"></span>}
                   text="Hiking"
                 />
                 <Photo
                   link="/activity/mountainbiking/"
-                  fixed={photo2.childImageSharp.fixed}
+                  fluid={photo2.childImageSharp.fluid}
                   alt="Cycling"
                   icon={<i className="ico-mountain-biking ux hover"></i>}
                   text="Cycling"
                 />
                 <Photo
                   link="/activity/rafting/"
-                  fixed={photo3.childImageSharp.fixed}
+                  fluid={photo3.childImageSharp.fluid}
                   alt="Rafting"
                   icon={<IconRafting className="hover" />}
                   text="Rafting"
                 />
                 <Photo
                   link="/destination/drakensberg/"
-                  fixed={photo4.childImageSharp.fixed}
+                  fluid={photo4.childImageSharp.fluid}
                   alt="Drakensberg"
                   icon={<i className="hover ico-mountain ux"></i>}
                   text="Drakensberg"
                 />
                 <Photo
                   link="/destination/midlands/"
-                  fixed={photo5.childImageSharp.fixed}
+                  fluid={photo5.childImageSharp.fluid}
                   alt="Midlands"
                   icon={<span className="hover icon-bird"></span>}
                   text="Midlands"
                 />
                 <Photo
                   link="/destination/wildcoast/"
-                  fixed={photo6.childImageSharp.fixed}
+                  fluid={photo6.childImageSharp.fluid}
                   alt="Wild Coast"
                   icon={<span className="hover icon-plant"></span>}
                   text="Wild Coast"
                 />
                 <Photo
                   link="/destination/kosibay/"
-                  fixed={photo7.childImageSharp.fixed}
-                  alt="Kosy Bay"
+                  fluid={photo7.childImageSharp.fluid}
+                  alt="kosi Bay"
                   icon={<span className="hover icon-water-sea"></span>}
-                  text="Kosy Bay"
+                  text="kosi Bay"
                 />
                 <Photo
                   link="/destination/freestate/"
-                  fixed={photo8.childImageSharp.fixed}
+                  fluid={photo8.childImageSharp.fluid}
                   alt="Free State"
                   icon={<span className="hover icon-desert"></span>}
                   text="Free State"
                 />
                 <Photo
                   link="/destination/westercape/"
-                  fixed={photo9.childImageSharp.fixed}
+                  fluid={photo9.childImageSharp.fluid}
                   alt="Western Cape"
                   icon={<span className="hover icon-beach"></span>}
                   text="Western Cape"
