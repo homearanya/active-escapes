@@ -289,11 +289,12 @@
   display: table;
   width: 100%;
   text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
 
   li {
+    display: table-cell;
     vertical-align: middle;
-
-    margin: 0 30px;
 
     a {
       display: inline-block;

@@ -309,16 +309,16 @@
         pointer-events: none;
       }
     }
+    .menu-mega-col {
+      flex: 1 0 calc(25% - 5px);
+      float: none;
+      width: unset;
+    }
   }
 
   .menu-mega-row {
     display: flex;
     flex-wrap: wrap;
-  }
-  .menu-mega-col {
-    flex: 1 0 calc(25% - 5px);
-    float: none;
-    width: unset;
   }
 }
 

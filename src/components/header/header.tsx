@@ -39,8 +39,11 @@ const Header = () => {
       <div className="header-wrapper">
         <div className="logo">
           <Link className="logo-link" to="/">
-            <WhiteLogo className="normal" />
-            <ColorLogo className="gray-logo" />
+            {hasScrolled ? (
+              <ColorLogo className="gray-logo" />
+            ) : (
+              <WhiteLogo className="normal" />
+            )}
           </Link>
           <span className="logo-text">
             Active Escapes
