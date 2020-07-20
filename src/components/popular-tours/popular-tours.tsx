@@ -14,42 +14,42 @@ const PopularTours = () => {
     query {
       photo1: file(relativePath: { eq: "listing/img-01-pondoexplore.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "listing/img-02-kosi.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo3: file(relativePath: { eq: "listing/img-03-amphi.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo4: file(relativePath: { eq: "listing/img-04-clarens.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo5: file(relativePath: { eq: "listing/img-05-nberg.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo6: file(relativePath: { eq: "listing/img-06-vulturehike.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 80) {
+          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -163,8 +163,7 @@ const PopularTours = () => {
                   One of the few self-guided MTB tours with bikes available for
                   hire. Expertly crafted single-track, majestic mountain views,
                   fully catered lodgings, and close enough away for a weekend
-                  getaway? The Northern Berg offers the perfect playground for
-                  all level s of rider.
+                  getaway.
                 </p>
               }
             />

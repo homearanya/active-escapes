@@ -6,16 +6,16 @@ import TextBlock from './text-block'
 const BlogSection = () => {
   const { photo1, photo2 } = useStaticQuery(graphql`
     query {
-      photo1: file(relativePath: { eq: "pondo-pedal.JPG" }) {
+      photo1: file(relativePath: { eq: "pondo-pedal.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627, quality: 80) {
+          fluid(maxWidth: 960, maxHeight: 627) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "turtle-tracking.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627, quality: 80) {
+          fluid(maxWidth: 960, maxHeight: 627) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

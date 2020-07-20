@@ -66,14 +66,14 @@ module.exports = {
               link: '/activity/nature/',
               img: 'nature',
               blurb:
-                '“Look into nature, and then you will be able to understand everything better.”  Albert Einstein Nature is not just a place to visit. It is home.',
+                '“Look into nature, and then you will be able to understand everything better.”  Albert Einstein. Nature is not just a place to visit. It is home.',
             },
             {
               name: 'Family',
               link: '/activity/family/',
               img: 'family',
               blurb:
-                'Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure - that’s what Active Escapes family holiday packages are all about.',
+                "Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure - that’s what an Active Escape's family holiday package is all about.",
             },
 
             {

@@ -15,7 +15,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
-            quality: 80
+            quality: 70
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -27,7 +27,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
-            quality: 80
+            quality: 70
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -39,7 +39,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
-            quality: 80
+            quality: 70
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }
@@ -51,7 +51,7 @@ const Banner = () => {
             maxWidth: 1920
             sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
             srcSetBreakpoints: [1600, 1920]
-            quality: 80
+            quality: 70
           ) {
             ...GatsbyImageSharpFluid_withWebp
           }

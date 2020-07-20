@@ -24,6 +24,11 @@
         color: $c-youtube;
       }
     }
+    &.instagram {
+      &:hover {
+        color: $c-instagram;
+      }
+    }
 
     &.twitter {
       &:hover {
@@ -52,6 +57,11 @@
   .icon-facebook {
     &:hover {
       color: $c-facebook;
+    }
+  }
+  .ico-instagram {
+    &:hover {
+      color: $c-instagram;
     }
   }
   .ico-youtube {

@@ -13,7 +13,7 @@ const ReviewsSection = () => {
   } = useStaticQuery(graphql`
     query {
       backgroundImage: file(
-        relativePath: { eq: "generic/PP-Malutitrail1920x1736.jpg" }
+        relativePath: { eq: "generic/PP-Malutitrail1920x1200.jpg" }
       ) {
         childImageSharp {
           fluid(maxWidth: 1920) {

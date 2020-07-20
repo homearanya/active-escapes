@@ -29,14 +29,14 @@ const MenuDropdown = ({
         relativePath: { eq: "generic/activity-slackpacking.jpg" }
       ) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       cyclingImg: file(relativePath: { eq: "generic/activity-mtb.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -45,42 +45,42 @@ const MenuDropdown = ({
         relativePath: { eq: "generic/activity-horseriding.jpg" }
       ) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       natureImg: file(relativePath: { eq: "generic/activity-nature.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       familyImg: file(relativePath: { eq: "generic/activity-family.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       groupsImg: file(relativePath: { eq: "generic/activity-groups.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       raftingImg: file(relativePath: { eq: "generic/activity-rafting.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       runningImg: file(relativePath: { eq: "generic/activity-running.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 100) {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -106,7 +106,7 @@ const MenuDropdown = ({
         <div className="drop-holder">
           <div className="row menu-mega-row">
             {menuItems.map(({ name, link, img, blurb }) => (
-              <div key={link} className="col-sm-6 col-md-3">
+              <div key={link} className="col-sm-6 col-md-3 menu-mega-col">
                 <div className="col">
                   <div className="img-wrap">
                     <Link to={link}>

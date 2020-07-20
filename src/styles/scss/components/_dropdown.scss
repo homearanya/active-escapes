@@ -24,7 +24,8 @@
       > a {
         text-transform: uppercase;
         padding: 10px 10px 10px 30px;
-        font-weight: 600;
+        font-weight: 700;
+        font-size: 12px;
 
         @media (max-width: $screen-md-max) {
           font-weight: 500;
@@ -313,6 +314,11 @@
   .menu-mega-row {
     display: flex;
     flex-wrap: wrap;
+  }
+  .menu-mega-col {
+    flex: 1 0 calc(25% - 5px);
+    float: none;
+    width: unset;
   }
 }
 

@@ -18,63 +18,63 @@ const GallerySection = () => {
     query {
       photo1: file(relativePath: { eq: "gallery/img-01-hiking.JPG" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo2: file(relativePath: { eq: "gallery/img-02-cycling.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo3: file(relativePath: { eq: "gallery/img-03-rafting.JPG" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo4: file(relativePath: { eq: "gallery/img-04-drakensberg.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo5: file(relativePath: { eq: "gallery/img-05-midlands.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo6: file(relativePath: { eq: "gallery/img-06-wildcoast.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo7: file(relativePath: { eq: "gallery/img-07-kosi.JPG" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo8: file(relativePath: { eq: "gallery/img-08-freestate.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
       photo9: file(relativePath: { eq: "gallery/img-08-westerncape.JPG" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 100) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -169,7 +169,7 @@ const GallerySection = () => {
                   on endorphins, to those who simply need to relax in the quiet
                   of nature; and as such Active Escapes offers all types of
                   active, outdoor and nature - focused holidays. Hiking,
-                  slackpacking, mountai n biking, trail running, river rafting,
+                  slackpacking, mountain biking, trail running, river rafting,
                   horse riding or simply being in nature; we know how dynamic
                   people like to spend their time.{' '}
                 </p>
