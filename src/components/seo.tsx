@@ -10,14 +10,34 @@ import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
 
-function SEO({ description, lang, meta, title }) {
-  const { site } = useStaticQuery(
+interface SEOProps {
+  title?: string
+  description?: string
+  lang?: string
+  meta?:
+    | { property: string; content: string }[]
+    | { name: string; content: string }[]
+  path?: string
+  image?: string
+}
+const SEO = ({
+  description,
+  lang,
+  meta = [],
+  title,
+  path = '',
+  image = '',
+}: SEOProps) => {
+  const {
+    site: { siteMetadata },
+  } = useStaticQuery(
     graphql`
       query {
         site {
           siteMetadata {
             title
             description
+            siteUrl
             author
           }
         }
@@ -25,7 +45,10 @@ function SEO({ description, lang, meta, title }) {
     `,
   )
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaTitle = title || siteMetadata.title
+  const metaDescription = description || siteMetadata.description
+  const fullUrl = `${siteMetadata.siteUrl}${path}`
+  const imageUrl = image ? `${siteMetadata.siteUrl}${image}` : ''
 
   return (
     <Helmet
@@ -33,7 +56,7 @@ function SEO({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={`%s | ${siteMetadata.title}`}
       meta={[
         {
           name: `description`,
@@ -41,7 +64,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:title`,
-          content: title,
+          content: metaTitle,
         },
         {
           property: `og:description`,
@@ -52,17 +75,29 @@ function SEO({ description, lang, meta, title }) {
           content: `website`,
         },
         {
+          property: `og:url`,
+          content: `${fullUrl}`,
+        },
+        imageUrl
+          ? {
+              property: `og:image`,
+              content: `${imageUrl}`,
+            }
+          : {},
+        {
           name: `twitter:card`,
           content: `summary`,
         },
         {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author,
-        },
-        {
           name: `twitter:title`,
-          content: title,
+          content: metaTitle,
         },
+        imageUrl
+          ? {
+              property: `twitter:image`,
+              content: `${imageUrl}`,
+            }
+          : {},
         {
           name: `twitter:description`,
           content: metaDescription,

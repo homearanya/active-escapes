@@ -8,6 +8,8 @@ module.exports = {
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@carloswebdev`,
     googlePlaceId: process.env.GOOGLE_APIKEY,
+    emailAddress: 'tours@active-escapes.co.za',
+    siteUrl: 'http://active-escapes.co.za/',
     siteMenu: {
       menuItems: [
         { name: 'home', link: '/' },
@@ -191,7 +193,7 @@ module.exports = {
       resolve: 'gatsby-plugin-react-svg',
       options: {
         rule: {
-          include: /\.inline\.svg$/,
+          include: /\.inline.svg$/,
         },
       },
     },
@@ -200,6 +202,29 @@ module.exports = {
       options: {
         name: `img`,
         path: `${__dirname}/src/img`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1440,
+              quality: 90,
+              withWebp: true,
+            },
+          },
+          `gatsby-remark-copy-linked-files`,
+        ],
       },
     },
     `gatsby-transformer-sharp`,
@@ -227,4 +252,8 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
+  mapping: {
+    'MarkdownRemark.frontmatter.destination': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.activity': `MarkdownRemark.frontmatter.code`,
+  },
 }

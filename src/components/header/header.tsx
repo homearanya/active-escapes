@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Link } from 'gatsby'
 
 import Navigation from './navigation'
@@ -7,40 +7,32 @@ import SearchForm from './search-form'
 import ColorLogo from '../../img/logos/logo.inline.svg'
 import WhiteLogo from '../../img/logos/logo-white.inline.svg'
 
-const Header = () => {
-  const [hasScrolled, setHasScrolled] = useState(false)
+interface HeaderProps {
+  tour?: boolean
+  hasScrolled?: boolean
+}
+const Header = ({ tour = false, hasScrolled = false }: HeaderProps) => {
   const [showSearch, setShowSearch] = useState(false)
 
   const handleOpenSearch = () => setShowSearch(true)
   const handleCloseSearch = () => setShowSearch(false)
 
-  const handleScroll = () => {
-    const scrollTop = window.pageYOffset
-
-    if (scrollTop > 32) {
-      setHasScrolled(true)
-    } else {
-      setHasScrolled(false)
-    }
-  }
-
-  useEffect(() => {
-    window.addEventListener('scroll', handleScroll)
-
-    return () => window.removeEventListener('scroll', handleScroll)
-  })
   return (
     <header
       id="header"
-      className={`white-header ${hasScrolled ? 'fixed-position' : ''}${
-        showSearch ? 'search-active' : ''
-      }`}
+      className={`${tour ? 'dark-header' : 'white-header'}${
+        hasScrolled ? ' fixed-position' : ''
+      }${showSearch ? ' search-active' : ''}`}
     >
       <div className="header-wrapper">
-        <div className="logo">
+        <div className={`logo${tour ? ' tour' : ''}`}>
           <Link className="logo-link" to="/">
             {hasScrolled ? (
-              <ColorLogo className="gray-logo" />
+              tour ? (
+                <WhiteLogo className="normal scrolled" />
+              ) : (
+                <ColorLogo className="gray-logo" />
+              )
             ) : (
               <WhiteLogo className="normal" />
             )}

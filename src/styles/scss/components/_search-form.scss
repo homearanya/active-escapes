@@ -182,12 +182,14 @@
     background: none;
     border-radius: 0;
     option {
-      display: block;
       padding: 10px;
       background: rgba(36, 36, 34, 0.88);
       &:hover {
         background: #b0a377;
       }
+    }
+    &.trip-select-v2.form-control {
+      height: 52px;
     }
   }
 

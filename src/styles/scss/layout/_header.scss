@@ -1,6 +1,8 @@
 /* header styles */
 #header {
   position: fixed;
+  top: 0;
+  left: 0;
   z-index: 10;
   background: transparent;
   transition: all 0.2s linear;
@@ -109,6 +111,19 @@
       }
     }
   }
+  .logo.tour {
+    .logo-text {
+      color: $white;
+
+      a {
+        color: $white;
+
+        &:hover {
+          color: $nav-hover-color;
+        }
+      }
+    }
+  }
 }
 
 /* logo styles */
@@ -134,13 +149,11 @@
     &:hover {
       color: $nav-hover-color;
     }
-    @include breakpoint-max($screen-md - 1) {
-      display: none;
-    }
   }
 
   .normal,
   .gray-logo {
+    display: block;
     transform: rotateY(180deg);
     transition: all 0.3s;
 
@@ -153,12 +166,8 @@
       margin-left: 0;
       margin-right: 10px;
     }
-  }
-
-  .gray-logo {
-    display: none;
-    @include breakpoint-max($screen-md - 1) {
-      display: block;
+    &.scrolled {
+      height: 50px;
     }
   }
 
@@ -350,14 +359,8 @@
 
       .logo {
         border-right-color: $gray-nurse;
-
-        .normal {
-          display: none;
-        }
-
         .gray-logo {
           height: 50px;
-          display: block;
         }
       }
 
@@ -389,14 +392,6 @@
 
   .logo {
     border-right-color: $gray-nurse;
-
-    .normal {
-      display: none;
-    }
-
-    .gray-logo {
-      display: block;
-    }
   }
 
   .search-form {
@@ -464,6 +459,23 @@
 
       .logo {
         border-right-color: $gray-nurse;
+      }
+    }
+  }
+}
+#header.dark-header {
+  background: $shark;
+  border-bottom: 1px solid darken($shark, 5%);
+
+  .search-form .search-opener {
+    color: $navbar-default-toggle-icon-bar-bg;
+  }
+
+  .navbar-default {
+    .nav-opener {
+      .icon-bar {
+        background: $navbar-default-toggle-icon-bar-bg;
+        border-color: $navbar-default-toggle-icon-bar-bg;
       }
     }
   }

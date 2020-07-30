@@ -13,3 +13,9 @@ declare module '*.ttf?pnm0hs'
 declare module '*.woff?pnm0hs'
 declare module '*.svg?pnm0hs#icomoon'
 declare module '*.svg#glyphicons_halflingsregular'
+
+type ItemLink = {
+  name: string
+  href: string | undefined
+}
+type Breadcrumbs = ItemLink[]

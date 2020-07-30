@@ -18,6 +18,11 @@
         color: $c-facebook;
       }
     }
+    &.linkedin {
+      &:hover {
+        color: $c-linkedin;
+      }
+    }
 
     &.youtube {
       &:hover {

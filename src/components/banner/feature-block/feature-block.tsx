@@ -44,9 +44,9 @@ const FeatureBlock = () => {
             text="Rafting"
           />
           <Feature
-            link="/gallery/"
-            icon={<i className="ico-camera ux"></i>}
-            text="Gallery"
+            link="/running/"
+            icon={<i className="ico-running ux"></i>}
+            text="Running"
           />
         </ul>
       </div>

@@ -185,6 +185,9 @@
     &:before {
       background: rgba($black, 0.35);
     }
+    .gatsby-image-wrapper {
+      z-index: -1;
+    }
   }
 
   @include breakpoint-min($screen-sm) {

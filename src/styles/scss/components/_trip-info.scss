@@ -2,10 +2,35 @@
 .trip-info {
   background: $trip-info-bg;
 
+  .row.tour {
+    display: flex;
+    flex-direction: column;
+    @media only screen and (min-width: $screen-md) {
+      flex-direction: row;
+    }
+  }
+
   .height {
     &:first-child {
+      min-height: 100%;
       padding-left: 0;
       padding-right: 0;
+    }
+  }
+
+  .banner-tour-image {
+    z-index: unset;
+    position: static;
+
+    @media only screen and (min-width: $screen-md) {
+      position: absolute;
+    }
+
+    .gatsby-image-wrapper {
+      height: 100vh;
+      @media only screen and (min-width: $screen-md) {
+        height: 100%;
+      }
     }
   }
 
@@ -32,7 +57,7 @@
   }
 
   h1 {
-    margin-bottom: 35px;
+    margin-bottom: 15px;
   }
 
   .price {
@@ -47,7 +72,7 @@
       font-weight: 700;
       display: block;
       color: $heading-color;
-      margin-top: 20px;
+      margin-top: 10px;
       font-family: $montserrat;
     }
   }
@@ -82,30 +107,6 @@
     margin: 0 0 $global-sm-space;
   }
 
-  @media only screen and (min-width: $screen-sm) and (max-width: $screen-md - 1) {
-    .bg-stretch {
-      position: static;
-
-      img {
-        width: 100% !important; // to override js inline style
-        height: auto !important; // to override js inline style
-        margin: 0 !important; // to override js inline style
-      }
-    }
-  }
-
-  @media only screen and (min-width: 320px) and (max-width: $screen-sm - 1) and (orientation: portrait) {
-    .bg-stretch {
-      position: static;
-
-      img {
-        width: 100% !important; // to override js inline style
-        height: auto !important; // to override js inline style
-        margin: 0 !important; // to override js inline style
-      }
-    }
-  }
-
   @include breakpoint-min($screen-sm) {
     .text-col {
       .holder {
@@ -120,6 +121,7 @@
   }
 
   @include breakpoint-min($screen-md) {
+    margin-top: 102px;
     .reviews-info {
       margin-bottom: 0;
     }
@@ -127,14 +129,6 @@
 
   @include breakpoint-min($large-screen) {
     padding-bottom: 0;
-
-    > .row {
-      height: calc(100vh - 101px);
-
-      > .height {
-        min-height: 100%;
-      }
-    }
 
     .reviews-info {
       margin-bottom: $global-sm-space;
@@ -311,23 +305,7 @@
   }
 
   .text-box {
-    padding-left: 55px;
     padding-bottom: 35px;
-
-    &.not-included {
-      &:before {
-        content: '\e947';
-      }
-    }
-
-    &:before {
-      font: 40px/1 'icomoon';
-      position: absolute;
-      left: 10px;
-      top: 10px;
-      content: '\e957';
-      color: $silver-chalice;
-    }
   }
 
   .accomodation-block {
@@ -358,7 +336,7 @@
     padding-bottom: $global-space;
 
     .text-box {
-      padding-left: 100px;
+      padding-left: 30px;
       margin-bottom: $global-sm-space;
 
       &:before {
@@ -412,23 +390,21 @@
     padding: 0 0 5px;
     position: relative;
     margin: 0 0 15px 0;
-
-    &:before {
-      content: '';
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      height: 1px;
-      background: $platinum;
-    }
   }
 
   .info-left {
-    width: 50%;
+    width: 100%;
     padding-right: 10px;
     float: left;
     text-align: left;
+    span {
+      display: block;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    span:not(:last-child) {
+      margin-bottom: 10px;
+    }
   }
 
   .info-right {
@@ -461,7 +437,7 @@
       vertical-align: top;
       width: 50%;
       margin-right: -0.25em;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       font-size: 16px;
 
       &:before {
@@ -537,16 +513,6 @@
           margin-top: -10px;
         }
       }
-    }
-  }
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 767px) and (orientation: landscape) {
-  #tour-slide {
-    height: 320px;
-
-    .bg-stretch {
-      position: absolute;
     }
   }
 }

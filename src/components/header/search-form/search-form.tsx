@@ -13,7 +13,7 @@ export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     alert(
-      `You have chosen activity: ${formData.activity}, destination: ${formData.destination}`
+      `You have chosen activity: ${formData.activity}, destination: ${formData.destination}`,
     )
   }
 

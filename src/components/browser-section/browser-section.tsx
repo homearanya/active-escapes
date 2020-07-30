@@ -29,8 +29,8 @@ const BrowserSection = () => {
       }
     }
   `)
-  // const [showActivities, setShowActivities] = useState(false)
-  // const [showDestinations, setShowDestinations] = useState(false)
+  const [showActivities, setShowActivities] = useState(false)
+  const [showDestinations, setShowDestinations] = useState(false)
   const [activityDropdown, setActivityDropdown] = useState(false)
   const [destinationDropdown, setDestinationDropdown] = useState(false)
   const [activityDivOffset, setActivityDivOffset] = useState(0)
@@ -71,11 +71,13 @@ const BrowserSection = () => {
         ref={(div) => div && setDestinationDivOffset(div.offsetTop)}
         className="browse-destination column"
       >
-        <div className="dropdown">
+        <div
+          className={`dropdown${isMobile && showDestinations ? ' open' : ''}`}
+        >
           <span
-            // onClick={() =>
-            //   setShowDestinations((showDestinations) => !showDestinations)
-            // }
+            onClick={() =>
+              setShowDestinations((showDestinations) => !showDestinations)
+            }
             className="dropdown-toggle"
           >
             BROWSE BY DESTINATION
@@ -90,11 +92,11 @@ const BrowserSection = () => {
         ref={(div) => div && setActivityDivOffset(div.offsetTop)}
         className="browse-adventures column"
       >
-        <div className="dropdown">
+        <div className={`dropdown${isMobile && showActivities ? ' open' : ''}`}>
           <span
-            // onClick={() =>
-            //   setShowActivities((showActivities) => !showActivities)
-            // }
+            onClick={() =>
+              setShowActivities((showActivities) => !showActivities)
+            }
             className="dropdown-toggle"
           >
             BROWSE BY ADVENTURES
