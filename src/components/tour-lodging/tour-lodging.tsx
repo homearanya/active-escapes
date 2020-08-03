@@ -1,6 +1,7 @@
 import React from 'react'
-import { ImageSharp } from '../../types'
 import Img from 'gatsby-image'
+
+import { ImageSharp } from '../../types'
 
 export interface TourLodgingData {
   heading: string
@@ -30,7 +31,7 @@ const TourLodging = ({
     </div>
     <div className="col-md-6 accomodation-block">
       {images.map(({ src, heading, subHeading }, i) => (
-        <div className="text-box">
+        <div key={i} className="text-box">
           <div className="holder">
             <strong className="title">{heading}</strong>
             <span className="sub-title">{subHeading}</span>

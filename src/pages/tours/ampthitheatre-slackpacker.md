@@ -4,15 +4,15 @@ meta:
   title: Amphitheatre Heritage Hike
   description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
 tourName: Amphitheatre Heritage Hike
-slug: null
-featured: 0
-popular: 0
+slug: ampthitheatre-slackpacker
+featured: 1
+popular: 3
 featuredImage: ../../img/generic/pp-amphi-966.jpg
 thumbnail:
-  image: ../../img/generic/pp-amphi-500x326.jpg
+  image: ../../img/listing/img-03-amphi.jpg
   tagline: Aim for the summit
   title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
 shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
@@ -49,9 +49,10 @@ details:
   - heading: Pricing
     description:
       - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
-fromPricing: R4,200
+
 emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
 overview:
+  heading: At a Glance
   description:
     - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
     - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
@@ -79,6 +80,13 @@ itinerary:
         - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
         - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
         - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+  images:
+    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
+      heading: Member taking a short break
+      subHeading: 'Consider packing your bat with teh follwing daily essentials'
+    - src: ../../img/gallery/amphi_sentinelchalet.jpg
+      heading: Sentinel Chalet at Witsies Mountain Lodge
+      subHeading: 'Offer stunning views across to the Amphitheatre'
 lodging:
   heading: 'Lodges'
   description:
@@ -130,6 +138,8 @@ gallery:
     - src: ../../img/gallery/amphi_footpath.jpg
       caption: Start of Day 2 – the basalt cap of the Amphitheatre looms large.  You will be heading up and over.
 price:
+  heading: at a glance
+  overview: null
   table:
     - pax: 1 Person
       price: R9500/pp

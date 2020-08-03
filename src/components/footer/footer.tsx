@@ -68,7 +68,11 @@ const Footer = () => {
 
         <ul className="social-wrap social-networks">
           <li className="facebook">
-            <a href="https://facebook.com/activegetaways/" target="_blank">
+            <a
+              href="https://facebook.com/activegetaways/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <span className="icon-facebook"></span>
               <strong className="txt">Follow on</strong>
             </a>
@@ -77,6 +81,7 @@ const Footer = () => {
             <a
               href="https://www.instagram.com/activeescapessa/"
               target="_blank"
+              rel="noreferrer"
             >
               <span className="ico-instagram ux"></span>
               <strong className="txt">Follow on</strong>
@@ -86,6 +91,7 @@ const Footer = () => {
             <a
               href="https://www.youtube.com/channel/UCyVrv-D0UfOnaMh-qCaxabA"
               target="_blank"
+              rel="noreferrer"
             >
               <span className="ico-youtube ux"></span>
               <strong className="txt">Watch on</strong>

@@ -1,56 +1,45 @@
 import React from 'react'
-import { Link, graphql, useStaticQuery } from 'gatsby'
-import PopularTour from './popular-tour'
+import { graphql, useStaticQuery } from 'gatsby'
+import PopularTour from '../popular-tour'
 
 const PopularTours = () => {
   const {
-    photo1,
-    photo2,
-    photo3,
-    photo4,
-    photo5,
-    photo6,
+    allMarkdownRemark: { edges },
   } = useStaticQuery(graphql`
-    query {
-      photo1: file(relativePath: { eq: "listing/img-01-pondoexplore.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
+    query PopularToursQuery {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { templateKey: { eq: "tour-page" }, popular: { gt: 0 } }
         }
-      }
-      photo2: file(relativePath: { eq: "listing/img-02-kosi.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-      photo3: file(relativePath: { eq: "listing/img-03-amphi.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-      photo4: file(relativePath: { eq: "listing/img-04-clarens.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-      photo5: file(relativePath: { eq: "listing/img-05-nberg.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-      photo6: file(relativePath: { eq: "listing/img-06-vulturehike.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-            ...GatsbyImageSharpFluid_withWebp
+        sort: { order: ASC, fields: frontmatter___popular }
+      ) {
+        edges {
+          node {
+            frontmatter {
+              slug
+              thumbnail {
+                title
+                tagline
+                image {
+                  childImageSharp {
+                    fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
+                      ...GatsbyImageSharpFluid_withWebp
+                    }
+                  }
+                }
+                description
+              }
+              destination {
+                frontmatter {
+                  code
+                }
+              }
+              activity {
+                frontmatter {
+                  code
+                }
+              }
+            }
           }
         }
       }
@@ -68,7 +57,35 @@ const PopularTours = () => {
         </header>
         <div className="content-holder">
           <div className="row db-3-col">
-            <PopularTour
+            {edges.map(
+              (
+                {
+                  node: {
+                    frontmatter: {
+                      slug,
+                      thumbnail: { image, tagline, title, description },
+                      destination,
+                      activity,
+                    },
+                  },
+                },
+                i,
+              ) => (
+                <PopularTour
+                  key={i}
+                  data={{
+                    slug,
+                    image,
+                    tagline,
+                    title,
+                    description,
+                    activity,
+                    destination,
+                  }}
+                />
+              ),
+            )}
+            {/* <PopularTour
               tourLink="/destination/wildcoast/hikes/pondo-explore/"
               fluid={photo1.childImageSharp.fluid}
               alt="Pondo Exploring"
@@ -185,7 +202,7 @@ const PopularTours = () => {
                   getaway from Joburg and Durbs.
                 </p>
               }
-            />
+            /> */}
           </div>
         </div>
       </div>

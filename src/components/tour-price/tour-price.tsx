@@ -1,7 +1,9 @@
 import React from 'react'
 
 export interface TourPriceData {
-  table: {
+  heading?: string
+  overview?: string[]
+  table?: {
     pax: string
     price: string
   }[]
@@ -16,47 +18,67 @@ interface TourPriceProps {
 }
 
 const TourPrice = ({
-  data: { table, includes, notIncludes, emailAddress, emailSubject },
+  data: {
+    heading,
+    overview,
+    table,
+    includes,
+    notIncludes,
+    emailAddress,
+    emailSubject,
+  },
 }: TourPriceProps) => {
   return (
     <>
       <div className="row">
         <div className="col-md-6">
-          <div className="table-container">
-            <div className="table-responsive">
-              <table className="table table-striped price">
-                <thead>
-                  <tr>
-                    <th>
-                      <strong className="date-text">PAX</strong>
-                    </th>
-
-                    <th>
-                      <strong className="date-text">Price (PP)</strong>
-                    </th>
-
-                    <th>&nbsp;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {table.map(({ pax, price }, i) => (
-                    <tr>
-                      <td>
-                        <div className="cell">
-                          <div className="middle">{pax}</div>
-                        </div>
-                      </td>
-                      <td>
-                        <div className="cell">
-                          <div className="middle">{price}</div>
-                        </div>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+          {heading ? <strong className="header-box">{heading}</strong> : null}
+          {overview ? (
+            <div className="text-box">
+              <div className="holder">
+                {overview.map((include, i) => (
+                  <p key={i} dangerouslySetInnerHTML={{ __html: include }} />
+                ))}
+              </div>
             </div>
-          </div>
+          ) : null}
+          {table ? (
+            <div className="table-container">
+              <div className="table-responsive">
+                <table className="table table-striped price">
+                  <thead>
+                    <tr>
+                      <th>
+                        <strong className="date-text">PAX</strong>
+                      </th>
+
+                      <th>
+                        <strong className="date-text">Price (PP)</strong>
+                      </th>
+
+                      <th>&nbsp;</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {table.map(({ pax, price }, i) => (
+                      <tr key={i}>
+                        <td>
+                          <div className="cell">
+                            <div className="middle">{pax}</div>
+                          </div>
+                        </td>
+                        <td>
+                          <div className="cell">
+                            <div className="middle">{price}</div>
+                          </div>
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          ) : null}
         </div>
         {includes || notIncludes ? (
           <div className="col-md-6">

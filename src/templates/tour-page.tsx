@@ -28,7 +28,6 @@ const TourDetailPage = ({
         meta: { title, description },
         tourName,
         featuredImage,
-        fromPricing,
         shortDescription,
         longDescription,
         details,
@@ -48,7 +47,6 @@ const TourDetailPage = ({
   const tourBannerData: TourBannerData = {
     tourName,
     featuredImage,
-    fromPricing,
     shortDescription,
     longDescription,
     details,
@@ -62,7 +60,7 @@ const TourDetailPage = ({
     'Overview',
     'Itinerary',
     'Lodging',
-    'Faq',
+    'FAQ',
     'Gallery',
     'Price',
   ]
@@ -160,7 +158,6 @@ interface PageQueryData {
         description: string
       }
       tourName: string
-      fromPricing: string
       featuredImage: ImageSharp
       shortDescription: string
       longDescription: string[]
@@ -195,6 +192,7 @@ export const query = graphql`
           description
         }
         tourName
+        slug
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 966) {
@@ -203,7 +201,6 @@ export const query = graphql`
           }
           publicURL
         }
-        fromPricing
         shortDescription
         longDescription
         details {
@@ -212,6 +209,7 @@ export const query = graphql`
         }
         emailSubject
         overview {
+          heading
           description
         }
         itinerary {
@@ -219,6 +217,17 @@ export const query = graphql`
             heading
             subHeading
             description
+          }
+          images {
+            src {
+              childImageSharp {
+                fluid(maxWidth: 510) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+            heading
+            subHeading
           }
         }
         lodging {
@@ -255,7 +264,10 @@ export const query = graphql`
             caption
           }
         }
+
         price {
+          heading
+          overview
           table {
             pax
             price

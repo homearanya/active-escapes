@@ -7,3 +7,11 @@ interface ImageSharp {
   }
   publicURL?: string
 }
+
+interface Reference {
+  frontmatter: {
+    code: string
+    activityName?: string
+    destinationName?: string
+  }
+}

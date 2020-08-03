@@ -1,15 +1,23 @@
 import React, { useState } from 'react'
+import Img from 'gatsby-image'
+
+import { ImageSharp } from '../../types'
 import DayBlock, { DayBlockData } from './day-block'
 
 export interface TourItineraryData {
   itinerary: DayBlockData[]
+  images: {
+    src: ImageSharp
+    heading: string
+    subHeading: string
+  }[]
 }
 
 interface TourItineraryProps {
   data: TourItineraryData
 }
 
-const TourItinerary = ({ data: { itinerary } }: TourItineraryProps) => {
+const TourItinerary = ({ data: { itinerary, images } }: TourItineraryProps) => {
   const [activeTab, setActiveTab] = useState<number | null>(null)
 
   return (
@@ -38,38 +46,21 @@ const TourItinerary = ({ data: { itinerary } }: TourItineraryProps) => {
         </ol>
       </div>
       <div className="col-md-6">
-        <article className="img-article article-light">
-          <div className="img-wrap">
-            <img
-              src="img/generic/img-08.jpg"
-              height="319"
-              width="570"
-              alt="image description"
-            />
-          </div>
-          <div className="text-block">
-            <h3>
-              <a href="#">Member taking a short break</a>
-            </h3>
-            <p>Consider packing your bag with folloing daily essentials.</p>
-          </div>
-        </article>
-        <article className="img-article article-light">
-          <div className="img-wrap">
-            <img
-              src="img/generic/img-09.jpg"
-              height="319"
-              width="570"
-              alt="image description"
-            />
-          </div>
-          <div className="text-block">
-            <h3>
-              <a href="#">Couple enjoying the spectacular view</a>
-            </h3>
-            <p>Consider packing your bag with folloing daily essentials.</p>
-          </div>
-        </article>
+        {images.map(({ src, heading, subHeading }, i) => (
+          <article key={i} className="img-article article-light">
+            <div className="img-wrap">
+              <Img
+                fluid={src.childImageSharp.fluid}
+                fixed={src.childImageSharp.fixed}
+                alt={heading}
+              />
+            </div>
+            <div className="text-block">
+              <h3>{heading}</h3>
+              <p>{subHeading}</p>
+            </div>
+          </article>
+        ))}
       </div>
     </div>
   )

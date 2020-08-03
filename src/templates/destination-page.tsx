@@ -1,7 +1,11 @@
 import React from 'react'
+import Layout from '../components/layout'
+import SEO from '../components/seo'
 
 const DestinationPage = () => (
-  <>
+  <Layout>
+    <SEO title={'title'} description={'description'} />
+
     <section
       className="banner banner-inner parallax"
       data-stellar-background-ratio="0.5"
@@ -818,7 +822,7 @@ const DestinationPage = () => (
         </div>
       </div>
     </aside>
-  </>
+  </Layout>
 )
 
 export default DestinationPage

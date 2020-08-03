@@ -8,7 +8,8 @@ import BannerActivity, {
   BannerActivityData,
 } from '../components/banner-activity'
 import ActivityIntro, { ActivityIntroData } from '../components/activity-intro'
-
+import FeaturedTours, { FeaturedToursData } from '../components/featured-tours'
+import ByDestination from '../components/by-destination'
 interface ActivityPageProps {
   readonly data: PageQueryData
 }
@@ -19,8 +20,10 @@ const ActivityPage = ({
       frontmatter: {
         meta: { title, description },
         activityName,
+        code,
         banner,
         intro,
+        toursSection,
       },
     },
   },
@@ -41,437 +44,8 @@ const ActivityPage = ({
       <SEO title={title} description={description} />
       <BannerActivity data={bannerData} />
       <ActivityIntro data={intro} />
-      <article className="content-block article-boxed">
-        <div className="container">
-          <header className="content-heading">
-            <h2 className="main-heading">TREKKING THEMES</h2>
-            <span className="main-subtitle">
-              Chose from various walking and trekking adventures in 2016.
-            </span>
-            <div className="seperator" />
-          </header>
-          <div className="content-holder content-boxed">
-            <div className="row db-3-col">
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-07.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">Evening with Panda in China</a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-08.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">
-                      Sleeping with Sea Lion in Arctic
-                    </a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-09.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">
-                      Following Zebras to Water hole
-                    </a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-10.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">
-                      Discovering Wild Trails in Africa
-                    </a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-11.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">
-                      Angola Safari for Family &amp; Children
-                    </a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-              <article className="col-sm-6 col-md-4 article has-hover-s1">
-                <div className="thumbnail">
-                  <div className="img-wrap">
-                    {' '}
-                    <img
-                      src="img/listing/img-12.jpg"
-                      alt="image description"
-                      height="228"
-                      width="350"
-                    />
-                  </div>
-                  <h3 className="small-space">
-                    <a href="tour-detail.html">Royal Safari in Bangaladesh</a>
-                  </h3>
-                  <span className="info">
-                    Nordic Walk, Swiss Alps or French Hiking?
-                  </span>
-                  <aside className="meta">
-                    {' '}
-                    <span className="country">
-                      {' '}
-                      <span className="icon-world"></span>12 Countries{' '}
-                    </span>{' '}
-                    <span className="activity">
-                      <span className="icon-acitivities"> </span>79 Activities
-                    </span>{' '}
-                  </aside>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum,
-                  </p>
-                  <a href="tour-detail.html" className="btn btn-default">
-                    explore
-                  </a>
-                  <footer>
-                    <ul className="social-networks">
-                      <li>
-                        <a href="#">
-                          <span className="icon-twitter"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-google-plus"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-facebook"></span>
-                        </a>
-                        <br />
-                      </li>
-                      <li>
-                        <a href="#">
-                          <span className="icon-linkedin"></span>
-                        </a>
-                        <br />
-                      </li>
-                    </ul>
-                    <span className="price">
-                      from <span>$2749</span>
-                    </span>{' '}
-                  </footer>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </article>
+      <FeaturedTours data={toursSection} />
+      <ByDestination data={{ activity: code }} />
       <aside className="recent-block recent-list recent-wide-thumbnail">
         <div className="container">
           <h2 className="text-center text-uppercase">RECENTLY VIEWED</h2>
@@ -689,12 +263,14 @@ interface PageQueryData {
         description: string
       }
       activityName: string
+      code: string
       banner: {
         heading: string
         subHeading: string
         image: ImageSharp
       }
       intro: ActivityIntroData
+      toursSection: FeaturedToursData
     }
   }
 }
@@ -709,6 +285,7 @@ export const query = graphql`
           description
         }
         activityName
+        code
         banner {
           heading
           subHeading
@@ -728,6 +305,10 @@ export const query = graphql`
           icon {
             publicURL
           }
+        }
+        toursSection {
+          heading
+          subHeading
         }
       }
     }

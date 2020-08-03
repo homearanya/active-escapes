@@ -77,6 +77,7 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
       frontmatter: Frontmatter 
     }
     type MarkdownRemarkFrontmatterPrice @infer {
+      overview: [String]
       notIncludes: [String]
     }
     `,

@@ -57,7 +57,7 @@
   }
 
   h1 {
-    margin-bottom: 15px;
+    margin-bottom: 35px;
   }
 
   .price {
@@ -193,6 +193,7 @@
     }
 
     h3 {
+      color: $link-color;
       font-size: 1.333em;
       font-weight: 400;
       margin-bottom: 10px;

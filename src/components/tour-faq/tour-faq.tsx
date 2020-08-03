@@ -14,7 +14,7 @@ const TourFaq = ({ data: { faq } }: TourFaqProps) => {
   const [activeTab, setActiveTab] = useState<number | null>(null)
   return (
     <div className="row">
-      <div className="col-md-6">
+      <div className="col-md-offset-2 col-md-8">
         <ol className="detail-accordion">
           {faq.map(({ question, answer }, i) => {
             const active = i === activeTab

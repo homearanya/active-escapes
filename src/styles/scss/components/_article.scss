@@ -32,7 +32,7 @@
       .img-wrap {
         img,
         .gatsby-image-wrapper {
-          transform: scale(1.4);
+          transform: scale(1.1);
         }
       }
     }
@@ -92,6 +92,7 @@
 
     &:hover {
       h3 {
+        color: $secondary-color;
         a {
           color: $secondary-color;
         }
@@ -160,6 +161,7 @@
       }
 
       h3 {
+        color: $primary-color;
         a {
           color: $primary-color;
         }
@@ -286,12 +288,16 @@
   }
 
   h3 {
+    color: $link-color;
     a {
       color: $link-color;
 
       &:hover {
         color: $article-link-hover-color;
       }
+    }
+    &:hover {
+      color: $article-link-hover-color;
     }
   }
 
@@ -429,6 +435,7 @@
 
     &:hover {
       h3 {
+        color: $thumbnail-link-hover-color;
         a {
           color: $thumbnail-link-hover-color;
         }
@@ -466,7 +473,7 @@
         max-width: 50%;
         display: inline-block;
         vertical-align: top;
-        margin-right: -0.25em;
+        margin-right: 0;
 
         [class^='icon-'],
         [class*=' icon-'] {

@@ -9,7 +9,9 @@ const Breadcrumbs = ({ breadcrumbs }: BreadcrumbsProps) => (
   <nav className="breadcrumbs">
     <ul>
       {breadcrumbs.map(({ name, href }) => (
-        <li>{href ? <Link to={href}>{name}</Link> : <span>{name}</span>}</li>
+        <li key={href}>
+          {href ? <Link to={href}>{name}</Link> : <span>{name}</span>}
+        </li>
       ))}
     </ul>
   </nav>

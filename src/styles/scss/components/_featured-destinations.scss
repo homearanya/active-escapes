@@ -1,0 +1,18 @@
+.featured-destinations {
+  .featured-destination-row {
+    display: flex;
+    flex-wrap: wrap;
+    .article {
+      .thumbnail {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .featured-explore-button {
+          margin-top: auto;
+          align-self: flex-start;
+        }
+      }
+    }
+  }
+}

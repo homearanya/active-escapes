@@ -3,10 +3,11 @@ import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
 
+import { socialSharers } from '../../utils/helpers'
+
 export interface TourBannerData {
   tourName: string
   featuredImage: ImageSharp
-  fromPricing: string
   shortDescription: string
   longDescription: string[]
   details: {
@@ -25,7 +26,6 @@ const TourBanner = ({
   data: {
     tourName,
     featuredImage,
-    fromPricing,
     shortDescription,
     longDescription,
     details,
@@ -36,17 +36,10 @@ const TourBanner = ({
   },
 }: TourBannerProps) => {
   const fullUrl = `${siteUrl}${location.pathname}`
-  const facebookSharer = encodeURI(
-    `https://www.facebook.com/sharer.php?u=${fullUrl}&p[title]=${tourName}`,
-  )
-  const twitterSharer = encodeURI(
-    `https://twitter.com/intent/tweet?url=${fullUrl}&text=${tourName}`,
-  )
-  const linkdedinSharer = encodeURI(
-    `https://www.linkedin.com/shareArticle?mini=true&url=${fullUrl}&title=${tourName}&summary=${shortDescription}&source={}`,
-  )
-  const pinterestSharer = encodeURI(
-    `http://pinterest.com/pin/create/button/?url=${fullUrl}&description=${tourName}`,
+  const { facebook, twitter, linkedin, pinterest } = socialSharers(
+    fullUrl,
+    tourName,
+    shortDescription,
   )
 
   return (
@@ -65,13 +58,10 @@ const TourBanner = ({
         </div>
         <div className="height col-md-6 text-col">
           <div className="holder">
-            <h1 className="small-size">{tourName}</h1>
-            <div className="price">
-              from <strong>{fromPricing}</strong>
-            </div>
+            <h1 className="small-size mb-2">{tourName}</h1>
             <div className="description">
               {longDescription.map((paragraph, i) => (
-                <p>{paragraph}</p>
+                <p key={i}>{paragraph}</p>
               ))}
             </div>
             <ul className="reviews-info">
@@ -98,35 +88,51 @@ const TourBanner = ({
             </div>
             <ul className="social-networks social-share">
               <li>
-                <a href={facebookSharer} target="_blank" className="facebook">
+                <a
+                  href={facebook}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="facebook"
+                >
                   <span className="ico">
                     <span className="icon-facebook"></span>
                   </span>
-                  <span className="text">Share</span>
                 </a>
               </li>
               <li>
-                <a href={twitterSharer} target="_blank" className="twitter">
+                <a
+                  href={twitter}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="twitter"
+                >
                   <span className="ico">
                     <span className="icon-twitter"></span>
                   </span>
-                  <span className="text">Tweet</span>
                 </a>
               </li>
               <li>
-                <a href={linkdedinSharer} target="_blank" className="linkedin">
+                <a
+                  href={linkedin}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="linkedin"
+                >
                   <span className="ico">
                     <span className="icon-linkedin"></span>
                   </span>
-                  <span className="text">LinkdedIn</span>
                 </a>
               </li>
               <li>
-                <a href={pinterestSharer} target="_blank" className="pin">
+                <a
+                  href={pinterest}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="pin"
+                >
                   <span className="ico">
                     <span className="icon-pin"></span>
                   </span>
-                  <span className="text">Pin it</span>
                 </a>
               </li>
             </ul>

@@ -3,7 +3,7 @@ templateKey: activity-page
 meta:
   title: Family
   description: Activities for Families
-activityName: Family
+activityName: Family Friendly
 code: family
 banner:
   image: ../../img/banner/activity-hiking-hero.jpg
@@ -17,5 +17,8 @@ intro:
   bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
   locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
   icon: ../../img/icons/ico-landing-hiking.svg
-order: 0
+toursSection:
+  heading: HIKING & SLACKPACKING PRODUCTS
+  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+order: 5
 ---
