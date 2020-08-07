@@ -9,6 +9,10 @@
   color: $gray;
   border-radius: 0;
 
+  [class^='glyphicon-'],
+  [class*=' glyphicon-'],
+  [class^='ico-'],
+  [class*=' ico-'],
   [class^='icon-'],
   [class*=' icon-'] {
     margin-right: 5px;
@@ -46,6 +50,10 @@
     &:hover {
       color: $dropdown-nav-hover-color;
 
+      [class^='glyphicon-'],
+      [class*=' glyphicon-'],
+      [class^='ico-'],
+      [class*=' ico-'],
       [class^='icon-'],
       [class*=' icon-'] {
         margin-right: 10px;

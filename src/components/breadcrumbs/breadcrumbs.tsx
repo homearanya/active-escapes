@@ -8,8 +8,8 @@ interface BreadcrumbsProps {
 const Breadcrumbs = ({ breadcrumbs }: BreadcrumbsProps) => (
   <nav className="breadcrumbs">
     <ul>
-      {breadcrumbs.map(({ name, href }) => (
-        <li key={href}>
+      {breadcrumbs.map(({ id, name, href }) => (
+        <li key={id}>
           {href ? <Link to={href}>{name}</Link> : <span>{name}</span>}
         </li>
       ))}

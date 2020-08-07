@@ -1,20 +1,57 @@
 import React, { useState } from 'react'
+import { navigate, graphql, useStaticQuery } from 'gatsby'
 
 interface SearchFormProps {
   handleOpenSearch: () => void
   handleCloseSearch: () => void
 }
 
-export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
+const SearchForm = ({
+  handleOpenSearch,
+  handleCloseSearch,
+}: SearchFormProps) => {
+  const { activities, destinations } = useStaticQuery(graphql`
+    query SearchFormQuery {
+      activities: allMarkdownRemark(
+        filter: { frontmatter: { templateKey: { eq: "activity-page" } } }
+        sort: { order: ASC, fields: [frontmatter___order] }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              activityName
+              code
+            }
+          }
+        }
+      }
+      destinations: allMarkdownRemark(
+        filter: { frontmatter: { templateKey: { eq: "destination-page" } } }
+        sort: { order: ASC, fields: [frontmatter___order] }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              destinationName
+              code
+            }
+          }
+        }
+      }
+    }
+  `)
+
   const [formData, setFormData] = useState({
     destination: '',
     activity: '',
   })
   const handleSubmit = (e) => {
     e.preventDefault()
-    alert(
-      `You have chosen activity: ${formData.activity}, destination: ${formData.destination}`,
-    )
+    navigate(`/destination/${formData.destination}/`, {
+      state: { activity: formData.activity },
+    })
   }
 
   const handleDestinationChange = (event) => {
@@ -55,15 +92,11 @@ export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
                     required
                   >
                     <option value="">Choose a destination</option>
-                    <option value="drakensberg">Drakensberg</option>
-                    <option value="ec-highlands">EC Highlands</option>
-                    <option value="free-state">Free State</option>
-                    <option value="kosi-bay">Kosi Bay</option>
-                    <option value="kzn-interior">KZN Interior</option>
-                    <option value="kzn-midlands">KZN Midlands</option>
-                    <option value="western-cape">Western Cape</option>
-                    <option value="wild-coast">Wild Coast</option>
-                    <option value="southern-africa">Southern Africa</option>
+                    {destinations.edges.map(({ node }) => (
+                      <option key={node.id} value={node.frontmatter.code}>
+                        {node.frontmatter.destinationName}
+                      </option>
+                    ))}
                   </select>
                 </div>
               </div>
@@ -72,7 +105,7 @@ export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
                 <label htmlFor="select-activity">Holiday Type</label>
                 <div className="select-holder">
                   <select
-                    className="trip-select trip-select-v2 acitvity form-control"
+                    className="trip-select trip-select-v2 activity form-control"
                     name="activity"
                     id="select-activity"
                     onChange={handleActivityChange}
@@ -80,16 +113,11 @@ export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
                     required
                   >
                     <option value="">Choose an activity</option>
-                    <option value="hiking-slackpacking">
-                      Hiking / Slackpacking
-                    </option>
-                    <option value="mountain-biking">Mountain Biking</option>
-                    <option value="horse-riding">Horse Riding</option>
-                    <option value="nature">Nature</option>
-                    <option value="family">Family</option>
-                    <option value="groups">Groups</option>
-                    <option value="rafting">Rafting</option>
-                    <option value="running">Running</option>
+                    {activities.edges.map(({ node }) => (
+                      <option key={node.id} value={node.frontmatter.code}>
+                        {node.frontmatter.activityName}
+                      </option>
+                    ))}
                   </select>
                 </div>
               </div>
@@ -105,3 +133,4 @@ export default ({ handleOpenSearch, handleCloseSearch }: SearchFormProps) => {
     </form>
   )
 }
+export default SearchForm

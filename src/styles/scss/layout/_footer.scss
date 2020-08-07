@@ -207,6 +207,10 @@
     }
   }
 
+  [class^='glyphicon-'],
+  [class*=' glyphicon-'],
+  [class^='ico-'],
+  [class*=' ico-'],
   [class^='icon-'],
   [class*=' icon-'] {
     float: left;
@@ -311,6 +315,9 @@
       }
     }
   }
+
+  [class^='glyphicon-'],
+  [class*=' glyphicon-'],
   [class^='ico-'],
   [class*=' ico-'],
   [class^='icon-'],
@@ -334,7 +341,9 @@
   }
 
   @include breakpoint-min($screen-xs) {
-    [class^='ico-'],
+    [class^='glyphicon-'],
+    [class*=' glyphicon-'],
+    [classs^='ico-'],
     [class*=' ico-'],
     [class^='icon-'],
     [class*=' icon-'] {
@@ -343,6 +352,8 @@
   }
 
   @include breakpoint-min($screen-sm) {
+    [class^='glyphicon-'],
+    [class*=' glyphicon-'],
     [class^='ico-'],
     [class*=' ico-'],
     [class^='icon-'],

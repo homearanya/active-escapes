@@ -15,6 +15,7 @@ declare module '*.svg?pnm0hs#icomoon'
 declare module '*.svg#glyphicons_halflingsregular'
 
 type ItemLink = {
+  id: string
   name: string
   href: string | undefined
 }

@@ -40,7 +40,7 @@ const FeaturedTours = ({
               slug
               tourName
               shortDescription
-              thumbnail {
+              activityTour {
                 title
                 tagline
                 image {
@@ -88,7 +88,7 @@ const FeaturedTours = ({
                   tourName,
                   slug,
                   shortDescription,
-                  thumbnail: { image, tagline, title, description },
+                  activityTour: { image, tagline, title, description },
                   destination,
                   activity,
                 },

@@ -23,7 +23,7 @@ const BannerActivity = ({
   >
     {heroImage ? (
       <div className="banner-image">
-        <div className="has-overlay has-overlay-dark">
+        <div className="has-overlay has-overlay-dark full-height">
           <Img fluid={heroImage} />
         </div>
       </div>

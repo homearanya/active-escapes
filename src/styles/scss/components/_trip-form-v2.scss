@@ -16,8 +16,25 @@
     letter-spacing: 0.1em;
   }
 
+  .select-holder {
+    position: relative;
+    &:before {
+      right: 20px;
+      content: '\E91E';
+      color: $star-dust;
+      font: 14px/14px 'icomoon';
+      position: absolute;
+      top: 50%;
+      margin-top: -7px;
+      width: 10px;
+    }
+  }
+
   select {
+    position: relative;
     width: 100%;
+    appearance: none;
+    line-height: 1 !important;
   }
 
   .form-control {
@@ -27,6 +44,7 @@
     font-size: 14px;
     font-style: normal;
     padding: 0 10px;
+    cursor: pointer;
 
     &::-webkit-input-placeholder {
       color: $star-dust;
@@ -252,7 +270,7 @@
   }
 }
 
-.jcf-select.jcf-select-trip-select-v2.jcf-select-acitvity .jcf-select-text {
+.jcf-select.jcf-select-trip-select-v2.jcf-select-activity .jcf-select-text {
   &:before {
     content: '\e95e';
   }

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { navigate } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
@@ -32,7 +32,9 @@ const FeaturedDestination = ({
   },
   numberOfTours,
 }: FeaturedDestinationProps) => {
-  console.log('filter: ', filter)
+  const handleClick = () => {
+    navigate(`${link}`, { state: { activity: filter } })
+  }
   return (
     <article className="col-sm-6 col-md-4 article has-hover-s1">
       <div className="thumbnail">
@@ -41,8 +43,8 @@ const FeaturedDestination = ({
             <Img fluid={image.childImageSharp.fluid} alt={heading} />
           ) : null}
         </div>
-        <h3 className="small-space">
-          <Link to={link}>{heading}</Link>
+        <h3 onClick={handleClick} className="small-space clickable">
+          {heading}
         </h3>
         <span className="info">{subHeading}</span>
         <aside className="meta">
@@ -56,9 +58,12 @@ const FeaturedDestination = ({
           </span>
         </aside>
         <p>{ProcessText(description)}</p>
-        <Link to={link} className="btn btn-default featured-explore-button">
+        <span
+          onClick={handleClick}
+          className="btn btn-default featured-explore-button"
+        >
           explore
-        </Link>
+        </span>
       </div>
     </article>
   )

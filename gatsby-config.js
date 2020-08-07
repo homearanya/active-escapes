@@ -201,7 +201,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `img`,
-        path: `${__dirname}/src/img`,
+        path: `${__dirname}/src/img/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`,
       },
     },
     {
@@ -255,5 +262,7 @@ module.exports = {
   mapping: {
     'MarkdownRemark.frontmatter.destination': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.activity': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.difficultyLevel': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.subActivity': `MarkdownRemark.frontmatter.code`,
   },
 }

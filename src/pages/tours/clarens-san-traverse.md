@@ -8,16 +8,14 @@ slug: clarens-san-traverse
 featured: 0
 popular: 4
 featuredImage: ../../img/generic/pp-amphi-966.jpg
-thumbnail:
-  image: ../../img/listing/img-04-clarens.jpg
-  tagline: San Traverse - Clarens
-  title: In the footprints of the San
-  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
   - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
+fromPricing: R5000
+difficultyLevel: moderate
+duration: 3 Days
 details:
   - heading: Trip Duration
     description:
@@ -158,8 +156,24 @@ price:
     - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
     - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
   notIncludes: null
-
 destination: freestate
 activity:
-  - freestate
+  - hiking
+subActivity:
+  - slackpacking
+popularTour:
+  image: ../../img/listing/img-04-clarens.jpg
+  tagline: San Traverse - Clarens
+  title: In the footprints of the San
+  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
+activityTour:
+  image: ../../img/listing/img-04-clarens.jpg
+  tagline: San Traverse - Clarens
+  title: In the footprints of the San
+  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
+destinationTour:
+  image: ../../img/listing/img-04-clarens.jpg
+  tagline: San Traverse - Clarens
+  title: In the footprints of the San
+  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 ---

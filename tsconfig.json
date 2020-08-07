@@ -15,6 +15,6 @@
     "typeRoots": ["./node_modules/@types", "./typings/"],
     "skipLibCheck": true
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "gatsby-browser.js"],
   "exclude": ["node_modules", "public", ".cache", "**/*.spec.ts"]
 }

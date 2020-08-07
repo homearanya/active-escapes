@@ -6,7 +6,7 @@ meta:
 activityName: Hiking / Slackpacking
 code: hiking
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
+  image: ../../img/banner/activity-hiking-1920x750.jpg
   heading: Hiking & Slackpacking
   subHeading: Walking tours in the Berg, Bush and Beach
 intro:
@@ -20,5 +20,6 @@ intro:
 toursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
   subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+icon: icon-hiking
 order: 1
 ---

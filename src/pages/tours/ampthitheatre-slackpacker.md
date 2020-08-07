@@ -8,16 +8,14 @@ slug: ampthitheatre-slackpacker
 featured: 1
 popular: 3
 featuredImage: ../../img/generic/pp-amphi-966.jpg
-thumbnail:
-  image: ../../img/listing/img-03-amphi.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
 shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
   - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
+fromPricing: R5000
+difficultyLevel: challenging
+duration: 3 Days
 details:
   - heading: Trip Duration
     description:
@@ -166,4 +164,21 @@ price:
 destination: drakensberg
 activity:
   - hiking
+subActivity:
+  - expeditionhiking
+popularTour:
+  image: ../../img/listing/img-03-amphi.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
+activityTour:
+  image: ../../img/listing/img-03-amphi.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
+destinationTour:
+  image: ../../img/listing/img-03-amphi.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
 ---

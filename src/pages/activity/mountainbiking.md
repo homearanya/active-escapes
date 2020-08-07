@@ -20,5 +20,6 @@ intro:
 toursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
   subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+icon: ico-mountain-biking ux
 order: 2
 ---

@@ -300,6 +300,9 @@
       color: $article-link-hover-color;
     }
   }
+  h3.clickable {
+    cursor: pointer;
+  }
 
   .more {
     color: $link-color;
@@ -475,6 +478,10 @@
         vertical-align: top;
         margin-right: 0;
 
+        [class^='glyphicon-'],
+        [class*=' glyphicon-'],
+        [class^='ico-'],
+        [class*=' ico-'],
         [class^='icon-'],
         [class*=' icon-'] {
           font-size: 15px;
@@ -486,6 +493,10 @@
     }
 
     .star-rating {
+      [class^='glyphicon-'],
+      [class*=' glyphicon-'],
+      [class^='ico-'],
+      [class*=' ico-'],
       [class^='icon-'],
       [class*=' icon-'] {
         margin-right: 0;
@@ -597,6 +608,10 @@
 
       .country,
       .activities {
+        [class^='glyphicon-'],
+        [class*=' glyphicon-'],
+        [class^='ico-'],
+        [class*=' ico-'],
         [class^='icon-'],
         [class*=' icon-'] {
           font-size: 13px;
@@ -638,6 +653,10 @@
 
         .country,
         .activities {
+          [class^='glyphicon-'],
+          [class*=' glyphicon-'],
+          [class^='ico-'],
+          [class*=' ico-'],
           [class^='icon-'],
           [class*=' icon-'] {
             font-size: 15px;

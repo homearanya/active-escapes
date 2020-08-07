@@ -19,6 +19,7 @@ exports.createPages = async ({ actions, graphql }) => {
               }
               frontmatter {
                 templateKey
+                code
               }
             }
           }
@@ -34,6 +35,10 @@ exports.createPages = async ({ actions, graphql }) => {
 
     pages.forEach(({ node }) => {
       const { id, frontmatter, fields } = node
+      const destination =
+        frontmatter.templateKey === 'destination-page'
+          ? frontmatter.code
+          : undefined
       createPage({
         path: fields.slug,
         component: path.resolve(
@@ -42,6 +47,7 @@ exports.createPages = async ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          destination,
         },
       })
     })

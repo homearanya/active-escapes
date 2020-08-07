@@ -8,16 +8,15 @@ slug: psj-coffee-bay-backpacker-hike
 featured: 0
 popular: 0
 featuredImage: ../../img/generic/pp-amphi-966.jpg
-thumbnail:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+
 shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
   - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
+fromPricing: R5000
+difficultyLevel: moderate
+duration: 3 Days
 details:
   - heading: Trip Duration
     description:
@@ -158,8 +157,24 @@ price:
     - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
     - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
   notIncludes: null
-
 destination: wildcoast
 activity:
   - hiking
+subActivity:
+  - hiking
+popularTour:
+  image: ../../img/generic/pp-amphi-500x326.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+activityTour:
+  image: ../../img/generic/pp-amphi-500x326.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+destinationTour:
+  image: ../../img/generic/pp-amphi-500x326.jpg
+  tagline: Aim for the summit
+  title: Hike to the Roof of Africa
+  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 ---

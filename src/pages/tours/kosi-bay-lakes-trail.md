@@ -8,16 +8,14 @@ slug: kosi-bay-lakes-trail
 featured: 3
 popular: 2
 featuredImage: ../../img/generic/pp-amphi-966.jpg
-thumbnail:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
 shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
   - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
+fromPricing: R5000
+difficultyLevel: moderate
+duration: 3 Days
 details:
   - heading: Trip Duration
     description:
@@ -166,4 +164,21 @@ price:
 destination: drakensberg
 activity:
   - hiking
+subActivity:
+  - hiking
+popularTour:
+  image: ../../img/listing/img-02-kosi.jpg
+  tagline: Adventures in Kosi
+  title: Walking & Snorkeling the Kosi Lakes
+  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+activityTour:
+  image: ../../img/listing/img-02-kosi.jpg
+  tagline: Adventures in Kosi
+  title: Walking & Snorkeling the Kosi Lakes
+  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+destinationTour:
+  image: ../../img/listing/img-02-kosi.jpg
+  tagline: Adventures in Kosi
+  title: Walking & Snorkeling the Kosi Lakes
+  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
 ---

@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { graphql } from 'gatsby'
+import { useCookies } from 'react-cookie'
 
 import { ImageSharp } from '../types'
 import Layout from '../components/layout'
@@ -11,7 +12,9 @@ import TourLodging, { TourLodgingData } from '../components/tour-lodging'
 import TourFaq, { TourFaqData } from '../components/tour-faq'
 import TourGallery, { TourGalleryData } from '../components/tour-gallery'
 import TourPrice, { TourPriceData } from '../components/tour-price'
-import RecentTours from '../components/recent-tours'
+import RecentlyViews from '../components/recently-views'
+
+import { addDays } from '../utils/helpers'
 
 interface TourDetailPageProps {
   readonly data: PageQueryData
@@ -27,6 +30,7 @@ const TourDetailPage = ({
       frontmatter: {
         meta: { title, description },
         tourName,
+        slug,
         featuredImage,
         shortDescription,
         longDescription,
@@ -44,6 +48,8 @@ const TourDetailPage = ({
   location,
 }: TourDetailPageProps) => {
   const [activeTab, setActiveTab] = useState(0)
+  const [cookies, setCookie] = useCookies(['recently-views'])
+
   const tourBannerData: TourBannerData = {
     tourName,
     featuredImage,
@@ -65,6 +71,26 @@ const TourDetailPage = ({
     'Price',
   ]
 
+  useEffect(() => {
+    let tours
+    if (!cookies['recently-views']) {
+      tours = []
+    } else {
+      tours = cookies['recently-views']
+    }
+    if (tours.find((tour) => tour === slug)) {
+      return
+    }
+    if (tours.length === 4) {
+      tours.splice(0, 1)
+    }
+    tours.push(slug)
+
+    setCookie('recently-views', JSON.stringify(tours), {
+      path: '/',
+      expires: addDays(new Date(), 180),
+    })
+  }, [])
   return (
     <Layout tour>
       <SEO
@@ -137,7 +163,7 @@ const TourDetailPage = ({
           </div>
         </div>
       </div>
-      <RecentTours />
+      <RecentlyViews />
     </Layout>
   )
 }
@@ -158,6 +184,7 @@ interface PageQueryData {
         description: string
       }
       tourName: string
+      slug: string
       featuredImage: ImageSharp
       shortDescription: string
       longDescription: string[]

@@ -1,5 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
+
+export const addDays = (date: Date, days: number): Date => {
+  const copy = new Date(Number(date))
+  copy.setDate(date.getDate() + days)
+  return copy
+}
+
 export const textTruncate = (text: string, num: number): string => {
   if (num >= text.length) return text
   let result = ''

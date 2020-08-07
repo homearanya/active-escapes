@@ -9,9 +9,12 @@ interface ImageSharp {
 }
 
 interface Reference {
+  id?: string
   frontmatter: {
     code: string
     activityName?: string
     destinationName?: string
+    icon?: string
+    title?: string
   }
 }
