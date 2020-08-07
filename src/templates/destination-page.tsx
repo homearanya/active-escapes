@@ -178,16 +178,16 @@ const DestinationPage = ({
       {},
     )
 
-    const holidayTypesMap = allHolidayTypes.edges.reduce((acc, cur) => {
+    let holidayTypesMap = allHolidayTypes.edges.reduce((acc, cur) => {
       console.log(cur.node.frontmatter.code)
       acc[cur.node.frontmatter.code] = cur.node.frontmatter.activityName
       return acc
     }, {})
-    const holidayTypesMap = allHolidayTypes.edges.reduce((acc, cur) => {
+    holidayTypesMap = allSubactivitiesTypes.edges.reduce((acc, cur) => {
       console.log(cur.node.frontmatter.code)
-      acc[cur.node.frontmatter.code] = cur.node.frontmatter.activityName
+      acc[cur.node.frontmatter.code] = cur.node.frontmatter.title
       return acc
-    }, {})
+    }, holidayTypesMap)
     const finalHTypes = {}
     Object.keys(hTypes).forEach(
       (e) =>
@@ -426,15 +426,16 @@ export const query = graphql`
         }
       }
     }
-    {
-      allSubactivitiesTypes: allMarkdownRemark(filter: {frontmatter: {key: {eq: "sub-activity"}}}, sort: {order: ASC, fields: frontmatter___popular}) {
-        edges {
-          node {
-            id
-            frontmatter {
-              title
-              code
-            }
+    allSubactivitiesTypes: allMarkdownRemark(
+      filter: { frontmatter: { key: { eq: "sub-activity" } } }
+      sort: { order: ASC, fields: frontmatter___popular }
+    ) {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            code
           }
         }
       }
