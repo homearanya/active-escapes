@@ -1,21 +1,34 @@
 ---
+# For internal use do not change
 templateKey: tour-page
+# Important for SEO
 meta:
+  # The text "| Active Escapes" will be appended to it. In total it shouldn't be more than 72 characters long
   title: Amphitheatre Heritage Hike
+  # Maximum 150 characters
   description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+# This is the generic name of the tour. Used as the tour heading on tour page
 tourName: Amphitheatre Heritage Hike
+# mandatory. This is part of the tour url. Exaple: https://www.active-escapes/drakensberg/hiking/amphitheatre-slackpacker
 slug: ampthitheatre-slackpacker
+# If the tour is to be shown on the activity page and in what order. If not feature the value must be 0.
 featured: 1
+# If the tour is to be shown on home page as a popular tour and in what order. If not popular the value must be 0.
 popular: 3
+# Main portrait-like image on tour page. Try to use same dimensions as this one
 featuredImage: ../../img/generic/pp-amphi-966.jpg
-shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+# Text under heading on tour page
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
   - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
+# Used on tour cards on Recently Views tours section and destination page. As requested is not shown on tour page or other tour cards. Leave blank if not to be shown
 fromPricing: R5000
+# One of the difficulty levels under folder src/data/difficulty-level. Use the same words field value "code"
 difficultyLevel: challenging
+# Self explanatory
 duration: 3 Days
+# Tour specifics to be shown under long description on tour page
 details:
   - heading: Trip Duration
     description:
@@ -47,13 +60,15 @@ details:
   - heading: Pricing
     description:
       - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
-
+# Subject of the email on "book now" button
 emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+# overview tab on tour page
 overview:
   heading: At a Glance
   description:
     - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
     - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+# itineary tab on tour page
 itinerary:
   itinerary:
     - heading: Day 1
@@ -85,6 +100,7 @@ itinerary:
     - src: ../../img/gallery/amphi_sentinelchalet.jpg
       heading: Sentinel Chalet at Witsies Mountain Lodge
       subHeading: 'Offer stunning views across to the Amphitheatre'
+# lodging tab on tour page
 lodging:
   heading: 'Lodges'
   description:
@@ -97,6 +113,7 @@ lodging:
     - src: ../../img/gallery/amphi_sentinelchalet.jpg
       heading: Sentinel Chalet at Witsies Mountain Lodge
       subHeading: 'Offer stunning views across to the Amphitheatre'
+# faq tab on tour page
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -111,6 +128,7 @@ faq:
     - question: Can this hike be shortened to two days?
       answer:
         - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+# gallery tab on tour page
 gallery:
   pictures:
     - src: ../../img/gallery/amphi_amphi.jpg
@@ -135,9 +153,12 @@ gallery:
       caption: Headwaters of the Tugela river, as hikers make their way towards Mont-Aux-Sources –  one of the highest points of the Drakensberg range lying within Lesotho, the province of the Free State and KwaZulu-Natal.
     - src: ../../img/gallery/amphi_footpath.jpg
       caption: Start of Day 2 – the basalt cap of the Amphitheatre looms large.  You will be heading up and over.
+# price tab on tour page
 price:
   heading: at a glance
+  # optional. text to be shown above price table. Follow the "- text" like on other fields like for example description on lodging
   overview: null
+  # optional. Set to null if not to be displayed
   table:
     - pax: 1 Person
       price: R9500/pp
@@ -160,22 +181,29 @@ price:
     - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
     - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
     - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+  # optional. Follow same format as includes fields
   notIncludes: null
+# one of the destinations under src/pages/destination folder. Use the same words field value "code"
 destination: drakensberg
+# one of the activities under src/pages/activity folder. Use the same words field value "code"
 activity:
   - hiking
+# one of the subActivities under src/data/sub-activity folder. Use the same words field value "code". If you need another one, contact me. This is use as a filter on destination page.
 subActivity:
   - expeditionhiking
+# use on the tour card if the tour is a popular tour on home page
 popularTour:
   image: ../../img/listing/img-03-amphi.jpg
   tagline: Aim for the summit
   title: Hike to the Roof of Africa
   description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
+# use on the tour card if the tour is a featured tour on a activity page
 activityTour:
   image: ../../img/listing/img-03-amphi.jpg
   tagline: Aim for the summit
   title: Hike to the Roof of Africa
   description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and backpack portered.'
+# use on the tour card on destination page.
 destinationTour:
   image: ../../img/listing/img-03-amphi.jpg
   tagline: Aim for the summit

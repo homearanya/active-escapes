@@ -179,12 +179,10 @@ const DestinationPage = ({
     )
 
     let holidayTypesMap = allHolidayTypes.edges.reduce((acc, cur) => {
-      console.log(cur.node.frontmatter.code)
       acc[cur.node.frontmatter.code] = cur.node.frontmatter.activityName
       return acc
     }, {})
     holidayTypesMap = allSubactivitiesTypes.edges.reduce((acc, cur) => {
-      console.log(cur.node.frontmatter.code)
       acc[cur.node.frontmatter.code] = cur.node.frontmatter.title
       return acc
     }, holidayTypesMap)
