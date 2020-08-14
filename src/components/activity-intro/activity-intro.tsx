@@ -23,7 +23,7 @@ const ActivityIntro = ({
         <div className="col-sm-8 col-md-9 text-holder">
           <h2 className="title-heading">{heading}</h2>
           {text.map((paragraph, i) => (
-            <p key={i}>{paragraph}</p>
+            <p key={i} dangerouslySetInnerHTML={{ __html: paragraph }} />
           ))}
         </div>
         <div className="col-sm-4 col-md-3 map-col">

@@ -1,0 +1,77 @@
+/* contact form styles */
+.contact-form {
+  box-shadow: 0 2px 2px rgba(1, 2, 2, 0.1);
+  .panel-title {
+    display: block;
+    text-transform: uppercase;
+    padding: 10px 50px 10px 30px;
+    background: $desert-storm;
+    color: $primary-color;
+    box-shadow: 0 1px 1px rgba(1, 2, 2, 0.1);
+    position: relative;
+  }
+  .panel-body {
+    background: $white;
+    padding: $global-xs-space 30px;
+    color: $gray;
+  }
+  .form-group {
+    display: flex;
+    justify-content: space-between;
+    @include breakpoint-max($screen-xs - 1) {
+      flex-direction: column;
+      justify-content: unset;
+    }
+    .seven-ten {
+      display: inline-block;
+      width: calc(70% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .three-ten {
+      display: inline-block;
+      width: calc(30% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .four-ten {
+      display: inline-block;
+      width: calc(40% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .one-three {
+      display: inline-block;
+      width: calc(33.33333% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .one-one {
+      display: block;
+      width: 100%;
+    }
+  }
+  .btn-holder {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
+}
+
+.contact-confirmation {
+  color: $secondary-color;
+  padding: 20px 0;
+}
+
+.error {
+  color: $secondary-color;
+  padding: 5px 0;
+}

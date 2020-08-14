@@ -129,6 +129,8 @@ h2.content-main-heading {
 p.intro {
   font-size: 1em;
   margin-bottom: 35px;
+  text-align: justify;
+  text-justify: auto;
 
   @include breakpoint-min($screen-sm) {
     font-size: 1.186em;

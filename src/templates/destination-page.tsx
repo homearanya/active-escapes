@@ -59,6 +59,7 @@ const DestinationPage = ({
   },
   location,
 }: DestinationPageProps) => {
+  const [grid, setGrid] = useState(false)
   const [{ holidayTypes, difficultyLevels }, setDropdowns] = useState({
     holidayTypes: {},
     difficultyLevels: {},
@@ -72,7 +73,7 @@ const DestinationPage = ({
 
   const breadcrumbs: Breadcrumbs = [
     { id: '1', name: 'home', href: '/' },
-    { id: '2', name: 'activity', href: '' },
+    { id: '2', name: 'destination', href: '' },
     { id: '3', name: destinationName, href: '' },
   ]
   const bannerData: BannerDestinationData = {
@@ -179,12 +180,10 @@ const DestinationPage = ({
     )
 
     let holidayTypesMap = allHolidayTypes.edges.reduce((acc, cur) => {
-      console.log(cur.node.frontmatter.code)
       acc[cur.node.frontmatter.code] = cur.node.frontmatter.activityName
       return acc
     }, {})
     holidayTypesMap = allSubactivitiesTypes.edges.reduce((acc, cur) => {
-      console.log(cur.node.frontmatter.code)
       acc[cur.node.frontmatter.code] = cur.node.frontmatter.title
       return acc
     }, holidayTypesMap)
@@ -213,12 +212,18 @@ const DestinationPage = ({
             </strong>
             <div className="layout-holder">
               <div className="layout-action">
-                <a href="#" className="link link-list active">
+                <div
+                  onClick={() => setGrid(false)}
+                  className={`link link-list${!grid ? ' active' : ''}`}
+                >
                   <span className="icon-list"></span>
-                </a>
-                <a href="#" className="link link-grid">
+                </div>
+                <div
+                  onClick={() => setGrid(true)}
+                  className={`link link-grid${grid ? ' active' : ''}`}
+                >
                   <span className="icon-grid"></span>
-                </a>
+                </div>
               </div>
               <div className="select-holder">
                 <a href="#" className="btn btn-primary btn-filter">
@@ -267,7 +272,11 @@ const DestinationPage = ({
             <Flipper
               flipKey={filteredTours.map(({ node }) => node.id).join('')}
             >
-              <div className="content-holder list-view">
+              <div
+                className={`content-holder list-view${
+                  grid ? ' row db-3-col' : ''
+                }`}
+              >
                 {filteredTours.map(({ node }) => {
                   const {
                     id,
@@ -300,6 +309,7 @@ const DestinationPage = ({
                           activity,
                           subActivity,
                         }}
+                        grid={grid}
                       />
                     </Flipped>
                   )

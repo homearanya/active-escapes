@@ -84,7 +84,6 @@ const RecentlyViews = () => {
         }, {}),
     edges,
   )
-  console.log(tours, allTours)
   return (
     <aside className="recent-block recent-list recent-wide-thumbnail">
       <div className="container">

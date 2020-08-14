@@ -4,7 +4,6 @@ import Img from 'gatsby-image'
 import { ImageSharp } from '../../types'
 
 export interface TourLodgingData {
-  heading: string
   description: string[]
   images: {
     src: ImageSharp
@@ -17,12 +16,10 @@ interface TourLodgingProps {
   data: TourLodgingData
 }
 
-const TourLodging = ({
-  data: { heading, description, images },
-}: TourLodgingProps) => (
+const TourLodging = ({ data: { description, images } }: TourLodgingProps) => (
   <div className="row">
     <div className="col-md-6">
-      <strong className="header-box">{heading}</strong>
+      {/* <strong className="header-box">{heading}</strong> */}
       <div className="detail">
         {description.map((paragraph, j) => (
           <p key={j} dangerouslySetInnerHTML={{ __html: paragraph }} />

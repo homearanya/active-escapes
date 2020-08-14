@@ -82,10 +82,10 @@ const GallerySection = () => {
     }
   `)
   return (
-    <section className="content-block bg-white">
+    <section className="content-block bg-white gallery-section">
       <div className="container">
         <div className="adventure-holder gallery-home-holder">
-          <div className="row">
+          <div className="row gallery-section__row">
             <div className="col-md-6 img-block">
               <ul className="gallery-list gallery-with-icon">
                 <Photo

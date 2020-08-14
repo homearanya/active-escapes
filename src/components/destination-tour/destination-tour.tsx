@@ -3,8 +3,9 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
 import ActivitiesList from '../activities-list'
+import SocialSharer from '../social-sharer'
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText, socialSharers } from '../../utils/helpers'
+import { ProcessText } from '../../utils/helpers'
 
 interface DestinationTourData {
   slug: string
@@ -26,6 +27,7 @@ interface DestinationTourData {
 interface DestinationTourProps {
   siteUrl: string
   data: DestinationTourData
+  grid: boolean
 }
 
 const DestinationTour = ({
@@ -42,17 +44,15 @@ const DestinationTour = ({
     subActivity,
   },
   siteUrl,
+  grid,
 }: DestinationTourProps) => {
   const tourLink = `/${destination.frontmatter.code}/${activity[0].frontmatter.code}/${slug}`
-  const fullUrl = `${siteUrl}${tourLink}`
-  const { facebook, twitter, linkedin, pinterest } = socialSharers(
-    fullUrl,
-    tourName,
-    shortDescription,
-  )
+
   return (
-    <article className="article has-hover-s1">
-      <div className="thumbnail">
+    <article
+      className={`article has-hover-s1${grid ? ' col-sm-6 col-md-4' : ''}`}
+    >
+      <div className={`thumbnail${grid ? ' grid' : ''}`}>
         <div className="img-wrap">
           {image && image.childImageSharp ? (
             <Img fluid={image.childImageSharp.fluid} alt={tourName} />
@@ -69,32 +69,9 @@ const DestinationTour = ({
             <p className="text">{ProcessText(description)}</p>
             <footer className="info-footer destination">
               <ActivitiesList data={{ activity, subActivity }} />
-              <ul className="ico-action destination">
-                <li>
-                  <a href={twitter} target="_blank" rel="noreferrer">
-                    <span className="icon-twitter"></span>
-                  </a>
-                  <br />
-                </li>
-                <li>
-                  <a href={facebook} target="_blank" rel="noreferrer">
-                    <span className="icon-facebook"></span>
-                  </a>
-                  <br />
-                </li>
-                <li>
-                  <a href={linkedin} target="_blank" rel="noreferrer">
-                    <span className="icon-linkedin"></span>
-                  </a>
-                  <br />
-                </li>
-                <li>
-                  <a href={pinterest} target="_blank" rel="noreferrer">
-                    <span className="icon-pin"></span>
-                  </a>
-                  <br />
-                </li>
-              </ul>
+              <SocialSharer
+                data={{ siteUrl, tourLink, tourName, shortDescription }}
+              />
             </footer>
           </div>
           <aside className="info-aside">

@@ -28,7 +28,7 @@
       > a {
         text-transform: uppercase;
         padding: 10px 10px 10px 30px;
-        font-weight: 700;
+        font-weight: 500;
         font-size: 12px;
 
         @media (max-width: $screen-md-max) {
@@ -126,6 +126,11 @@
 
     .des {
       max-width: 400px;
+
+      p {
+        text-align: justify;
+        text-justify: auto;
+      }
     }
 
     .col {

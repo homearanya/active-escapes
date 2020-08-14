@@ -1,0 +1,25 @@
+.image-gallery {
+  .image-gallery-slide {
+    .image-gallery-description {
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: nowrap;
+    }
+  }
+  .image-gallery-thumbnail {
+    &.active,
+    &:hover,
+    &:focus {
+      border-color: $shark;
+    }
+  }
+  .image-gallery-icon {
+    &:hover {
+      color: $shark;
+    }
+    .image-gallery-svg {
+      height: 90px;
+      width: 45px;
+    }
+  }
+}

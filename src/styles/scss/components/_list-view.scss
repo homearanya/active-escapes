@@ -26,9 +26,32 @@
 
   .article {
     max-width: 500px;
+    transition: all 0.2s;
 
     .thumbnail {
       display: flex;
+      transition: all 0.2s;
+      .description {
+        transition: all 0.2s;
+      }
+      .col-left {
+        transition: all 0.2s;
+        header {
+          transition: all 0.2s;
+          h3 {
+            transition: all 0.2s;
+          }
+        }
+        p.text {
+          transition: all 0.2s;
+        }
+        footer {
+          transition: all 0.2s;
+        }
+      }
+      .info-aside {
+        transition: all 0.2s;
+      }
       &:hover {
         h3 {
           a {
@@ -70,6 +93,54 @@
       @media only screen and (max-width: $screen-sm) {
         .description {
           flex-direction: column;
+        }
+      }
+    }
+
+    .thumbnail.grid {
+      flex-direction: column;
+      .description {
+        width: 100%;
+        flex-direction: column;
+        .col-left {
+          width: 100%;
+
+          h3 {
+            padding-right: 20px;
+            max-width: 75%;
+          }
+
+          .info-day {
+            // max-width: 25%;
+            padding-left: 20px;
+          }
+
+          .ico-list {
+            display: flex;
+            align-items: center;
+          }
+          .info-footer {
+            border-bottom: 1px solid $cararra;
+          }
+        }
+        .info-aside {
+          display: flex;
+          width: 100%;
+          .price {
+            font-size: 1em;
+            align-self: center;
+            margin-bottom: 0;
+          }
+          .activity-level {
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 0;
+          }
+          a {
+            align-self: center;
+            font-size: 1em;
+            min-width: unset;
+          }
         }
       }
     }

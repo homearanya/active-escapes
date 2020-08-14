@@ -4,19 +4,34 @@ import ImageBlock from './image-block'
 import TextBlock from './text-block'
 
 const BlogSection = () => {
-  const { photo1, photo2 } = useStaticQuery(graphql`
-    query {
-      photo1: file(relativePath: { eq: "pondo-pedal.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
+  const { posts } = useStaticQuery(graphql`
+    query BlogSectionQuery {
+      posts: allMarkdownRemark(
+        filter: {
+          frontmatter: { templateKey: { eq: "post-page" }, featured: { gt: 0 } }
         }
-      }
-      photo2: file(relativePath: { eq: "turtle-tracking.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 960, maxHeight: 627) {
-            ...GatsbyImageSharpFluid_withWebp
+        sort: { order: ASC, fields: [frontmatter___featured] }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              title
+              date
+              featured
+              introduction
+              slug
+              homePageListingImage {
+                alt
+                image {
+                  childImageSharp {
+                    fluid {
+                      src
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -31,28 +46,33 @@ const BlogSection = () => {
         </header>
       </div>
       <div className="container-fluid">
-        <div className="row same-height">
-          <ImageBlock fluid={photo1.childImageSharp.fluid} alt="Pondo Pdedal" />
-          <TextBlock
-            heading="Pedal in to Paradise"
-            text="This is Photoshop's version of Lorem Ipsum. Proin gravida nibh
-                vel velit auctor aliquet. Aenean sollicitudin, lorem quis
-                bibendum auctor, nisi elit consequat ipsum, Duis sed odio sit
-                amet nibh vulputate cursus a it amet mauris."
-            link="#"
-          />
-        </div>
-        <div className="row same-height">
-          <ImageBlock fluid={photo2.childImageSharp.fluid} alt="Pondo Pdedal" />
-          <TextBlock
-            heading="Tracking Turtles in Kosi"
-            text="This is Photoshop's version of Lorem Ipsum. Proin gravida nibh
-                vel velit auctor aliquet. Aenean sollicitudin, lorem quis
-                bibendum auctor, nisi elit consequat ipsum, Duis sed odio sit
-                amet nibh vulputate cursus a it amet mauris."
-            link="#"
-          />
-        </div>
+        {posts.edges.map(({ node: { id, frontmatter } }, i) => {
+          const reverse = i % 2 === 1 ? true : false
+          const {
+            title,
+            slug,
+            introduction,
+            homePageListingImage,
+          } = frontmatter
+          return (
+            <div
+              key={id}
+              className={`row same-height blog-section-row${
+                reverse ? ' reverse' : ''
+              }`}
+            >
+              <ImageBlock
+                fluid={homePageListingImage.image.childImageSharp.fluid}
+                alt={homePageListingImage.alt}
+              />
+              <TextBlock
+                heading={title}
+                text={introduction}
+                link={`/blog/${slug}/`}
+              />
+            </div>
+          )
+        })}
       </div>
     </section>
   )
