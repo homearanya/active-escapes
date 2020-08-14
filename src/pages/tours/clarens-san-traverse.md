@@ -1,59 +1,55 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Clarens San Traverse
+  description: A 3-day slackpacker offering high berg wilderness and cultural treasures - San paintings, dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
 tourName: Clarens San Traverse
 slug: clarens-san-traverse
-featured: 0
+featured: 2
 popular: 4
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP-Skywalk.JPG
 
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
+  - The Clarens San Traverse is a 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. The area is famous for its landmark San paintings, well-preserved dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
+  - Our charismatic guide will lead you safely from one destination to the next whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
+fromPricing: R5000/pp
 difficultyLevel: moderate
 duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 3 Hike Days / 3 Nights – with shorter and longer variations
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 17km'
+      - 'Day 2: 14km'
+      - 'Day 3: 5.5 - 10km'
+  - heading: Trail Grade
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - 2-3/ 5 for Fitness.
+      - 2-3/ 5 for Technicality. Mostly cleared paths and farm roads. A few sections of off-camber grassy trails and a few steep ascents and descents.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - The terrain varies between well maintained hiking paths, mountain paths, ravine trails and rocky ridges.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Comfortable farm stays - 3-star equivalent. 
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - 'This is a fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfer (to collect own vehicles from start or finish) is included.'
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - Preferred minimum of <strong>4</strong> persons and maximum <strong>12-14 persons</strong> per group.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a full group of 10-12 persons: R5000/pp/sharing'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Clarens San Traverse Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - Daily distances and pace are quite manageable, making this an excellent trail for families and persons looking to test-out the trail waters.
+    - You will overnight in charming country houses, just outside of Clarens. With meals, transfers and luggage transfers all arranged for, all you need to do is wake up and enjoy the golden-lit sandstone trails, so unique to this part of the world.
 itinerary:
   itinerary:
     - heading: Day 1
@@ -100,61 +96,60 @@ faq:
   faq:
     - question: Do we carry our own backpacks?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - NO. Vehicle luggage transfers will be provided between your overight locations on this slackpacking trail.
     - question: What type of footwear is appropriate?
       answer:
         - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
-      answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Any time outside of peak school and public holiday periods. But April/May is when the cosmos is in flower .
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/clarens_overhang.JPG   
+      caption: Much of the San traverse trail passes over and under Clarens Sandstone.
+    - src: ../../img/gallery/clarens_lonehiker.JPG   
+      caption: Start of the first hike day, leaving St Fort Country House.
+    - src: ../../img/gallery/clarens_ladder.jpg  
+      caption: A neat ladder has been constructed to get over this boulder.
+    - src: ../../img/gallery/clarens_cosmos.jpg   
+      caption: The Free State in Spring – a cosmos wonderland.
+    - src: ../../img/gallery/clarens_batcave.JPG   
+      caption: Bat Cave – aptly named.
+    - src: ../../img/gallery/clarens_medicinal.JPG   
+      caption: Learning about the medicinal and hallucinogenic properties of some of interesting plant species along the way.
+    - src: ../../img/gallery/clarens_imphepho.JPG
+      caption: Imphepho (a Helichrysum)  in flower –  the herb is traditionally burnt to invoke, honour and placate the ancestors.
+    - src: ../../img/gallery/clarens_fallowfields.jpg   
+      caption: Freshly ploughed, fallow fields provide a cinematic contrast to their surrounds.
+    - src: ../../img/gallery/clarens_hikers.JPG   
+      caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
+    - src: ../../img/gallery/clarens_redhotpoka.JPG     
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
+    - src: ../../img/gallery/clarens_clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
+    - src: ../../img/gallery/clarens_rivercross.JPG 
+      caption: This river crossing may prove a bit more of a challenge during Summer months.
+    - src: ../../img/gallery/clarens_trailandcliffs.JPG        
+      caption: Sandstone caps the horizon on the 3 day Clarens San Traverse Hiking trail.
+    - src: ../../img/gallery/clarens_rainbow.JPG
+      caption: Over the Rainbow 
+    - src: ../../img/gallery/clarens_exposedrock.JPG   
+      caption: Large parts of the trail are on exposed sandstone domes.
+    - src: ../../img/gallery/clarens_forest.JPG  
+      caption: There are some cool forest sections too – with ancient Ou hout trees.
+    - src: ../../img/gallery/clarens_errol.JPG
+      caption: Up and over.
+    - src: ../../img/gallery/clarens_birdspot.JPG
+      caption: The first Bird of Prey sighting on the days trail.
 price:
-  heading: at a glance
-  overview: null
-  table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+  heading: At a Glance
+  overview: Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - '3 Nights Accommodation (per person sharing basis)'
+    - 'All Meals: 3 packed/picnic/restaurant lunches for the hike days and 3 dinners and breakfasts at the accommodation'
+    - 'Hiking Guide -a qualified nature guide to explore the fauna and fauna with you on the trail'
+    - 'Trail & Reserve permits'
+    - 'Hiking Permits and land permissions for the 3 hike day'
   notIncludes: null
 destination: freestate
 activity:

@@ -6,7 +6,7 @@ meta:
   # The text "| Active Escapes" will be appended to it. In total it shouldn't be more than 72 characters long
   title: Amphitheatre Heritage Hike
   # Maximum 150 characters
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  description: Hike to the 'Roof of Africa' and source of the Tugela. Previously only attainable to experienced mountaineers, this is a guided slackpacking trail overnighting in comfy lodges with catering.
 # This is the generic name of the tour. Used as the tour heading on tour page
 tourName: Amphitheatre Heritage Hike
 # mandatory. This is part of the tour url. Exaple: https://www.active-escapes/drakensberg/hiking/amphitheatre-slackpacker
@@ -38,7 +38,7 @@ details:
       - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
       - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
       - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+  - heading: Trail Grade
     description:
       - 3.5/ 5 for both Fitness and Technicality.
       - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
@@ -48,18 +48,18 @@ details:
   - heading: Accommodation
     description:
       - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - 2 Nights at Witsieshoek Mountain Lodge
   - heading: Logistic Support
     description:
       - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
+      - 'Guide for first 2 days but self-guided on 3rd day (easy descent).'
       - '* Optional: Porter-supported option'
   - heading: Group Size
     description:
       - Possible from 1 person. No maximum, but 12 persons max / per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'R4,200 or R6,200/pp (based on 6 persons) – dependent on accom and catering options selected.'
 # Subject of the email on "book now" button
 emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
 # overview tab on tour page
@@ -155,7 +155,7 @@ gallery:
       caption: Start of Day 2 – the basalt cap of the Amphitheatre looms large.  You will be heading up and over.
 # price tab on tour page
 price:
-  heading: at a glance
+  heading: At a Glance
   # optional. text to be shown above price table. Follow the "- text" like on other fields like for example description on lodging
   overview: null
   # optional. Set to null if not to be displayed
