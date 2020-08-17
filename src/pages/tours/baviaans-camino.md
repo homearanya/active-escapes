@@ -133,7 +133,8 @@ price:
     - Shuttles to / from the start
 destination: ec_highlands
 activity:
-  - hiking; horse-riding
+  - hiking 
+  - horseriding
 subActivity:
   - hiking
 popularTour:

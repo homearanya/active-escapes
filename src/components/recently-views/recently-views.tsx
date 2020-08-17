@@ -90,6 +90,8 @@ const RecentlyViews = () => {
         <h2 className="text-center text-uppercase">RECENTLY VIEWED</h2>
         <div className="row recent-block-row">
           {tours.map((tour) => {
+            console.log(tour)
+            console.log(allTours[tour])
             const { id, frontmatter } = allTours[tour]
             const {
               tourName,
