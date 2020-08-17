@@ -15,6 +15,8 @@ import '../vendors/material-design-icons/material-icons.css'
 import '../vendors/animate/animate.css'
 import '../styles/scss/bootstrap.scss'
 import '../styles/scss/main.scss'
+import './scroll-to-top'
+import ScrollToTop from './scroll-to-top'
 
 interface LayoutProps {
   children: React.ReactNode
@@ -57,6 +59,7 @@ const Layout = ({ children, tour = false }: LayoutProps) => {
         {children}
       </main>
       <Footer />
+      <ScrollToTop show={hasScrolled} />
     </>
   )
 }

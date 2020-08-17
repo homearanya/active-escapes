@@ -34,8 +34,7 @@ details:
       - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Comfortable farm stays - 3-star equivalent.
   - heading: Logistic Support
     description:
       - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
@@ -112,42 +111,47 @@ faq:
         - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/clarens_overhang.JPG
+      caption: Much of the San traverse trail passes over and under Clarens Sandstone.
+    - src: ../../img/gallery/clarens_lonehiker.JPG
+      caption: Start of the first hike day, leaving St Fort Country House.
+    - src: ../../img/gallery/clarens_ladder.jpg
+      caption: A neat ladder has been constructed to get over this boulder.
+    - src: ../../img/gallery/clarens_cosmos.jpg
+      caption: The Free State in Spring – a cosmos wonderland.
+    - src: ../../img/gallery/clarens_batcave.JPG
+      caption: Bat Cave – aptly named.
+    - src: ../../img/gallery/clarens_medicinal.JPG
+      caption: Learning about the medicinal and hallucinogenic properties of some of interesting plant species along the way.
+    - src: ../../img/gallery/clarens_imphepho.JPG
+      caption: Imphepho (a Helichrysum)  in flower –  the herb is traditionally burnt to invoke, honour and placate the ancestors.
+    - src: ../../img/gallery/clarens_fallowfields.jpg
+      caption: Freshly ploughed, fallow fields provide a cinematic contrast to their surrounds.
+    - src: ../../img/gallery/clarens_hikers.JPG
+      caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
+    - src: ../../img/gallery/clarens_redhotpoka.JPG
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
+    - src: ../../img/gallery/clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
+    - src: ../../img/gallery/clarens_rivercross.JPG
+      caption: This river crossing may prove a bit more of a challenge during Summer months.
+    - src: ../../img/gallery/clarens_trailandcliffs.JPG
+      caption: Sandstone caps the horizon on the 3 day Clarens San Traverse Hiking trail.
+    - src: ../../img/gallery/clarens_rainbow.JPG
+      caption: Over the Rainbow
+    - src: ../../img/gallery/clarens_exposedrock.JPG
+      caption: Large parts of the trail are on exposed sandstone domes.
+    - src: ../../img/gallery/clarens_forest.JPG
+      caption: There are some cool forest sections too – with ancient Ou hout trees.
+    - src: ../../img/gallery/clarens_errol.JPG
+      caption: Up and over.
+    - src: ../../img/gallery/clarens_birdspot.JPG
+      caption: The first Bird of Prey sighting on the days trail.
 price:
-  heading: at a glance
-  overview: null
-  table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+  heading: At a Glance
+  overview:
+    - Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
+  table: null
   includes:
     - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
     - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
