@@ -74,9 +74,10 @@ itinerary:
       description:
         - Hike from Boggomsbaai along the beach and rocky shoreline to Fransmanshoek. Enjoy a beach lunch, snorkelling and swimming during warm weather, in a secluded bay. From Fransmanshoek continue your hike to the Gouritz River passing ancient Khoi San fish traps and the point at Cape Vacca.
         - 'Overnight: <strong>Sandpiper cottages – Boggomsbaai </strong>'
-        - heading: Day 5
-      subHeading: 'Departure Day: Transfer back to Mossel Bay '
+    - heading: Day 5
+      subHeading: 'Departure Day: Transfer back to Mossel Bay'
       description: null
+ 
   images:
     - src: ../../img/gallery/amphi_cavern_stdroom.jpg
       heading: Member taking a short break
@@ -125,11 +126,11 @@ gallery:
       caption: null
 price:
   heading: At a Glance
-  overview: Price dependent on Package choice & group but indicative costing
-- <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 
-- 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation
-- <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) 
-- Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
+  overview: 
+    - Price dependent on Package choice & group but indicative costing
+    - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation
+    - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
+  table: null
   includes:
     - '<strong>4 Nights Accom</strong> (sharing basis) in 4-Star guesthouses & cottages'
     - '<strong>All meals:</strong> 4 dinners, 3 packed lunches, one beach lunch, 4 breakfasts'

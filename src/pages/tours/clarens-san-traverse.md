@@ -39,7 +39,7 @@ details:
       - 'This is a fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfer (to collect own vehicles from start or finish) is included.'
   - heading: Group Size
     description:
-      - Preferred minimum of <strong>4</strong> persons and maximum <strong>12-14 persons</strong> per group.
+      - Preferred minimum of <strong>4</strong> persons and maximum <strong>12-14 </strong>persons per group.
   - heading: Pricing
     description:
       - 'On a full group of 10-12 persons: R5000/pp/sharing'
@@ -86,12 +86,12 @@ lodging:
   description:
     - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
+    - src: ../../img/gallery/clarens_stone-cottage.JPG
+      heading: Original Sandstone cottage, St Fort - First nights  accomodation.
       subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/clarens_cafe.JPG
+      heading: Coffee before the trail
+      subHeading: "The final day of the Clarens San Traverse offers an opportunty to sample Claren's cafe culture"
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -107,35 +107,35 @@ gallery:
   pictures:
     - src: ../../img/gallery/clarens_overhang.JPG   
       caption: Much of the San traverse trail passes over and under Clarens Sandstone.
-    - src: ../../img/gallery/clarens_lonehiker.JPG   
+    - src: ../../img/gallery/clarens_lonehiker.JPG
       caption: Start of the first hike day, leaving St Fort Country House.
-    - src: ../../img/gallery/clarens_ladder.jpg  
+    - src: ../../img/gallery/clarens_ladder.jpg
       caption: A neat ladder has been constructed to get over this boulder.
-    - src: ../../img/gallery/clarens_cosmos.jpg   
+    - src: ../../img/gallery/clarens_cosmos.jpg
       caption: The Free State in Spring – a cosmos wonderland.
-    - src: ../../img/gallery/clarens_batcave.JPG   
+    - src: ../../img/gallery/clarens_batcave.JPG
       caption: Bat Cave – aptly named.
-    - src: ../../img/gallery/clarens_medicinal.JPG   
+    - src: ../../img/gallery/clarens_medicinal.JPG
       caption: Learning about the medicinal and hallucinogenic properties of some of interesting plant species along the way.
     - src: ../../img/gallery/clarens_imphepho.JPG
       caption: Imphepho (a Helichrysum)  in flower –  the herb is traditionally burnt to invoke, honour and placate the ancestors.
-    - src: ../../img/gallery/clarens_fallowfields.jpg   
+    - src: ../../img/gallery/clarens_fallowfields.jpg
       caption: Freshly ploughed, fallow fields provide a cinematic contrast to their surrounds.
-    - src: ../../img/gallery/clarens_hikers.JPG   
+    - src: ../../img/gallery/clarens_hikers.JPG
       caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
-    - src: ../../img/gallery/clarens_redhotpoka.JPG     
+    - src: ../../img/gallery/clarens_redhotpoka.JPG
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
     - src: ../../img/gallery/clarens_clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
-    - src: ../../img/gallery/clarens_rivercross.JPG 
+    - src: ../../img/gallery/clarens_rivercross.JPG
       caption: This river crossing may prove a bit more of a challenge during Summer months.
-    - src: ../../img/gallery/clarens_trailandcliffs.JPG        
+    - src: ../../img/gallery/clarens_trailandcliffs.JPG   
       caption: Sandstone caps the horizon on the 3 day Clarens San Traverse Hiking trail.
     - src: ../../img/gallery/clarens_rainbow.JPG
       caption: Over the Rainbow 
-    - src: ../../img/gallery/clarens_exposedrock.JPG   
+    - src: ../../img/gallery/clarens_exposedrock.JPG
       caption: Large parts of the trail are on exposed sandstone domes.
-    - src: ../../img/gallery/clarens_forest.JPG  
+    - src: ../../img/gallery/clarens_forest.JPG
       caption: There are some cool forest sections too – with ancient Ou hout trees.
     - src: ../../img/gallery/clarens_errol.JPG
       caption: Up and over.
@@ -143,7 +143,9 @@ gallery:
       caption: The first Bird of Prey sighting on the days trail.
 price:
   heading: At a Glance
-  overview: Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
+  overview: 
+   - Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
+  table: null
   includes:
     - '3 Nights Accommodation (per person sharing basis)'
     - 'All Meals: 3 packed/picnic/restaurant lunches for the hike days and 3 dinners and breakfasts at the accommodation'

@@ -121,6 +121,7 @@ gallery:
 price:
   heading: R8770/per person/sharing
   overview: null
+  table: null
   includes:
     - '6 days and 5 nights dinner, bed and breakfast accommodation'
     - 'Packed lunch on all hike days'
