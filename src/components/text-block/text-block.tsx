@@ -60,7 +60,6 @@ const TextBlock = ({
       </div>
       <Transition in={openModal} timeout={duration}>
         {(state: 'entering' | 'entered' | 'exiting' | 'exited') => {
-          console.log('state: ', state)
           return (
             <Modal
               open={openModal}

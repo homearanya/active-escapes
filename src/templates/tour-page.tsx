@@ -10,7 +10,9 @@ import TourOverview, { TourOverviewData } from '../components/tour-overview'
 import TourItinerary, { TourItineraryData } from '../components/tour-itinerary'
 import TourLodging, { TourLodgingData } from '../components/tour-lodging'
 import TourFaq, { TourFaqData } from '../components/tour-faq'
-import TourGallery, { TourGalleryData } from '../components/tour-gallery'
+import Gallery, { BigGalleryImage } from '../components/gallery'
+import { GalleryThumbnailData } from '../components/gallery-thumbnail'
+
 import TourPrice, { TourPriceData } from '../components/tour-price'
 import RecentlyViews from '../components/recently-views'
 
@@ -40,8 +42,14 @@ const TourDetailPage = ({
         itinerary,
         lodging,
         faq,
-        gallery,
+        gallery: { pictures: smallImages },
         price,
+        destination,
+      },
+    },
+    markdownRemarkCopy: {
+      frontmatter: {
+        gallery: { pictures: bigImages },
       },
     },
   },
@@ -91,6 +99,15 @@ const TourDetailPage = ({
       expires: addDays(new Date(), 180),
     })
   }, [])
+
+  const thumbnailImages: GalleryThumbnailData[] = smallImages.map(
+    ({ src, caption }) => ({
+      src,
+      caption,
+      title: destination.frontmatter.destinationName,
+      subTitle: tourName,
+    }),
+  )
   return (
     <Layout tour>
       <SEO
@@ -152,7 +169,7 @@ const TourDetailPage = ({
             className={`tab-pane${activeTab === 4 ? ' active' : ''}`}
             id="tab05"
           >
-            <TourGallery data={gallery} />
+            <Gallery bigImages={bigImages} thumbnailImages={thumbnailImages} />
           </div>
           <div
             role="tabpanel"
@@ -197,8 +214,22 @@ interface PageQueryData {
       itinerary: TourItineraryData
       lodging: TourLodgingData
       faq: TourFaqData
-      gallery: TourGalleryData
+      gallery: {
+        pictures: BigGalleryImage[]
+      }
       price: TourPriceData
+      destination: {
+        frontmatter: {
+          destinationName: string
+        }
+      }
+    }
+  }
+  markdownRemarkCopy: {
+    frontmatter: {
+      gallery: {
+        pictures: BigGalleryImage[]
+      }
     }
   }
 }
@@ -282,7 +313,7 @@ export const query = graphql`
           pictures {
             src {
               childImageSharp {
-                fluid(maxWidth: 1400) {
+                fluid(maxWidth: 370) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -301,6 +332,28 @@ export const query = graphql`
           }
           includes
           notIncludes
+        }
+        destination {
+          frontmatter {
+            destinationName
+          }
+        }
+      }
+    }
+    markdownRemarkCopy: markdownRemark(id: { eq: $id }) {
+      frontmatter {
+        gallery {
+          pictures {
+            src {
+              childImageSharp {
+                fluid(maxWidth: 1000) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+              publicURL
+            }
+            caption
+          }
         }
       }
     }

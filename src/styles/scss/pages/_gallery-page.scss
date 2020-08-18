@@ -1,0 +1,8 @@
+.gallery-page {
+  .inner-top {
+    margin-top: 70px;
+    @include breakpoint-min($screen-md) {
+      margin-top: 102px;
+    }
+  }
+}

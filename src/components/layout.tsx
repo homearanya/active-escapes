@@ -53,6 +53,7 @@ const Layout = ({ children, tour = false }: LayoutProps) => {
     <>
       <Header tour={tour} hasScrolled={hasScrolled} />
       <main
+        id="main"
         className={hasScrolled ? 'scrolled' : undefined}
         style={{ overflow: 'hidden' }}
       >

@@ -88,3 +88,15 @@ export const socialSharers = (
     `http://pinterest.com/pin/create/button/?url=${fullUrl}&description=${title}`,
   ),
 })
+
+export const getPresentationWidthFromSizes = (sizes: string): number | null => {
+  const step1 = sizes.split('px')
+  if (step1.length < 2) return null
+  const step2 = step1[step1.length - 2].split(' ')
+  if (step2.length < 1) return null
+  if (+step2[step2.length - 1] > 0) {
+    return +step2[step2.length - 1]
+  } else {
+    return null
+  }
+}

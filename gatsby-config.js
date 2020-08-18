@@ -110,7 +110,7 @@ module.exports = {
             { name: 'Adventure', link: '/gallery/adventure/' },
             { name: 'Mountain Hikes', link: '/gallery/mountainhikes/' },
             { name: 'Coastal Hikes', link: '/gallery/coastalhikes/' },
-            { name: 'Friends & Family', link: '/gallery/friendsfamilies/' },
+            { name: 'Friends & Family', link: '/gallery/friendsfamily/' },
             { name: 'Mountain Biking', link: '/gallery/mountainbiking/' },
           ],
         },
@@ -256,5 +256,6 @@ module.exports = {
     'MarkdownRemark.frontmatter.activity': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.difficultyLevel': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.subActivity': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.images.tour': `MarkdownRemark.frontmatter.slug`,
   },
 }
