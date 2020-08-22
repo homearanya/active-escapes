@@ -57,16 +57,14 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
         id="nav"
       >
         <ul className="nav navbar-nav">
-          {menuItems.map(({ name, link, megaMenu, menuItems }) => (
-            <>
-              <MenuItem
-                key={name}
-                name={name}
-                megaMenu={megaMenu}
-                link={link}
-                menuItems={menuItems}
-              />
-            </>
+          {menuItems.map(({ name, link, megaMenu, menuItems }, i) => (
+            <MenuItem
+              key={i}
+              name={name}
+              megaMenu={megaMenu}
+              link={link}
+              menuItems={menuItems}
+            />
           ))}
           <li className="visible-xs visible-sm">
             <a href="login.html" className="subscribe">

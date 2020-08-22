@@ -1,74 +1,79 @@
 /* content intro styles */
 .content-intro {
-	padding-bottom: $global-md-space;
+  padding-bottom: $global-md-space;
 
-	.text-holder {
-		padding-top: $global-md-space;
-		margin-bottom: $global-sm-space;
-		text-align: center;
+  .text-holder {
+    padding-top: $global-md-space;
+    margin-bottom: $global-sm-space;
+    text-align: center;
 
-		.btn-holder {
-			margin-top: 45px;
-		}
-	}
+    p {
+      text-align: justify;
+      text-justify: auto;
+    }
 
-	.map-col {
-		position: relative;
-		z-index: 1;
-		text-align: center;
-		margin-top: 20px;
+    .btn-holder {
+      margin-top: 45px;
+    }
+  }
 
-		.holder {
-			background: $listview-mapbg;
-			border: 10px solid darken($listview-mapbg, 10);
-			padding: 10px;
-			max-width: 400px;
-			margin: 0 auto;
-		}
-	}
+  .map-col {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin-top: 20px;
 
-	.map-holder {
-		margin: 0 0 20px;
-		border: 0;
-	}
+    .holder {
+      background: $listview-mapbg;
+      border: 10px solid darken($listview-mapbg, 10);
+      padding: 10px;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+  }
 
-	.info {
-		color: $white;
+  .map-holder {
+    margin: 0 0 20px;
+    border: 0;
+  }
 
-		strong {
-			display: block;
-			font-size: 18px;
-			font-weight: 700;
-			font-family: $montserrat;
-		}
+  .info {
+    color: $white;
 
-		.sub {
-			font-style: italic;
-		}
-	}
+    strong {
+      display: block;
+      font-size: 18px;
+      font-weight: 700;
+      font-family: $montserrat;
+    }
 
-	@include breakpoint-min ($screen-sm) {
-		padding-bottom: $global-space;
+    .sub {
+      font-style: italic;
+    }
+  }
 
-		.text-holder {
-			text-align: left;
-			padding-top: $global-space;
-		}
-	}
+  @include breakpoint-min($screen-sm) {
+    padding-bottom: $global-space;
 
-	@include breakpoint-min ($screen-md) {
-		padding-bottom: $global-space;
-		
-		.map-col {
-			text-align: left;
+    .text-holder {
+      text-align: left;
+      padding-top: $global-space;
+    }
+  }
 
-			.holder {
-				margin-top: -100px;
-			}
-		}
+  @include breakpoint-min($screen-md) {
+    padding-bottom: $global-space;
 
-		.text-holder {
-			padding-top: $global-top-space;
-		}
-	}
+    .map-col {
+      text-align: left;
+
+      .holder {
+        margin-top: -100px;
+      }
+    }
+
+    .text-holder {
+      padding-top: $global-top-space;
+    }
+  }
 }

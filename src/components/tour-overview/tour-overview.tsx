@@ -17,7 +17,7 @@ const TourOverview = ({
       {heading ? <strong className="header-box">{heading}</strong> : null}
       <div className="detail">
         {description.map((paragraph, i) => (
-          <p key={i}>{paragraph}</p>
+          <p key={i} dangerouslySetInnerHTML={{ __html: paragraph }} />
         ))}
       </div>
     </div>

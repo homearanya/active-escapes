@@ -195,6 +195,16 @@
   }
   .recent-block-row {
     display: flex;
+    flex-wrap: wrap;
+    .article {
+      flex: 1 0 100%;
+      @include breakpoint-min($screen-sm) {
+        flex: 1 0 50%;
+      }
+      @include breakpoint-min($screen-md) {
+        flex: 1 0 25%;
+      }
+    }
     .thumbnail {
       height: 100%;
       display: flex;

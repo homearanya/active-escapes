@@ -28,7 +28,7 @@ const TourGallery = ({ data: { pictures } }: TourGalleryProps) => {
     }
   })
 
-  return <ImageGallery items={items} lazyLoad={true} />
+  return <ImageGallery items={items} lazyLoad={true} showPlayButton={false} />
 }
 
 export default TourGallery

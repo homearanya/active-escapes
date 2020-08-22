@@ -17,9 +17,9 @@ module.exports = {
           name: 'About',
           link: null,
           menuItems: [
-            { name: 'Our Ethos', link: '/about-us/our-ethos/' },
-            { name: 'Trail Grading', link: '/about-us/trail-grading/' },
-            { name: 'FAQs', link: '/about-us/faqs/' },
+            { name: 'The Company', link: '/about/' },
+            { name: 'Trail Grading', link: '/trail-grading/' },
+            { name: 'FAQs', link: '/faqs/' },
           ],
         },
         {
@@ -110,22 +110,22 @@ module.exports = {
             { name: 'Adventure', link: '/gallery/adventure/' },
             { name: 'Mountain Hikes', link: '/gallery/mountainhikes/' },
             { name: 'Coastal Hikes', link: '/gallery/coastalhikes/' },
-            { name: 'Friends & Family', link: '/gallery/friendsfamilies/' },
+            { name: 'Friends & Family', link: '/gallery/friendsfamily/' },
             { name: 'Mountain Biking', link: '/gallery/mountainbiking/' },
           ],
         },
         { name: 'Blog', link: '/blog/' },
-        { name: 'Contact', link: '/contact/' },
+        { name: 'Contact', link: '/contact-us/' },
       ],
     },
     footerMenu: {
       menuItems: [
         {
-          heading: 'About Us',
+          heading: 'About',
           menuItems: [
-            { name: 'The Company', link: '/about-us/the-company/' },
-            { name: 'Our Ethos', link: '/about-us/our-ethos/' },
-            { name: 'Our Guides', link: '/about-us/our-guides/' },
+            { name: 'The Company', link: '/about/' },
+            { name: 'Trail Grading', link: '/trail-grading/' },
+            { name: 'FAQs', link: '/faqs/' },
           ],
         },
         {
@@ -141,7 +141,7 @@ module.exports = {
           menuItems: [
             { name: 'Hiking', link: '/activity/hiking/' },
             { name: 'Biking', link: '/activity/mountainbiking/' },
-            { name: 'Adventure', link: '/activity/adventure/' },
+            { name: 'Rafting', link: '/activity/rafting/' },
           ],
         },
         {
@@ -149,17 +149,9 @@ module.exports = {
           menuItems: [
             {
               name: 'Terms & Conditions',
-              link: '/activity/terms-and-conditions/',
+              link: '/terms-and-conditions/',
             },
-            { name: 'Tour Enquiry', link: '/contact' },
-          ],
-        },
-        {
-          heading: 'Ask Us',
-          menuItems: [
-            { name: 'Trail Grading', link: '/about-us/trail-grading/' },
-            { name: 'FAQs', link: '/about-us/faqs/' },
-            { name: 'Safety', link: '/about-us/safety/' },
+            { name: 'Tour Enquiry', link: '/contact-us/#tour-enquiry' },
           ],
         },
         {
@@ -264,5 +256,6 @@ module.exports = {
     'MarkdownRemark.frontmatter.activity': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.difficultyLevel': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.subActivity': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.images.tour': `MarkdownRemark.frontmatter.slug`,
   },
 }

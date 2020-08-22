@@ -3,7 +3,8 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText, socialSharers } from '../../utils/helpers'
+import { ProcessText } from '../../utils/helpers'
+import SocialSharer from '../social-sharer'
 
 interface FeaturedTourData {
   siteUrl: string
@@ -42,12 +43,6 @@ const FeaturedTour = ({
       return acc + ', ' + cur.frontmatter.activityName
     }
   }, '')
-  const fullUrl = `${siteUrl}${tourLink}`
-  const { facebook, twitter, linkedin, pinterest } = socialSharers(
-    fullUrl,
-    tourName,
-    shortDescription,
-  )
 
   return (
     <article className="col-sm-6 col-md-4 article has-hover-s1">
@@ -75,32 +70,9 @@ const FeaturedTour = ({
           explore
         </Link>
         <footer>
-          <ul className="social-networks">
-            <li>
-              <a href={twitter} target="_blank" rel="noreferrer">
-                <span className="icon-twitter"></span>
-              </a>
-              <br />
-            </li>
-            <li>
-              <a href={facebook} target="_blank" rel="noreferrer">
-                <span className="icon-facebook"></span>
-              </a>
-              <br />
-            </li>
-            <li>
-              <a href={linkedin} target="_blank" rel="noreferrer">
-                <span className="icon-linkedin"></span>
-              </a>
-              <br />
-            </li>
-            <li>
-              <a href={pinterest} target="_blank" rel="noreferrer">
-                <span className="icon-pin"></span>
-              </a>
-              <br />
-            </li>
-          </ul>
+          <SocialSharer
+            data={{ siteUrl, tourLink, tourName, shortDescription }}
+          />
         </footer>
       </div>
     </article>

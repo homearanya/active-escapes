@@ -1,0 +1,114 @@
+.simple-page {
+  h3 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  figure {
+    overflow-x: auto;
+  }
+  table {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    min-width: 500px;
+  }
+
+  table > tbody > tr > td,
+  table > tbody > tr > th,
+  table > tfoot > tr > td,
+  table > tfoot > tr > th,
+  table > thead > tr > td,
+  table > thead > tr > th {
+    padding: 15px 15px;
+    border-color: #ebebeb;
+  }
+
+  table {
+    border: 1px solid #ebebeb;
+  }
+
+  table td + th,
+  table th + td,
+  table th + th,
+  table td + td {
+    border-left: 1px solid #ebebeb;
+  }
+
+  table-bordered > thead > tr > td,
+  table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+  }
+
+  table > tbody > tr > td.media-middle {
+    vertical-align: middle;
+  }
+  thead tr {
+    background: #f8f8f8;
+  }
+  tbody tr:nth-child(even) {
+    background: #f8f8f8;
+  }
+
+  @media screen and (min-width: $screen-sm) {
+    table {
+      display: table;
+      width: 100%;
+    }
+    table thead {
+      display: table-header-group;
+    }
+    table thead tr {
+      position: static;
+      top: auto;
+      left: auto;
+    }
+    table tbody {
+      display: table-row-group;
+      overflow: visible;
+    }
+
+    table tr {
+      display: table-row;
+      overflow: visible;
+    }
+
+    table th,
+    table td {
+      display: table-cell;
+      padding: 6px 12px;
+
+      vertical-align: top;
+      text-align: left;
+      overflow: visible;
+    }
+
+    table td:before {
+      content: '';
+      width: auto;
+    }
+  }
+}
+
+table.perceived {
+  th:first-child,
+  td:first-child {
+    text-align: center;
+    vertical-align: middle;
+  }
+  th:first-child + th,
+  td:first-child + td {
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+}
+table.technical {
+  th:first-child,
+  td:first-child {
+    text-align: center;
+    vertical-align: middle;
+  }
+  td {
+    vertical-align: middle;
+  }
+}

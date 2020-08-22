@@ -74,6 +74,10 @@ Version: 		1.2.7
 @import 'components/external-override';
 @import 'components/testimonial';
 @import 'components/services';
+@import 'components/gallery-section';
+@import 'components/gallery';
+@import 'components/contact-form';
+@import 'components/anchor-placeholder';
 /*------------------------------------------------------------------
 4. Parallax / .parallax
 -------------------------------------------------------------------*/
@@ -179,6 +183,10 @@ Version: 		1.2.7
 /*------------------------------------------------------------------
 18. Default Page
 -------------------------------------------------------------------*/
+@import 'pages/gallery-page';
+@import 'pages/simple-page';
+@import 'pages/faqs';
+@import 'pages/about';
 @import 'pages/default-page';
 @import 'pages/home-page';
 @import 'pages/cart-page';

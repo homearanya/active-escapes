@@ -54,7 +54,7 @@ const RecentlyViews = () => {
               popularTour {
                 image {
                   childImageSharp {
-                    fluid(maxWidth: 250, maxHeight: 210, quality: 70) {
+                    fluid(maxWidth: 500, maxHeight: 375, quality: 70) {
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }

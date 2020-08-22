@@ -82,10 +82,10 @@ const GallerySection = () => {
     }
   `)
   return (
-    <section className="content-block bg-white">
+    <section className="content-block bg-white gallery-section">
       <div className="container">
         <div className="adventure-holder gallery-home-holder">
-          <div className="row">
+          <div className="row gallery-section__row">
             <div className="col-md-6 img-block">
               <ul className="gallery-list gallery-with-icon">
                 <Photo
@@ -117,7 +117,7 @@ const GallerySection = () => {
                   text="Drakensberg"
                 />
                 <Photo
-                  link="/destination/midlands/"
+                  link="/destination/kzn_midlands/"
                   fluid={photo5.childImageSharp.fluid}
                   alt="Midlands"
                   icon={<span className="hover icon-bird"></span>}
@@ -145,7 +145,7 @@ const GallerySection = () => {
                   text="Free State"
                 />
                 <Photo
-                  link="/destination/westercape/"
+                  link="/destination/westerncape/"
                   fluid={photo9.childImageSharp.fluid}
                   alt="Western Cape"
                   icon={<span className="hover icon-beach"></span>}

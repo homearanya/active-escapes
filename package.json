@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "axios": "^0.19.2",
     "gatsby": "^2.20.36",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-manifest": "^2.3.7",
@@ -29,8 +30,12 @@
     "react-flip-toolkit": "^7.0.12",
     "react-helmet": "^6.0.0",
     "react-image-gallery": "^1.0.8",
+    "react-images": "^1.1.7",
     "react-intersection-observer": "^8.26.2",
+    "react-loader-spinner": "^3.1.14",
     "react-responsive-carousel": "^3.2.7",
+    "react-scroll": "^1.8.1",
+    "react-transition-group": "^4.4.1",
     "use-media": "^1.4.0",
     "use-resize-observer": "^6.1.0"
   },

@@ -1,15 +1,12 @@
 .blog-section {
   @include breakpoint-min($screen-md) {
     padding-bottom: 0;
-    .row {
+    .blog-section-row {
       display: flex;
-    }
-    .row {
-      &:last-child {
+      &.reverse {
         flex-direction: row-reverse;
       }
     }
-
     .image {
       height: 100%;
       .gatsby-image-wrapper {

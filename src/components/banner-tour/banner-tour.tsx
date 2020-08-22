@@ -61,7 +61,7 @@ const TourBanner = ({
             <h1 className="small-size mb-2">{tourName}</h1>
             <div className="description">
               {longDescription.map((paragraph, i) => (
-                <p key={i}>{paragraph}</p>
+                <p key={i} dangerouslySetInnerHTML={{ __html: paragraph }} />
               ))}
             </div>
             <ul className="reviews-info">
@@ -70,9 +70,10 @@ const TourBanner = ({
                   <div className="info-left">
                     <strong className="title">{heading}</strong>
                     {description.map((paragraph, j) => (
-                      <span key={j} className="value">
-                        {paragraph}
-                      </span>
+                      <span
+                        key={i}
+                        dangerouslySetInnerHTML={{ __html: paragraph }}
+                      />
                     ))}
                   </div>
                 </li>

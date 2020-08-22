@@ -9,6 +9,16 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon-whatsapp/icomoon.eot?pnm0hs');
+  src: url('../fonts/icomoon-whatsapp/icomoon.eot?pnm0hs#iefix')
+      format('embedded-opentype'),
+    url('../fonts/icomoon-whatsapp/icomoon.ttf?pnm0hs') format('truetype'),
+    url('../fonts/icomoon-whatsapp/icomoon.woff?pnm0hs') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 [class^='icon-'],
 [class*=' icon-'] {
@@ -357,6 +367,9 @@
 }
 .icon-vimeo:before {
   content: '\e968';
+}
+.icon-whatsapp:before {
+  content: '\ea93';
 }
 .icon-water-sea:before {
   content: '\e969';

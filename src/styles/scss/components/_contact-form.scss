@@ -1,0 +1,151 @@
+/* contact form styles */
+.contact-form {
+  box-shadow: 0 2px 2px rgba(1, 2, 2, 0.1);
+  .panel-title {
+    display: block;
+    text-transform: uppercase;
+    padding: 10px 50px 10px 30px;
+    background: $desert-storm;
+    color: $primary-color;
+    box-shadow: 0 1px 1px rgba(1, 2, 2, 0.1);
+    position: relative;
+  }
+  .panel-body {
+    background: $white;
+    padding: $global-xs-space 30px;
+    color: $gray;
+    padding-bottom: 50px;
+  }
+  .form-group {
+    display: flex;
+    justify-content: space-between;
+    @include breakpoint-max($screen-xs - 1) {
+      flex-direction: column;
+      justify-content: unset;
+    }
+    .seven-ten {
+      display: inline-block;
+      width: calc(70% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .two-ten {
+      display: inline-block;
+      width: calc(20% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .three-ten {
+      display: inline-block;
+      width: calc(30% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .four-ten {
+      display: inline-block;
+      width: calc(40% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .one-two {
+      display: inline-block;
+      width: calc(50% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .one-three {
+      display: inline-block;
+      width: calc(33.33333% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .two-three {
+      display: inline-block;
+      width: calc(66.66666% - 10px);
+      @include breakpoint-max($screen-xs - 1) {
+        display: block;
+        width: 100%;
+      }
+    }
+    .one-one {
+      display: block;
+      width: 100%;
+    }
+
+    &--newsletter {
+      justify-content: unset;
+      align-items: center;
+      .form-control {
+        margin: 0 10px 0 0;
+        width: 15px;
+      }
+      label {
+        margin: 0;
+      }
+    }
+  }
+  .btn-holder {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    .btn {
+      &:active,
+      &:focus {
+        outline: none;
+      }
+      @include breakpoint-max($screen-xs - 1) {
+        align-self: center;
+      }
+    }
+  }
+  .honeypot {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 0;
+    width: 0;
+    z-index: -1;
+  }
+
+  &--mailchimp {
+    box-shadow: unset;
+  }
+}
+
+.contact-confirmation {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  color: $secondary-color;
+  padding: 10px 0;
+  &--mailchimp {
+    top: 75px;
+  }
+  &--mailchimp2 {
+    top: 30px;
+    width: 100%;
+    text-align: center;
+    @include breakpoint-max($screen-xs - 1) {
+      top: 20px;
+    }
+  }
+}
+
+.error {
+  color: $secondary-color;
+  padding: 5px 0;
+}
