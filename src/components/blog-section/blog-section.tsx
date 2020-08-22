@@ -25,8 +25,8 @@ const BlogSection = () => {
                 alt
                 image {
                   childImageSharp {
-                    fluid {
-                      src
+                    fluid(maxWidth: 960) {
+                      ...GatsbyImageSharpFluid_withWebp
                     }
                   }
                 }

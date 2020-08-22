@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import FooterUnit from './footer-unit'
+import NewsletterForm from '../newsletter-form'
 
 const Footer = () => {
   const {
@@ -32,29 +33,7 @@ const Footer = () => {
   return (
     <footer id="footer">
       <div className="container">
-        <form
-          action="php/subscribe.html"
-          id="signup"
-          method="post"
-          className="newsletter-form"
-        >
-          <fieldset>
-            <div className="input-holder">
-              <input
-                type="email"
-                className="form-control"
-                placeholder="Email Address"
-                name="subscriber_email"
-                id="subscriber_email"
-              />
-              <input type="submit" value="GO" />
-            </div>
-            <span className="info" id="subscribe_message">
-              To receive news, updates and tour packages via email.
-            </span>
-          </fieldset>
-        </form>
-
+        <NewsletterForm />
         <div className="row footer-holder">
           {footerUnits.map(({ heading, menuItems }, index) => (
             <FooterUnit

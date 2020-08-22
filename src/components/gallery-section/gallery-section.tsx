@@ -117,7 +117,7 @@ const GallerySection = () => {
                   text="Drakensberg"
                 />
                 <Photo
-                  link="/destination/midlands/"
+                  link="/destination/kzn_midlands/"
                   fluid={photo5.childImageSharp.fluid}
                   alt="Midlands"
                   icon={<span className="hover icon-bird"></span>}
@@ -145,7 +145,7 @@ const GallerySection = () => {
                   text="Free State"
                 />
                 <Photo
-                  link="/destination/westercape/"
+                  link="/destination/westerncape/"
                   fluid={photo9.childImageSharp.fluid}
                   alt="Western Cape"
                   icon={<span className="hover icon-beach"></span>}
