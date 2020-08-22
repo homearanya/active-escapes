@@ -110,26 +110,25 @@ faq:
         - Yes, there are also 2 and 3 night versions of this trail .
 gallery:
   pictures:
-    - src: ../../img/gallery/OC_cliffs.JPG  
+    - src: ../../img/gallery/OC_cliffs.JPG 
       caption: Lichen headlands on the Black Oyster trail.
-    - src: ../../img/gallery/OC_cottage.jpg  
+    - src: ../../img/gallery/OC_cottage.jpg 
       caption: Quaint accommodation
-    - src: ../../img/gallery/OC_oystercatchers.jpg   
+    - src: ../../img/gallery/OC_oystercatchers.jpg  
       caption: The Black Oystercatchers are known to pair up for as long as 25 years. 
     - src: ../../img/gallery/OC_voorhuis.jpg
       caption: Cosy lodgings.
-    - src: ../../img/gallery/OC_2hikers.jpg  
+    - src: ../../img/gallery/OC_2hikers.jpg
       caption: Golden dunes and aquamarine ocean on the Black Oyster Trail.
-    - src: ../../img/gallery/OC_pinnacles.JPG   
+    - src: ../../img/gallery/OC_pinnacles.JPG
       caption: At Pinnacle Point, an optional experience is the POHO (Point of Human Origin) presentation by Dr Peter Nilssen with a guided tour of the famous 13 series middle stone age caves.
-    - src: ../../img/gallery/OC_bedroom.jpg   
+    - src: ../../img/gallery/OC_bedroom.jpg
       caption: null
 price:
   heading: At a Glance
-  overview: 
-    - Price dependent on Package choice & group but indicative costing
-    - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation
-    - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
+  overview: Price dependent on Package choice & group but indicative costing
+  - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation.
+  - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
   table: null
   includes:
     - '<strong>4 Nights Accom</strong> (sharing basis) in 4-Star guesthouses & cottages'

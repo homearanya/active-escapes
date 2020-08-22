@@ -12,7 +12,7 @@ featuredImage: ../../img/generic/PP-CBay-Bulungula.jpg
 longDescription:
   - For backpackers using the Baz bus, or hikers keen on a landmark trail that can be packed into a long-weekend, this is the trail for you. Starting at Coffee Bay - or Mdumbi for a longer hike option – the trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget. 
   - This is a fully guided trail, overnighting in funky backpackers with tasty, hearty meals all included. We will also arrange for the bulk of your luggage to be safely transferred to the hike finish, so you get to hike with just your daypack.... as all you really need is a change of clothes, a sarong and your toothbrush!
-  - So come get your ‘instagram' moment at the fabled Hole in the Wall and end your experience at the fair trade eco-lodge, Bulungula – voted one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide and Worldwide Runner-up in the Guardian 2009 Ethical Travel Awards.
+  - So come get your ‘insta' moment at the fabled Hole in the Wall and end your experience at the fair trade eco-lodge, Bulungula – voted one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
 fromPricing: R3700
 difficultyLevel: moderate
 duration: 3 Days
@@ -28,7 +28,7 @@ details:
       -  'Day 4 - 8-10km' 
   - heading: Trail Grading
     description:
-      - 3.5/ 5 for Fitness. The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. The relatively long hike distances require that participants have a good level of fitness. However, you only need hike with a small/light backpack.
+      - 3.5/ 5 for Fitness. The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. The relatively long hike distances require that participants have a good level of fitness. However, you need only hike with a small backpack.
       - 3/5 for Technicality. The hiking path on Day 1 contours along steep-sided hill slopes where persons who suffer from vertigo may feel a bit exposed. However, there are no dangerous sections.
   - heading: Trail Terrain
     description:
@@ -42,10 +42,10 @@ details:
       - 'Main luggage transfer to end-point, so you need only hike with a small daypack and the basics you require for the trail.'
   - heading: Group Size
     description:
-      - From 2 persons – maximum of 14 persons/per guide .
+      - From 2 persons – maximum of 14 persons/per guide.
   - heading: Pricing
     description:
-      - 'Indicative costing on the 4 Night/ 2 Hike Day Weekender Trail  based on a group of 6-9 persons: R3 700/pp'
+      - 'Indicative costing on the 4 Night/ 2 Hike Day Weekender Trail based on a group of 6-9 persons: R3 700/pp'
 
 emailSubject: Coffee Bay to Bulungula Hike Enquiry – PP Enquire Now
 overview:
@@ -60,15 +60,15 @@ itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - '<u>Public Transport Options:</u>'
+        - Public Transport Options
         - '14h30 - Baz Bus drops off at Mtata & we’ll arrange a  shuttle down to Coffee Bay (1- 1.5hr transfer time)' 
-        - <u>Self-drive</u>   
+        - Self-drive   
         - OR self-drive to Mtata – leaving vehicle in secure premises. Transfer down to Coffee Bay (approx 1.5hr).
         - 'Overnight: <strong>Coffee Bay Backpacker</strong> (Dinner)'
     - heading: Day 2
       subHeading: 'Hike Day 1: Hike from Coffee Bay – Lubanzi (16km/6-7hrs walk)'
       description:
-        - Todays hike is up and down and hugs the cliff-line with absolutely breathtaking views. Baby hole, black rocks and probably the most well-known feature on the entire Wild Coast, Hole-in-the-Wall, stand in wait. Tonights accommodation is either in a loal backpacker or homestay nearby. 
+        - Todays hike is up and down and hugs the cliff-line with absolutely breathtaking views. Baby hole, black rocks and probably the most well-known feature on the entire Wild Coast, Hole-in-the-Wall, stand in wait. Tonights accommodation is either in a local backpacker or nearby homestay. 
         - 'Overnight: <strong>Lubanzi Backpacker/Homestay </strong>(Breakfast & packed lunch from C’Bay. Dinner at Lubanzi)' 
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike from Lubanzi Backpackers – Bulungula Lodge (12km/4hrs walk).'
@@ -86,24 +86,25 @@ itinerary:
       description:
         - Backpacker Shuttle Runs 4 days/week - Tues, Thurs, Fri & Sun leaves 9.30 - gets to Mtata 1pm, airport 1.30pm.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/cb-bul_beach.jpg
+      heading: Beaches and Bays
+      subHeading: 'Up and over grassy headlands and to the next secluded bay. '
+    - src: ../../img/gallery/cb-bul_view.jpg
+      heading: Breathtaking Views
+      subHeading: 'On the stretch between Coffee Bay and Hole in the Wall.'
+  
 lodging:
   heading: 'Lodging'
   description:
     - <strong>Friendly Backpackers</strong> – usually have some double rooms otherwise small dorms for your group to share.
     - <strong>Community homestay</strong> - bedding & meals provided. 
   images:
-    - src: ../../img/gallery/
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/cb-bul_lubanzi.JPG
+      heading: Private Double - Backpacker Room
+      subHeading: 'We try to book double or twin rooms, otherwise small private dorms for groups'
+    - src: ../../img/gallery/cb-bul_dining.jpg
+      heading: Colourful Community-based Eco-lodge
+      subHeading: 'A true community owned and operated backpackers'
 faq:
   faq:
     - question: Is it possible to organise vehicle luggage transfers on this hike?
@@ -126,14 +127,14 @@ gallery:
       caption: The rock stack next to Hole in the Wall, 11kms south of Coffee Bay.
     - src: ../../img/gallery/cb-bul_group.jpg
       caption: A corporate hiking group at Hole-in-the-Wall, Coffee Bay.
-    - src: ../../img/gallery/cb-bul_headland.jpg   
-      caption: The stretch from Coffee Bay to Hole in the Wall is a series of jutting headland s and sandy bays, along which the trail hugs.
+    - src: ../../img/gallery/cb-bul_lastlight.jpg
+      caption: Last light on the trail.
     - src: ../../img/gallery/cb-bul_fire.jpg
-      caption: A sansbonfire at Bulungula Lodge, Wild Coast. 
-    - src: ../../img/gallery/cb-bul_dining.jpg
-      caption: A communal dining area at Bulungula Eco lodge.
+      caption: A bonfire at Bulungula Lodge, Wild Coast. 
     - src: ../../img/gallery/cb-bul_van.jpg
       caption: Bulungula is a 100% community owned lodge and was voted as one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
+    - src: ../../img/gallery/cb-bul_headland.jpg
+      caption: Headland upon headland, the grassy greens of Summer.
     - src: ../../img/gallery/cb-bul_estuary.jpg
       caption: Bulungula Mouth, where your final nights on the trail are spent. Here, life takes on a slower pace.
     - src: ../../img/gallery/cb-bul_bulungulahuts.jpg
@@ -141,21 +142,19 @@ gallery:
 price:
   heading: At a Glance
   overview: null
-  table:
+  table: The 3 Night / 2 Hike Day Package Coffee Bay  - Bulungula
     - pax: 2 Person
-      price: R4200/pp
-    - pax: 3-5 Persons
-      price: R3900/pp
-    - pax: 6-10 Persons
-      price: R6500/pp
-    - pax: 6-7 People
       price: R3700/pp
+    - pax: 3-5 Persons
+      price: R3400/pp
+    - pax: 6-10 Persons
+      price: R3200/pp
     - pax: 11 or more
-      price: R3600/pp
+      price: R3100/pp
 
   includes:
-    - '<strong>4 Nights Accom</strong> (sharing basis): Coffee Bay Backpacker, Lubanz Backpacker/VBA, Bulungula Lodge – 1/2 nights'
-    - '<strong>All meals:</strong> from dinner on arrival to breakfast on departure: 4 dinners, 4 breakfast, 2 packed lunches, 1 lunch '
+    - '<strong>3 Nights Accom</strong> (sharing basis): Coffee Bay Backpacker, Lubanz Backpacker/VBA, Bulungula Lodge'
+    - '<strong>All meals:</strong> from dinner on arrival to breakfast on departure: 3 dinners, 3 breakfast, 2 packed lunches'
     - '<strong>Backpacker Shuttles</strong>: from/ back to Mtata '
     - '<strong>Hiking Guide </strong> - for 2 Days up to Bulungula '
     - '<strong>AE Customisation & Booking Service </strong>'
@@ -166,17 +165,17 @@ activity:
 subActivity:
   - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike 
   description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike 
   description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike 
   description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."

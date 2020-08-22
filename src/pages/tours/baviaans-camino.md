@@ -112,11 +112,15 @@ faq:
         - Yes, you can convert it into a 10 day hiking holiday if you follow it up with the Chokka Trail.
 gallery:
   pictures:
-    - src: ../../img/gallery/baviaans_pano.jpg
+      - src: ../../img/gallery/baviaans_pano.jpg
       caption: null
     - src: ../../img/gallery/baviaans_hikers.jpg
       caption: null
+    - src: ../../img/gallery/baviaans_reststop.jpg
+    caption: null
     - src: ../../img/gallery/baviaans_group.jpg
+      caption: null
+    - src: ../../img/gallery/baviaans_outlook.jpg
       caption: null
 price:
   heading: R8770/per person/sharing

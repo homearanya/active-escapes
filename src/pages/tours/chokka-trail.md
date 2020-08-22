@@ -131,9 +131,8 @@ gallery:
     - src: ../../img/gallery/amphi_top.jpg
       caption: Top of the Amphitheatre with the Sentinel Massif in the background.
 price:
-  heading: at a glance
-  overview:
-    - "4 days/4 nights:  4 pax and more - R7250 pp/sharing, 2 pax - R8250 pp/sharing."
+  heading: At a Glance
+  overview: '4 days/4 nights: 4 pax and more - R7250 pp/sharing, 2 pax - R8250 pp/sharing.'
     - 'Single supplements are available at R200/pp/pn and a levy might be charged for groups smaller than 4 persons.'
   table: null
   includes:
