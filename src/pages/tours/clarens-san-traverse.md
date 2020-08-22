@@ -142,7 +142,7 @@ gallery:
       caption: The first Bird of Prey sighting on the days trail.
 price:
   heading: At a Glance
-  overview: 
+  overview:
    - Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
   table: null
   includes:

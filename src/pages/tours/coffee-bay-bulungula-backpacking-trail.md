@@ -141,8 +141,9 @@ gallery:
       caption: Traditional rondavels are made into family, double and twin rooms at Bulungulu Eco Lodge – the final night of the Coffee Bay to Bulungula trail.
 price:
   heading: At a Glance
-  overview: null
-  table: The 3 Night / 2 Hike Day Package Coffee Bay  - Bulungula
+  overview:
+    - The 3 Night / 2 Hike Day Package Coffee Bay  - Bulungula
+  table: 
     - pax: 2 Person
       price: R3700/pp
     - pax: 3-5 Persons

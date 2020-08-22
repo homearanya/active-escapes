@@ -56,7 +56,7 @@ overview:
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day - Meet at Mossel Bay. 
+      subHeading: Arrival Day - Meet at Mossel Bay.
       description:
         - 'Dinner at a local restaurant. Overnight: Mossel Bay hotel or guesthouse.'
     - heading: Day 2
@@ -77,7 +77,7 @@ itinerary:
     - heading: Day 5
       subHeading: 'Departure Day: Transfer back to Mossel Bay'
       description: null
- 
+
   images:
     - src: ../../img/gallery/amphi_cavern_stdroom.jpg
       heading: Member taking a short break
@@ -91,7 +91,7 @@ lodging:
     - Quality guesthouses or characteristic cottages on all nights (4-Star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style
   images:
     - src: ../../img/gallery/OC_cottage.jpg
-      heading: One of the Sandpiper Cottages 
+      heading: One of the Sandpiper Cottages
     - src: ../../img/gallery/OC_voorhuis.jpg
       heading: The Voorhuis, Black Oyster Trail
 faq:
@@ -101,7 +101,7 @@ faq:
         - No. You will leave your luggage at your overnight accommodation where you will more than likely stay for the entire hike. All you need is a small daypack for your packed lunch and supplies for the day's hiking.
     - question: What type of footwear is appropriate?
       answer:
-        - A trail running shoe or hiking shoe with decent grip is more than sufficinet for this trail. 
+        - A trail running shoe or hiking shoe with decent grip is more than sufficinet for this trail.
     - question: What is the best time of year for this trail?
       answer:
         - The trail is operational all year round except over peak school holiday periods. During the mild winter months, the area is known for its whale activity. Whales come in to give birth in the quiet protected bays and dazzle us with their displays of breaching and lob-tailing.
@@ -110,12 +110,12 @@ faq:
         - Yes, there are also 2 and 3 night versions of this trail .
 gallery:
   pictures:
-    - src: ../../img/gallery/OC_cliffs.JPG 
+    - src: ../../img/gallery/OC_cliffs.JPG
       caption: Lichen headlands on the Black Oyster trail.
-    - src: ../../img/gallery/OC_cottage.jpg 
+    - src: ../../img/gallery/OC_cottage.jpg
       caption: Quaint accommodation
-    - src: ../../img/gallery/OC_oystercatchers.jpg  
-      caption: The Black Oystercatchers are known to pair up for as long as 25 years. 
+    - src: ../../img/gallery/OC_oystercatchers.jpg
+      caption: The Black Oystercatchers are known to pair up for as long as 25 years.
     - src: ../../img/gallery/OC_voorhuis.jpg
       caption: Cosy lodgings.
     - src: ../../img/gallery/OC_2hikers.jpg
@@ -126,9 +126,10 @@ gallery:
       caption: null
 price:
   heading: At a Glance
-  overview: Price dependent on Package choice & group but indicative costing
-  - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation.
-  - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
+  overview:
+    - Price dependent on Package choice & group but indicative costing
+    - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation.
+    - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
   table: null
   includes:
     - '<strong>4 Nights Accom</strong> (sharing basis) in 4-Star guesthouses & cottages'
@@ -145,15 +146,15 @@ popularTour:
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast
-  description: "Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment"
+  description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
 activityTour:
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast
-  description: "Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment"
+  description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
 destinationTour:
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast
-  description: "Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment"
+  description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
 ---
