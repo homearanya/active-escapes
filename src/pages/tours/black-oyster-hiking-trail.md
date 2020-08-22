@@ -90,9 +90,9 @@ lodging:
   description:
     - Quality guesthouses or characteristic cottages on all nights (4-Star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style
   images:
-    - src: ../../img/gallery/OC_cottage.jpg
+    - src: ../../img/gallery/OC-cottage.jpg
       heading: One of the Sandpiper Cottages
-    - src: ../../img/gallery/OC_voorhuis.jpg
+    - src: ../../img/gallery/OC-voorhuis.jpg
       heading: The Voorhuis, Black Oyster Trail
 faq:
   faq:
