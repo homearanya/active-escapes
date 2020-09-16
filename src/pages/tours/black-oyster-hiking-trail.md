@@ -113,24 +113,20 @@ faq:
         - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/OC-cliffs.JPG
+      caption: Lichen headlands on the Black Oyster trail.
+    - src: ../../img/gallery/OC-cottage.jpg
+      caption: Quaint accommodation
+    - src: ../../img/gallery/OC-oystercatchers.jpg
+      caption: The Black Oystercatchers are known to pair up for as long as 25 years.
+    - src: ../../img/gallery/OC-voorhuis.jpg
+      caption: Cosy lodgings.
+    - src: ../../img/gallery/OC-2hikers.jpg
+      caption: Golden dunes and aquamarine ocean on the Black Oyster Trail.
+    - src: ../../img/gallery/OC-pinnacles.JPG
+      caption: At Pinnacle Point, an optional experience is the POHO (Point of Human Origin) presentation by Dr Peter Nilssen with a guided tour of the famous 13 series middle stone age caves.
+    - src: ../../img/gallery/OC-bedroom.jpg
+      caption: null
 price:
   heading: at a glance
   overview: null

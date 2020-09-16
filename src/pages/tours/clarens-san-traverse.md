@@ -130,9 +130,21 @@ gallery:
     - src: ../../img/gallery/clarens_hikers.JPG
       caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
     - src: ../../img/gallery/clarens_redhotpoka.JPG
+<<<<<<< Updated upstream
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
+=======
+<<<<<<< Updated upstream
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
+    - src: ../../img/gallery/clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
+=======
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
+    - src: ../../img/gallery/clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     - src: ../../img/gallery/clarens_rivercross.JPG
       caption: This river crossing may prove a bit more of a challenge during Summer months.
     - src: ../../img/gallery/clarens_trailandcliffs.JPG
