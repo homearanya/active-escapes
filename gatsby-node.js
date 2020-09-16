@@ -85,8 +85,15 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
     type MarkdownRemark implements Node { 
       frontmatter: Frontmatter 
     }
+    type TableItem {
+      pax: String
+      price: String
+    }
     type MarkdownRemarkFrontmatterPrice @infer {
       overview: [String]
+      heading2: String
+      overview2: [String]
+      table2: [TableItem]
       notIncludes: [String]
     }
     `,

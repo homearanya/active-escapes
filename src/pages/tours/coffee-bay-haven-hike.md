@@ -146,7 +146,8 @@ gallery:
 
 price:
   heading: At a Glance
-  overview: 4N Coffee Bay – Haven (more luxury) Trail
+  overview:
+    - 4N Coffee Bay – Haven (more luxury) Trail
   table:
     - pax: 4-5 Persons
       price: R6000/pp
