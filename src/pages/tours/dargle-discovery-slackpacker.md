@@ -148,6 +148,9 @@ price:
       price: R5900/pp
     - pax: 11 or more
       price: R5800/pp
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
     - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'

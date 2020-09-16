@@ -33,7 +33,7 @@ details:
       - The terrain varies between well maintained hiking paths, mountain paths, ravine trails and rocky ridges.
   - heading: Accommodation
     description:
-      - Comfortable farm stays & lodges - 3-star. 
+      - Comfortable farm stays & lodges - 3-star.
   - heading: Logistic Support
     description:
       - 'A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfers to vehicles.'
@@ -72,10 +72,10 @@ itinerary:
       description:
         - Self-Drive to Clarens for a historical walk through the village onto the circular trails of the Clarens Conservancy.
         - Restaurant lunch in Clarens for own account.
-  
+
   images:
     - src: ../../img/gallery/clarens_fallowfields.jpeg
-      heading: A fallow field amongst Clarens Sandstone - Hike Day 1 
+      heading: A fallow field amongst Clarens Sandstone - Hike Day 1
       subHeading: null
     - src: ../../img/gallery/clarens_overhang.JPG
       heading: Caves and overhangs provide a shady spot to rest.
@@ -88,7 +88,7 @@ lodging:
     - src: ../../img/gallery/clarens_stone-cottage.JPG
       heading: Original Sandstone cottage, St Fort - First nights  accomodation.
       subHeading: null
-    
+
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -102,7 +102,7 @@ faq:
         - Any time outside of peak school and public holiday periods. But April/May is when the cosmos is in flower .
 gallery:
   pictures:
-    - src: ../../img/gallery/clarens_overhang.JPG   
+    - src: ../../img/gallery/clarens_overhang.JPG
       caption: Much of the San traverse trail passes over and under Clarens Sandstone.
     - src: ../../img/gallery/clarens_lonehiker.JPG
       caption: Start of the first hike day, leaving St Fort Country House.
@@ -121,15 +121,15 @@ gallery:
     - src: ../../img/gallery/clarens_hikers.JPG
       caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
     - src: ../../img/gallery/clarens_redhotpoka.JPG
-      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
-      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
     - src: ../../img/gallery/clarens_rivercross.JPG
       caption: This river crossing may prove a bit more of a challenge during Summer months.
-    - src: ../../img/gallery/clarens_trailandcliffs.JPG   
+    - src: ../../img/gallery/clarens_trailandcliffs.JPG
       caption: Sandstone caps the horizon on the 3 day Clarens San Traverse Hiking trail.
     - src: ../../img/gallery/clarens_rainbow.JPG
-      caption: Over the Rainbow 
+      caption: Over the Rainbow
     - src: ../../img/gallery/clarens_exposedrock.JPG
       caption: Large parts of the trail are on exposed sandstone domes.
     - src: ../../img/gallery/clarens_forest.JPG
@@ -143,6 +143,9 @@ price:
   overview:
     - Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
   table: null
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '3 Nights Accommodation (per person sharing basis)'
     - 'All Meals: 3 packed/picnic/restaurant lunches for the hike days and 3 dinners and breakfasts at the accommodation'

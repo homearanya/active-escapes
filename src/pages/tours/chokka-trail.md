@@ -132,11 +132,14 @@ gallery:
       caption: Top of the Amphitheatre with the Sentinel Massif in the background.
 price:
   heading: At a Glance
-  overview: 
+  overview:
     - '4 days/4 nights: 4 pax and more - R7250 pp/sharing'
     - '2 pax - R8250 pp/sharing.'
     - 'Single supplements are available at R200/pp/pn and a levy might be charged for groups smaller than 4 persons.'
   table: null
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
     - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'

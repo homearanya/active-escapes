@@ -130,6 +130,9 @@ price:
     - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation.
     - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
   table: null
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '<strong>4 Nights Accom</strong> (sharing basis) in 4-Star guesthouses & cottages'
     - '<strong>All meals:</strong> 4 dinners, 3 packed lunches, one beach lunch, 4 breakfasts'

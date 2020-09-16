@@ -2,7 +2,7 @@
 templateKey: tour-page
 meta:
   title: Pondo Wild Camper
-  description: 
+  description:
 tourName: Pondo Wild Camper & VBA’s
 slug: pondo-wild-camper
 featured: 0
@@ -10,8 +10,8 @@ popular: 0
 featuredImage: ../../img/generic/PP-Wildcamper.jpg
 
 longDescription:
-  - So you've heard about the Xolobeni red sands, Waterfall Bluff and the wild hiking that Pondoland has to offer? Have a tent, cooker and a foldaway pot-set ... but looking for a guide, route, and some logistical support like an end-point transfer? 
-  - For the adventurous at heart, Active Escapes can arrange 'wild camping' trips accompanied by an experienced and certified local guide, starting out from Port Edward and hiking through to Mkambati (3 day) , Mbotyi ( 5 day), or all the way down to Port St John's on an 8 day Pondo Epic. 
+  - So you've heard about the Xolobeni red sands, Waterfall Bluff and the wild hiking that Pondoland has to offer? Have a tent, cooker and a foldaway pot-set ... but looking for a guide, route, and some logistical support like an end-point transfer?
+  - For the adventurous at heart, Active Escapes can arrange 'wild camping' trips accompanied by an experienced and certified local guide, starting out from Port Edward and hiking through to Mkambati (3 day) , Mbotyi ( 5 day), or all the way down to Port St John's on an 8 day Pondo Epic.
   - If you really want to rough-it you can bring your own tent and food along, but we recommend getting a true wild coast experience by mixing this up with some overnights at friendly homestay's along the way. On certain nights there are also 'upgrade' options where you can capitalise on hot running water for a s...scrub and a shave!
 
 fromPricing: R1800
@@ -28,7 +28,7 @@ details:
       - 'Day 5: 18km  Day6/7: 11/13km'
   - heading: Trail Grade
     description:
-      -  <strong>4/5 - Fitness</strong>. Carrying a backpack with your own food & equipment requires backpacking experience & a good level of fitness. Whilst porters can be arranged this trail is aimed at the true backpackers & larger groups.
+      - <strong>4/5 - Fitness</strong>. Carrying a backpack with your own food & equipment requires backpacking experience & a good level of fitness. Whilst porters can be arranged this trail is aimed at the true backpackers & larger groups.
       - <strong>3/5 - Technicality</strong>. Some scrambling, rock-hopping and river crossings.
   - heading: Trail Terrain
     description:
@@ -66,7 +66,7 @@ itinerary:
     - heading: Day 2
       subHeading: 'Hike Day 2:  Nyameni to Mtentu (12-14km) '
       description:
-        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and then on to Mtentu. 
+        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and then on to Mtentu.
         - 'Overnight: at a local homestay close to Mtentu Lodge or on the northern bank of the Mtentu estuary. '
     - heading: Day 3
       subHeading: 'Hike Day 3:  Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve.'
@@ -99,21 +99,21 @@ lodging:
   heading: Accommodation
   description:
     - Wild Camping Sites – usually located close to stream or in a sheltered area. Your guide knows the best spots.
-    - Village Homestay – book a night or two along the way in a VBA. A simple dinner and breakfast will be included in the R350/per head price paid. Bedding and warm water for a bath or shower is also provided. 
+    - Village Homestay – book a night or two along the way in a VBA. A simple dinner and breakfast will be included in the R350/per head price paid. Bedding and warm water for a bath or shower is also provided.
   images:
     - src: ../../img/gallery/WC_Mlambom.JPG
       heading: Pristine River Frontage
       subHeading: 'The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.'
-    
+
 faq:
   faq:
-    - question: Can you hire backpacking equipment?  
+    - question: Can you hire backpacking equipment?
       answer:
-        - 'Unfortunately not. You need to have all your own equipment: backpack, tent, sleeping bag, cooker and food.' 
+        - 'Unfortunately not. You need to have all your own equipment: backpack, tent, sleeping bag, cooker and food.'
     - question: Can porters be employed?
       answer:
         - Yes, potentially, but its more of an exception for elders or someone with an injury. If the whole group is going to need porters – it would be better to look at one of our slackpacking trail options.
-    - question: How fit do you need to be to do this hike? 
+    - question: How fit do you need to be to do this hike?
       answer:
         - You will need to have a very good level of fitness and endurance for this hike. You should also have had experience with multi-day hikes carrying a backpack of at least 15kgs.
     - question: What type of footwear is appropriate?
@@ -121,7 +121,7 @@ faq:
         - When carrying a heavy backpack, boots with ankle support are definitely recommended, though the terrain itself warrants a hiking type shoe or trail sneaker, with a solid sole and grip.
     - question: What is the best time of year for this trail?
       answer:
-        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds.  
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds.
     - question: Is it possible to get catering on this trail
       answer:
         - You will get catering if you overnight in any of the village homestays. They provide a simple dinner and breakfast as part of their overnight rate. There are a few small spaza stores along the way for replenishing basic supplies.
@@ -141,24 +141,27 @@ gallery:
     - src: ../../img/gallery/WC_Mlambom.JPG
       caption: The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.
     - src: ../../img/gallery/WC_yellowboat.JPG
-      caption: Local kids having fun on one of the rivers. 
+      caption: Local kids having fun on one of the rivers.
     - src: ../../img/gallery/WC_stickcollecters.jpg
       caption: Collecting firewood.
     - src: ../../img/gallery/WC-mtentucrossing.jpg
-      caption: Local ferryman helps hikers cross the Mtentu River. 
+      caption: Local ferryman helps hikers cross the Mtentu River.
 price:
   heading: At a Glance
-  overview: 
+  overview:
     - 'Option A: Wild Camping – supply your own tent & food'
   table:
     - pax: 6-9 Persons
       price: R1800/pp
     - pax: 10-12 Persons
       price: R1700/pp
-    
+
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - 'Hiking Guide – for 5 Hike days'
-    - 'Private Taxi Transfer (with trailer) from Mbotyi back to Wild Coast Casino'    
+    - 'Private Taxi Transfer (with trailer) from Mbotyi back to Wild Coast Casino'
   notIncludes: null
 
 destination: wildcoast

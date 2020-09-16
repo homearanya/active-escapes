@@ -2,7 +2,7 @@
 templateKey: tour-page
 meta:
   title: Baviaans Camino Slackpacking Trail
-  description: A 95km north-south traverse of the Baviaanskloof & Kouga Mountains, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.  
+  description: A 95km north-south traverse of the Baviaanskloof & Kouga Mountains, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.
 tourName: Baviaans Camino Slackpacking Trail
 slug: baviaans-camino
 featured: 0
@@ -126,6 +126,9 @@ price:
   heading: R8770/per person/sharing
   overview: null
   table: null
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '6 days and 5 nights dinner, bed and breakfast accommodation'
     - 'Packed lunch on all hike days'
@@ -137,7 +140,7 @@ price:
     - Shuttles to / from the start
 destination: ec_highlands
 activity:
-  - hiking 
+  - hiking
   - horseriding
 subActivity:
   - hiking
