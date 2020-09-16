@@ -9,7 +9,6 @@ featured: 0
 popular: 0
 featuredImage: ../../img/generic/pp-amphi-966.jpg
 
-shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
   - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
@@ -132,11 +131,15 @@ gallery:
     - src: ../../img/gallery/amphi_top.jpg
       caption: Top of the Amphitheatre with the Sentinel Massif in the background.
 price:
-  heading: at a glance
+  heading: At a Glance
   overview:
-    - '4 days/4 nights:  4 pax and more - R7250 pp/sharing, 2 pax - R8250 pp/sharing.'
+    - '4 days/4 nights: 4 pax and more - R7250 pp/sharing'
+    - '2 pax - R8250 pp/sharing.'
     - 'Single supplements are available at R200/pp/pn and a levy might be charged for groups smaller than 4 persons.'
   table: null
+  heading2: null
+  overview2: null
+  table2: null
   includes:
     - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
     - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'

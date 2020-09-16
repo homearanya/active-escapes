@@ -34,7 +34,6 @@ const TourDetailPage = ({
         tourName,
         slug,
         featuredImage,
-        shortDescription,
         longDescription,
         details,
         emailSubject,
@@ -61,7 +60,7 @@ const TourDetailPage = ({
   const tourBannerData: TourBannerData = {
     tourName,
     featuredImage,
-    shortDescription,
+    shortDescription: description,
     longDescription,
     details,
     emailSubject,
@@ -203,7 +202,6 @@ interface PageQueryData {
       tourName: string
       slug: string
       featuredImage: ImageSharp
-      shortDescription: string
       longDescription: string[]
       details: {
         heading: string
@@ -259,7 +257,6 @@ export const query = graphql`
           }
           publicURL
         }
-        shortDescription
         longDescription
         details {
           heading
@@ -327,6 +324,12 @@ export const query = graphql`
           heading
           overview
           table {
+            pax
+            price
+          }
+          heading2
+          overview2
+          table2 {
             pax
             price
           }

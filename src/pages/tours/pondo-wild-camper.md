@@ -1,180 +1,187 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Pondo Wild Camper
+  description:
 tourName: Pondo Wild Camper & VBA’s
 slug: pondo-wild-camper
 featured: 0
 popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP-Wildcamper.jpg
 
-shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - So you've heard about the Xolobeni red sands, Waterfall Bluff and the wild hiking that Pondoland has to offer? Have a tent, cooker and a foldaway pot-set ... but looking for a guide, route, and some logistical support like an end-point transfer?
+  - For the adventurous at heart, Active Escapes can arrange 'wild camping' trips accompanied by an experienced and certified local guide, starting out from Port Edward and hiking through to Mkambati (3 day) , Mbotyi ( 5 day), or all the way down to Port St John's on an 8 day Pondo Epic.
+  - If you really want to rough-it you can bring your own tent and food along, but we recommend getting a true wild coast experience by mixing this up with some overnights at friendly homestay's along the way. On certain nights there are also 'upgrade' options where you can capitalise on hot running water for a s...scrub and a shave!
+
+fromPricing: R1800
+difficultyLevel: challenging
+duration: 3, 5 & 8 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
+      - 3, 5 & 7-8 Day Trail Options
   - heading: Daily Distance
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 14km. Day 2: 12km'
+      - 'Day 3: 12-15km  Day 4: 16km'
+      - 'Day 5: 18km  Day6/7: 11/13km'
+  - heading: Trail Grade
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>4/5 - Fitness</strong>. Carrying a backpack with your own food & equipment requires backpacking experience & a good level of fitness. Whilst porters can be arranged this trail is aimed at the true backpackers & larger groups.
+      - <strong>3/5 - Technicality</strong>. Some scrambling, rock-hopping and river crossings.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - <strong>Coastal Trail</strong> – traversing grasslands with deep forest ravines and gorges, rocky headlands, sandy beaches and friendly Pondo villages.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Wild camping near streams, sheltered clearings in dune forest and pristine locations
+      - Local village homestays (where simple meals are provided)
+      - Upgraded accom options at certain locations - tented camps & a hotel
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - 'If wild camping – you will need to be entirely self-sufficient with your own tent, food & cooking equipment.'
+      - 'Meals are provided by the village homestays, community lodge & the hotel.'
+      - '* Optional: Porter-support can be arranged'
   - heading: Group Size
     description:
       - Possible from 1 person. No maximum, but 12 persons max / per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'Min 2 persons – max 14 persons/per guide/transfer.'
+      - 'On the ‘Wild Camping’ option, it becomes cost-effective if you are a grp of 6 or more.'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Pondo Wild Camper / VBA Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - The Wild Camper requires that you are experienced backpackers and will come self-sufficient in terms of your own tent, sleeping bag & food provisions. Essentially, we provide the hiking guide to accompany you with his local knowledge for the best overnight locations, sourcing spring water etc, and we take care of the transfers at the end of the hike, to get you back to your starting point (a 3hr transfer from Mbotyi back to Port Edward).
+    - If you chose the wild camper option, you can chose to overnight at a homestay on any of the nights, for an extra R350/pp (the cost of the homestay which includes a simple dinner, breakfast & snack).
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day
+      subHeading: 'Arrival Day & Hike Day 1: Wild Coast Casino – Nyameni (14km)'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - 'You can leave your vehicle in secure parking at the Wild Coast casino and will meet your guide here. Today’s hike is mostly along the beach passing remnants of a petrified forest, through to the stunning Nyameni river where you can camp for the evening.'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 2:  Nyameni to Mtentu (12-14km) '
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and then on to Mtentu.
+        - 'Overnight: at a local homestay close to Mtentu Lodge or on the northern bank of the Mtentu estuary. '
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 3:  Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve.'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - Today’s hike goes through Mkambati Nature Reserve. Secret bays and waterfalls, zebra and blesbok wave gazing.
+        - 'Overnight: camp on the Southern bank of the Msikaba River OR stay at Msikaba homestay.'
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Hike Day 4: Msikaba - Luphuthana (16km)'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - Todays hike is mostly walking on the plateau above the cliffs. The vestiges of treasure quests at Grosvenor, Goss’s Point & the stunning Mkweni estuary as well as the fantastic spray display at Luphuthana, are highlights.
+        - 'Overnight: camp on the Mlambomkulu river (freshwater pools for bathing) or in Waterfall Bluff cave.'
+    - heading: Day 5
+      subHeading: 'Hike Day 5: Luphuthana – Mbotyi River Lodge (18.5km)'
+      description:
+        - 'Another long day but without major ascents. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, the Views from the top of Drew’s Camp looking down towards Mbotyi where you will spend your last night.'
+    - heading: Day 6
+      subHeading: 'Short hike & Departure Day'
+      description:
+        - Short hike through to Mbotyi (approx. 3.5km).
+        - Private transfer from Mbotyi back to the Casino, Port Edward (approx. 2.5hrs).
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/WC_grasslands.jpg
+      heading: Backpacking the Grasslands
+      subHeading: 'Many a village trail is made by cattle '
+    - src: ../../img/gallery/WC_shebeen.jpg
+      heading: Refreshment Stop
+      subHeading: 'Nothing beats a Black Label from a local Shebeen.'
 lodging:
-  heading: 'Lodges'
+  heading: Accommodation
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - Wild Camping Sites – usually located close to stream or in a sheltered area. Your guide knows the best spots.
+    - Village Homestay – book a night or two along the way in a VBA. A simple dinner and breakfast will be included in the R350/per head price paid. Bedding and warm water for a bath or shower is also provided.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/WC_Mlambom.JPG
+      heading: Pristine River Frontage
+      subHeading: 'The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.'
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Can you hire backpacking equipment?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - 'Unfortunately not. You need to have all your own equipment: backpack, tent, sleeping bag, cooker and food.'
+    - question: Can porters be employed?
+      answer:
+        - Yes, potentially, but its more of an exception for elders or someone with an injury. If the whole group is going to need porters – it would be better to look at one of our slackpacking trail options.
+    - question: How fit do you need to be to do this hike?
+      answer:
+        - You will need to have a very good level of fitness and endurance for this hike. You should also have had experience with multi-day hikes carrying a backpack of at least 15kgs.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - When carrying a heavy backpack, boots with ankle support are definitely recommended, though the terrain itself warrants a hiking type shoe or trail sneaker, with a solid sole and grip.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds.
+    - question: Is it possible to get catering on this trail
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - You will get catering if you overnight in any of the village homestays. They provide a simple dinner and breakfast as part of their overnight rate. There are a few small spaza stores along the way for replenishing basic supplies.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/WC_backpacker.JPG
+      caption: The true backpacking experience.
+    - src: ../../img/gallery/WC_grasslands.jpg
+      caption: Backpacking through the grasslands of the Eastern Cape, Wild Coast.
+    - src: ../../img/gallery/WC_cutweni.JPG
+      caption: The deeply-incised gorges on the Pondoland Wild Coast have mostly  precluded development , but also keeps the area a pristine piece of paradise.
+    - src: ../../img/gallery/WC_shebeen.jpg
+      caption: A refresher at a local shebeen on the Pondo Wild Camper.
+    - src: ../../img/gallery/WC_melons.JPG
+      caption: Pumpkins in transit.
+    - src: ../../img/gallery/WC_Mlambom.JPG
+      caption: The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.
+    - src: ../../img/gallery/WC_yellowboat.JPG
+      caption: Local kids having fun on one of the rivers.
+    - src: ../../img/gallery/WC_stickcollecters.jpg
+      caption: Collecting firewood.
+    - src: ../../img/gallery/WC-mtentucrossing.jpg
+      caption: Local ferryman helps hikers cross the Mtentu River.
 price:
-  heading: at a glance
-  overview: null
+  heading: At a Glance
+  overview:
+    - 'Option A: Wild Camping – supply your own tent & food'
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+    - pax: 6-9 Persons
+      price: R1800/pp
+    - pax: 10-12 Persons
+      price: R1700/pp
+
+  heading2: null
+  overview2: null
+  table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - 'Hiking Guide – for 5 Hike days'
+    - 'Private Taxi Transfer (with trailer) from Mbotyi back to Wild Coast Casino'
   notIncludes: null
+
 destination: wildcoast
 activity:
   - hiking
 subActivity:
   - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-wildcamper-500.jpg
+  tagline: Wild Camper
+  title: Pondoland Wild Camper
+  description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, a route, and some logistical support like an end-point transfer? Active Escapes can arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-wildcamper-500.jpg
+  tagline: Wild Camper
+  title: Pondoland Wild Camper
+  description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, a route, and some logistical support like an end-point transfer? Active Escapes can arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-wildcamper-500.jpg
+  tagline: Wild Camper
+  title: Pondoland Wild Camper
+  description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, a route, and some logistical support like an end-point transfer? Active Escapes can arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
 ---

@@ -84,6 +84,7 @@ const RecentlyViews = () => {
         }, {}),
     edges,
   )
+  console.log("allTours: ", allTours)
   return (
     <aside className="recent-block recent-list recent-wide-thumbnail">
       <div className="container">
@@ -91,6 +92,7 @@ const RecentlyViews = () => {
         <div className="row recent-block-row">
           {tours.map((tour) => {
             const { id, frontmatter } = allTours[tour]
+            console.log(id,frontmatter,tour, allTours[tour])
             const {
               tourName,
               slug,

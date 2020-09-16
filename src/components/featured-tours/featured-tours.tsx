@@ -37,9 +37,11 @@ const FeaturedTours = ({
           node {
             id
             frontmatter {
+              meta {
+                description
+              }
               slug
               tourName
-              shortDescription
               activityTour {
                 title
                 tagline
@@ -85,9 +87,9 @@ const FeaturedTours = ({
               const {
                 id,
                 frontmatter: {
+                  meta,
                   tourName,
                   slug,
-                  shortDescription,
                   activityTour: { image, tagline, title, description },
                   destination,
                   activity,
@@ -100,7 +102,7 @@ const FeaturedTours = ({
                     siteUrl,
                     tourName,
                     slug,
-                    shortDescription,
+                    shortDescription: meta.description,
                     image,
                     tagline,
                     title,

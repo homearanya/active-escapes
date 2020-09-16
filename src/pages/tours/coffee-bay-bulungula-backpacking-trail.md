@@ -1,180 +1,189 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Coffee Bay to Bulungula Backpacking Trail
+  description: Starting at Coffee Bay, or Mdumbi, this 3 or 4 night trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
 tourName: Coffee Bay to Bulungula Backpacking Trail
 slug: coffee-bay-bulungula-backpacking-trail
-featured: 0
+featured: 2
 popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP-CBay-Bulungula.jpg
 
-shortDescription: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
+  - For backpackers using the Baz bus, or hikers keen on a landmark trail that can be packed into a long-weekend, this is the trail for you. Starting at Coffee Bay - or Mdumbi for a longer hike option – the trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
+  - This is a fully guided trail, overnighting in funky backpackers with tasty, hearty meals all included. We will also arrange for the bulk of your luggage to be safely transferred to the hike finish, so you get to hike with just your daypack.... as all you really need is a change of clothes, a sarong and your toothbrush!
+  - So come get your ‘insta' moment at the fabled Hole in the Wall and end your experience at the fair trade eco-lodge, Bulungula – voted one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
+fromPricing: R3700
 difficultyLevel: moderate
 duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
+      - 3 Nights / 2 Hike Days. Can be extended to 3-4 Hike Days and extra lay days.
   - heading: Daily Distance
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1 - 16km (5-6hrs)'
+      - 'Day 2 - 13km (4-5hrs)'
+      - 'Extended trail Day 3 - 11km'
+      - 'Day 4 - 8-10km'
+
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - 3.5/ 5 for Fitness. The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. The relatively long hike distances require that participants have a good level of fitness. However, you need only hike with a small backpack.
+      - 3/5 for Technicality. The hiking path on Day 1 contours along steep-sided hill slopes where persons who suffer from vertigo may feel a bit exposed. However, there are no dangerous sections.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - <strong>Coastal Trail</strong> – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Backpackers & Community-Owned Fair Trade Eco-Lodge.
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - 'Fully guided and catered hiking trail with transfers included to/from Mtata.'
+      - 'Main luggage transfer to end-point, so you need only hike with a small daypack and the basics you require for the trail.'
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - From 2 persons – maximum of 14 persons/per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'Indicative costing on the 4 Night/ 2 Hike Day Weekender Trail based on a group of 6-9 persons: R3 700/pp'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Coffee Bay to Bulungula Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - This is the perfect Wild Coast trail for backpackers using the Baz bus, or hikers keen on a landmark trail that can be packed into a long-weekend 3-4 Nights / or 2 Hike days.
+    - Starting at Coffee Bay - or Mdumbi for a longer hike option – the trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
+    - It is a fully guided trail, overnighting in funky backpackers with tasty, hearty meals all included. We will also arrange for the bulk of your luggage to be safely transferred to the hike finish, so you get to hike with just your daypack.
+    - On this trail, you will pass the iconic Hole in the Wall , where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound. You will end the hike at Bulungula – a 100% community owned backpackers lodge and voted one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Public Transport Options -
+        - '14h30 - Baz Bus drops off at Mtata & we’ll arrange a  shuttle down to Coffee Bay (1- 1.5hr transfer time)'
+        - Self-drive
+        - OR self-drive to Mtata – leaving vehicle in secure premises. Transfer down to Coffee Bay (approx 1.5hr).
+        - 'Overnight: <strong>Coffee Bay Backpacker</strong> (Dinner)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 1: Hike from Coffee Bay – Lubanzi (16km/6-7hrs walk)'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Todays hike is up and down and hugs the cliff-line with absolutely breathtaking views. Baby hole, black rocks and probably the most well-known feature on the entire Wild Coast, Hole-in-the-Wall, stand in wait. Tonights accommodation is either in a local backpacker or nearby homestay.
+        - 'Overnight: <strong>Lubanzi Backpacker/Homestay </strong>(Breakfast & packed lunch from C’Bay. Dinner at Lubanzi)'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 2: Hike from Lubanzi Backpackers – Bulungula Lodge (12km/4hrs walk).'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - Todays hike takes you around Mbolompo point, past Mncwasa mouth and on to the picturesque Mpame bay. Up and over a headland and then a long beach awaits for the final stretch in to Bulungula lodge.
+        - 'Overnight: <strong>Bulungula Eco-lodge </strong>(Breakfast & packed lunch from Lubanzi. Dinner at Bulungula)'
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Free Day at Bulungula or Depart'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - Backpacker Shuttle Runs 4 days/week - Tues, Thurs, Fri & Sun leaves 9.30 - gets to Mtata 1pm, airport 1.30pm.
+        - Or enjoy a free day at Bulungula – beach time, pancakes at a local restaurant or visiting one of the many Bulungula Incubator Projects.
+        - 'Overnight: <strong>Bulungula Eco-lodge </strong>(Breakfast &Dinner at Bulungula)'
+    - heading: Day 5
+      subHeading: 'Departure Day - back in Mtata around midday '
+      description:
+        - Backpacker Shuttle Runs 4 days/week - Tues, Thurs, Fri & Sun leaves 9.30 - gets to Mtata 1pm, airport 1.30pm.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/cb-bul_beach.jpg
+      heading: Beaches and Bays
+      subHeading: 'Up and over grassy headlands and to the next secluded bay. '
+    - src: ../../img/gallery/cb-bul_view.jpg
+      heading: Breathtaking Views
+      subHeading: 'On the stretch between Coffee Bay and Hole in the Wall.'
+
 lodging:
-  heading: 'Lodges'
+  heading: 'Lodging'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - <strong>Friendly Backpackers</strong> – usually have some double rooms otherwise small dorms for your group to share.
+    - <strong>Community homestay</strong> - bedding & meals provided.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/cb-bul_lubanzi.JPG
+      heading: Private Double - Backpacker Room
+      subHeading: 'We try to book double or twin rooms, otherwise small private dorms for groups'
+    - src: ../../img/gallery/cb-bul_dining.jpg
+      heading: Colourful Community-based Eco-lodge
+      subHeading: 'A true community owned and operated backpackers'
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Is it possible to organise vehicle luggage transfers on this hike?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - It is not very feasible. It is much better to organise porters on this hike. Budget around R300/porter/per day. However, with the backpacker shuttles between both Coffee Bay and Bulungula, it is possible to send your main travel bag (your extra gear you do not need to be hiking with) to your end-point on arrival - at your own risk.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds.
+    - question: Is it possible to self-cater?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - It is. The backpackers are well equipped for self-catering. The homestays, however, prefer to give meals as they do not provide facilities for self-catering.
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/cb-bul_kids.jpg
+      caption: Kids at play in the village of Bulugwini.
+    - src: ../../img/gallery/cb-bul_stack.jpg
+      caption: The rock stack next to Hole in the Wall, 11kms south of Coffee Bay.
+    - src: ../../img/gallery/cb-bul_group.jpg
+      caption: A corporate hiking group at Hole-in-the-Wall, Coffee Bay.
+    - src: ../../img/gallery/cb-bul_lastlight.jpg
+      caption: Last light on the trail.
+    - src: ../../img/gallery/cb-bul_fire.jpg
+      caption: A bonfire at Bulungula Lodge, Wild Coast.
+    - src: ../../img/gallery/cb-bul_van.jpg
+      caption: Bulungula is a 100% community owned lodge and was voted as one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
+    - src: ../../img/gallery/cb-bul_headland.jpg
+      caption: Headland upon headland, the grassy greens of Summer.
+    - src: ../../img/gallery/cb-bul_estuary.jpg
+      caption: Bulungula Mouth, where your final nights on the trail are spent. Here, life takes on a slower pace.
+    - src: ../../img/gallery/cb-bul_bulungulahuts.jpg
+      caption: Traditional rondavels are made into family, double and twin rooms at Bulungulu Eco Lodge – the final night of the Coffee Bay to Bulungula trail.
 price:
-  heading: at a glance
-  overview: null
+  heading: At a Glance
+  overview:
+    - The 3 Night / 2 Hike Day Package Coffee Bay  - Bulungula
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
+    - pax: 2 Person
+      price: R3700/pp
+    - pax: 3-5 Persons
+      price: R3400/pp
+    - pax: 6-10 Persons
+      price: R3200/pp
     - pax: 11 or more
-      price: R5800/pp
+      price: R3100/pp
+
+  heading2: null
+  overview2: null
+  table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - '<strong>3 Nights Accom</strong> (sharing basis): Coffee Bay Backpacker, Lubanz Backpacker/VBA, Bulungula Lodge'
+    - '<strong>All meals:</strong> from dinner on arrival to breakfast on departure: 3 dinners, 3 breakfast, 2 packed lunches'
+    - '<strong>Backpacker Shuttles</strong>: from/ back to Mtata '
+    - '<strong>Hiking Guide </strong> - for 2 Days up to Bulungula '
+    - '<strong>AE Customisation & Booking Service </strong>'
   notIncludes: null
+
 destination: wildcoast
 activity:
   - hiking
 subActivity:
   - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
+  tagline: Hole in the Wall Bites
+  title: Coffee Bay to Bulungula Hike
+  description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
+  tagline: Hole in the Wall Bites
+  title: Coffee Bay to Bulungula Hike
+  description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-cbay-bul-500x327.jpg
+  tagline: Hole in the Wall Bites
+  title: Coffee Bay to Bulungula Hike
+  description: "Past the iconic 'Hole in the Wall' near Coffee Bay, down to the beautiful Bulungula estuary, this section of Wild Coast can be hiked with overnights in friendly backpackers and village-homestays. Guided, with porter-support as an option, you need not worry about catering or bedding on this full slackpacking trail."
 ---

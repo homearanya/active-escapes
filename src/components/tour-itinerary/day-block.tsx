@@ -34,9 +34,11 @@ const DayBlock = ({
         }
       >
         <div ref={ref} className="slide-holder">
-          {description.map((paragraph, j) => (
-            <p key={j} dangerouslySetInnerHTML={{ __html: paragraph }} />
-          ))}
+          {description
+            ? description.map((paragraph, j) => (
+                <p key={j} dangerouslySetInnerHTML={{ __html: paragraph }} />
+              ))
+            : null}
         </div>
       </div>
     </>
