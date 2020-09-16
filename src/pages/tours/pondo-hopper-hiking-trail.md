@@ -158,6 +158,7 @@ gallery:
 
 price:
   heading: 5 Night/ 5 Day Pondo-Hopper
+  overview: null
   table:
     - pax: 4-6 Persons
       price: R8400/pp

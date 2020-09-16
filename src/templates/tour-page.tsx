@@ -327,6 +327,12 @@ export const query = graphql`
             pax
             price
           }
+          heading2
+          overview2
+          table2 {
+            pax
+            price
+          }
           includes
           notIncludes
         }
