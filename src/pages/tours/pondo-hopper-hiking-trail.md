@@ -166,12 +166,21 @@ price:
     - pax: 11 or more
       price: R7600/pp
 
-  heading2: null
+  heading2: 3 Night / 2 Hike Day Pondo-Hopper
   overview2: null
-  table2: null
+  table2: 
+    - pax: 2 Persons
+      price: R7900/pp
+    - pax: 3 Persons
+      price: R7500/pp
+    - pax: 4-5 Persons
+      price: R6400/pp
+    - pax: 6-8 Persons
+      price: R6100/pp  
+  
   includes:
     - 'Transfer from Port St Johns (or Mbotyi) to Msikaba trail head'
-    - '5 Nights Accommodation: 4 nights in tented camps, 1 night at Mbotyi hotel'
+    - '3/5 Nights Accommodation: 2/4 nights in tented camps, 1 night at Mbotyi hotel'
     - 'Full Catering: DBB + Packed Lunch from all the tented camps & Mbotyi hotel'
     - 'Daily Luggage transfers'
     - 'Bedding and Towels provided'

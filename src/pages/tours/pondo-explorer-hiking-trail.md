@@ -25,7 +25,7 @@ details:
       - 'Day 1: 16km    Day 2: 18.5km '
       - 'Day 3: 11km    Day 4: 10km '
       - 'Day 5: 13km'
-  - heading: Trail Grade
+  - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
       - <strong>2/ 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
@@ -159,12 +159,18 @@ price:
     - pax: 12 or more
       price: R3500/pp
 
-  heading2: null
+  heading2: 3 Night Pondo-Explorer
   overview2: null
-  table2: null
+  table2: 
+    - pax: 2-3 Persons
+      price: R3800/pp
+    - pax: 4-6 Persons
+      price: R3500/pp
+    - pax: 9-10 Persons
+      price: R3000/pp
   includes:
     - 'Transfer from Port St Johns (or Mbotyi) to Msikaba trail head'
-    - '5 Nights Accommodation: 4 nights in tented camps, 1 night DBB at Mbotyi hotel'
+    - '3/5 Nights Accommodation: 2/4 nights in tented camps, 1 night DBB at Mbotyi hotel'
     - 'Inclusive Meals: Dinner & Breakfast at Mbotyi River Lodge'
     - 'Local Guide / Pathfinder for all hike days '
     - ' Full catering facilities available at the tented camps - gas plates, cookware & cutlery '
