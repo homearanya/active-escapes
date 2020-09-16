@@ -7,6 +7,12 @@ export interface TourPriceData {
     pax: string
     price: string
   }[]
+  heading2?: string
+  overview2?: string[]
+  table2?: {
+    pax: string
+    price: string
+  }[]
   includes?: string[]
   notIncludes?: string[]
   emailAddress: string
@@ -22,6 +28,9 @@ const TourPrice = ({
     heading,
     overview,
     table,
+    heading2,
+    overview2,
+    table2,
     includes,
     notIncludes,
     emailAddress,
@@ -61,6 +70,53 @@ const TourPrice = ({
                   </thead>
                   <tbody>
                     {table.map(({ pax, price }, i) => (
+                      <tr key={i}>
+                        <td>
+                          <div className="cell">
+                            <div className="middle">{pax}</div>
+                          </div>
+                        </td>
+                        <td>
+                          <div className="cell">
+                            <div className="middle">{price}</div>
+                          </div>
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          ) : null}
+          {heading2 ? <strong className="header-box">{heading2}</strong> : null}
+          {overview2 ? (
+            <div className="text-box">
+              <div className="holder">
+                {overview2.map((include, i) => (
+                  <p key={i} dangerouslySetInnerHTML={{ __html: include }} />
+                ))}
+              </div>
+            </div>
+          ) : null}
+          {table2 ? (
+            <div className="table-container">
+              <div className="table-responsive">
+                <table className="table table-striped price">
+                  <thead>
+                    <tr>
+                      <th>
+                        <strong className="date-text">PAX</strong>
+                      </th>
+
+                      <th>
+                        <strong className="date-text">Price (PP)</strong>
+                      </th>
+
+                      <th>&nbsp;</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {table2.map(({ pax, price }, i) => (
                       <tr key={i}>
                         <td>
                           <div className="cell">
