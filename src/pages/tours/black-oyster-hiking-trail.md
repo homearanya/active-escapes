@@ -25,8 +25,8 @@ details:
       - 'Day 3: 21km  / 7-8hrs (at sea level)'
   - heading: Trail Grade
     description:
-      - 3/ 5 for Fitness. Moderate to good walking fitness is required. Average of 6hrs hiking / a day.
-      - 1/ 5 for Technicality. No real technical requirements or difficulties. Oldest person to complete this has been 83yrs, and youngest - 6yrs.
+      - <strong>3/ 5 - Fitness</strong>. Moderate to good walking fitness is required. Average of 6hrs hiking / a day.
+      - <strong>1/ 5 - Technicality</strong>. No real technical requirements or difficulties. Oldest person to complete this has been 83yrs, and youngest - 6yrs.
   - heading: Trail Terrain
     description:
       - Coastal Trail –  The trail starts and ends at sea level. Terrain differs every day, from footpaths along cliff tops to beaches and rocky shores.
@@ -35,9 +35,8 @@ details:
       - Quality guesthouses or characteristic cottages on all nights (4-Star). Meals are prepared by local cooks in the traditional Cape style.
   - heading: Logistic Support
     description:
-      - 'This is a fully catered, guided and luggage supported trail, with overnights in 4-star quality establishments, and top-notch meals.'
+      - 'Fully catered, guided and luggage supported trail, with overnights in 4-star quality establishments, and top-notch meals.'
       - 'All rooms are private and ensuite, with bedding and towels provided.'
-      - 'Catering on Day 1 is at an esteemed restaurant, whilst on days 2 - 4, groups can enjoy traditional Cape home cooking.'
       - 'Transfers can also be arranged to/from George & Mossel Bay airports (extra fee).'
   - heading: Group Size
     description:
@@ -79,16 +78,16 @@ itinerary:
       description: null
 
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/OC-2hikers.jpg
+      heading: Golden Dunes on the Black Oyster Trail
+      subHeading: null
+    - src: ../../img/gallery/OC-cliffs.JPG
+      heading: Lichen headlands, Garden Route - Western Cape
+      subHeading: null
 lodging:
   heading: 'Lodges'
   description:
-    - Quality guesthouses or characteristic cottages on all nights (4-Star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style
+    - Quality guesthouses or characteristic cottages on all nights (4-Star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style.
   images:
     - src: ../../img/gallery/OC-cottage.jpg
       heading: One of the Sandpiper Cottages
@@ -101,7 +100,7 @@ faq:
         - No. You will leave your luggage at your overnight accommodation where you will more than likely stay for the entire hike. All you need is a small daypack for your packed lunch and supplies for the day's hiking.
     - question: What type of footwear is appropriate?
       answer:
-        - A trail running shoe or hiking shoe with decent grip is more than sufficinet for this trail.
+        - A trail running shoe or hiking shoe with decent grip is more than sufficient for this trail.
     - question: What is the best time of year for this trail?
       answer:
         - The trail is operational all year round except over peak school holiday periods. During the mild winter months, the area is known for its whale activity. Whales come in to give birth in the quiet protected bays and dazzle us with their displays of breaching and lob-tailing.
@@ -110,19 +109,19 @@ faq:
         - Yes, there are also 2 and 3 night versions of this trail .
 gallery:
   pictures:
-    - src: ../../img/gallery/OC_cliffs.JPG
+    - src: ../../img/gallery/OC-cliffs.JPG
       caption: Lichen headlands on the Black Oyster trail.
-    - src: ../../img/gallery/OC_cottage.jpg
+    - src: ../../img/gallery/OC-cottage.jpg
       caption: Quaint accommodation
-    - src: ../../img/gallery/OC_oystercatchers.jpg
+    - src: ../../img/gallery/OC-oystercatchers.jpg
       caption: The Black Oystercatchers are known to pair up for as long as 25 years.
-    - src: ../../img/gallery/OC_voorhuis.jpg
+    - src: ../../img/gallery/OC-voorhuis.jpg
       caption: Cosy lodgings.
-    - src: ../../img/gallery/OC_2hikers.jpg
+    - src: ../../img/gallery/OC-2hikers.jpg
       caption: Golden dunes and aquamarine ocean on the Black Oyster Trail.
-    - src: ../../img/gallery/OC_pinnacles.JPG
+    - src: ../../img/gallery/OC-pinnacles.JPG
       caption: At Pinnacle Point, an optional experience is the POHO (Point of Human Origin) presentation by Dr Peter Nilssen with a guided tour of the famous 13 series middle stone age caves.
-    - src: ../../img/gallery/OC_bedroom.jpg
+    - src: ../../img/gallery/OC-bedroom.jpg
       caption: null
 price:
   heading: At a Glance

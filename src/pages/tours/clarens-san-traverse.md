@@ -5,8 +5,8 @@ meta:
   description: A 3-day slackpacker offering high berg wilderness and cultural treasures - San paintings, dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
 tourName: Clarens San Traverse
 slug: clarens-san-traverse
-featured: 2
-popular: 4
+featured: 4
+popular: 6
 featuredImage: ../../img/generic/PP-Skywalk.JPG
 
 longDescription:
@@ -33,13 +33,13 @@ details:
       - The terrain varies between well maintained hiking paths, mountain paths, ravine trails and rocky ridges.
   - heading: Accommodation
     description:
-      - Comfortable farm stays - 3-star equivalent. 
+      - Comfortable farm stays & lodges - 3-star. 
   - heading: Logistic Support
     description:
-      - 'This is a fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfer (to collect own vehicles from start or finish) is included.'
+      - 'A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfers to vehicles.'
   - heading: Group Size
     description:
-      - Preferred minimum of <strong>4</strong> persons and maximum <strong>12-14 </strong>persons per group.
+      - Min of <strong>4</strong> persons and max <strong>12-14 </strong>persons per group.
   - heading: Pricing
     description:
       - 'On a full group of 10-12 persons: R5000/pp/sharing'
@@ -74,23 +74,21 @@ itinerary:
         - Restaurant lunch in Clarens for own account.
   
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/clarens_fallowfields.jpeg
+      heading: A fallow field amongst Clarens Sandstone - Hike Day 1 
+      subHeading: null
+    - src: ../../img/gallery/clarens_overhang.JPG
+      heading: Caves and overhangs provide a shady spot to rest.
+      subHeading: null
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - Homely farm stays and country lodges - 3-star equivalent.
   images:
     - src: ../../img/gallery/clarens_stone-cottage.JPG
       heading: Original Sandstone cottage, St Fort - First nights  accomodation.
-      subHeading: ''
-    - src: ../../img/gallery/clarens_cafe.JPG
-      heading: Coffee before the trail
-      subHeading: "The final day of the Clarens San Traverse offers an opportunty to sample Claren's cafe culture"
+      subHeading: null
+    
 faq:
   faq:
     - question: Do we carry our own backpacks?

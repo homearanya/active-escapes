@@ -5,7 +5,7 @@ meta:
   description: Starting at Coffee Bay, or Mdumbi, this 3 or 4 night trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
 tourName: Coffee Bay to Bulungula Backpacking Trail
 slug: coffee-bay-bulungula-backpacking-trail
-featured: 0
+featured: 2
 popular: 0
 featuredImage: ../../img/generic/PP-CBay-Bulungula.jpg
 
@@ -25,7 +25,8 @@ details:
       - 'Day 1 - 16km (5-6hrs)'
       - 'Day 2 - 13km (4-5hrs)'  
       - 'Extended trail Day 3 - 11km'  
-      -  'Day 4 - 8-10km' 
+      - 'Day 4 - 8-10km' 
+
   - heading: Trail Grading
     description:
       - 3.5/ 5 for Fitness. The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. The relatively long hike distances require that participants have a good level of fitness. However, you need only hike with a small backpack.
@@ -60,7 +61,7 @@ itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - Public Transport Options
+        - Public Transport Options -
         - '14h30 - Baz Bus drops off at Mtata & we’ll arrange a  shuttle down to Coffee Bay (1- 1.5hr transfer time)' 
         - Self-drive   
         - OR self-drive to Mtata – leaving vehicle in secure premises. Transfer down to Coffee Bay (approx 1.5hr).
@@ -85,6 +86,7 @@ itinerary:
       subHeading: 'Departure Day - back in Mtata around midday '
       description:
         - Backpacker Shuttle Runs 4 days/week - Tues, Thurs, Fri & Sun leaves 9.30 - gets to Mtata 1pm, airport 1.30pm.
+
   images:
     - src: ../../img/gallery/cb-bul_beach.jpg
       heading: Beaches and Bays
@@ -160,6 +162,7 @@ price:
     - '<strong>Hiking Guide </strong> - for 2 Days up to Bulungula '
     - '<strong>AE Customisation & Booking Service </strong>'
   notIncludes: null
+  
 destination: wildcoast
 activity:
   - hiking
