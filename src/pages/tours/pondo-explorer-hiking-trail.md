@@ -6,7 +6,7 @@ meta:
 tourName: Pondo Exploring
 slug: pondo-explorer-hiking-trail
 featured: 3
-popular: 2
+popular: 1
 featuredImage: ../../img/generic/PP-PondoExplore.JPG
 
 longDescription:
@@ -19,8 +19,9 @@ duration: 3 or 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 or 5 Night Std Hike Options. Extra rest days possible.
-  - heading: Daily Distance
+      - 3 or 5 Night Std Hike Options 
+      - '* Extra rest days possible'
+  - heading: Daily Distances
     description:
       - 'Day 1: 16km    Day 2: 18.5km '
       - 'Day 3: 11km    Day 4: 10km '
@@ -43,10 +44,10 @@ details:
       - '* Optional: Porter-support'
   - heading: Group Size
     description:
-      - Min 2 pax and max 24 pax per camp.
+      - Min <strong>2</strong> pax and max <strong>24</strong> pax per camp
   - heading: Pricing
     description:
-      - 'On a group of 4 -6 persons: R4,100/pp for the 5 Night Explorer'
+      - 'On a group of 4 -6 persons: <strong>R4,100/pp</strong> for the 5 Night Explorer'
 
 emailSubject: Pondo-Explorer Hike Enquiry – PP Enquire Now
 overview:
@@ -169,12 +170,12 @@ price:
     - pax: 9-10 Persons
       price: R3000/pp
   includes:
-    - 'Transfer from Port St Johns (or Mbotyi) to Msikaba trail head'
-    - '3/5 Nights Accommodation: 2/4 nights in tented camps, 1 night DBB at Mbotyi hotel'
+    - '<strong>Transfer</strong> from Port St Johns (or Mbotyi) to Msikaba trail head'
+    - '<strong>3/5 Nights Accommodation:</strong> 2/4 nights in tented camps, 1 night DBB at Mbotyi hotel'
     - 'Inclusive Meals: Dinner & Breakfast at Mbotyi River Lodge'
-    - 'Local Guide / Pathfinder for all hike days '
+    - '<strong>Local Guide / Pathfinder</strong> for all hike days '
     - ' Full catering facilities available at the tented camps - gas plates, cookware & cutlery '
-    - 'Reserve Permits & Trail Fees'
+    - '<strong>Reserve Permits & Trail Fees</strong>'
     - 'Emergency Support Service'
     - 'Pre-booking of porters'
   notIncludes: null

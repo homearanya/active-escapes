@@ -1,182 +1,188 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Mtentu-Explorer Hiking Trail, Northern Wild Coast
+  description: Walk on the Wild Coast just 2hrs from Durban, on our 3 night Mtentu-Explorer – overnighting in a homestay and then 2 nights at an eco-lodge on the pristine Mtentu estuary. Ideal family getaway.
 tourName: Mtentu-Explorer Hiking Trail
 slug: mtentu-explorer-hiking-trail
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featured: 1
+popular: 2
+featuredImage: ../../img/generic/PP-mtentuexplorer.jpg
 
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
+  - This is a great option for persons short on time, who want to hike the Wild Coast, but within easy accessibility of Durban. The hike to Mtentu is 2 days, overnighting at a village homestay the first night, and then hiking through to Mtentu Lodge for another two nights. The hike goes through the Pondoland Centre of Endemism (a specialist plant guide can be organised for botanical enthusiasts), with the Mzamba fossils and the red dunes being other natural highlights. These dunes, and the Xolobeni community in which you overnight, are at the heart of the proposed mining battle.
+  - The village homestay is basic but provides an excellent cultural experience. Mtentu Lodge provides wood and thatch accommodation. All bedding and meals are provided. On your free exploration day, you can hike into neighbouring Mkambathi Reserve or take a canoe up the beautiful Mtentu estuary and do the epic Swallowtail Falls kloofing hike.
+  - On departure day – we will provide you with a 4x4 transfer back to your vehicle left at the Wild Coast Casino.
+fromPricing: R3000
 difficultyLevel: moderate
 duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
+      - 2 Hike Days & 1 Free Day / 3 Nights 
+      - '* Extra days avail'
   - heading: Daily Distance
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 14km    Day 2: 12-14km'
+      - 'Day 3: 10-12km (optional)'    
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>2.5/ 5 - Fitness</strong>. Porters can be arranged on special request
+      - <strong>2/ 5 - Technicality</strong>. No technical sections, but may be a river crossing
+
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - Coastal Trail - traversing grassland, sandy beaches and friendly Pondo villages.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - '1 Night <strong>Village Homestay</strong> - traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath'
+      - '2 Nights <strong>Mtentu River Lodge</strong> (Backpacker style)'
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - Fully catered & guided trail (guided to Mtentu, 3rd day self-exploration)
+      - Return transfer
+      - '* Optional: Porter-support'
+     
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - From <strong>2</strong> persons. No max, but <strong>12</strong> pax / per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a group of 6 -10 persons: <strong>R3000/pp</strong>'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Mtentu-Explorer Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - The hike to Mtentu is two days, overnighting at a village homestay the first night, and then hiking through to Mtentu Lodge for another two nights. The village homestay is basic but provides an excellent and authentic cultural experience.
+    - Mtentu Lodge provides wood-and-thatch accommodation, with all bedding and meals provided. On your free exploration day, you can hike into neighbouring Mkambathi  Reserve where you can go swimming up to waterfalls and see roaming game.  You can also take a canoe up the gorgeous Mtentu estuary, do the epic Swallow Falls kloofing hike, or just enjoy this stunning private beach.
+
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day
+      subHeading: 'Arrival & Hike Day 1: Wild Coast Casino – Nyameni (14km)'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Leave your vehicle in secure parking at the Wild Coast casino and meet your guide. Today’s hike is mostly along the beach passing remnants of a petrified forest, through to the stunning Nyameni river and then on to the Xolobeni village for a night in a local homestay.'
+        - 'Overnight: <strong>Nyameni Village Homestay</strong> (dinner)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 2: Nyameni to Mtentu (12-14km)'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and then on to Mtentu.
+        - 'Overnight: <strong>Mtentu River Lodge </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 3: Mtentu – free day or self-exploration'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - Hike into neighbouring Mkambati Nature Reserve –where you can do a 10km return hike to Mkambati & Strandloper waterfalls.
+        - For the fit and adventurous – take a paddle up the stunning Mtentu estuary and do the Swallowtail Falls rock-hop (approx. 10km return), or just enjoy a general relaxation day - swimming, snorkelling, beach chill.
+        - 'Overnight: <strong>Mtentu River Lodge </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Return Transfer Day'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - After breakfast or lunch - 4x4 return transfer back to the Wild Coast casino (approx. 2hr transfer).
+        
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/mtentuexplorer_view.jpeg
+      heading: Mtentu Lodge Surrounds
+      subHeading: null
+    
 lodging:
-  heading: 'Lodges'
+  heading: Lodges
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - '1 Night at a <strong>Village Homestay</strong> - traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath.' 
+    - '2 Nights at <strong>Mtentu River Lodge</strong> - 4-sleeper Log Cabins (twin front room, bunk bed back room), communal ablutions (hot water showers), central dining area and bar.'
+  
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/mtentuaccom_chalet.jpeg
+      heading: null
+      subHeading: null
+    
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Is it possible to organise vehicle luggage transfers on this hike?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - It is possible, and feasible for a larger group,  but local porters are a better option for smaller groups.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - A hiking type shoe or trail sneaker is perfect for this trail.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
+        - The Wild Coast has a very temperate climate so can be hiked all year round. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds. Please try avoid the school holiday periods as the lodge is very popular over these times.
     - question: Can this hike be shortened to two days?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Yes it can, or it can be extended with extra nights at Mtentu. Or consider our longer Pondo-Voyager trail.
+    - question: Is it possible to self-cater? 
+      answer:
+        - No. Mtentu lodge does not offer a self-catered option.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/mtentuexplorer_estuary.jpeg
+      caption: The pristine Mtentu estuary. The beach waxes and wanes with the coming and going of the tide.
+    - src: ../../img/gallery/mtentuexplorer_kids.jpg
+      caption: A night in a village homestay in the community of Xolobeni – first night of the Mtentu-Explorer hiking trail.
+    - src: ../../img/gallery/mtentuexplorer_xolobeni.jpg
+      caption: Rural homesteads in Xolobeni, near the Nyameni river. Social distancing naturally in place.
+    - src: ../../img/gallery/mtentuexplorer_vba-bath.jpg
+      caption: There is no running water in the village homestay, but your hostess will go to great effort of collecting and heating up water over a fire to provide you with a warm bucket bath. It’s amazing how squeaky clean you feel after such a ‘bath’.
+    - src: ../../img/gallery/mtentuexplorer_view.jpeg
+      caption: The grasslands surrounds of Mtentu. The headland is in Mkambathi Nature Reserve, on which the Mtentu River forms the southern boundary.
+    - src: ../../img/gallery/mtentuexplorer_kloofing.jpeg
+      caption: 'For the agile and adventurous: the paddle – kloof up to Swallowtail Falls on the Mtentu estuary, comes highly recommended!' 
+    - src: ../../img/gallery/mtentuexplorer_mtentu.jpg
+      caption: Paddling up the Mtentu estuary.
+    - src: ../../img/gallery/mtentuexplorer_boardwalk.jpeg
+      caption: Mtentu Lodge’s chalets are connected by wooden walkways.  
+    - src: ../../img/gallery/mtentuexplorer_pool.jpeg
+      caption: The ‘kloofing’ scrambling up to Swallowtail falls is just under 2kms one way, but takes a good few hours there and back, with so many pools that just can’t go unswum.
+    - src: ../../img/gallery/mtentu-exlorer_waterfall.jpeg
+      caption: A waterfall with no name….just one of the amazing natural splendours viewed from a canoe, as one paddles up the Mtentu estuary.   
+
 price:
-  heading: at a glance
+  heading: At a Glance
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
+    - pax: 2 Persons
+      price: R4200/pp
+    - pax: 3 Persons
+      price: R3600/pp
+    - pax: 4-5 Persons
+      price: R3200/pp
+    - pax: 6-10 Persons
+      price: R3000/pp
     - pax: 11 or more
-      price: R5800/pp
+      price: R2800/pp
+    
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
+    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at a village Homestay & 2 nights Mtentu Lodge'
+    - '<strong>All meals:</strong> from dinner on first night to lunch on  final day (3 Breakfasts, 3 Lunches, and 3 Dinners)'
+    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is a self-exploration day)'
+    - '<strong>4x4 Return Transfer</strong> - from Mtentu - back to WC Casino'
+    
+  notIncludes: 
+  - Mtentu chalets are 4-sleeper chalets & are costed on a sharing basis for your group. If couples wish to have EXCLUSIVITY of a chalet, they’ll need to pay a R300/pp exclusivity supplement, based on 2 persons only.
+  - 'Canoe Hire at Mtentu (for Swallowtail Falls): R100/per canoe'
+  
 destination: wildcoast
 activity:
   - hiking
 subActivity:
   - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-mtentu-500.jpg
+  tagline: Exploring Mtentu
+  title: Red Dunes & Kloofing - Mtentu Explorer
+  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-mtentu-500.jpg
+  tagline: Exploring Mtentu
+  title: Red Dunes & Kloofing - Mtentu Explorer
+  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-mtentu-500.jpg
+  tagline: Exploring Mtentu
+  title: Red Dunes & Kloofing - Mtentu Explorer
+  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 ---

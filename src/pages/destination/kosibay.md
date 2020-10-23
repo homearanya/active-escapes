@@ -6,16 +6,18 @@ meta:
 destinationName: Kosi Bay
 code: kosibay
 banner:
-  image: ../../img/banner/dest-drak.JPG
-  heading: Drakensberg Adventures
-  subHeading: Hiking, Biking & Nature Holidays in a World Heritage Site
+  image: ../../img/banner/dest-kosibay.jpg
+  heading: "Kosi and Maputaland's Pearls"
+  subHeading: Hiking, Snorkeling and Turtle Tours in a sub-tropical Paradise 
 intro:
-  heading: Discover the real Drakensberg by foot, pedal or hoof
+  heading: Diversity delights in Kosi Bay  
   text:
-    - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
-    - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
+    - In the north-eastern reaches of KwaZulu-Natal, hugging the Mozambican border, is a bay comprising four interconnected lakes which filter into the sea via a sandy estuary. The tropical weather and chilled vibes, makes Kosi Bay a year-round holiday destination.
+    - Stepping from fern and swamp forests, into mangroves, then grasslands, and up the coastal dune forests; one gets a feeling for the diversity of ecosystems that exists in this unique conservancy – the northern most tip of iSimangaliso’s Wetland Park.
+    - The best way to explore the area is by foot; making your way between the lala palms, cycads and mangroves, and taking to the water for snorkelling in Kosi Mouth. We have a number of slackpacking options which circumnavigate the lakes, and a few that combine the lakes with the pristine beaches down to Lala Nek and Mabibi.
+    - From November to February, the magnificent Loggerhead and Leatherback turtles can be seen coming ashore to lay their eggs, and Active Escapes can arrange private guided viewings for interested groups.
   bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
+  locations: Kosi Bay Lakes, Lala Nek, Mabibi
   icon: ../../img/icons/ico-landing-hiking.svg
 activities:
   - activity: hiking

@@ -6,16 +6,17 @@ meta:
 destinationName: Western Cape
 code: westerncape
 banner:
-  image: ../../img/banner/dest-drak.JPG
-  heading: Drakensberg Adventures
-  subHeading: Hiking, Biking & Nature Holidays in a World Heritage Site
+  image: ../../img/banner/dest-wcape1.jpg
+  heading: The Western Cape & Garden Route 
+  subHeading: Wining, dining, whale watching and walking
 intro:
-  heading: Discover the real Drakensberg by foot, pedal or hoof
+  heading: Mediterranean Amblings
   text:
-    - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
-    - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
-  bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
+    - Tipping the most southerly section of South Africa is the wonderful Western Cape. Edged by the Atlantic Ocean on the west, and the Indian Ocean on the east; the Western Cape is famed for its diverse climates. 
+    - Most of the Western Cape is classified as 'Mediterranean' and is dominated by the sandstone Cape Fold Mountains. The interior sports semi-arid conditions typical of the mystical Karoo, and as one heads up the east coast the environment mellows into a maritime climate, feeding dense moisture into the green forests of the Garden Route. 
+    - Boasting the endemic Cape Floral Kingdom with nostalgic whiffs of Fynbos underfoot; the Western Cape is exceptionally popular with local and international holiday makers. Whether it's strolling from one vineyard to the next on the Winelands Trail, dossing down in luxury B&Bs after a day of dedicated strandlooping, or whale watching along the coast, there's something for everyone in this foot of the country.
+  bestSeason: Jan – May; Sept - Dec
+  locations: Mossel Bay, Hermanus, Overberg, Cederberg
   icon: ../../img/icons/ico-landing-hiking.svg
 activities:
   - activity: hiking

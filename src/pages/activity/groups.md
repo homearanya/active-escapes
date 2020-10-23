@@ -1,25 +1,26 @@
 ---
 templateKey: activity-page
 meta:
-  title: Groups
+  title: Group Adventures
   description: Activities for Groups
 activityName: Groups
 code: groups
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-group.JPG
+  heading: Group Adventures
+  subHeading: "Friends or Business: by the end, hopefully both"  
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Good Company in a journey makes the way seem shorter.   
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
+    - Tired of the same old company team builds? Run out of ideas for the staff Christmas party?  Or perhaps it’s time for the company’s seniors to brain storm and strategise?  Getting out into a remote and beautiful place is a great way to do this. Avoid the constant distractions of your mobile and everything else that comes with ‘the office’, and let us organise a novel location with fresh air and activity to get the brain cells firing.
+    - With locations close to Durban and Johannesburg (the Drakensberg & KZN Midlands), or further afield but more remote  (Kosi Bay, Wild Coast) - Active Escapes can transform your next strategy session into a game-changer.
+    - Likewise, over the years, we have customised many girl’s getaways, boys weekends, bulls and hens parties, or just intimate and unique gatherings for friends and families.  Many of our hikes are done by such groups and we have them coming back year-after-year with a new destination request.  Adventures like white water rafting also make for a great team-build or group getaway.
+  bestSeason: Year-Round Options
+  locations: Drakensberg, Tugela, Midlands, Wild Coast
+  icon: ../../img/icons/ico-group-large.svg
 toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
-icon: icon-group-large
+  heading: Group Activity Options
+  subHeading: Hike, Bike or Paddle your way into a new Strategy
+icon: ico-group-large
 order: 6
 ---

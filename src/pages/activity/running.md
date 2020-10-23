@@ -1,25 +1,28 @@
 ---
 templateKey: activity-page
 meta:
-  title: Family
-  description: Activities for Families
+  title: Trail-Running
+  description: Trail Running - Berg, Bush and Beach
 activityName: Running
 code: running
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-running.jpg
+  heading: Running Free
+  subHeading: In the Berg, Bush and Beaches of KZN and the Wild Coast
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Find a trail that takes your breath away
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
+    - Trail running is an outdoor pursuit growing at an exponential rate in South Africa. With our vast and varied landscapes; awesome trails unfold through mountains, along coastlines, and into out-of-the-way places that only the fit and adventurous get to experience.
     - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
+    - Active Escapes offer trail running getaways on the Wild Coast, in the KwaZulu-Natal Midlands and the Drakensberg. Using our point-to-point supported tours means you're left to run wild and free, while we transport your bags to the foot of the next bed, and ensure the beers are frosted on arrival. 
+    - The Lower Wild Coast hotel-hopping section and the Giants Cup Berg trail are two destinations with well positioned hotels / guest lodges and easier support logistics. However, many of our hiking products can potentially be trail run with some modifications to distances and logistics. 
+
+  bestSeason: Year-round but best to avoid peak holiday periods
+  locations: Drakensberg, Wild Coast, Midlands
   icon: ../../img/icons/ico-landing-hiking.svg
 toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+  heading: TRAIL RUNNING PRODUCTS
+  subHeading: Many of our hikes can be trail run with some modifications to distances and logistics.
 icon: ico-running ux
 order: 8
 ---

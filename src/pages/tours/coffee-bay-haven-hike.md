@@ -1,62 +1,62 @@
 ---
 templateKey: tour-page
 meta:
-  title: Coffee Bay to Haven Hiking Trail
-  description: C’Bay to Bulungula trail extended by an extra day down to Haven hotel. Backpackers, community lodge and family-hotel accom.
-tourName: Coffee Bay to Haven Hiking Trail
+  title: Coffee Bay to Haven Hiking Trail, Central Wild Coast
+  description: The Coffee Bay to Bulungula trail extended by an extra day to Haven hotel. Overnight in backpackers, a community-run lodge and family-hotel. A wonderful trail in the lesser explored stretch of Wild Coast.
+tourName: Coffee Bay to Haven Trail
 slug: coffee-bay-haven-hiking-trail
-featured: 4
+featured: 8
 popular: 0
 featuredImage: ../../img/generic/PP-Cbay-Haven.jpg
 
 longDescription:
   - The Coffee Bay to Bulungula trail can easily be extended down to the Haven hotel by adding an extra hike day. An extra night or two at the lovely Haven hotel, bordering Dwesa Nature reserve, comes highly recommended.
-  - This is a varied trail with a mix of accommodation from backpackers to a community lodge and family-friendly hotels. There are iconic landmarks along the way, and a diversity of terrain and experience.
+  - This is a varied trail with a mix of accommodation from backpackers to a community lodge and family-friendly hotels. There are iconic landmarks along the way, and a good diversity of terrain and experience.
 fromPricing: R6000
-difficultyLevel: moderate
+difficultyLevel: challenging
 duration: 3 - 4 Hike Days
 details:
   - heading: Trip Duration
     description:
       - 3 - 4 Hike Days / 4 Nights
-  - heading: Daily Distance
+  - heading: Daily Distances
     description:
-      - 'Day 1 - 16km (5-6hrs)'
-      - 'Day 2 - 13km (4-5hrs)'
-      - 'Day 3 - 17km (6-7hrs)'
-
+      - 'Day 1 - 16km   Day 2 - 13km  '
+      - 'Day 3 - 17km'
+      
   - heading: Trail Grading
     description:
-      - <strong>3.5 -4 / 5</strong> for <strong>Fitness</strong>. The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. The relatively long hike distances require that participants have a good level of fitness.
-      - <strong>3 / 5<s/trong> for <strong>Technicality</strong>. The hiking path on Day 1 contours along steep-sided hill slopes where persons who suffer from vertigo may feel a bit exposed. However, there are no dangerous sections.
+      - <strong>3.5 -4 / 5</strong> - <strong>Fitness</strong>. Hilly terrain combined with relatively long hike distances along this stretch, requires hikers have a good level of fitness.
+      - <strong>3 / 5</strong> - <strong>Technicality</strong>. The hiking path on Day 1 contours along steep-sided hill slope where persons who suffer from vertigo may feel a bit exposed. 
 
   - heading: Trail Terrain
     description:
-      - <strong>Coastal Trail</strong> – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
+      - Coastal Trail – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
 
   - heading: Accommodation
     description:
-      - Backpackers
+      - Backpackers / Village Stays
       - Community-Owned Fair Trade Eco-Lodge
       - Traditional Wild Coast Hotel
   - heading: Logistic Support
     description:
-      - Fully catered hiking trail with transfers included to/from Mtata.
+      - Fully catered hiking trail
+      - Transfers included to/from Mtata.
       - Partially or fully guided.
 
   - heading: Group Size
     description:
-      - From 2 persons – maximum of 14 persons/per guide.
+      - From <strong>2</strong> persons – max <strong>14</strong> persons/per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 -8 persons: R5,600/pp/sharing for the 4 Night / 3 Hike Day trail'
-      - '* Price dependent on customised route / itinerary.'
+      - 'On a group of 6 -8 persons: <strong>R5600/pp</strong> for the 4 Night / 3 Hike Day trail'
+      
 
 emailSubject: Coffee Bay to Haven Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - An extended option on Coffee Bay – Bulungula, this trail takes in the iconic ‘Hole in the Wall’, the esteemed beaches of Mpame and Bulungula, and finishes at the lovely Haven Hotel, where we highly recommend a two night stay.
+    - An extended option on Coffee Bay – Bulungula, this trail takes in the iconic ‘Hole in the Wall’, the esteemed beaches of Mpame and Bulungula, and finishes at the lovely Haven Hotel, where we highly recommend staying an extra night or two.
     - It is best suited to groups of 4 or more as we'll organise a private transfer collection from the Haven. The trail is a mix of backpacker and hotel accommodation options and is well suited to friend and family groups.
 itinerary:
   itinerary:
@@ -66,12 +66,12 @@ itinerary:
         - Public Transport Options -
         - 14h30 - Baz Bus drops off at Mtata & we’ll arrange a  shuttle down to Coffee Bay (1- 1.5hr transfer time)
         - OR self-drive to Mtata – leaving vehicle in secure premises. Transfer down to Coffee Bay (approx 1.5hr).
-        - Overnight - <strong>Coffee Bay Backpacker</strong> (Dinner).
+        - 'Overnight: <strong>Coffee Bay Backpacker</strong> (Dinner).'
     - heading: Day 2
       subHeading: 'Hike Day 1: Hike from Coffee Bay – Lubanzi (16km/6-7hrs walk)'
       description:
         - Todays hike is up and down and hugs the cliff-line with absolutely breathtaking views. Baby hole, black rocks and probably the most well-known feature on the entire Wild Coast, Hole-in-the-Wall, stand in wait. Tonights accommodation is either in a local backpacker or nearby homestay.
-        - 'Overnight - <strong>Lubanzi Backpacker/Homestay </strong>(Breakfast & packed lunch from C’Bay. Dinner at Lubanzi).'
+        - 'Overnight: <strong>Lubanzi Backpacker/Homestay </strong>(Breakfast & packed lunch from C’Bay. Dinner at Lubanzi).'
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike from Lubanzi Backpackers – Bulungula Lodge (12km/4hrs walk).'
       description:
@@ -88,10 +88,7 @@ itinerary:
         - Private transfer back to Mtata (approx. 3hrs).
         - Or enjoy an extra day or two at the lovely Haven Hotel.
 
-  images:
-    - src: ../../img/gallery/cb-bul_beach.jpg
-      heading: Beaches and Bays
-      subHeading: 'Up and over grassy headlands and to the next secluded bay. '
+  images:  
     - src: ../../img/gallery/cb-bul_view.jpg
       heading: Breathtaking Views
       subHeading: 'On the stretch between Coffee Bay and Hole in the Wall.'
@@ -120,7 +117,7 @@ faq:
         - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.
     - question: What type of footwear is appropriate?
       answer:
-        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
+        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. We personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
     - question: What is the best time of year for this trail?
       answer:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphins and pelagic birds.
@@ -128,11 +125,13 @@ faq:
 gallery:
   pictures:
     - src: ../../img/gallery/CB-Haven_aloehikers.jpg
-      caption: Grassy sugar-loafed hills dotted with aloes (spectacular in flower) is a beautiful scene along this stretch of Wild Coast.
+      caption: Grassy sugar-loafed hills dotted with aloes are a typical scene along this stretch of Wild Coast.
     - src: ../../img/gallery/CB-Haven_view.jpg
       caption: The terrain between Coffee Bay and Mpande is a series of hills, cliff faces and bays.  A rounded rock on the top of one of the hills, makes for a great viewing vantage.
     - src: ../../img/gallery/CBay-Haven_HIW beadsellers.jpg
       caption: Bead sellers at Hole in the Wall.
+    - src: ../../img/gallery/CB-Haven_aloegrass.jpg
+      caption: From headland to headland on the Coffee Bay - Haven hiking stretch.
     - src: ../../img/gallery/CB-Haven_sunsetbeach.jpg
       caption: A bay at sunset on the Coffee Bay - Haven Hiking trail.
     - src: ../../img/gallery/CB-Haven_HIW.jpg
@@ -140,14 +139,11 @@ gallery:
     - src: ../../img/gallery/CB-haven_lighthouse.JPG
       caption: View of the lighthouse confirms you are close to your final destination – the Haven Hotel.
     - src: ../../img/gallery/CB-Haven_beach.jpg
-      caption: Calm bays and Ocean Blue - near Hole in the Wall.
-    - src: ../../img/gallery/CB-Haven_aloegrass.jpg
-      caption: From headland to headland on the Coffee Bay - Haven hiking stretch.
+      caption: Calm bays and Ocean Blue - near Hole in the Wall   
 
 price:
   heading: At a Glance
-  overview:
-    - 4N Coffee Bay – Haven (more luxury) Trail
+  overview: null
   table:
     - pax: 4-5 Persons
       price: R6000/pp

@@ -6,25 +6,26 @@ meta:
 destinationName: KZN Interior
 code: kzn_interior
 banner:
-  image: ../../img/banner/dest-drak.JPG
-  heading: Drakensberg Adventures
-  subHeading: Hiking, Biking & Nature Holidays in a World Heritage Site
+  image: ../../img/banner/dest-tugela.JPG
+  heading: Inside KwaZulu-Natal
+  subHeading: Bushveld and Battlefields – the Explorer's Playground 
 intro:
-  heading: Discover the real Drakensberg by foot, pedal or hoof
+  heading: Adventure lies in wait  
   text:
-    - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
-    - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
-  bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
-  icon: ../../img/icons/ico-landing-hiking.svg
+    - With the Drakensberg Mountains lying in stark contrast to the thorny bushveld of the Tugela Valley, central KwaZulu-Natal is a fascinating mix of Anglo-Boer history, wide open spaces and deeply gorged rivers.
+    - The legacy of the violent struggles fought between the English, Boers and Zulus, is very apparent in the area, with dozens of war memorials, museums and battle sites paying homage to these bloody battles. But aside from the turbulent memories that lie quietly in the KZN dust, the Tugela Valley is an exciting and somewhat under-utilised active holiday destination.
+    - Whether its zapping down the red earth trails, or navigating the white waters of the mighty Tugela river which winds its way through the hinterland, KwaZulu’s Natal’s interior has plenty of adventures in store. 
+  bestSeason: Year round & Summer Rafting
+  locations: Tugela River, Battlefields, Umkomaas 
+  icon: ../../img/icons/icon-rafting.inline.svg
 activities:
-  - activity: hiking
-    image: ../../img/listing/activity-wc-hiking.jpg
-    heading: Wild Coast Hiking Trips
-    subHeading: Hotels, tented camps & village-based trails from Port Edward to Cintsa
-    description: Walking the Wild Coast is the surest way of easing into the Transkei vibe. From village homestays to hotel lays, with tented camps and traditional backpackers along the way, we cover the entire stretch of Wild Coast with trail options to suit all levels of fitness and comfort.
-    link: '/wildcoast/'
-    filter: hiking
-    featured: 0
+  - activity: rafting
+    image: ../../img/gallery/umko-500.jpg
+    heading: White-water Rafting Trips
+    subHeading: on the Umkomaas and Tugela Rivers - Central KZN
+    description: "Experience the thrill of rafting SA’s warmest, high-volume white water south of the Zambezi: the mighty Umkomaas river – near Richmond, KZN. During summer the river runs as a Grade 3, with rapids pumping up to Grade 4 after heavy rains"    
+    link: '/kzn_interior/'
+    filter: rafting
+    featured: 1
 order: 6
 ---

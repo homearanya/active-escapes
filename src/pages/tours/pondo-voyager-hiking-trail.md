@@ -2,7 +2,7 @@
 templateKey: tour-page
 meta:
   title: Pondo Voyager Hiking Trail
-  description: The 5 Day Pondo-Voyager from Port Edward to Mbotyi, is the closest Wild Coast hike option for KZN and Gautengers. This hike packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and local hotel. 
+  description: This 5 Day Hiking Voyage from Port Edward to Mbotyi, is the closest Wild Coast hike option to KZN and Gauteng. This hike packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and local hotel. 
 tourName: Pondo-Voyager Hiking Trail
 slug: pondo-voyager-hiking-trail
 featured: 5
@@ -20,7 +20,7 @@ details:
   - heading: Trip Duration
     description:
       - 5 Hike Days / 5 Nights – extra 'lay' days can be taken
-      - Extensions down to Port St Johns (8 days) is also possible.
+      - Extensions down to Port St Johns (8 days) - also possible.
   - heading: Daily Distance
     description:
       - 'Day 1: 14km    Day 2: 12-14km '
@@ -48,10 +48,10 @@ details:
       - 'Porter support can be arranged on special request.' 
   - heading: Group Size
     description:
-      - Preferred min of 4 persons & max 14 / per single transfer
+      - Preferred min of <strong>4</strong> persons & max <strong>14</strong>/ per single transfer
   - heading: Pricing
     description:
-      - 'On a group of 4 - 5 persons: R5200/pp'
+      - 'On a group of 4 - 5 persons: <strong>R5200/pp</strong>'
 
 emailSubject: Pondo Voyager Hike Enquiry – PP Enquire Now
 overview:
@@ -66,17 +66,17 @@ itinerary:
     - heading: Day 1
       subHeading: 'Arrival & Hike Day 1 : Wild Coast Casino – Nyameni (14km)'
       description:
-        - 'You can leave your vehicle in secure parking at the Wild Coast casino and will meet your guide here. Today’s hike is mostly along the beach passing remnants of a petrified forest, through to the stunning Nyameni river and then on to the Xolobeni village for a night in a local homestay.'
+        - 'Leaving your vehicle in secure parking at the Wild Coast casino, you will meet your guide here. Today’s hike is mostly along the beach passing remnants of a petrified forest, through to the stunning Nyameni river and then on to the Xolobeni village for a night in a local homestay.'
         - 'Overnight: <strong>Nyameni Village Homestay</strong> (Dinner)'
     - heading: Day 2
       subHeading: 'Hike Day 2: Nyameni to Mtentu (12-14km) '
       description:
-        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and then on to Mtentu.
+        - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and on to Mtentu.
         - 'Overnight: <strong>Mtentu River Lodge </strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 3
-      subHeading: 'Hike Day 3: Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve. Self-guided day.'      
+      subHeading: 'Hike Day 3: Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve. Self-guided day'      
       description:
-        - Today’s hike goes through Mkambati Nature Reserve. Secret bays and waterfalls, zebra and blesbok wave gazing.
+        - Today’s self-guided hike traverses Mkambati Nature Reserve. Secret bays and waterfalls, baboon cave, palmiet rivers and zebra wave gazing.
         - 'Overnight: <strong>Msikaba tented camp  </strong> (Breakfast & packed lunch from Mtentu. Self-cater dinner).'
     - heading: Day 4
       subHeading: 'Hike Day 4: Msikaba - Luphuthana (16km)'
@@ -91,104 +91,112 @@ itinerary:
     - heading: Day 6
       subHeading: 'Departure Day'
       description:
-        - 'Breakfast than private transfer back to Wild Coast Casino (approx 3hrs)'
+        - 'Breakfast than private transfer back to the Wild Coast Casino (approx 3hrs)'
            
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/pvoyager-msikaba.JPG
+      heading: null
+      subHeading: null
+    
 lodging:
-  heading: 'Lodges'
+  heading: Accommodation
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - 1 Night <strong>Village Homestay</strong> (traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath)
+    - 1 Night <strong>Mtentu Lodge</strong> (Eco-backpacker)
+    - 2 Nights <strong>Safari Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower.
+    - 1 Night <strong>Mbotyi River Lodge </strong>(hotel)
   images:
     - src: ../../img/gallery/pvoyager_grosvenor.jpg
       heading: null
       subHeading: null
-    - src: ../../img/gallery/pvoyager_river.JPG
-      heading: null
-      subHeading: null
+    
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Can this hike be shortened or lengthened?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - It is possible to spend an extra day-night at any of the overnight locations. We can highly recommend a second night at Mtentu lodge, where catering is provided. The paddle-hike to Swallowtail falls is an unforgettable experience. If you looking for a shorter version of this trail – try the Mtentu Explorer.
+    - question: Is it possible to organise vehicle luggage transfers on this hike?
+      answer:
+        - Not without a lot of extra cost. Local porters are a better option, but they also are a little tricky to arrange on this particular hike as the hike crosses over a number of guide-porter territories.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - A hiking type shoe or trail sneaker, with some good grip, is perfect.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Best to try avoid the busy school holiday periods though. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphin, and pelagic birds. Getting into Mbotyi hotel over sardine season is a challenge though.
+    - question: Is it possible to have catering provided the whole way? 
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Unfortunately it’s not possible to have catering provided at the tented camps unless you go with the pondo-hopper option in this stretch which will significantly increase the price. However, the tented camps are fully equipped for self-catering – so you just need to bring your own food. It is also possible to do this trail in reverse so you get the self-catering nights done in the beginning of the hike.    
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/pvoyager_grasslands.jpg
+      caption: A lot of the walking on the first two days is through grasslands.
+    - src: ../../img/gallery/pvoyager_grosvenor.jpg
+      caption: Subtropical forest frames deserted beaches. 
+    - src: ../../img/gallery/pvoyager_mbotyihotel.JPG
+      caption: Mbotyi hotel – the final night on the Pondo Voyager trail.
+    - src: ../../img/gallery/pvoyager_mtentu.jpg
+      caption: The Mtentu river ( Day 3) usually requires a ferry crossing.
+    - src: ../../img/gallery/pvoyager_river.JPG
+      caption: Deeply incised river gorges on the Pondo Voyager trail.
+    - src: ../../img/gallery/pvoyager-msikaba.JPG
+      caption: Kids at play on one of the pristine estuaries on the pondoland stretch of Wild Coast.
+    - src: ../../img/gallery/pvoyager_cathedral.JPG
+      caption: Cathedral Rock – on the hike day between Luphuthana and Mbotyi.
+    - src: ../../img/gallery/pvoyager_dogs.jpg
+      caption: It’s a dog’s life on the northern Pondoland Wild Coast.
+    - src: ../../img/gallery/pondohopper-msikaba-canoe.jpg
+      caption: Canoes are available on the Msikaba River.
+
 price:
-  heading: at a glance
+  heading: At a Glance
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+    - pax: 4-5 Persons
+      price: R5200/pp
+    - pax: 6-7 Persons
+      price: R4900/pp
+    - pax: 8-10 Persons
+      price: R4700/pp
+  
+  heading2: null
+  overview2: null
+  table2: null
+    
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - '<strong>5 Nights Accom</strong> (sharing basis):'
+    -   1 night in village-based homestay with dinner & breakfast provided
+    -   1 Night at Mtentu Lodge (with dinner, breakfast & packed lunch)
+    -   2 Nights (self-catered) in twin-bed tented camps with en suite bathrooms (Msikaba & Luphuthana) 
+    -   1 Night at Mbotyi River Lodge (DBB)
+    - '<strong>Hiking Guide:</strong> for 4 hike days. Hike Day 3 – through Mkambati Nature Reserve is a self-guided day'
+    - '<strong>Meals</strong>: Breakfast, packed lunch & dinner from 1st night homestay & Mtentu. Dinner & breakfast from Mbotyi. * Need to self-cater for the 2 nights in the tented camps'
+    - '<strong>Transfers</strong>: private transfer from Mbotyi –3hr transfer back to Port Edward/ Wild Coast Casino'
+    - '<strong>Canoes</strong> - available at Mtentu & Msikaba camps'
+    
   notIncludes: null
+
 destination: wildcoast
 activity:
   - hiking
 subActivity:
   - hiking
+
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-pvoyager_500.jpg
+  tagline: Pondo Diversity
+  title: Pondoland Voyager
+  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
+
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-pvoyager_500.jpg
+  tagline: Pondo Diversity
+  title: Pondoland Voyager
+  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
+
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-pvoyager_500.jpg
+  tagline: Pondo Diversity
+  title: Pondoland Voyager
+  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
 ---

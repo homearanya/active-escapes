@@ -1,25 +1,30 @@
 ---
 templateKey: activity-page
 meta:
-  title: Family
-  description: Activities for Families
+  title: Nature
+  description: Naturally Good Getaways
 activityName: Nature Getaway
 code: nature
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-nature.jpg
+  heading: Nature’s Retreats
+  subHeading: Nature itself is the best physician.   Hippocrates
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Just being surrounded by bountiful nature, rejuvenates and inspires us…
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
+    - We have so disconnected ourselves from the natural world that it is easy — and often convenient — to forget that nature remains as giving as ever, even as it vanishes bit-by-bit.
+    - 'Technology and industry may have distanced us superficially from nature, but it has not changed our reliance upon the natural world: most of what we use and consume on a daily basis remains the product of multitudes of interactions within nature, and many of those interactions have been catastrophically imperilled.'
+    - Beyond such physical goods, the natural world provides less tangible, but just as important, gifts in terms of beauty, art, and spirituality.
+    - Being in nature has a profound impact on our brains and our behaviour; helping us to reduce anxiety and stress, and increase our attention capacity, creativity, and even our ability to connect with other people.
+    - We at Active Escapes have always felt that, and that is why all our trips take place in beautiful natural surrounds, far from the madding crowds.
+    - <em>Sometimes it’s just about BEING in nature, and we have some great getaways where this can be….</em>
+
+  bestSeason: Year-round options
+  locations: Drakensberg, Kosi Bay, Tugela, Wild Coast
+  icon: ../../img/icons/ico-water.svg
 toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+  heading: Nature Retreats
+  subHeading: Discover naturally good getaways, where you can just BE
 icon: glyphicon glyphicon-leaf
 order: 4
 ---

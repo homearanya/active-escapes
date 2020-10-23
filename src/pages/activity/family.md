@@ -6,20 +6,21 @@ meta:
 activityName: Family Friendly
 code: family
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-family2.jpg
+  heading: Family Holidays
+  subHeading: Sometimes you will never know the value of a moment until it becomes a memory.  Dr Seuss
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Two of the greatest gifts we can give our children are roots and wings
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
+    - In today’s digitally dominated world, it's easy to forget that holidays are supposed to be about spending real   time with your family. Why go somewhere different just to plug in to the same old distractions? Why not go somewhere, where signal is poor and Wifi does not come with coffee.
+    - Active Escapes believes in promoting fun, healthy holidays where children, spouses, and even you (that’s right, even you) are removed from the gadgets that have come to control our daily lives. Teach them to fish, ride bikes through the mud, go for walks, or bomb-drop into chilly river pools. Spend a night under the stars, build fires, toast marshmallows and have a connected family blast. Reconnect with your loved ones and destress in the process. This is what Active Escapes family holidays are all about, and we have plenty of ideas and places where you can do just this.
+    
+  bestSeason: All year-round options
+  locations: Drakensberg, Kosi, Midlands, Tugela, Wild Coast
+  icon: ../../img/icons/ico-family.svg
 toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+  heading: FAMILY-FRIENDLY PRODUCTS
+  subHeading: Some Family Orientated Holiday Options to consider
 icon: icon-family
 order: 5
 ---

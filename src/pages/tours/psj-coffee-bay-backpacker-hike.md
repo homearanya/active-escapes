@@ -1,182 +1,211 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Port St Johns – Coffee Bay Backpacker Trail, Central Wild Coast 
+  description: A trail well suited to the fitter and more budget conscious hiker looking for an authentic & iconic Wild Coast experience. Overnight in backpackers and village homestays.
 tourName: Port St John’s to Coffee Bay Backpacker Hike
 slug: psj-coffee-bay-backpacker-hike
-featured: 0
+featured: 7
 popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP-psj-cbay.jpg
 
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - The 60km stretch of Wild Coast from Port St Johns to Coffee Bay is well suited to the fitter traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all. 
+  - From the lush coastal forests of Silaka to the rolling hills of Mpande, the PSJ to Coffee Bay hiking trail traverses grassland, rocky shores, mangrove-clad estuaries, sandy bays, nature reserves and passes through many colourful rural villages.
+  
+fromPricing: R4000
+difficultyLevel: challenging
+duration: 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 5 Hike Days / 6 Nights. 
+      - Extra day extension to Hole-in-the-Wall
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 18km  Day 2: 14km '
+      - 'Day 3: 18km  Day 4: 21km'
+      - 'Day 5: 10km'
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>4/ 5 - Fitness</strong>. This is the most 'undulating' stretch of Wild Coast with a number of steep ascents and descents and long beach sections
+      - <strong>3/ 5 - Technicality</strong>. Hiking paths sometimes contour along steep-sided hill slopes where persons who suffer from vertigo may feel exposed.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - Coastal Trail – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - 1-2 nights in <strong>Village homestays</strong>
+      - Friendly <strong>Backpackers</strong>
+      - Private <strong>Holiday Cottages</strong> (larger grps)
+      - 'Optional upgrade: to more upmarket B&Bs or hotels in Port St Johns, Mdumbi and Coffee Bay.'
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - Hiking Guide for all days 
+      - 'Partially catered trail: Village homestays provide simple dinner and breakfast inclusive in rate. Dinner inclusive at backpackers & other meals for own account'
+      - '* Optional: Porter-support'
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - From 2 persons - max 14 pax / per guide.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a group of 6 persons:<strong> R4000/pp</strong>'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: PSJ - Coffee Bay Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - You'll pass some impressive natural phenomena along this undulating stretch of Wild Coastline. From the fascinating table mountain sandstone cliffs of Port St Johns, to the arched bays of Mpande and Mdumbi (voted in the top three of South Africa's most beautiful beaches and a surfing hotspot); the impressive dolerite intrusion at Brazen Head and the fabled landmark, Hole in the Wall, where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound.
+    - On this 5 day guided hiking trail you can chose between overnighting at friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all. 
+    - The village homestays provide dinner and breakfast as part of their inclusive rate. We include dinner in the backpacker option, and they are also well equipped for self-catering.  We provide a shuttle back to your vehicles left in Port St Johns, or to and from Mtata
+
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - 'Arrive in Port St Johns. OR self-drive / public transport to Mtata – arrive by 14h00. Backpacker Shuttle (departs 14h30) from Mtata down to PSJ.'
+        - 'Overnight: <strong>Amapondo Backpackers</strong> – PSJ, 2nd Beach (dinner-own account)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 1: Hike from 2nd Beach PSJ – Mngazana Estuary (18km/6-7hrs walk)'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Coastal forests, wild grasslands and strelitzia’s. Enjoy a cuppa tea at Umngazi before the final beach stretch (4.3km) through to Mngazana estuary. Mngazana estuary, is considered to be one of the Eastern Cape‘s most important estuaries, with the third largest mangrove stand in South Africa.
+        - 'Overnight: <strong>Mngazana village-based Homestay </strong> with dinner & breakfast (DBB) included.'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 2: Hike from Mngazana – Mpande (14km/ 4-5hrs walk) '
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - Todays hike follows the inland paths through hills and villages, and in and out forested valleys. The coastline itself is all rocks and headlands, so there will be no beach stretches today, until you descend to Sinangwana, where the river spills from the forest straight onto the beach. 
+        - 'Overnight: <strong>Kraal Backpackers </strong> (dinner incl) OR <strong>VBA</strong> (DBB) or <strong>Self-catering holiday cottage</strong> for groups of 6 or more out-of-season.'        
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Hike Day 3: Hike Mpande - Hluleka (18km/6-7hrs walk)'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - Today’s hike is one of the more challenging. You’ll ascend from Mpande through pristine forests towards Mthonga mouth - reputed to be one of the most beautiful spots on the Wild Coast. More hills and footpaths take you on a descent to the beach and the Mnenu River which then crosses into Hluleka Nature Reserve  - a combination of diverse eco systems including, rocky seashore, estuaries and evergreen 
+        - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Hluleka Nature Reserve</strong> Self-Catering chalets (Self-catering)'
+    - heading: Day 5
+      subHeading: 'Hike Day 4: Hike Hluleka - Mdumbi (21km/8hrs walk)'
+      description:
+        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4kms, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots. 
+        - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Mdumbi Backpackers</strong> (dinner)'
+    - heading: Day 6
+      subHeading: 'Hike Day 5: Hike Mdumbi-Coffee Bay (10km/ 4hrs walk)'
+      description:
+        - After a mornings swim at Mdumbi, follow the coastal path past Whale Rock and Anchorage Hotel through to the Mtata river. After a ferry crossing here, you should prepare yourself for a bit of uphill toil as you ascend to a high cliff plateau. Your efforts will be well rewarded by a spectacular view down this rocky coastline. From here you’ll follow an undulating hiking trail, past the old airstrip and along to a vantage overlooking a dolerite stack in which the waves have eroded and created a labyrinth cave system.
+        - 'Overnight: <strong>Backpacker</strong> (dinner) OR upgrade to <strong>Ocean View Hotel </strong> (DBB)'
+    - heading: Day 7
+      subHeading: Departure Day
+      description:
+        - The backpacker’s shuttle departs between 11-12 on the day so you can enjoy a leisurely breakfast or we can arrange a private group transfer (additional fee)    
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/psj-cbay_little-hole.jpg
+      heading: null
+      subHeading: null
+    
 lodging:
-  heading: 'Lodges'
+  heading: Accommodation
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - <strong>Village homestays</strong> – rondavel dedicated to your group, mattress and bedding provided, donkey-boiler showers or bucket bath, meals provided. These homestays have good experience with hiking groups.
+    - <strong>Backpackers</strong> – usually have some double rooms otherwise small dorms for your group to share.
+    - <strong>Private Holiday Cottages</strong> – if you are a larger group, and not going within peak school holidays, private holiday cottages may be an option.
+    - 'Upgrade to:<strong>B&Bs or hotels</strong> in Port St Johns, Mdumbi and Coffee Bay.'
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/psj-cb_backpacker.jpg
+      heading: null
+      subHeading: null
+    
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Is it possible to organise vehicle luggage transfers on this hike?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - It is not very feasible. It is much better to organise porters on this hike. Budget around R300/porter/per day. 
+    - question: How fit do you need to be to do this hike? 
+      answer:
+        - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.    
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a stable climate for hiking and there is also the sardine run. This is one hike we can usually arrange during holidays as there is usually a homestay alternative.
+    - question: Can this hike be shortened?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Possible, but transfer logistics outside of of PSJ or Coffee Bay are more expensive.
+    - question: Is it possible to self-cater? 
+      answer:
+        - Yes, the backpackers are well equipped for self-catering  . The homestays prefer to give meals as they cannot provide facilities for self-catering.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/psj-cbay_sinangwana.jpg
+      caption: The bay at Sinangwana, Mpande (Night 2) offers a lovely sheltered swimming beach.
+    - src: ../../img/gallery/psj-cbay_homestead.jpg
+      caption: You will pass through many friendly rural villages on the PSJ – Coffee Bay Hiking trail. Here the geese are employed as watchdogs.
+    - src: ../../img/gallery/psj-cbay_group.jpg
+      caption: The hike from Port St Johns to Coffee Bay traverses over many jutting headlands.
+    - src: ../../img/gallery/psj-cbay_sun.JPG
+      caption: Mngazana estuary – the second night of the PSJ – Coffee Bay trail – at last light.
+    - src: ../../img/gallery/psj-cbay_deliciousmonster.jpg
+      caption: A morning coffee on the deck at Delicious Monster – provides the perfect kickstart for the trail.
+    - src: ../../img/gallery/psj-cbay_beadseller.jpg
+      caption: Local beadwork for sale 
+    - src: ../../img/gallery/psj-cbay_HIW.jpg
+      caption: The iconic Hole-in-the-Wall.  You will require an extra day to do this after you finish the trail at Coffee Bay.  
+    - src: ../../img/gallery/psj-cbay_seaview.jpg
+      caption: Seaview between jutting headlands, the Port St Johns to Coffee Bay trail is full of such spectacles.
+    - src: ../../img/gallery/psj-cbay_sisalsunset.jpg
+      caption: Sisal at Sunset 
+    - src: ../../img/gallery/psj-cbay_gogo.jpg
+      caption: A gogo, adorned with bracelets  
+
 price:
-  heading: at a glance
+  heading: At a Glance
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
+    - pax: 2 Persons
+      price: R4500/pp
+    - pax: 3-4 Persons
+      price: R4200/pp
+    - pax: 5-7 Persons
+      price: R4000/pp
+    - pax: 8-10 Persons
+      price: R3900/pp
     - pax: 11 or more
-      price: R5800/pp
+      price: R3800/pp  
+    
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
+    - '<strong>6 Nights Accommodation</strong>(sharing basis): 4 nights backpackers (PSJ, Coffee Bay, Kraal-Mpande, Mdumbi) & 2 nights VBA’s (dinner & breakfast included) or substitute VBA for backpacker nights, & upgrade options as selected from itinerary.'
+    - '- Homestay’s will provide dinner & breakfast in their inclusive rate. Homestays can provide a basic packed lunch for an extra R50 (can pre-request this).'
+    - '- Backpackers provide dinner only in the inclusive rate (breakfasts & packed lunches for own account from backpackers)'
+    - '<strong>5 Full Hiking Days</strong> accompanied by a local hiking guide'
+    - '<strong>Return Backpacker shuttles</strong>from Coffee Bay back to PSJ (self-drives) OR pick-up from Mtata to PSJ + return from Coffee Bay to PSJ (* Larger groups – can request the additional price of a PRIVATE TRANSFER from Coffee Bay – PSJ direct, which doesn’t work out to much more)'
+    - '<strong>Meals:</strong> Dinner & Breakfast’s inclusive from all village homestay’s. Dinner included on backpacker nights, but breakfasts for own account (continental & cooked ala carte breakfast options)'
+  notIncludes: 
+    - '<strong>Trail Lunches</strong>(sharing basis)- you will need to supply your own trail lunches or pre-request/book these from the homestays'
+    - Personal Insurance
+    - Own transport to/from start of hike
+
 destination: wildcoast
 activity:
   - hiking
 subActivity:
   - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-psj-cbay_500.jpg
+  tagline: Cultural Wild Coast
+  title: PSJ - Coffee Bay Backpacker
+  description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
 activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-psj-cbay_500.jpg
+  tagline: Cultural Wild Coast
+  title: PSJ - Coffee Bay Backpacker
+  description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  image: ../../img/generic/pp-psj-cbay_500.jpg
+  tagline: Cultural Wild Coast
+  title: PSJ - Coffee Bay Backpacker
+  description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
 ---
