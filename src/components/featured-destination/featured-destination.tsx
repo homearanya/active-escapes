@@ -1,9 +1,9 @@
 import React from 'react'
 import { navigate } from 'gatsby'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
 import { ProcessText } from '../../utils/helpers'
+import Image from '../image'
 
 interface FeaturedDestinationData {
   destinationName: string
@@ -40,7 +40,7 @@ const FeaturedDestination = ({
       <div className="thumbnail">
         <div className="img-wrap">
           {image && image.childImageSharp ? (
-            <Img fluid={image.childImageSharp.fluid} alt={heading} />
+            <Image image={image} alt={heading} />
           ) : null}
         </div>
         <h3 onClick={handleClick} className="small-space clickable">

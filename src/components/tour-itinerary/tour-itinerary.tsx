@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
+import Image from '../image'
 import DayBlock, { DayBlockData } from './day-block'
 
 export interface TourItineraryData {
@@ -49,16 +49,14 @@ const TourItinerary = ({ data: { itinerary, images } }: TourItineraryProps) => {
         {images.map(({ src, heading, subHeading }, i) => (
           <article key={i} className="img-article article-light">
             <div className="img-wrap">
-              <Img
-                fluid={src.childImageSharp.fluid}
-                fixed={src.childImageSharp.fixed}
-                alt={heading}
-              />
+              <Image image={src} alt={heading} />
             </div>
-            <div className="text-block">
-              <h3>{heading}</h3>
-              <p>{subHeading}</p>
-            </div>
+            {heading || subHeading ? (
+              <div className="text-block">
+                <h3>{heading}</h3>
+                <p>{subHeading}</p>
+              </div>
+            ) : null}
           </article>
         ))}
       </div>

@@ -110,7 +110,7 @@ const BlogSidebar = () => {
               <div className="panel-body">
                 <ul className="side-list post-list hovered-list">
                   {edges.map(({ node: { id, frontmatter } }) => (
-                    <li>
+                    <li key={id}>
                       <Link to={`/blog/${frontmatter.slug}/`}>
                         <time>{frontmatter.date}</time>
                         <span className="text-block">{frontmatter.title}</span>

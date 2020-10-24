@@ -109,6 +109,9 @@
       @include breakpoint-max($screen-xs - 1) {
         align-self: center;
       }
+      &.submitting {
+        color: $kokoda;
+      }
     }
   }
   .honeypot {
@@ -123,6 +126,32 @@
 
   &--mailchimp {
     box-shadow: unset;
+  }
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    height: 0;
+    width: 100%;
+    background-color: $kokoda;
+  }
+  &.submitting:after {
+    content: '';
+    height: 100%;
+  }
+}
+
+.loader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  svg {
+    @include absoluteCenter;
   }
 }
 

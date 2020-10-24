@@ -20,6 +20,7 @@ const Banner = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       slide2: file(relativePath: { eq: "banner/img-03-amphi1920x964.jpg" }) {
         childImageSharp {
@@ -32,6 +33,7 @@ const Banner = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       slide3: file(relativePath: { eq: "banner/img-05-sentinel1920x964.jpg" }) {
         childImageSharp {
@@ -44,6 +46,7 @@ const Banner = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       slide4: file(relativePath: { eq: "banner/img-06-sisal1920x964.jpg" }) {
         childImageSharp {
@@ -56,6 +59,7 @@ const Banner = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
     }
   `)

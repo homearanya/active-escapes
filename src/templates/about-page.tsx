@@ -51,7 +51,7 @@ const AboutPage = ({
           </header>
           <div className="row text-center row-about-us">
             {intro.iconsSection.map((textBlock, i) => (
-              <TextBlock data={textBlock} />
+              <TextBlock key={i} data={textBlock} />
             ))}
           </div>
         </div>
@@ -101,6 +101,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
         }
         intro {

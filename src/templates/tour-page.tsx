@@ -276,10 +276,11 @@ export const query = graphql`
           images {
             src {
               childImageSharp {
-                fluid(maxWidth: 510) {
+                fluid(maxWidth: 570) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
+              publicURL
             }
             heading
             subHeading
@@ -295,6 +296,7 @@ export const query = graphql`
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
+              publicURL
             }
             heading
             subHeading

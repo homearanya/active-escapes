@@ -17,7 +17,6 @@
 // clearfix
 // * use * - @extend %clearfix;
 %clearfix {
-
   &:after {
     content: '';
     display: block;
@@ -44,7 +43,7 @@ $browser-context: 14;
   @if (lightness($color) > 55) {
     @return $gray; // Lighter backgorund, return dark color
   } @else if(lightness($color) < 16) {
-      @return $gray;  // Darker background, return light color
+    @return $gray; // Darker background, return light color
   } @else {
     @return $white;
   }
@@ -57,8 +56,12 @@ $browser-context: 14;
     color: $color;
     opacity: 1; // Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526
   }
-  &:-ms-input-placeholder { color: $color; } // Internet Explorer 10+
-  &::-webkit-input-placeholder  { color: $color; } // Safari and Chrome
+  &:-ms-input-placeholder {
+    color: $color;
+  } // Internet Explorer 10+
+  &::-webkit-input-placeholder {
+    color: $color;
+  } // Safari and Chrome
 }
 
 // justify nav
@@ -89,16 +92,16 @@ $browser-context: 14;
 }
 
 //breakpoint min
-@mixin breakpoint-min($width){
-  @media only screen and (min-width: #{$width}){
-   @content;
+@mixin breakpoint-min($width) {
+  @media only screen and (min-width: #{$width}) {
+    @content;
   }
 }
 
 //breakpoint max
-@mixin breakpoint-max($width){
-  @media only screen and (max-width: #{$width}){
-   @content;
+@mixin breakpoint-max($width) {
+  @media only screen and (max-width: #{$width}) {
+    @content;
   }
 }
 
@@ -108,6 +111,13 @@ $browser-context: 14;
 // TRANSFORMS
 // ============
 
+// absolute center
+@mixin absoluteCenter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 // generic transform
 // * use * - @include transform(scale(2, 0.5)), @include transform(translateX(10px) rotate(10deg) translateY(5px));
 @mixin transform($transforms) {
@@ -117,7 +127,7 @@ $browser-context: 14;
 
 // rotate
 // * use * - @include rotate(20);
-@mixin rotate ($deg) {
+@mixin rotate($deg) {
   @include transform(rotate(#{$deg}deg));
 }
 
@@ -129,48 +139,60 @@ $browser-context: 14;
 
 // translate
 // * use * - @include translate(12px, 50%);
-@mixin translate ($x, $y) {
+@mixin translate($x, $y) {
   @include transform(translate($x, $y));
 }
 
 // skew
 // * use * - @include skew(30, 20);
-@mixin skew ($x, $y) {
+@mixin skew($x, $y) {
   @include transform(skew(#{$x}deg, #{$y}deg));
 }
 
 //transform origin
 // * use * - @include transform-origin(100% 0);
-@mixin transform-origin ($origin) {
+@mixin transform-origin($origin) {
   transform-origin: $origin;
   -webkit-transform-origin: $origin;
 }
 
 // mixin for font face
 // * use * - @include font-face (icomoon, icomoon, normal, normal, '../fonts/icomoon/');
-@mixin font-face ($family, $name, $weight: normal, $style: normal, $url: '../fonts/') {
+@mixin font-face(
+  $family,
+  $name,
+  $weight: normal,
+  $style: normal,
+  $url: '../fonts/'
+) {
   @font-face {
     font-family: '#{$family}';
     src: url($url + $name + '.eot');
     src: url($url + $name + '.eot?#iefix'),
-       url($url + $name + '.woff2') format('woff2'),
-       url($url + $name + '.woff') format('woff'),
-       url($url + $name + '.ttf') format('ttf'),
-       url($url + $name + '.svg') format('svg');
+      url($url + $name + '.woff2') format('woff2'),
+      url($url + $name + '.woff') format('woff'),
+      url($url + $name + '.ttf') format('ttf'),
+      url($url + $name + '.svg') format('svg');
     font-weight: $weight;
     font-style: $style;
   }
 }
 
 // * use * - @include font-face (icomoon, icomoon, normal, normal, '../fonts/icomoon/');
-@mixin font-face-icomoon ($family, $name, $weight: normal, $style: normal, $url: '../fonts/') {
+@mixin font-face-icomoon(
+  $family,
+  $name,
+  $weight: normal,
+  $style: normal,
+  $url: '../fonts/'
+) {
   @font-face {
     font-family: '#{$family}';
     src: url($url + $name + '.eot');
     src: url($url + $name + '.eot?#iefix'),
-       url($url + $name + '.woff') format('woff'),
-       url($url + $name + '.ttf') format('ttf'),
-       url($url + $name + '.svg') format('svg');
+      url($url + $name + '.woff') format('woff'),
+      url($url + $name + '.ttf') format('ttf'),
+      url($url + $name + '.svg') format('svg');
     font-weight: $weight;
     font-style: $style;
   }
@@ -200,10 +222,16 @@ $browser-context: 14;
 
 // vertical align a pair of child inside parent
 // * use * - @include v-align-pair(image, text) or @include v-align-pair(image, text, bottom) or @include v-align-pair(image, text, middle, 200px);
-@mixin v-align-pair($child-name1, $child-name2, $valign: middle, $width1: auto, $width2: auto ) {
+@mixin v-align-pair(
+  $child-name1,
+  $child-name2,
+  $valign: middle,
+  $width1: auto,
+  $width2: auto
+) {
   display: table;
 
-  .#{$child-name1}{
+  .#{$child-name1} {
     display: table-cell;
     vertical-align: $valign;
     width: $width1;
@@ -233,14 +261,13 @@ $browser-context: 14;
 
 // font-smothing
 // * use * - @include font-smoothing(on) or @include font-smoothing(off);
-@mixin font-smoothing($value:on){
-  @if $value == on{
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale;
-  }
-  @else{
-    -webkit-font-smoothing:subpixel-antialiased;
-    -moz-osx-font-smoothing:auto;
+@mixin font-smoothing($value: on) {
+  @if $value == on {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  } @else {
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
   }
 }
 
@@ -265,7 +292,11 @@ $browser-context: 14;
   height: 0;
   width: 0;
 
-  @if ($direction == up) or ($direction == down) or ($direction == right) or ($direction == left) {
+  @if ($direction == up) or
+    ($direction == down) or
+    ($direction == right) or
+    ($direction == left)
+  {
     $width: $width / 2;
     $height: if(length($size) > 1, $height, $height/2);
 
@@ -290,7 +321,7 @@ $browser-context: 14;
     border-top: $height solid $foreground-color;
 
     @if $direction == up-right {
-      border-left:  $width solid $background-color;
+      border-left: $width solid $background-color;
     } @else if $direction == up-left {
       border-right: $width solid $background-color;
     }
@@ -298,7 +329,7 @@ $browser-context: 14;
     border-bottom: $height solid $foreground-color;
 
     @if $direction == down-right {
-      border-left:  $width solid $background-color;
+      border-left: $width solid $background-color;
     } @else if $direction == down-left {
       border-right: $width solid $background-color;
     }
@@ -311,11 +342,17 @@ $browser-context: 14;
     border-style: solid;
     border-width: $height $width;
   } @else if ($direction == inset-right) {
-    border-color: $background-color $background-color $background-color $foreground-color;
+    border-color: $background-color
+      $background-color
+      $background-color
+      $foreground-color;
     border-style: solid;
     border-width: $width $height;
   } @else if ($direction == inset-left) {
-    border-color: $background-color $foreground-color $background-color $background-color;
+    border-color: $background-color
+      $foreground-color
+      $background-color
+      $background-color;
     border-style: solid;
     border-width: $width $height;
   }
@@ -323,10 +360,10 @@ $browser-context: 14;
 
 /// Animate css properties
 // * use * -  @include animate(color) or @include animate(color width) or @include animate(color width, 1s, linear);
-$animation-speed: .3s !default;
+$animation-speed: 0.3s !default;
 
 @mixin animate($properties, $duration: $animation-speed, $easing: ease-in-out) {
-  $list:();
+  $list: ();
   @each $prop in $properties {
     $str: #{$prop} #{$animation-speed} #{$easing};
     $list: join($list, $str, comma);
@@ -354,8 +391,16 @@ $animation-speed: .3s !default;
 // placeholder mixin for form placeholders
 // * use * - @include placeholder{color: #000;}
 @mixin placeholder {
-  ::-webkit-input-placeholder {@content}
-  :-moz-placeholder           {@content}
-  ::-moz-placeholder          {@content}
-  :-ms-input-placeholder      {@content}
+  ::-webkit-input-placeholder {
+    @content;
+  }
+  :-moz-placeholder {
+    @content;
+  }
+  ::-moz-placeholder {
+    @content;
+  }
+  :-ms-input-placeholder {
+    @content;
+  }
 }

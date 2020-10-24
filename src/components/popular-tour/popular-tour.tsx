@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image'
 
 import UniversalLink from '../universal-link'
 import { ImageSharp, Reference } from '../../types'
 import { ProcessText } from '../../utils/helpers'
+import Image from '../image'
 
 interface PopularTourData {
   slug: string
@@ -30,7 +30,7 @@ const PopularTour = ({
       <div className="img-wrap">
         <Link to={tourLink} className="img-link">
           {image && image.childImageSharp ? (
-            <Img fluid={image.childImageSharp.fluid} alt={title} />
+            <Image image={image} alt={title} />
           ) : null}
         </Link>
         <div className="img-caption text-uppercase">{tagline}</div>

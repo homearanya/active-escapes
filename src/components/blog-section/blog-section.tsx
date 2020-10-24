@@ -29,6 +29,7 @@ const BlogSection = () => {
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }
+                  publicURL
                 }
               }
             }
