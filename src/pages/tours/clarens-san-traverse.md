@@ -133,13 +133,10 @@ gallery:
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
-      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
-    - src: ../../img/gallery/clarens_rockart guide.JPG
-      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
-      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
-      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
+    - src: ../../img/gallery/clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
     - src: ../../img/gallery/clarens_rivercross.JPG
