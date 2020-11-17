@@ -6,25 +6,18 @@ meta:
 destinationName: KZN Midlands
 code: kzn_midlands
 banner:
-  image: ../../img/banner/dest-drak.JPG
-  heading: Drakensberg Adventures
-  subHeading: Hiking, Biking & Nature Holidays in a World Heritage Site
+  image: ../../img/banner/dest-midlands.jpg
+  heading: The Midlands of KwaZulu-Natal
+  subHeading: Land of milk, arts and mountain biking
 intro:
-  heading: Discover the real Drakensberg by foot, pedal or hoof
+  heading: Midlands Meanderings
   text:
-    - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
-    - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
-  bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
-  icon: ../../img/icons/ico-landing-hiking.svg
-activities:
-  - activity: hiking
-    image: ../../img/listing/activity-wc-hiking.jpg
-    heading: Wild Coast Hiking Trips
-    subHeading: Hotels, tented camps & village-based trails from Port Edward to Cintsa
-    description: Walking the Wild Coast is the surest way of easing into the Transkei vibe. From village homestays to hotel lays, with tented camps and traditional backpackers along the way, we cover the entire stretch of Wild Coast with trail options to suit all levels of fitness and comfort.
-    link: '/wildcoast/'
-    filter: hiking
-    featured: 0
+    - Lying comfortably at the foothills of the Drakensberg, lies a fertile strip of rolling farmlands known colloquially as the Midlands. Having the advantage of being close to the mountains and to the N3, the Midlands offers the perfect middle-distance option for people who want a short break from big city life.
+    - "The rolling green hills, clean air and quaint historical buildings make for a picturesque backdrop and provided brilliant fodder for creative minds. In the 1970's many artists and crafters settled into the Midlands permanently, and by the mid-80's were working collaboratively to exhibit and sell their work. This small co-op grew organically to become the Midlands Meander: an easy to navigate, slowly unfolding tourist route that leads from cheesery to pottery to country restaurant to microbrewery and beyond."
+    - While the Midlands Meander is well-known for shopping and lazy lunches, these days it’s also known for its extensive mountain biking, trail-running and hiking offerings. The small town of Howick is home to a network of single-track linking to the Karkloof forests; whilst cross country jeep tracks connect across private farmland to Lotheni and in to the Kamberg.
+  inset:
+    bestSeason: Jan – Dec
+    locations: Howick, Karkloof, Nottingham Road, Kamberg
+    icon: ../../img/icons/ico-mountain-biking.svg
 order: 4
 ---

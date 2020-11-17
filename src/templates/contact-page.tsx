@@ -163,7 +163,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query ContactPageQuery($id: String!) {
+  query ContactPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         meta {

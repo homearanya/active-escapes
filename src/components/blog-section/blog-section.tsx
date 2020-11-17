@@ -5,7 +5,7 @@ import TextBlock from './text-block'
 
 const BlogSection = () => {
   const { posts } = useStaticQuery(graphql`
-    query BlogSectionQuery {
+    query BlogSection {
       posts: allMarkdownRemark(
         filter: {
           frontmatter: { templateKey: { eq: "post-page" }, featured: { gt: 0 } }

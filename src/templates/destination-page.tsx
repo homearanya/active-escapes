@@ -24,7 +24,7 @@ type TourEdges = {
       shortDescription: string
       difficultyLevel: Reference
       destination: Reference
-      activity: Reference[]
+      activity: { name: Reference; featured: number }[]
       subActivity: Reference[] | null
       destinationTour: {
         title: string
@@ -89,7 +89,7 @@ const DestinationPage = ({
       ? tours.edges.filter(({ node }) => {
           const { activity: tourActivity, subActivity } = node.frontmatter
           return (
-            tourActivity.find((e) => e.frontmatter.code === holidayType) ||
+            tourActivity.find((e) => e.name.frontmatter.code === holidayType) ||
             (subActivity &&
               subActivity.find((e) => e.frontmatter.code === holidayType))
           )
@@ -152,10 +152,10 @@ const DestinationPage = ({
       ) => {
         if (activity) {
           activity.forEach((e) => {
-            if (!acc[e.frontmatter.code]) {
-              acc[e.frontmatter.code] = 1
+            if (!acc[e.name.frontmatter.code]) {
+              acc[e.name.frontmatter.code] = 1
             } else {
-              acc[e.frontmatter.code]++
+              acc[e.name.frontmatter.code]++
             }
           })
         }
@@ -164,7 +164,7 @@ const DestinationPage = ({
             if (
               !activity ||
               !activity.find(
-                (item) => item.frontmatter.code === e.frontmatter.code,
+                (item) => item.name.frontmatter.code === e.frontmatter.code,
               )
             ) {
               if (!acc[e.frontmatter.code]) {
@@ -384,7 +384,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query DestinationPageQuery($id: String!, $destination: String!) {
+  query DestinationPage($id: String!, $destination: String!) {
     site {
       siteMetadata {
         siteUrl
@@ -417,16 +417,19 @@ export const query = graphql`
         intro {
           heading
           text
-          bestSeason
-          locations
-          icon {
-            publicURL
+          inset {
+            bestSeason
+            locations
+            icon {
+              publicURL
+            }
           }
         }
       }
     }
     allHolidayTypes: allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "activity-page" } } }
+      sort: { fields: [frontmatter___popularTour___featured], order: ASC }
     ) {
       edges {
         node {
@@ -440,7 +443,7 @@ export const query = graphql`
     }
     allSubactivitiesTypes: allMarkdownRemark(
       filter: { frontmatter: { key: { eq: "sub-activity" } } }
-      sort: { order: ASC, fields: frontmatter___popular }
+      sort: { order: ASC, fields: frontmatter___code }
     ) {
       edges {
         node {
@@ -459,6 +462,7 @@ export const query = graphql`
           destination: { frontmatter: { code: { eq: $destination } } }
         }
       }
+      sort: { fields: [frontmatter___destinationTour___order], order: ASC }
     ) {
       edges {
         node {
@@ -480,12 +484,15 @@ export const query = graphql`
               }
             }
             activity {
-              id
-              frontmatter {
-                activityName
-                code
-                icon
+              name {
+                id
+                frontmatter {
+                  activityName
+                  code
+                  icon
+                }
               }
+              featured
             }
             subActivity {
               id
@@ -496,6 +503,7 @@ export const query = graphql`
               }
             }
             destinationTour {
+              order
               title
               image {
                 childImageSharp {

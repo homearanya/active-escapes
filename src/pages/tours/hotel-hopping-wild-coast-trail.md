@@ -1,182 +1,215 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-tourName: Hotel-Hopping Wild Coast Trail
+  title: Hotel-Hopping Wild Coast Trails, Southern Wild Coast
+  description: The hotel-hopping trails extend from Kob Inn to Cintsa, with 3 and 5 night trail options – the Meander, Sunshine and Minibreak. Fully catered and guided with transfers to the start. Porters can be employed north of the Kei and vehicle luggage transfers are offered from Morgan Bay.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 2
+    listing:
+      image: ../../img/listing/WCH-hotel-hopper.JPG
+      title: Lower Wild Coast Hotel-Hopper
+      subtitle: Pristine beaches with hotel comforts at the end of the day
+      description: "If your idea of a hiking holiday is as much about the chilled wine, a comfy bed and a seafood dinner, then the Lower Wild Coast Hotel-Hopping trail should be right up your alley. We can tailor the hike to your group's time constraints, from a 2 day weekend-break to a 6 night trail starting at Kob Inn and finishing at Cintsa."
+subActivity:
+  - slackpacking
+tourName: Hotel-Hopping Wild Coast
 slug: hotel-hopping-wild-coast-trail
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP_hotelhopper.JPG
 
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - If your idea of a hiking holiday is as much about the chilled wine, a comfy bed and a seafood dinner, then the Lower Wild Coast Hotel-Hopper is your trail.
+  - The ‘hotel-hopping’ trail extends southwards from the Qora River (Kob Inn) in the north, down to the small town of Cintsa in the south. The full trail is 6 days in duration, but we offer 3 main trails which cover this stretch - two 5 night/ 4 day hikes (the Meander & Sunshine Trail) and a shorter 3 night/ 2 hike day Minibreak trail which runs from Morgan Bay to Chintsa. Our trails can be adapted as much as your leave and budget allows.
+  - The first 3 days of the trail lies to the north of the Kei River in what was formerly known as the Transkei, while the last section extends along the Eastern Cape's <em>Jikeleza</em> Coastal route, north of East London.
+difficultyLevel: fairly-easy
+duration: 3,5,7 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 5 Nights / 4 Hike Days or 3 Nights/ 2 Hike Days
+      - Easily customised with rest days or extensions
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 6km  Day 2: 18/21km '
+      - 'Day 3: 13 / 16km  Day 4: 14km'
+      - 'Day 5: 14km   Day 6: 16km'
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>2/ 5 - Fitness</strong>. The easy trail gradient and long beach sections make this a good trail for people of moderate fitness or older/younger hikers.
+      - <strong>1/ 5 - Technicality</strong>. Some small boulder hopping on rocky beach sections but no scrambling or sheer sections.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - Coastal Trail –  mostly flattish terrain with some small hills, long stretches of pristine beaches, secluded bays, and beautiful estuaries
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Old world characterful <strong>Transkei Hotels</strong>
+      - 3-4 course dinners, full cooked breakfasts and packed lunches  provided
+
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - Fully catered with hotel accommodation
+      - Shuttle to the hike start or to/from EL airport
+      - Luggage support by vehicle included south of the Kei River. Porters arranged north of the Kei.
+      - Guide - included on all hike days
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - From <strong>2</strong> persons. No maximum, but <strong>12</strong> persons / per transfer vehicle.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a group of 6 persons: from <strong>R8000/pp</strong> for a 5 night/4 day hike'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Wild Coast Hotel-Hopping Trail Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - This hike is more accessible to younger and older hikers as the terrain flattens out (fewer hills) with paths running close to the beach, or along wide flat beaches.
+    - Accommodation is in the characterful old world hotels with 3-course dinners (often fresh line fish and seafood if you time it right), a cooked breakfast to start your day, and a packed lunch to munch-on out on the trail. Porters can be arranged north of the Kei to take your backpack from hotel to hotel, whilst vehicle luggage transfers are possible south of Morgan’s Bay. You can therefore hike burden-free, though you need pack little more than your clothes and trail shoes on this slackpacker.
+    - The hiking distances between the hotels, allow ample time to soak in the atmosphere, take a swim and a leisurely lunch along way - arriving at the next hotel by mid-afternoon. Hikers have the option of flying in / out of East London, or driving their car to the start / finish of the trail, and we'll arrange a shuttle to the other end.
 itinerary:
   itinerary:
-    - heading: Day 1
-      subHeading: Arrival Day
+    - heading: Day 1 - Meander Trail
+      subHeading: 'Arrival Day: Self-drive to Morgan Bay or Fly to EL – transfer to Kob Inn or Mazeppa'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - 'Self-drive to Morgan Bay & get private transfer through to Kob Inn OR transfer from East London airport (approx. 3hrs).'
+        - 'Overnight: <strong>Kob Inn/ Mazeppa hotel </strong> (Dinner)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 1: Hike to Mazeppa (5km) / or to Cebe Guesthouse (19km from Kob Inn)'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Enjoy the morning on the beach at Kob Inn, have lunch and then take an afternoon stroll to Mazeppa.
+        - OR do a longer first day - hiking through to Cebe Guesthouse (19km from Kob Inn, 14.5km from Mazeppa)
+        - Today’s route is perhaps the ‘wildest’ - offering a mix of sandy beaches flanked by rippled dunes one side and flat-shelved wave-cut rocks on the other; and grassy banks that pass natural springs and indigenous forests alive with birds and insects.
+        - After crossing the Ngqwara River its a combination of beach, flat rocky shelves and grassy tracks before reaching the beautiful Cebe River Mouth. Flanked on both sides with thick indigenous forest, this river mouth is a truly a wild and special spot.
+        - 'Overnight: <strong>Mazeppa hotel / Cebe Guesthouse</strong> (Breakfast, packed lunch & Dinner)'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 2: Hike to Wavecrest (20km from Mazeppa, 7km from Cebe)'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - The hike from Cebe to Wavecrest is almost all along the beach, passing the beautiful Bowkers Bay and around Sandy's point.
+        - Behind the dunes lies some very interesting artefacts - likely meteoritic in origin.
+        - Arriving at Wavecrest by midday or early afternoon, allows one to exlore this beautiful estuary. Canoes are available from the hotel or - tide-permitting - enjoy a boozy sunset cruise up the estuary.
+        - 'Overnight: <strong>Wavecrest Hotel</strong> (Breakfast, packed lunch & Dinner)'
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Hike Day 3: Hike Wavecrest to Seagulls / Trennerys (13.5km) '
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - From Wavecrest to the Kobonqaba River, you will pass through a lovely section of indigenous forest.
+        - After the Kobonqaba River crossing, the trail is easy going. Look out for the last remains of the Jacaranda Shipwreck – a Greek Freighter that was wrecked in 1971 on a voyage from East London to Durban.
+        - After crossing the Qolora river it is about another 800m along the beach to Seagulls hotel, or Trennerys, located on the estuary.
+        - 'Overnight: <strong>Seagulls / Trennerys Hotel</strong> (Breakfast, packed lunch & Dinner)'
+    - heading: Day 5
+      subHeading: 'Hike Day 4: Hike Trennerys - Morgan Bay (14km) '
+      description:
+        - The mighty Kei River will be crossed by motorised pont.
+        - After passing through the small village of Kei Mouth, you will head in the direction of the lighthouse and then back down to the rocky coast.
+        - The beach marks the final stretch through to Morgan Bay.
+        - 'Overnight: <strong>Mitford Hotel</strong> or upgrade to <strong>Morgan bay hotel</strong> avail permitting (Breakfast, packed lunch & Dinner)'
+    - heading: Day 6
+      subHeading: Departure Day
+      description:
+        - Breakfast incl. Leave in own vehicles left in Morgan Bay or transfer provided back to EL airport.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/HH_estuarycruise.JPG
+      heading: Nxaxo River Cruise - Wavecrest
+      subHeading: 'Tide-permitting, a sunset cruise us the Nxaxo estuary, offers the perfect tonic to the end of good days hike.'
+
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - 'Old world characterful <strong>Transkei Hotels</strong> (ranging from 3-4 Star): 3-4 course dinners, full cooked breakfasts and packed lunches all provided.'
+    - Double, Twin and family room options are available. <strong>Single supplement</strong> will apply if you specifically request your own room.
+    - Our hiking groups are given the nicest rooms availabilty permitting, but there are upgrade options available at some of the hotels - on request.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/HH_crawfordcabins.JPG
+      heading: Crawford Cabins, Cintsa
+      subHeading: 'Final night of the Sunshine Hotel-Hopping trail'
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Can we get vehicle luggage transfers the whole way?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - From Kob Inn to Morgan Bay we strongly encourage employing porters for the local income earning opportunity it provides. From Morgan Bay to Cintsa, vehicle luggage transfers are included in your tour price. Porters need to be pre-arranged with us but they get paid directly.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - A hiking type shoe or trail running sneaker is perfect for this trail.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be more stable months with less rainfall. If possible, it is best to try avoid the busy school holiday periods. Peak period rates will apply during Dec/ Jan holidays. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphin, and pelagic birds - a great time to hike along this coastline.
+    - question: How do the group transfers work?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - We include and cost for a group transfer/shuttle from either the end point of the hike to the start (usually done at the beginning so you hike back to your vehicle) OR return airport transfers (to/from East London airport). Groups need to co-ordinate their flight arrival times. On larger groups, it is possible to do multiple transfers but you will pay for the additional transfers required. It is also possible to collect some of the group from the airport and the rest from the hike end-point, but  additional 'detour' charges will apply.
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/HH_Wcrest_deck.JPG
+      caption: Kicking back on the Wavecrest deck, after hiking in from Mazeppa.
+    - src: ../../img/gallery/HH_WC.JPG
+      caption: Wavecrest hotel chalets at first light.
+    - src: ../../img/gallery/HH-wavecrash.jpg
+      caption: Spectacular wave explosion on the Southern Wild Coast near Haga Haga
+    - src: ../../img/gallery/HH-headlands.JPG
+      caption: The headlands south of Morgan Bay – Double Mouth and Haga Haga lie beyond.
+    - src: ../../img/gallery/HH_wcrest deckpool.JPG
+      caption: The ebb and flow of the Nxaxo estuary at Wavecrest, Southern Wild Coast.
+    - src: ../../img/gallery/HH_pristinebeach.JPG
+      caption: Much of the southern Wild Coast consists of long stretches of beach – perfect for breaking out a gallop or easy walking especially on an outgoing tide.
+    - src: ../../img/gallery/HH_Cebedunes.JPG
+      caption: Lost in time  in the dunes between Cebe and Wavecrest. There are also some most interesting geological finds here.
+    - src: ../../img/gallery/HH_pool.JPG
+      caption: The sparkling blue pool at Crawfords Beach Lodge provides just the medicine for weary limbs
+    - src: ../../img/gallery/HH_ngunicows.JPG
+      caption: D’em cows on the beach becomes a normalised sight after a few days on the Lower Wild Coast Hotel-Hopping trail
+    - src: ../../img/gallery/HH_Trennerys.JPG
+      caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail.
+    - src: ../../img/gallery/HH_jacuzzi.JPG
+      caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
+    - src: ../../img/gallery/HH-lunch.jpg
+      caption: Hikers can look forward to some scrumptious dining after a day on the trail. Open air dining.
+    - src: ../../img/gallery/HH_estuary.JPG
+      caption: null
+    - src: ../../img/gallery/HH_Mbay cliffs.JPG
+      caption: null
+    - src: ../../img/gallery/HH_cruise.JPG
+      caption: null
+
 price:
-  heading: at a glance
+  heading: Meander Trail (5 Nights/ 4 Hike Days)
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
-  heading2: null
+    - pax: 4-5 Persons
+      price: R8200/pp
+    - pax: 6 - 8 Persons
+      price: R7800/pp
+
+  heading2: 'Minibreak: Morgan Bay - Cinsta (3 nights/ 2 hike days)'
   overview2: null
-  table2: null
+
+  table2:
+    - pax: 4-5 Persons
+      price: R5400/pp
+    - pax: 6 - 8 Persons
+      price: R5100/pp
+
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
+    - <strong>'5 Night Meander Trail:'</strong>
+    - '<strong>5 Nights Accommodation:</strong> Wavecrest, Trennerys, Mitford Lodge, Haga Haga & Crawfords'
+    - '<strong>All meals:</strong> from dinner on arrival night to breakfast on departure day (5 Breakfasts, 4 Packed Lunches and 5 Dinners).'
+    - '<strong>Hiking Guide</strong> on every hike day'
+    - '<strong>Private Transfer</strong> - collect from Crawfords – transfer to Wavecrest (for self-drives) OR return airport transfers if flying into/out of East London'
+    - '<strong>Vehicle Luggage transfers</strong> incl on last 2 hike days: Morgan Bay to Haga & Haga to Crawfords'
+  notIncludes:
+    - '<strong>Porters</strong> are employed on the first <strong>2 hikes day</strong>. We must pre-book the porters, but porters are paid directly – budget  R200 - R250/porter/per day'
+    - 'If you are a large group, a vehicle luggage transfer from Trennerys - Morgan Bay - R1100/transfer.'
+    - Change to Morgan Bay hotel (avail dependent) – budget extra R250/pp
+
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
-activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  featured: 7
+  image: ../../img/generic/pp-hh-500.jpg
+  tagline: Hotel Hopping
+  title: Slackpacking Southern Wild Coast
+  description: 'If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options.'
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  order: 1
+  image: ../../img/generic/pp-hh-500.jpg
+  tagline: Hotel Hopping
+  title: Slackpacking Southern Wild Coast
+  description: 'If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options.'
 ---

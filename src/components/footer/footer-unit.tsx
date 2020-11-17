@@ -3,6 +3,7 @@ import UniversalLink from '../universal-link'
 import useMedia from 'use-media'
 
 type MenuItem = {
+  id: string
   iconClassName?: string
   link: string
   name: string
@@ -36,8 +37,8 @@ const FooterUnit = ({ heading, menuItems, last = false }: FooterUnitProps) => {
             : {}
         }
       >
-        {menuItems.map(({ iconClassName, link, name }) => (
-          <li key={name} className="wrap-text">
+        {menuItems.map(({ id, iconClassName, link, name }) => (
+          <li key={id} className="wrap-text">
             {iconClassName ? <span className={iconClassName}></span> : null}
             <UniversalLink href={link}>{name}</UniversalLink>
           </li>

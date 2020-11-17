@@ -1,25 +1,22 @@
 ---
 templateKey: activity-page
 meta:
-  title: Family
-  description: Activities for Families
+  title: Mountain Biking
+  description: From Country Roads to Downhill Thrills
 activityName: Mountain Biking
 code: mountainbiking
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-mtbiking.jpg
+  heading: Mountain Biking & Cycling
+  subHeading: Of all the paths you take in life, make sure a few of them are dirt
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: From Country Roads to Downhill Thrills
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
-toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+    - '"<em>I don’t have a Bucket list, but I do have a Bike-It list</em>"'
+    - Whether you're looking for adrenalin-pumping downhill, flowing single-track, endurance or tranquil country road riding, Active Escapes has a tour for you. Our cycling holidays range from fully-supported and professionally guided (with all accommodation, meals and vehicle support provided), to more 'self-guided' options where we’ll provide detailed route information and take care of trip logistics such as accommodation bookings, airport and end-point vehicle transfers.
+featuredToursSection:
+  heading: MOUNTAIN BIKING PRODUCTS
+  subHeading: Choose a ride in the mountains, coast or bush of Southern Africa
 icon: ico-mountain-biking ux
 order: 2
 ---

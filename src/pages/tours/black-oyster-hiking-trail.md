@@ -3,12 +3,20 @@ templateKey: tour-page
 meta:
   title: Black Oyster Hiking Trail
   description: Explore stone-age caves & sandy shores on this 4 day hike along the Mossel Bay coastline - Garden Route. Quality guiding, catering, vehicle-support and an enriched ecological encounter.
+destination: westerncape
+activity:
+  - name: hiking
+    featured: 3
+    listing:
+      image: ../../img/generic/pp-oyster-500.jpg
+      tagline: Black Oyster Trail
+      title: Stone-age caves and Sandy Bays on the Green and Gold Coast
+      description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
+subActivity:
+  - slackpacking
 tourName: Black Oyster Hiking  Trail
 slug: black-oyster-hiking-trail
-featured: 0
-popular: 0
 featuredImage: ../../img/generic/PP-Oystercatcher.jpg
-
 longDescription:
   - Explore stone-age caves, meander along cliff tops, and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline - Western Cape's Garden Route. Quality guiding on this fully catered, vehicle supported slackpacking trail, provides an enriched ecological encounter with the marine environment. The endangered Black Oyster Catcher can be seen in good numbers along this shoreline, whilst whales are an attraction from July to October.
 fromPricing: R8600
@@ -20,7 +28,7 @@ details:
       - 3 Hike Days / 4 Nights
   - heading: Daily Distance
     description:
-      - 'Day 1: 15km/ 5-6hr (sea front cliff tops)'
+      - 'Day 1: 15km / 5-6hr (cliff tops)'
       - 'Day 2: 13km  / 4-6hr (at sea level)'
       - 'Day 3: 21km  / 7-8hrs (at sea level)'
   - heading: Trail Grade
@@ -40,10 +48,10 @@ details:
       - 'Transfers can also be arranged to/from George & Mossel Bay airports (extra fee).'
   - heading: Group Size
     description:
-      - Preferred minimum of 6 and maximum of 15 hikers. With more than 12 people, an extra guide is recommended.
+      - Preferred min of <strong>6</strong> and max of <strong>15</strong> hikers.
   - heading: Pricing
     description:
-      - 'On a group of 4 persons: R8600/pp/sharing – for a fully catered & supported 4 night/ 3 hike day package.'
+      - 'On a group of 4 persons: <strong>R8600/pp/sharing</strong> – fully catered & supported 4 night package.'
 
 emailSubject: Black Oyster Trail Enquiry – PP Enquire Now
 overview:
@@ -51,7 +59,8 @@ overview:
   description:
     - Hike the largely undeveloped Southern Cape (Garden Route) coastline between Mossel Bay and Gourikwa Private Nature Reserve, crossing the spectacular Gouritz River along the way.
     - During the mild winter months, this area is known for its whale activity as mothers come in to give birth in the quiet protected bays. The combination of raptors, marine and Fynbos avian species, makes this a birders paradise too.
-    - Overnight accommodation is in the well-appointed guest cottages at Sandpiper, or other establishments of similar quality, in the area. Fully catered and self-catering trail options are also available.
+    - Overnight accommodation is in the well-appointed guest cottages at Sandpiper, or other establishments of similar quality, in the area.
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -81,18 +90,15 @@ itinerary:
     - src: ../../img/gallery/OC-2hikers.jpg
       heading: Golden Dunes on the Black Oyster Trail
       subHeading: null
-    - src: ../../img/gallery/OC-cliffs.JPG
-      heading: Lichen headlands, Garden Route - Western Cape
-      subHeading: null
+
 lodging:
   heading: 'Lodges'
   description:
-    - Quality guesthouses or characteristic cottages on all nights (4-Star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style.
+    - Quality guesthouses or characteristic cottages on all nights (4-star grade). Usually the same cottage for all nights so you do not need to worry about packing-unpacking bags.  Meals are prepared by local cooks in the traditional Cape style.
   images:
     - src: ../../img/gallery/OC-cottage.jpg
-      heading: One of the Sandpiper Cottages
-    - src: ../../img/gallery/OC-voorhuis.jpg
-      heading: The Voorhuis, Black Oyster Trail
+      heading: Sandpiper Cottages
+
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -126,7 +132,7 @@ gallery:
 price:
   heading: At a Glance
   overview:
-    - Price dependent on Package choice & group but indicative costing
+    - 'Price dependent on Package choice & group but indicative costing:'
     - <strong>Catered Package</strong> - R8600/ pps. (min 4+ pax) 4 Nights/ 5 days & 3 hike days. Fully catered, guided slackpacking trail with luggage transfers and 4 nights guesthouse accommodation.
     - <strong>Self-catered Package</strong> - from R6900/pps. (min 4+ pax) Same 4 nights & 3 hike days. Incl accommodation, guide fees, luggage transported. Difference is you will self-cater. No meals incl.
   table: null
@@ -139,22 +145,14 @@ price:
     - '<strong>Hiking Guide</strong> - for 3 Days'
     - '<strong>Daily Luggage Transfers/ Support</strong>'
   notIncludes: null
-destination: westerncape
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/generic/pp-oyster-500.jpg
-  tagline: Black Oyster Trail
-  title: Stone-age caves and Sandy Bays on the Green and Gold Coast
-  description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast
   description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast

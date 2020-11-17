@@ -106,7 +106,7 @@ interface PageQueryData {
 }
 
 export const query = graphql`
-  query FAQSPageQuery($id: String!) {
+  query FAQSPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       frontmatter {

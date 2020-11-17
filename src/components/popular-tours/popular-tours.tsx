@@ -6,12 +6,15 @@ const PopularTours = () => {
   const {
     allMarkdownRemark: { edges },
   } = useStaticQuery(graphql`
-    query PopularToursQuery {
+    query PopularTours {
       allMarkdownRemark(
         filter: {
-          frontmatter: { templateKey: { eq: "tour-page" }, popular: { gt: 0 } }
+          frontmatter: {
+            templateKey: { eq: "tour-page" }
+            popularTour: { featured: { gt: 0 } }
+          }
         }
-        sort: { order: ASC, fields: frontmatter___popular }
+        sort: { fields: [frontmatter___popularTour___featured], order: ASC }
       ) {
         edges {
           node {
@@ -37,8 +40,10 @@ const PopularTours = () => {
                 }
               }
               activity {
-                frontmatter {
-                  code
+                name {
+                  frontmatter {
+                    code
+                  }
                 }
               }
             }

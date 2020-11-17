@@ -27,6 +27,7 @@
     }
 
     .gatsby-image-wrapper {
+      margin-left: 0 !important;
       height: 100vh;
       @media only screen and (min-width: $screen-md) {
         height: 100%;

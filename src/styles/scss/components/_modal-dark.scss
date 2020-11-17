@@ -1,0 +1,28 @@
+.modal-dark {
+  &__container {
+    vertical-align: middle;
+    margin-top: 0;
+    display: inline-block;
+    width: 100%;
+    font-size: 14px;
+    white-space: normal;
+    max-width: 1010px;
+  }
+}
+
+.modal-dark.activity-destination {
+  .modal-dark__container {
+    background-color: $shark;
+    padding: 3rem 3rem 2rem 3rem;
+    color: $gray;
+    max-height: 80vh;
+    overflow-y: auto;
+
+    @media (min-width: $screen-sm-max) {
+      max-height: 95vh;
+    }
+  }
+  .modal-dark__heading {
+    color: $gray;
+  }
+}

@@ -1,25 +1,27 @@
 ---
 templateKey: activity-page
 meta:
-  title: Family
-  description: Activities for Families
+  title: Rafting
+  description: White-Water Rafting - Tugela & Umko
 activityName: Rafting
 code: rafting
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-rafting.jpg
+  heading: White Water Rafting
+  subHeading: Crocs or not
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Choose to chance the Rapids
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
-toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
-icon: icon-group-large
+    - If you're the kind of person who likes to crank things up a notch, then white-water rafting is definitely for you. Tackling rapids under the expert eye of an experienced river guide, Active Escapes offers day and multi-day rafting tours on the mighty waters of the Tugela and Umkomaas Rivers.
+    - The Tugela River flows from the towering heights of the Drakensberg Mountains, and meanders 502 kilometres through the KwaZulu-Natal Midlands to the Indian Ocean. This river offers spectacular scenery, fascinating Boer War history, serious white water and enough adventure material to keep the adrenalin pumping for a good while!
+    - Famed for being the largest river on the South Coast, the Umkomaas has its source at Giant's Castle in the Berg. Also well-known for the gruelling 67km Umkomaas Canoe Marathon, you too can take advantage of the wild waters from the vantage of an inflatable croc.
+  inset:
+    bestSeason: Summer. Generally Nov - end of Mar
+    locations: KZN Interior - Umkomaas, Tugela
+    icon: ../../img/icons/icon-rafting.inline.svg
+featuredToursSection:
+  heading: RAFTING PRODUCTS
+  subHeading: Paddle your way down the Tugela or Umkomaas River
+icon: icon-rafting.inline
 order: 7
 ---

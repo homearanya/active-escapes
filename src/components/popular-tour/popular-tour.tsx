@@ -12,7 +12,7 @@ interface PopularTourData {
   tagline: string
   title: string
   description: string
-  activity: [Reference]
+  activity: { name: Reference; featured: number }[]
   destination: Reference
 }
 
@@ -23,7 +23,7 @@ interface PopularTourProps {
 const PopularTour = ({
   data: { slug, image, tagline, title, description, destination, activity },
 }: PopularTourProps) => {
-  const tourLink = `/${destination.frontmatter.code}/${activity[0].frontmatter.code}/${slug}`
+  const tourLink = `/${destination.frontmatter.code}/${activity[0].name.frontmatter.code}/${slug}`
 
   return (
     <article className="col-sm-6 col-md-4 article has-hover-s3">

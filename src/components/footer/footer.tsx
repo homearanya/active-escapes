@@ -16,8 +16,10 @@ const Footer = () => {
         siteMetadata {
           footerMenu {
             menuItems {
+              id
               heading
               menuItems {
+                id
                 iconClassName
                 name
                 link
@@ -35,9 +37,9 @@ const Footer = () => {
       <div className="container">
         <NewsletterForm />
         <div className="row footer-holder">
-          {footerUnits.map(({ heading, menuItems }, index) => (
+          {footerUnits.map(({ id, heading, menuItems }, index) => (
             <FooterUnit
-              key={index}
+              key={id}
               heading={heading}
               menuItems={menuItems}
               last={index === footerUnits - 1}

@@ -6,25 +6,17 @@ meta:
 destinationName: Southern Africa
 code: southernafrica
 banner:
-  image: ../../img/banner/dest-drak.JPG
-  heading: Drakensberg Adventures
-  subHeading: Hiking, Biking & Nature Holidays in a World Heritage Site
+  image: ../../img/banner/dest-snafrica.jpg
+  heading: Southern Africa
+  subHeading: Adventures beyond our borders
 intro:
-  heading: Discover the real Drakensberg by foot, pedal or hoof
+  heading: Beyond our Borders
   text:
-    - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
-    - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
-  bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
-  icon: ../../img/icons/ico-landing-hiking.svg
-activities:
-  - activity: hiking
-    image: ../../img/listing/activity-wc-hiking.jpg
-    heading: Wild Coast Hiking Trips
-    subHeading: Hotels, tented camps & village-based trails from Port Edward to Cintsa
-    description: Walking the Wild Coast is the surest way of easing into the Transkei vibe. From village homestays to hotel lays, with tented camps and traditional backpackers along the way, we cover the entire stretch of Wild Coast with trail options to suit all levels of fitness and comfort.
-    link: '/wildcoast/'
-    filter: hiking
-    featured: 0
+    - 'From our own wanderings, we have first-hand experience of travelling beyond our borders, in particular: Mozambique, Zambia and Malawi; with some good connections for facilitating active holidays in these places.'
+    - "So if you keen to hike or bike through the 'Warm Heart of Africa', or paddle the great Lake of Malawi, get in touch (tours@active-escapes.co.za Subject: Holiday beyond South Africa) with us now."
+  inset:
+    bestSeason: Mar – Nov
+    locations: Malawi, Zambia, Mozambique
+    icon: ../../img/icons/ico-landing-hiking.svg
 order: 9
 ---

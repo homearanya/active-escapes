@@ -1,25 +1,21 @@
 ---
 templateKey: activity-page
 meta:
-  title: Family
-  description: Activities for Families
+  title: Horse Riding
+  description: From novice to advanced options
 activityName: Horse Riding
 code: horseriding
 banner:
-  image: ../../img/banner/activity-hiking-hero.jpg
-  heading: Hiking & Slackpacking
-  subHeading: Walking tours in the Berg, Bush and Beach
+  image: ../../img/banner/activity-horseriding.jpg
+  heading: Multi-day Horse Riding Trips
+  subHeading: In the Berg and on the Beach
 intro:
-  heading: Trekking to Slackpacking - Walk the Talk
+  heading: Horse Riding Tours
   text:
-    - For many people, walking is one of the greatest pleasures in life. Being surrounded by natural beauty and hiking with a few close friends and family is a wonderful way to escape the hustle and bustle of city life. In South Africa we are lucky to have a vast range of mountains, valleys, forests and coastlines; which hold incredible hiking, trekking and backpacking opportunities.
-    - Active Escapes offer hiking holidays in the Drakensberg Mountains, the KwaZulu-Natal Midlands, the Eastern Cape Highlands, Kosi Bay and along the entire length of the Wild Coast. Whether you're keen to summit lofty peaks with Vultures cruising the thermals, or have your sights set on sandy toe’s and refreshing dips in the sea; Active Escapes will set your feet moving in the right direction.
-  bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
-  locations: Drakensberg, Kosi Bay, EC Highlands, Wild Coast
-  icon: ../../img/icons/ico-landing-hiking.svg
-toursSection:
-  heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
+    - Forging streams, galloping plains or cantering up golden miles of beach, we have multi-day riding adventures along the Wild Coast, Baviaans mountains and Drakensberg.
+featuredToursSection:
+  heading: HORSE RIDING PRODUCTS
+  subHeading: NULL
 icon: ico-horse-riding ux
-order: 3
+order: 0
 ---

@@ -146,7 +146,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query BlogPageQuery {
+  query BlogPage {
     site {
       siteMetadata {
         siteUrl

@@ -3,12 +3,20 @@ templateKey: tour-page
 meta:
   title: Clarens San Traverse
   description: A 3-day slackpacker offering high berg wilderness and cultural treasures - San paintings, dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
+destination: freestate
+activity:
+  - name: hiking
+    featured: 1
+    listing:
+      image: ../../img/listing/img-04-clarens.jpg
+      tagline: San Traverse - Clarens
+      title: In the footprints of the San
+      description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
+subActivity:
+  - slackpacking
 tourName: Clarens San Traverse
 slug: clarens-san-traverse
-featured: 4
-popular: 6
 featuredImage: ../../img/generic/PP-Skywalk.JPG
-
 longDescription:
   - The Clarens San Traverse is a 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. The area is famous for its landmark San paintings, well-preserved dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
   - Our charismatic guide will lead you safely from one destination to the next whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
@@ -18,22 +26,22 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – with shorter and longer variations
+      - 3 Hike Days / 3 Nights
+      - '* Shorter and longer variations'
   - heading: Daily Distances
     description:
-      - 'Day 1: 17km'
-      - 'Day 2: 14km'
+      - 'Day 1: 17km  Day 2: 14km'
       - 'Day 3: 5.5 - 10km'
-  - heading: Trail Grade
+  - heading: Trail Grading
     description:
-      - 2-3/ 5 for Fitness.
-      - 2-3/ 5 for Technicality. Mostly cleared paths and farm roads. A few sections of off-camber grassy trails and a few steep ascents and descents.
+      - <strong>2-3/ 5 for Fitness</strong>.
+      - <strong>2-3/ 5 for Technicality</strong> Mostly cleared paths and farm roads. A few sections of off-camber grassy trails and a few steep ascents and descents.
   - heading: Trail Terrain
     description:
       - The terrain varies between well maintained hiking paths, mountain paths, ravine trails and rocky ridges.
   - heading: Accommodation
     description:
-      - Comfortable farm stays & lodges - 3-star.
+      - Comfortable farm stays & 3-star lodges
   - heading: Logistic Support
     description:
       - 'A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfers to vehicles.'
@@ -42,7 +50,7 @@ details:
       - Min of <strong>4</strong> persons and max <strong>12-14 </strong>persons per group.
   - heading: Pricing
     description:
-      - 'On a full group of 10-12 persons: R5000/pp/sharing'
+      - 'On a full group of 8-12 persons: <strong>R5000/pp/sharing</strong>'
 
 emailSubject: Clarens San Traverse Hike Enquiry – PP Enquire Now
 overview:
@@ -55,18 +63,19 @@ itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to the trail head near Clarens, Free State.  Overnight: St Fort. The first night is at the trail head. Luxury country accommodation in the main houses offering twin/double en-suite.'
+        - 'Self-drive drive to the trail head near Clarens, Free State.'
+        - 'Overnight: <strong>St Fort </strong> (dinner)'
     - heading: Day 2
       subHeading: 'Hike Day 1: St Fort to Schaaplaats (17km / 7hr hike)'
       description:
-        - Breakfast at the St Fort. Gradual hike up the scenic ravine kloof onto the high Basothu grasslands.
-        - 'Overnight: Schaaplaats Country Guesthouse accommodation offering twin/double en-suite and communal bathrooms.'
+        - Breakfast at St Fort. Gradual hike up the scenic ravine kloof onto the high Basothu grasslands.
+        - 'Overnight: <strong>Schaaplaats Country Guesthouse </strong> -offering twin/double en-suite and communal bathrooms (breakfast, packed lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Schaaplaats to Rock Art Paintings (13.5 km / 5 hr)'
       description:
         - Hike through farmland up through a river trail to visit a National Monument Rock Art cave paintings. Continue along the grassland ridge with dramatic views of Lesotho and the Caledon river.
         - Drivers will be transferred back to collect their vehicle at St Fort.
-        - 'Overnight: Schaaplaats Country Guesthouse.'
+        - 'Overnight: <strong>Schaaplaats Country Guesthouse </strong>  (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Clarens Historical Walk (5.5km-10km / approx 2-4 hr hike)'
       description:
@@ -75,10 +84,10 @@ itinerary:
 
   images:
     - src: ../../img/gallery/clarens_fallowfields.jpeg
-      heading: A fallow field amongst Clarens Sandstone - Hike Day 1
+      heading: 'A fallow field amongst Clarens Sandstone'
       subHeading: null
     - src: ../../img/gallery/clarens_overhang.JPG
-      heading: Caves and overhangs provide a shady spot to rest.
+      heading: 'Caves and overhangs provide a shady rest-spot'
       subHeading: null
 lodging:
   heading: 'Lodges'
@@ -121,27 +130,18 @@ gallery:
     - src: ../../img/gallery/clarens_hikers.JPG
       caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
     - src: ../../img/gallery/clarens_redhotpoka.JPG
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation. 
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip. 
-=======
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
     - src: ../../img/gallery/clarens_rockart guide.JPG
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+      caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
+    - src: ../../img/gallery/clarens_rockart guide.JPG
+      caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
     - src: ../../img/gallery/clarens_rivercross.JPG
       caption: This river crossing may prove a bit more of a challenge during Summer months.
     - src: ../../img/gallery/clarens_trailandcliffs.JPG
@@ -159,7 +159,7 @@ gallery:
 price:
   heading: At a Glance
   overview:
-    - Price varies based on group size, but indicative price indicative price on a full group (10-12 persons) - R5000/pp
+    - Price varies based on group size, but indicative price indicative price on a full group (8-12 persons) - <strong>R5000/pp</strong>
   table: null
   heading2: null
   overview2: null
@@ -171,22 +171,14 @@ price:
     - 'Trail & Reserve permits'
     - 'Hiking Permits and land permissions for the 3 hike day'
   notIncludes: null
-destination: freestate
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
-  image: ../../img/listing/img-04-clarens.jpg
-  tagline: San Traverse - Clarens
-  title: In the footprints of the San
-  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
-activityTour:
+  featured: 0
   image: ../../img/listing/img-04-clarens.jpg
   tagline: San Traverse - Clarens
   title: In the footprints of the San
   description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 destinationTour:
+  order: 1
   image: ../../img/listing/img-04-clarens.jpg
   tagline: San Traverse - Clarens
   title: In the footprints of the San

@@ -3,10 +3,19 @@ templateKey: tour-page
 meta:
   title: Pondo-Explorer Hiking Trail
   description: Hike the northern stretch of Wild Coast Msikaba to PSJ. Overnight in superb tented camps with guide and porter support as an option.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 3
+    listing:
+      image: ../../img/listing/WCH-Pondo-Explorer.JPG
+      title: Pondo-Explorer Trails (Self-Catered)
+      subtitle: Rrom Msikaba - Mbotyi - PSJ
+      description: On this self-catered 3 or 5 night hiking trail, you'll overnight in tent and thatch camps in pristine and wild locations. The camps are well equipped for self-catering so you need only bring your food; and porters can be arranged to lighten your load. On both the 3 & 5 day trails, a night at Mbotyi River Lodge with dinner and breakfast, provides a night of pampering on the trail.
+subActivity:
+  - hiking
 tourName: Pondo Exploring
 slug: pondo-explorer-hiking-trail
-featured: 3
-popular: 2
 featuredImage: ../../img/generic/PP-PondoExplore.JPG
 
 longDescription:
@@ -19,13 +28,14 @@ duration: 3 or 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 or 5 Night Std Hike Options. Extra rest days possible.
-  - heading: Daily Distance
+      - 3 or 5 Night Std Hike Options
+      - '* Extra rest days possible'
+  - heading: Daily Distances
     description:
       - 'Day 1: 16km    Day 2: 18.5km '
       - 'Day 3: 11km    Day 4: 10km '
       - 'Day 5: 13km'
-  - heading: Trail Grade
+  - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
       - <strong>2/ 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
@@ -43,10 +53,10 @@ details:
       - '* Optional: Porter-support'
   - heading: Group Size
     description:
-      - Min 2 pax and max 24 pax per camp.
+      - Min <strong>2</strong> pax and max <strong>24</strong> pax per camp
   - heading: Pricing
     description:
-      - 'On a group of 4 -6 persons: R4,100/pp for the 5 Night Explorer'
+      - 'On a group of 4 -6 persons: <strong>R4,100/pp</strong> for the 5 Night Explorer'
 
 emailSubject: Pondo-Explorer Hike Enquiry – PP Enquire Now
 overview:
@@ -159,35 +169,33 @@ price:
     - pax: 12 or more
       price: R3500/pp
 
-  heading2: null
+  heading2: 3 Night Pondo-Explorer
   overview2: null
-  table2: null
+  table2:
+    - pax: 2-3 Persons
+      price: R3800/pp
+    - pax: 4-6 Persons
+      price: R3500/pp
+    - pax: 9-10 Persons
+      price: R3000/pp
   includes:
-    - 'Transfer from Port St Johns (or Mbotyi) to Msikaba trail head'
-    - '5 Nights Accommodation: 4 nights in tented camps, 1 night DBB at Mbotyi hotel'
+    - '<strong>Transfer</strong> from Port St Johns (or Mbotyi) to Msikaba trail head'
+    - '<strong>3/5 Nights Accommodation:</strong> 2/4 nights in tented camps, 1 night DBB at Mbotyi hotel'
     - 'Inclusive Meals: Dinner & Breakfast at Mbotyi River Lodge'
-    - 'Local Guide / Pathfinder for all hike days '
+    - '<strong>Local Guide / Pathfinder</strong> for all hike days '
     - ' Full catering facilities available at the tented camps - gas plates, cookware & cutlery '
-    - 'Reserve Permits & Trail Fees'
+    - '<strong>Reserve Permits & Trail Fees</strong>'
     - 'Emergency Support Service'
     - 'Pre-booking of porters'
   notIncludes: null
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/listing/img-01-pondoexplore.jpg
-  tagline: Pondo Exploring
-  title: Back – slack - packing Pondoland
-  description: '3 or 5 night Wild Coast Pondoland Trail Options: either fully-supported & catered (the <a href="/wildcoast/hiking/pondo-hopper-hiking-trail/">Pondo-Hopper</a>) or a self-catered version (the <a href="/wildcoast/hiking/pondo-explorer-hiking-trail/">Pondo-Explorer</a>), sleeping in tented camps nestled up against a dune or along a pristine estuary.'
-activityTour:
+  featured: 1
   image: ../../img/listing/img-01-pondoexplore.jpg
   tagline: Pondo Exploring
   title: Back – slack - packing Pondoland
   description: '3 or 5 night Wild Coast Pondoland Trail Options: either fully-supported & catered (the <a href="/wildcoast/hiking/pondo-hopper-hiking-trail/">Pondo-Hopper</a>) or a self-catered version (the <a href="/wildcoast/hiking/pondo-explorer-hiking-trail/">Pondo-Explorer</a>), sleeping in tented camps nestled up against a dune or along a pristine estuary.'
 destinationTour:
+  order: 1
   image: ../../img/listing/img-01-pondoexplore.jpg
   tagline: Pondo Exploring
   title: Back – slack - packing Pondoland

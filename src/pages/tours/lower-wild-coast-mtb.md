@@ -1,182 +1,220 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Lower Wild Coast Mountain Bike Adventure
+  description: Discover the diversity of this wild coastline from a saddle. Following the route of the Imana Wild Ride, our guided &/or vehicle supported tours offer more days to do the distance, and soak up the vibe along the way.
+destination: wildcoast
+activity:
+  - name: mountainbiking
+    featured: 2
+    listing:
+      image: ../../img/listing/activity-lowerWC-MTB.jpg
+      title: Lower Wild Coast Cycle Adventure
+      subtitle: From cliff-top to sandy bay
+      description: There's no better way to appreciate the diversity of this wild coastline than from the vantage of your saddle, as you wind your way from cliff-top to sandy bay, across grassy plateau and up forested tracks, passing friendly villages along the way. Following the popular route of the Imana Wild Ride, our supported tours offer more days to do the distance, making it as much a holiday with friends as an Epic MTB adventure.
+subActivity:
+  - mountainbiking
 tourName: Lower Wild Coast Mountain Bike Adventure
 slug: lower-wild-coast-mtb
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
-
+featuredImage: ../../img/generic/PP-WCMTB.jpg
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - Taking place on the Lower Wild Coast, this unique mountain biking destination was placed on the map by the famous Imana Wild Ride.  Our tour follows more or less the same route as the Wild Ride but takes things at a more relaxed tempo.  The full tour begins in Morgan Bay and follows the rugged coastline north, to finish in Coffee Bay (4 Ride Days) or through to Umngazi / Port St. Johns (6 Ride Days).
+  - Groups can overnight in the friendly Wild Coast hotels along the way, or chose a mix of accommodation - from nature reserves, hotels, vibey eco-lodges and private cottages – offering a kaleidoscope of wild coast flavours along the way.
+  - The more laid-back pace of our Wild Coast Adventure tour offers plenty of time for swims, chats to the locals and photos along the way, so is aimed at social groups with a good level of mountain biking fitness and adventurous spirits, looking for a cycle tour on the wild side.
+
+fromPricing: R11200
+difficultyLevel: challenging
+duration: 5-8 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - '5 Nights / 4 Ride Days: Morgan Bay – Coffee Bay'
+      - '6 -7 Nights / 5 - 6 Ride Days: Morgan Bay – Umngazi / PSJ'
+
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: Morgan Bay – Mazeppa 47km'
+      - 'Day 2: Mazeppa -Haven  45km'
+      - 'Day 3: Haven – Coffee Bay  48km'
+      - 'Day 4: Coffee Bay - Mpande  44km    '
+      - 'Day 5: Mpande – Umngazi 21km or PSJ 32km'
+
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>4/ 5 - Fitness</strong>. Persons with a good level of strength, fitness and an adventurous mindset enjoy this tour most. Endurance counts far more than speed on this type of tour, where a fair amount of time can be spent portaging and getting on and off your bike. Riding on the Wild Coast is about time in (and out of) the saddle.
+      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to be able to stay on your bike through soft sand and rutted paths. However, pushing & portaging sections is always an option and in many instances, a necessity.
+
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - 'Coastal Mountain Bike trail: if timed well with tides, up to 50% beach riding, otherwise primarily cattle and fishermen paths, 4x4 tracks and small sections of district road.'
+      - There are some steep, rocky or soft sand sections on which you will have to push or portage your bike, as well as river crossings to keep things interesting.
+
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Transkei Hotels & Private Cottages
+      - 'Budget alternatives: Nature Reserves & Backpacker alternatives on some nights depending on route/days'
+
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - '<strong>Opt A: Fully Supported & Guided</strong> Mountain Bike Tour: 2 x Guides, all meals & daily back-up vehicle and luggage transfers.'
+      - '<strong>Opt B: vehicle supported</strong> tour but self-guided.'
+
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - Preferred min <strong>6</strong> persons - max <strong>10</strong> for a single transfer vehicle
+      - Up to 16 persons with two transfers.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'Custom Quote required, but guideline for 5 Ride Day/ 5 Night trip, based on 8 Persons:'
+      - 'Opt A – Choice Hotels, Guided & Vehicle Supported: <strong>R14 000/pp</strong>'
+      - 'Opt B – Self-guided but vehicle supported: <strong>R11 200/pp</strong>'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Lower Wild Coast Mountain Bike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - It is 139km of riding through to Coffee Bay and close on 200km to Umngazi from our starting point in Morgan Bay. The standard tour will cover the full distance over 5 days of riding with the last long day of the Imana Wild Ride being split over two days.
+    - The average daily ride distance is around 45km/day, with the final day being just 21km through to Umngazi River Bungalows. However, for less fit groups we can also do the full route over 6 ride days - overnighting at both Dwesa and Bulungula as opposed to 1 night at the Haven.
+    - A 'rest day' can be included at any of the overnight places enroute, which allows one to make this as much a holiday as a journey.
+
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day
+      subHeading: 'Arrival Day: Transfer through to Morgan Bay'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - 'Self-drive to Umngazi River Bungalows – leave vehicles there & get transfer through to Morgan Bay OR get pick-up from EL airport'
+        - 'Overnight: <strong>Morgan Bay / Mitford hotel</strong>'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Ride Day 1: Morgan Bay to Wavecrest (29km / 382m ascent)'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - 'Overnight: <strong>Wavecrest hotel</strong>'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Ride Day 2: Cycle to Mazeppa/Kob Inn (21/ 26km / 223m ascent)'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - 'Overnight: <strong>Kob Inn or Mazeppa</strong> '
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Ride Day 3: Cycle Kob Inn/ Mazeppa – Haven Hotel (35km / 290m ascent)'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - 'Overnight: <strong>Haven Hotel</strong>'
+    - heading: Day 5
+      subHeading: 'Ride Day 4: Cycle Haven to Coffee Bay (52km / 1100m ascent)'
+      description:
+        - 'Overnight: <strong>Ocean View Hotel</strong> / or Coffee Bay Backpackers'
+    - heading: Day 6
+      subHeading: 'Ride Day 5: Cycle Coffee Bay to Umngazi (63km / 1300m ascent)'
+      description:
+        - 'Overnight: <strong>Umngazi River Bungalows</strong> (avail permitting)'
+    - heading: Day 7
+      subHeading: 'Departure Day'
+      description:
+        - Leave in own vehicles from Umngazi OR transfer back to East London or Morgan Bay.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/WCMTB_beach.jpg
+      heading: The final descent before Umngazi
+      subHeading: null
+
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - <strong>Transkei Hotels</strong> - 3 star family-friendly hotels
+    - <strong>Private Cottages</strong> for larger groups
+    - <strong>Nature Reserves</strong> if prepared to self-cater
+    - <strong>Backpacker</strong> alternatives in some places
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/HH_wcrest deckpool.JPG
+      heading: First light at Wavecrest Hotel
+      subHeading: null
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Is it possible to self-guide but have vehicle back-up support?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
-    - question: What type of footwear is appropriate?
+        - Yes we offer this – see Option B. We can provide daily route guidelines and a gps route, though the best route is always determined by the tide and weather conditions on the day. Our support vehicle can really only carry luggage from lodge to lodge, so out on the trail you are on your own – but that is the true spirit of the adventure .
+    - question: How good a mountain-biker do you need to be, to do this tour?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
-    - question: What is the best time of year for this trail?
+        - Wild Coast riding is much more about endurance than it is about speed and skills. Skills help of course, to stay on your bike longer as you navigate the fisherman paths or negotiate some soft sand, but overall – it’s about time in the saddle, and a good amount of ‘vasbyt’ when the going gets tough. A 40km day on the Wild Coast is a full day on the trail so you’ll be grateful for the  shorter / half-days…for this is a journey not a race.
+    - question: Can we hire bikes?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - Afraid not. The sand and salt also takes its toll on your steed, so if you have the luxury of a ‘B’ bike…but still in good working order, bring the ‘B’ bike. You will need to bring your bike-specific spares and if going without a guide, have at least someone in your group who has some idea about running trail repairs.
+    - question: It is possible to make this trip shorter?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Yes, by stopping at Coffee Bay. But, given the planning and effort involved in a Wild Coast MTB Adventure, you wouldn’t want to make it any shorter than four days.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/WCMTB_HIW-descent.jpg
+      caption: The approach to Hole-in-the Wall is an exhilarating grassy green roller-coasting descent
+    - src: ../../img/gallery/WCMTB_boulderbeach.jpg
+      caption: There are not many pebble beaches along this stretch of Wild Coastline, but they will, more than likely necessitate a hike-a-bike.
+    - src: ../../img/gallery/WCMTB-thetwine.jpg
+      caption: Portaging up ‘the twine’ before coming to Xhora mouth. Lower Wild Coast MTB Adventure
+    - src: ../../img/gallery/WCMTB-descent.jpg
+      caption: Cutting through the aloes as one comes down to the fabled Hole in the Wall
+    - src: ../../img/gallery/WCMTB-sillhouette.jpg
+      caption: null
+    - src: ../../img/gallery/WCMTB-HIW relax.jpg
+      caption: Lunch at Hole in the Wall  on the ride day from Bulungula to Coffee Bay.
+    - src: ../../img/gallery/WCMTB_silaka.jpg
+      caption: Racing the sunset as we still had 15kms to do through the beautiful, but wild, Silaka Nature Reserve – last day of the Wild Coast Adventure trip.
+    - src: ../../img/gallery/WCMTB-darksky.jpg
+      caption: Early morning start from Bulungula
+    - src: ../../img/gallery/WCMTB-lonerider.jpg
+      caption: The Wild Coast in Winter offers the most perfect riding days.
+
 price:
-  heading: at a glance
+  heading: Opt A - 6N Guided & Fully Supported
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
-  heading2: null
+    - pax: 4 Persons
+      price: R18 000/pp
+    - pax: 5 Persons
+      price: R16 000/pp
+    - pax: 6 Persons
+      price: R15 500/pp
+    - pax: 7 Persons
+      price: R14 500/pp
+    - pax: 8-9 Persons
+      price: R14 000/pp
+    - pax: 10 Persons
+      price: R13 400/pp
+
+  heading2: Opt B - 6N Self-Guided but Vehicle Supported
   overview2: null
-  table2: null
+  table2:
+    - pax: 4 Persons
+      price: R14 000/pp
+    - pax: 6 Persons
+      price: R12 000/pp
+    - pax: 8 Persons
+      price: R11 200/pp
+    - pax: 10 Persons
+      price: R10 900/pp
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
-destination: wildcoast
-activity:
-  - mountainbiking
-subActivity:
-  - mountainbiking
+    - '<strong>6 Nights Accom</strong> (sharing basis): Morgan Bay or Mitford Hotel, Wavecrest hotel, Kob Inn or Mazeppa Hotel, Haven Hotel, Ocean View Hotel - Coffee Bay, Umngazi Bungalows (costed on garden units) - availability permitting'
+    - '<strong>All meals:</strong> from dinner on arrival night to breakfast on final day.'
+    - '<strong>Transfers:</strong>'
+    - 1 (up to 9 persons) / 2 (9-12 persons) Quantum vehicles (with trailer)  to collect group from East London Airport – transfer to Morgan Bay
+    - 1 - 2 Quantum vehicle (with trailer) to collect group from Umngazi & transfer either to Durban (King Shaka) or East London airport
+    - '<strong>Back-up Support Vehicle</strong> - with Driver to transfer luggage from hotel to hotel each day & will be able to assist in case of serious emergency (4x4 acces roads permitting)'
+    - '<strong>* OPT A - Private Cycle Guide</strong> for all ride days'
+
+  notIncludes:
+    - '<strong>Personal Insurance / Emergency Evacuation </strong>'
+    - Flights or self-driving to East London
+    - Nature Reserve & Ferry Crossings - need to be paid direct (no more than R200/pp)
+
 popularTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
-activityTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  featured: 0
+  image: ../../img/generic/pp-lwcmtb-500.jpg
+  tagline: Sandy Tracks
+  title: Lower Wild Coast MTB Adventure
+  description: 'Discover the diversity of this wild coastline from the vantage of your saddle, winding your way from cliff-top to sandy bay, across grassy plateau and along forested track. Our supported tour follows the route of Imana, but over more days with lower daily mileages'
 destinationTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  order: 1
+  image: ../../img/generic/pp-lwcmtb-500.jpg
+  tagline: Sandy Tracks
+  title: Lower Wild Coast MTB Adventure
+  description: 'Discover the diversity of this wild coastline from the vantage of your saddle, winding your way from cliff-top to sandy bay, across grassy plateau and along forested track. Our supported tour follows the route of Imana, but over more days with lower daily mileages'
 ---

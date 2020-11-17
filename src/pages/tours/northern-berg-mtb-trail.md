@@ -1,180 +1,176 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-tourName: Northern Drakensberg – Self-guided Freewheeling
+  title: Northern Berg Lodge-to-Lodge MTB Tour
+  description: Sublime single-track, mountain views, fully catered lodgings, and close enough away for a weekend getaway?  The Northern Berg offers the perfect MTB playground.
+destination: drakensberg
+activity:
+  - name: mountainbiking
+    featured: 1
+    listing:
+      image: ../../img/listing/activity-NBerg-MTB.JPG
+      title: Northern Berg MTB Adventure
+      subtitle: Self-guided option in the Big Berg
+      description: Training for a multi-day event and tiring of your same old routes? Need some hills to sweat and new track to tame? Just 2.5hrs from Durbs and 3.5hrs from Joburg, the Northern Berg makes for an easy weekend MTB getaway.  With over 100 kms of custom built single-track and bikes available for hire, it is an easy self-guided option for international travellers and those looking for a weekend escape in big berg country.
+subActivity:
+  - hiking
+tourName: Northern Berg MTB Trail
 slug: northern-berg-mtb-trail
-featured: 0
-popular: 5
-featuredImage: ../../img/generic/pp-amphi-966.jpg
+featuredImage: ../../img/generic/PP-BergMTB.jpg
 
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - Just 4hrs from Joey's & 3hrs from Durbs, our Northern Drakensberg MTB weekender is a lodge-to-lodge self-guided mountain bike  tour, combining sublime single-track with majestic mountain views. Altitude, ascent and some technical descents, offers the perfect training ground for advanced riders looking to 'up their game' or train for a multi-day event, whilst easier tour options can be tailored to novice, intermediate and family riders.
+  - The tour option described below is designed for intermediate to advanced riders.
+
+fromPricing: R5500
+difficultyLevel: challenging
+duration: 2 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 2 Ride Days / 3 Nights
+      - '* Extra days/nights avail'
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Ride Day 1: 30-40km / 5hr'
+      - 'Ride Day 2: 40km / 4-5hr'
+
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>4/ 5 - Fitness</strong>. This trip is best suited to riders with a good level  of mountain bike fitness and experience.
+      - <strong>3-4/ 5 - Technicality</strong>. One can expect some serious climbing, large amounts of single track, and some rocky descents. Less technical alternatives can also be arranged.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - This is as close to ‘high berg’ riding as you will get. Taking you from the plains of the Tugela River to 1800m’s above sea level, under the shadow of the mighty Drakensberg peaks where Cape Vultures soar.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - 1 Night - Cavern Berg Hotel, Northern Drakensberg Valley
+      - 1 Night - Mountain Log Cabins
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - A fully-catered & luggage supported MTB Tour, which is <strong>self-guided</strong> unless you specifically want a guide.
+
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - Possible from 1 person
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a group of 4-5 persons: <strong>R5,500/pp</strong> '
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Northern Berg MTB Tour Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - Just 4hrs from Johannesburg and 3hrs from Durban, our Northern Drakensberg MTB weekender is a lodge-to-lodge self-guided MTB tour, combining sublime single-track with majestic mountain views. Altitude, ascent and some technical descents, offers the perfect training ground for advanced riders looking to 'up their game' or train for a multi-day event, whilst easier tour options can be tailored to novice, intermediate and family riders.
+    - This is also one of the few places where bike hire is available ,and a guide can be arranged if wanted. We highly recommend a second day at Drak Mountain Lodge, where you can hike to a vulture colony or take a horse ride.
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB).
+        - 'Overnight: Cavern Hotel (Dinner provided)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Ride Day 1: Approx 35km ride up to Drak Mountain Lodge.'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Sublime valley singletrack, some steep jeep-track riding, fantastic mountain views.
+        - Luggage transferred via vehicle to Mountain Lodge
+        - 'Overnight: <strong>Drak Mountain Lodge</strong> (Breakfast & trail lunch from Cavern. Dinner at Mountain lodge) '
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Ride Day 2: Approx 40-60km route options back to Cavern.'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - Some thrilling technical descents and world-class singletrack routes
+        - 'Recommend: book for a massage at Cavern Spa'
+        - 'Overnight: <strong>Cavern Hotel</strong> (Breakfast & trail lunch from Mountain lodge. Dinner at Cavern)'
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Departure Day'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - Join Cavern’s daily guided hikes in the morning before breakfast or some more trail riding.
+        - Stay for lunch at Cavern on departure day if you haven’t had lunch on your arrival day (incl).
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/bergmtb-ferns.JPG
+      heading: Singletrack in the Northern Berg valley
+      subHeading: With the Drakensberg Mountains as a backdrop
+
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - 2 Nights at <strong>Cavern Berg Hotel</strong> –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest.
+    - 1 Night at <strong>Mountain Lodge </strong>– log cabins nestled under the sandstone cliffs with fantastic views.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/vulture_mountaincabins.JPG
+      heading: Drak Mountain Lodge
+      subHeading: null
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Can we hire bicycles?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
-    - question: What type of footwear is appropriate?
+        - Yes. There is a bicycle hire venue in this valley.  You are looking at about R750/bike for a 24hr period. Rentals are Bergamont Contrail 26" Dual Suspension Mountain Bikes and there are 2 x 29’ers.
+    - question: Can we have extra days?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
-    - question: What is the best time of year for this trail?
+        - Absolutely. We recommend an extra day at Drak Mountain Lodge as there is a lovely walk to a Vulture colony and also horse-riding and fishing. An extra day-night at Cavern before or after the trip is always a treat.
+    - question: Is it safe to self-guide?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
-      answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - Yes, the mountain bike trail network is well signed and designed for self-navigation. Our route mapping will be designed around your fitness level with extra loops possible for the fit. We can arrange a private guide if you want to, but most groups chose not to.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/bergmtb-track.JPG
+      caption: Blue skies and groomed track in the Grotto section of the Northern Berg MTB trails.
+    - src: ../../img/gallery/bergmtb-river.JPG
+      caption: During summer months, a few of the river crossings may provide more than an ankle-deep whetting.
+    - src: ../../img/gallery/bergmtb-dam.JPG
+      caption: The Grotto trail heads up to the trout dam above Cavern hotel.
+    - src: ../../img/gallery/bergmtb-amphi.JPG
+    - src: ../../img/gallery/bergmtb-chameleon.JPG
+      caption: Right of track granted to these endangered creatures
+    - src: ../../img/gallery/bergmtb-windmill.JPG
+      caption: Free-range mountain biking on private farms – access negotiated.
+    - src: ../../img/gallery/bergmtb-ferns.JPG
+      caption: Views of the high berg as you cross the valleys
+    - src: ../../img/gallery/vulture_mountaincabins.JPG
+      caption: Drak Mountain Lodge
+    - src: ../../img/gallery/bergmtb-berghouse.JPG
+      caption: A stop-off at Berghouse before doing the Leopards loop.
+
 price:
-  heading: at a glance
+  heading: 3 Night / 2 Ride Day Package
   overview: null
   table:
     - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
+      price: R7900/pp
+    - pax: 2 Persons
       price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+    - pax: 3 Persons
+      price: R5700/pp
+    - pax: 4-5 Persons
+      price: R5500/pp
+    - pax: 6-8 Persons
+      price: R5300/pp
+
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
-destination: drakensberg
-activity:
-  - mountainbiking
-subActivity:
-  - mountainbiking
+    - '<strong>3 Nights Accom</strong> (sharing basis): 2 nights at Cavern Hotel (Std Rooms) & 1 Night at Drak Mountain Inn (private ensuite chalet)'
+    - '<strong>All meals:</strong> from dinner on arrival night to lunch on departure day (3 Breakfasts, 2 Packed Lunches & 1 normal, and 3 Dinners).'
+    - '<strong>Luggage Transfers:</strong> collect from the Cavern - 4x4 transfer up to Drak Mountain Inn & return back to Cavern  '
+    - 'Multi-day <strong>MTB Trail Pass</strong>/ Permit</strong>'
+    - 'Route Description & guidelines for 2 x <strong>self-guided</strong> ride days'
+    - '<strong>AE booking & Customisation service</strong>'
+  notIncludes:
+    - '<strong>MTB Bike Hire</strong>: Budget R750/bike/per day'
+    - '<strong>Guide</strong> it is possible to arrange one but at around R2000/day, only feasible for larger groups. This is a good self-guided multi-day trail option.'
+
 popularTour:
-  image: ../../img/listing/img-05-nberg.jpg
-  tagline: Northern Berg MTB
-  title: High Berg vistas and sublime singletrack
-  description: 'One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway.'
-activityTour:
+  featured: 5
   image: ../../img/listing/img-05-nberg.jpg
   tagline: Northern Berg MTB
   title: High Berg vistas and sublime singletrack
   description: 'One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway.'
 destinationTour:
+  order: 1
   image: ../../img/listing/img-05-nberg.jpg
   tagline: Northern Berg MTB
   title: High Berg vistas and sublime singletrack

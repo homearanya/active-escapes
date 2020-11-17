@@ -1,183 +1,260 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Tugela Bush Camp, heart of KZN
+  description: Nestled amongst the aloes & acacias of the Tugela canyon, this bush camp surrounded by game reserve, provides an ideal getaway for active and nature-loving persons.
+destination: kzn_interior
+activity:
+  - name: family
+    featured: 1
+    listing:
+      image: ../../img/listing/family-zing.JPG
+      title: Tugela Bush Camp
+      subtitle: Plug out and reconnect
+      description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  - name: rafting
+    featured: 2
+    listing:
+      image: ../../img/listing/activity-rafting-tugela.jpg
+      title: White Water - Tugela
+      subtitle: Mind the crocs
+      description: After summer rains, the still pools of the Tugela River turn into an exciting stretch of white water. From our bush camp, nestled in the heart of the Tugela Canyon, there is a 20km stretch of rapids and pools on which the SA white water rafting champs have been hosted. Water levels rise and fall, with 8 and 4-man rafts used in higher volumes whilst the two man crocs and kayaks are ideal for lower levels.
+  - name: mountainbiking
+    featured: 0
+    listing:
+      image: ../../img/listing/nature-zing.JPG
+      title: Tugela Bush Camp
+      subtitle: Plug out and reconnect
+      description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  - name: nature
+    featured: 1
+    listing:
+      image: ../../img/listing/nature-zing.JPG
+      title: Tugela Bush Camp
+      subtitle: Plug out and reconnect
+      description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  - name: running
+    featured: 1
+    listing:
+      image: ../../img/listing/nature-zing.JPG
+      title: Tugela Bush Camp
+      subtitle: Plug out and reconnect
+      description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  - name: retreats
+    featured: 1
+    listing:
+      image: ../../img/listing/nature-zing.JPG
+      title: Tugela Bush Camp
+      subtitle: Plug out and reconnect
+      description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  - name: groups
+    featured: 1
+    listing:
+      image: ../../img/listing/group-retreat.jpg
+      title: Wellness Retreat – Tugela Bush Camp
+      subtitle: Yoga, meditation, trail runs and just being in nature
+      description: A Wellness Retreat could provide a novel team build, book club meet or opportunity to re-connect. Yoga, journaling, meditation, delicious healthy meals and an opportunity to just be.  A weekend retreat at Tugela Bush Camp will provide the soul food you after.
+subActivity: null
 tourName: Tugela Bush Camp
 slug: tugela-bush-camp
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
-
+featuredImage: ../../img/generic/PP-Zingretreat.jpg
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
-difficultyLevel: moderate
-duration: 3 Days
+  - '<em>"Relax as hard as you like"</em> is the tune by which things are run at this canvas-and-thatch bush camp, nestled amongst the aloes and acacias of the mighty Tugela River, central KZN. Wake to the call of a Fish Eagle, enjoy an early morning game walk or trail-run, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, roaring campfires, open-air dining and evening skies awash with stars.'
+  - Whether its adventure, nature, or relaxation that you after, the surrounds and company of this river bush camp offer the perfect tonic. From game viewing, fly fishing and birding, to more adventurous pursuits such as 4x4'ing, mountain-biking, river rafting, abseiling and trail-running, you'll never run short of things to do. And now look out for our scheduled ‘retreats’ of yoga, meditation and other soulful pursuits.
+
+fromPricing: R500
+difficultyLevel: fairly-easy
+duration: '1-5 Days'
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - We recommend a min stay of <strong>2 nights</strong>, to allow sufficient opportunity to unwind and reset.
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 0 – 50km, depending on how much – or how little – you wish to fit in to your day.
+
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>1-2 / 5 - Fitness</strong>.There are circular walking-running trails which are just a few kms, but you can extend your network as far as you are fit.
+      - <strong>2/ 5 - Technicality</strong>. The trail network is surprisingly well cleared and maintained, but the overall terrain is pretty wild.
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - Thukela Thornveld and Valley Bushveld – comprising river valleys, rocky ridges, alluvial sands, gnarled and ancient Shepard trees, aloes and acacias.
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Camping sites, 'glamping', stone-thatch-canvas units - <em>al-natural</em>
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - 4x4 or high-clearance vehicle needed to get in to camp but transfers can also be arranged in – leaving your vehicle in Colenso (4hrs from JHB) or Weenen (2hr from Durban)
+      - 'Ask us about the option of hiking or mountain biking IN to camp.'
+
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - No minimum – camp can accommodate up to 100 persons
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'Varies based on accom choice: from <strong>R250/pp</strong> (own tents) to <strong>R1500/pp (FB)</strong> – Larney lane units'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Tugela Bushcamp Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - From humble beginnings, this family-run bush camp has evolved slowly over the years. A firm believer that rocks and trees are here to stay, the owners have passionately crafted their accommodation around the natural features of this rugged landscape. Enjoy a river view or a window in to the bush canopy from your outdoor ensuite, or the morning banter of the mocking chats as they hop around your room.
+    - Tugela Bush Camp offers a <em>unique getaway</em> for friend and family, boys or ladies retreats and adventurous corporates. Itineraries are tailor-made from the many activities on offer, and experienced facilitators can be brought in. Bonds are created through shared experience and this environment provides the natural playground for this to happen.
+    - Most activities are offered year round, but the best month for rafting (summer rainfall dependent) is November through to April. During winter, the river drops and cleans up considerably,  making conditions favourable for fighting Yellow's on fly. The rocky roads and animal tracks around this former biosphere reserve provide organic mountain biking terrain and there is an extensive network of hiking and running paths, created for their annual trail running event, and maintained by wild animals and a dedicated team of trail-blazers.
+    - Have your concept of outdoor living stretched to its limits, down here in the Tugela Valley.
+
 itinerary:
   itinerary:
-    - heading: Day 1
-      subHeading: Arrival Day
+    - heading: <strong>Yoga - Nature Retreat Itinerary</strong>
+      subHeading: Arrival / Day 1
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Self-drive drive to Weenen - Meet and Greet
+        - Group transfer (or self-drive if you have a high clearance vehicle) into camp
+        - Light lunch on arrival – settle into  your accom
+        - 'Afternoon: Intro Yoga session'
+        - 'Late Afternoon: Walk up to Sunset Rock. Sundowners. Silent Walk back to camp'
+        - Campfire Dinner
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Yoga, Meditations & Nature Walks '
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - '7am: Kundalini Yoga or Trail Run/ Walk'
+        - '9am: Breakfast'
+        - Vinyasa Yoga
+        - '1pm: Lunch under the acacia’s'
+        - 'Own time: Time to reflect or do whatever makes you happy! Paddle, swim, read, relax'
+        - From 4pm Fascia Release & Yoga Nidra
+        - From 6pm – snacks at the Campfire followed by dinner
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hippo Hill Meditation, Vinyasa, Brunch - Return '
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
-    - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
-      description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - '06h30: Walk and Meditation at Hippo Hill'
+        - Fruit salad, yoghurt & muffins at camp
+        - '08h30-9am: Vinyasa Yoga Session'
+        - 'From 10.30 -11: Brunch'
+        - 12pm - Depart or transfer back to Weenen
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/zing_trailrunning.JPG
+      heading: Trail Running past Sunset Rock
+      subHeading: Over 50kms of handcrafted trail exists - built for Zingela's annual trail-run event, but kindly maintained by game and the dedicated trailblazing team.
+    - src: ../../img/gallery/zing_retreat3.jpg
+      heading: Yoga and Nature Retreats
+      subHeading: If you are a group of 8 or more, we can run a private retreat as per your date request (a novel book-club or corporate getaway). But we are also scheduling a handful of retreats in the upcoming year - so check-in with us if this is your call.
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - If you expecting a star-grading here, you looking at the wrong place.If you happy to trade heated towel rails for star-washed skies and steam rising off a hot shower in the great outdoors, then this is your place.
+    - Tugela Bush Camp offers something for every budget – from a levelled lawn under acacia shade to pitch your tent, or your own King size bedrock with penthouse river views.
+    -
+    - <strong>Level and shady grass</strong> patches to pitch your own tent with communal kitchen and shower facilities
+    - '<strong>Glamping:</strong> Safari-style tents with beds and bedding'
+    - '<strong>Family units:</strong> thatch, stone and canvas creations'
+    - "<strong>'Larney Lane' Units:</strong> private units, surrounded by bush, each with their own unique character"
+    -
+    - 'Our master builders have worked with local materials: boulders, trees, reeds and a little concrete and canvas to make each ‘unit’ naturally distinctive.'
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/zing_hitchens.JPG
+      heading: Hitchen Honeymoon Suite
+      subHeading: Rock forms a natural bedhead
+    - src: ../../img/gallery/zing_aloes-familyunit.JPG
+      heading: Aloes Family Unit
+      subHeading: Where a warm shower under a Tamboti, offers the perfect start to your day
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Where is this camp located and what vehicle do you need to get there?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
-    - question: What type of footwear is appropriate?
+        - Tugela Bushcamp feels like you in true wilderness, but actually its not so far a drive from either JHB or Durban. It is about 4hrs drive from JHB to Colenso (meeting point for non 4x4's) or 2,5hr drive from Durban to Weenen (alternative meeting point). From here it is about an hours drive/transfer into camp. You will need a sturdy high-clearance vehicle - with potential 4x4 in the wet - to get into camp. But if you dont have - we can arrange a return transfer into camp for R750/ 7 seater vehicle.
+    - question: Can we hike or mountain bike into camp?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
-    - question: What is the best time of year for this trail?
+        - Yes. You can certainly mountain bike via the road that the vehicles would travel in (actually great mountain-biking), and we are currently finishing off the trails to be able to offer a slackpacking hike in from the Colenso side - with a potential wild camping night enroute. There is also a hike-paddle combo that can be arrranged for groups. So many options, we'll try make your adventure aspirations come true.
+    - question: What is the best time of year to visit this camp?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - In the Thukela Valley you can expect very hot (but dry) conditons during Summer (Nov - Feb) - early morning starts, siesta's over lunch, and a good amount of time spent cooling off in the river, are the order of the day. Winter days are mostly sunny and dry - perfect for trail running and fishing after a lazy start.  The nights do get cold, but we'll make sure you snug under your duvets, and a roaring campfire is all the more enticing.
+    - question: When can we do the 'Retreats'?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - If you are a group of 8 or more, we can organise a Yoga or Special-Interest retreat for you on any weekend - availabilty permitting with the lodge and our instructors. We also going to schedule a couple of 'holistic' retreats during the course of the year so that singles and small groups can join. Another Yoga-Meditation-Nature retreat will be on the cards again, along with Mother-Daughter, Women's Fishing, Nutrition and Couples Retreats. Please drop us a mail if you interested in attending such.
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/zing_aloe-trail.JPG
+      caption: Animal paths provide a natural trail network, with a little bit of rock clearing from the trail blazers.
+    - src: ../../img/gallery/zing_flyfishing.jpg
+      caption: During winter months, the Tugela River cleans up considerably and fishing for the Natal Yellow fish becomes a key attraction.
+    - src: ../../img/gallery/zing_mtb2.JPG
+      caption: Blaaukrantz hill - a daring climb or a dare-devil descent
+    - src: ../../img/gallery/zing_sunrock.JPG
+      caption: Sundowners or meditation time at Sunset Rock, just a short scramble above the lodge.
+    - src: ../../img/gallery/zing_campchat.JPG
+      caption: 'Tugela Bush Camp provides a unique venue for celebrating special occasions: birthdays, weddings, family reunions'
+    - src: ../../img/gallery/zing_HOH.jpg
+      caption: The last rays of light on a summers eve – House on the Hill, Tugela Bush Camp
+    - src: ../../img/gallery/zing_road.JPG
+      caption: Take a dirt road….. See where it leads
+    - src: ../../img/gallery/zing_trailrunning.JPG
+      caption: Find a trail that takes your breath away
+    - src: ../../img/gallery/zing_sunset.JPG
+      caption: And if that doesn’t….then the view absolutely should.
+    - src: ../../img/gallery/zing_dawsonscreek.jpg
+      caption: Dawsons - one of the lovely 'Larney Lane' units - double outdoor shower...of course
+    - src: ../../img/gallery/zing_boat-on-river.JPG
+      caption: Merrily, merrily down the stream, life is but a dream.
+    - src: ../../img/gallery/zing_abseil.JPG
+      caption: Abseil Rock
+    - src: ../../img/gallery/zing_badlands.JPG
+      caption: One of the 'Badlands' units - built from local stone, thatch and reeds by our valley master builders.
+    - src: ../../img/gallery/zing_retreat1.jpg
+      caption: Yoga & Meditation Retreats can be organised on a private request basis or look out for our scheduled weekends
+    - src: ../../img/gallery/zing_retreat6.jpg
+      caption: Discussing the practice of Journalling on our last Yoga Retreat
 price:
-  heading: at a glance
+  heading: Accommodation for all Budgets
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+    - pax: Camping- own tents
+      price: R250/pp
+    - pax: Glamping - bedding supplied
+      price: R350/pp
+    - pax: B&B - Family Units
+      price: R650/pp
+    - pax: DBB - Family Units
+      price: R950/pp
+    - pax: DBB - Larney Lane Units
+      price: R1300/pp
+    - pax: 'Kids U12: half-price on accom'
+      price: null
+    - pax: 'Babies 0-2yrs: free'
+      price: null
+
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
-  notIncludes: null
-destination: kzn_interior
-activity:
-  - family
-  - rafting
-  - nature
-  - running
+    - 'Dinner, Bed & Breakfast or just Bed & Breakfast as quoted'
+    - 'If you take units on a self-catering basis, you can book meals with the lodge as you please – Breakfast & Lunch @ R100, Dinner @ R175'
+    - 'Tea and Coffee on tap'
+    - Casual Use of the Boats around camp
+    - Trails - for walking, running & mountain-biking
+    - VAT
+
+  notIncludes:
+    - 4x4 transfers @ R750 per vehicle return (7-seater)
+    - Refreshments from the well-stocked Bar
+    - 'Guided Adventure Activities:'
+    - 'Abseiling: R300/pp'
+    - 'White Water Rafting: R350 / R700'
+    - 'Flyfishing: R150/ Rod Fee'
 popularTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
-activityTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  featured: 6
+  image: ../../img/gallery/zing_sunrock-500.jpg
+  tagline: Adventure & Reflection
+  title: Tugela Bushcamp - heart of KZN
+  description: "Whether its adventure, nature, or relaxation you after, the surrounds & company of Tugela Bushcamp offer the perfect tonic. From birding & fishing to 4x4'ing, mtb-biking, river rafting and trail-running, and newly launched nature and yoga-focused ‘Retreats’"
 destinationTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  order: 1
+  image: ../../img/gallery/zing_sunrock-500.jpg
+  tagline: Adventure & Reflection
+  title: Tugela Bushcamp - heart of KZN
+  description: "Whether its adventure, nature, or relaxation you after, the surrounds & company of Tugela Bushcamp offer the perfect tonic. From birding & fishing to 4x4'ing, mtb-biking, river rafting and trail-running, and newly launched nature and yoga-focused ‘Retreats’"
 ---

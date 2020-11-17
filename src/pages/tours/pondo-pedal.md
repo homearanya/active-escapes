@@ -1,182 +1,172 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  title: Pondo Pedal MTB Tour, Northern Wild Coast
+  description: The 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible  long weekend. Mtamvuna – Mtentu, overnighting at a lodge with luggage support.
+destination: wildcoast
+activity:
+  - name: mountainbiking
+    featured: 1
+    listing:
+      image: ../../img/listing/activity-pondo-pedal.JPG
+      title: Pondo-Pedal Weekender
+      subtitle: Accessible wild ride experience
+      description: Our 3-day Pondo-Pedal packs the adventure of Wild Coast riding into a cost-effective long weekend. Starting at the Wild Coast Casino, the trail makes its way to Mtentu camp - an ideal base for exploring Mkambati Nature Reserve, before cycling back to Port Edward via a different route. Beach riding, organic single-track and Wild Coast vibes, just 2hrs drive from Durban.
+subActivity:
+  - mountainbiking
 tourName: Pondo-Pedal Mountain Bike Tour
 slug: pondo-pedal
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
-
+featuredImage: ../../img/generic/PP-pondopedal.JPG
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
+  - The Pondo-Pedal Mountain Bike tour is the perfect tour to cut your teeth on if you looking for a whetting of wild coast trail riding, and are a little short of leave, or looking for a stepping stone to the Lower Wild Coast MTB Adventure.
+  - Starting out at the Wild Coast Casino (Port Edward), you’ll cycle to Mtentu Lodge. Spend a free day paddling up the gorgeous Mtentu estuary, swimming under forgotten falls in Mkambati Nature reserve or cycling through to Msikaba.
+  - Depending on the time and tides, you can cycle a beach route one way, and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
+fromPricing: R3800
 difficultyLevel: moderate
 duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 2-3 Ride Days / 2 Nights.
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Ride Day 1: Casino – Mtentu Lodge via Beach route: 28 – 35km  '
+      - 'Ride Day 2 (opt): Mtentu - Msikaba/Grosvenor return: 35 - 40km'
+      - 'Ride Day 3: Mtentu – WC Casino via Nyameni Waterfall: 38 – 45km'
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - <strong>3/ 5 - Fitness</strong>. A moderate level of MTB fitness and good overall fitness is recommended. Whilst the daily distances may not seem high, anticipate a few steep climbs, slower-going sections, and portaging in parts.
+      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to stay on your bike through soft sand and rutted paths.
+
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - 'Coastal Mountain Bike Trail: beach riding (though there is also an option to do two inland routes), cattle and jeep tracks, some 4x4 gravel road sections.  There are some steep, rocky or soft sand sections on which you may have to push or portage your bike, as well as a potential river crossing or two.'
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Rustic Wood and Thatch lodge on Mtentu estuary. 4 person chalets with communal showers, toilets and dining boma.
+
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - Fully Supported and Guided Mountain Bike Tour
+      - Luggage transfer provided
+      - All meals from dinner on arrival day to packed lunch on departure day
+      - '* Opt NOT to have luggage support at a reduced fee'
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - Preferred min of <strong>4</strong> riders – max 18 riders/group.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'From <strong>R3,800/pp</strong> on a grp of 6-8 persons for the 3 day/ 2 night package'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Pondo-Pedal MTB Tour Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - The tour consist of 3 cycle days, or 2 cycle days & a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach.
+    - You’ll spend two nights at Mtentu lodge before cycling back to the Wild Coast casino via a different route.  Depending on the time and tides, you'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
+    - If you an independent soul & wish to make it a more affordable getaway, there is also an option to self-guide and not have luggage support as the lodge does provide bedding, towels and meals.
+
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day
+      subHeading: 'Arrival/ Guided Cycle Day 1: Meet at Wild Coast Casino – Cycle in to Mtentu (38km or 26km routes)'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Leave vehicles in undercover parking at Wild Coast Casino (just beyond Port Edward) and start from here. Inland Cycle Route - approx 38km to Mtentu Lodge or approx 26km directly on the beach
+        - 'Overnight: <strong>Mtentu Lodge</strong> - 4-sleeper chalets (provide own packed lunch. Dinner at lodge)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike/Bike/Paddle: Free day at Mtentu Lodge '
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - Take a paddle up the Mtentu estuary with an exciting kloof to Swallowtail Falls, or hike into Mkambati Nature Reserve and swim under forgotten falls, or cycle (self-guided) through Mkambati to Msikaba (15km one-way) or even Grosvenor.
+        - 'Overnight: <strong>Mtentu Lodge</strong> (breakfast, lunch & dinner provided)'
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Guided Cycle Day 2: Mtentu back to Wild Coast Casino via alternative route (38 or 26km)'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
-    - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
-      description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - If you did more beach riding on the way-in, you can chose a more  inland route on the return - passing villages and waterfalls. (35-45km depending on route taken) - in discussion with guide and wind / tide permitting.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/pondopedal_red.JPG
+      heading: Exploring the Red Dunes
+      subHeading: 'Near Xolobeni village on the ride through to Mtentu. These culturally significant dunes are one of the proposed mining sites being heavily objected to by the local community.'
+
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - Rustic-style Wood and Thatch lodge on the stunning Mtentu estuary.  All meals, bedding and bath towels provided, so you literally just need to bring your change of clothes.
+    - Each chalet sleeps 4 persons (twin front room, and adult bunk bed in back room).
+    - Communal showers & toilets. Central dining area and bar.
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/pondopedal_Mtentu.JPG
+      heading: Mtentu Lodge
+      subHeading: 'The cabins are connected to one another by wooden boardwalk'
+
 faq:
   faq:
-    - question: Do we carry our own backpacks?
+    - question: Is it possible to self-guide but have vehicle back-up support?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
-    - question: What type of footwear is appropriate?
+        - Yes, certainly. If you stick to the beach route in and out, it is quite easy to self-guide, and we still just provide the luggage transfer through to the lodge. However, if you wish to discover the hidden falls and local villages, we recommend taking a local guide.
+    - question: How good a mountain-biker do you need to be, to do this tour?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
-    - question: What is the best time of year for this trail?
+        - This is the perfect whetting for a Wild Coast MTB trail.  If you time your trip over a full or new moon period with a spring low in the morning, the long beach stretches through to the lodge should make for pretty easy riding.
+    - question: Can we hire bikes?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - Afraid not. The sand and salt also takes its toll on your steed, so if you have the luxury of a ‘B’ bike…but still in good working order, bring the ‘B’ bike. You can also chose to do the inland route in and out if you don’t want to take your fancy bike on the beach.
+    - question: It is possible to make this trip shorter?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - It can be a weekend 2 day / 1 night trip by not having the ‘extra’ day at Mtentu if you pressed for time.
+
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/pondopedal_village.JPG
+      caption: The inland route, following cattle paths, takes you through local villages and grasslands.
+    - src: ../../img/gallery/pondopedal_red-desert.JPG
+      caption: The red desert – a place of great cultural significance to the local Pondo villagers and under threat from proposed dune mining.
+    - src: ../../img/gallery/pondopedal_sunset.JPG
+      caption: An early start may be optimal based on the tides.
+    - src: ../../img/gallery/pondopedal-estuary.JPG
+      caption: Riders at Mzamba Estuary – Day 1 of the Pondo-pedal.
+    - src: ../../img/gallery/pondopedal_welcome.JPG
+      caption: A warm welcome – Pondo pedalling.
+    - src: ../../img/gallery/pondopedal-Jan.JPG
+      caption: Some portaging is inevitable on a Wild Coast ride.
+    - src: ../../img/gallery/pondopedal_mtentuestuary.JPG
+      caption: The Mtentu Estuary is your playground for your ‘free’ day between cycling.
+    - src: ../../img/gallery/pondopedal_shebeen.JPG
+      caption: Nothing like a refreshment stop at a local spaza store.
+
 price:
-  heading: at a glance
+  heading: 3 Day / 2 Night Package/ 2 Guided Ride Days
   overview: null
   table:
-    - pax: 1 Person
-      price: R9500/pp
-    - pax: 2 People
-      price: R7100/pp
-    - pax: 3 People
-      price: R6700/pp
-    - pax: 4-5 People
-      price: R6500/pp
-    - pax: 6-7 People
-      price: R6200/pp
-    - pax: 8-10 People
-      price: R5900/pp
-    - pax: 11 or more
-      price: R5800/pp
+    - pax: 2 Persons
+      price: R4800/pp
+    - pax: 4-5 Persons
+      price: R4200/pp
+    - pax: 6-8 Persons
+      price: R3800/pp
+    - pax: 9-12 Persons
+      price: R3500/pp
+
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - '<strong>2 Nights Mtentu Lodge</strong> (sharing basis): 4-sleeper chalets – costed to occupy at full capacity on your group size'
+    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch for departure day (2 dinners, 2 breakfasts & 2 lunches)'
+    - '<strong>2 Guided Ride days</strong>'
+    - '<strong>Free day </strong> at Mtentu for hiking, snorkelling, swimming, paddling up the estuary'
+    - '<strong>4x4 Luggage Transfers</strong> to/back from lodge to Wild Coast Casino '
+
   notIncludes: null
-destination: wildcoast
-activity:
-  - mountainbiking
-subActivity:
-  - mountainbiking
 popularTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
-activityTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  featured: 0
+  image: ../../img/generic/pp-pondopedal-500.jpg
+  tagline: Pondo Pedaling
+  title: Pondo Wild Coast MTB
+  description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
 destinationTour:
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  order: 1
+  image: ../../img/generic/pp-pondopedal-500.jpg
+  tagline: Pondo Pedaling
+  title: Pondo Wild Coast MTB
+  description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
 ---

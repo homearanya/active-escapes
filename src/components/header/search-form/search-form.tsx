@@ -1,17 +1,21 @@
 import React, { useState } from 'react'
 import { navigate, graphql, useStaticQuery } from 'gatsby'
 
+import ModalDark from '../../modal-dark'
+
 interface SearchFormProps {
   handleOpenSearch: () => void
   handleCloseSearch: () => void
+  open: boolean
 }
 
 const SearchForm = ({
+  open,
   handleOpenSearch,
   handleCloseSearch,
 }: SearchFormProps) => {
   const { activities, destinations } = useStaticQuery(graphql`
-    query SearchFormQuery {
+    query SearchForm {
       activities: allMarkdownRemark(
         filter: { frontmatter: { templateKey: { eq: "activity-page" } } }
         sort: { order: ASC, fields: [frontmatter___order] }
@@ -74,10 +78,7 @@ const SearchForm = ({
         >
           <span className="icon-search"></span>
         </a>
-        <div className="search-wrap">
-          <a onClick={handleCloseSearch} className="search-opener close">
-            <span className="icon-cross"></span>
-          </a>
+        <ModalDark closeHandler={handleCloseSearch} open={open}>
           <div className="trip-form trip-form-v2 trip-search-main">
             <div className="trip-form-wrap">
               <div className="holder">
@@ -128,7 +129,7 @@ const SearchForm = ({
               </div>
             </div>
           </div>
-        </div>
+        </ModalDark>
       </fieldset>
     </form>
   )

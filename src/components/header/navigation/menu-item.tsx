@@ -5,6 +5,7 @@ import MenuMega from './menu-mega'
 import useMedia from 'use-media'
 
 type MenuItem = {
+  id: string
   name: string
   link: string
   img?: string

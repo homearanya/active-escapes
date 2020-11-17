@@ -1,39 +1,32 @@
 import React from 'react'
 import { navigate } from 'gatsby'
 
-import { ImageSharp } from '../../types'
+import { ImageSharp, Reference } from '../../types'
 import { ProcessText } from '../../utils/helpers'
 import Image from '../image'
 
-interface FeaturedDestinationData {
-  destinationName: string
+export interface FeaturedDestinationData {
+  destination: Reference
   image: ImageSharp
   heading: string
   subHeading: string
   description: string
   link: string
-  filter: string
 }
 
 interface FeaturedDestinationProps {
   data: FeaturedDestinationData
   numberOfTours: number
+  destinationFilter: string
 }
 
 const FeaturedDestination = ({
-  data: {
-    destinationName,
-    image,
-    heading,
-    subHeading,
-    description,
-    link,
-    filter,
-  },
+  data: { destination, image, heading, subHeading, description, link },
   numberOfTours,
+  destinationFilter,
 }: FeaturedDestinationProps) => {
   const handleClick = () => {
-    navigate(`${link}`, { state: { activity: filter } })
+    navigate(`${link}`, { state: { activity: destinationFilter } })
   }
   return (
     <article className="col-sm-6 col-md-4 article has-hover-s1">
@@ -50,11 +43,11 @@ const FeaturedDestination = ({
         <aside className="meta">
           <span className="country">
             <span className="icon-world"></span>
-            {destinationName}
+            {destination.frontmatter.destinationName}
           </span>
           <span className="activity">
             <span className="icon-acitivities"> </span>
-            {`${numberOfTours} tours`}
+            {`${numberOfTours} ${numberOfTours === 1 ? 'tour' : 'tours'}`}
           </span>
         </aside>
         <p>{ProcessText(description)}</p>

@@ -3,10 +3,26 @@ templateKey: tour-page
 meta:
   title: Pondo-Hopper Hiking Trail
   description: Hike the wildest stretch of Northern Wild Coast with catering and daily luggage support. Overnight in superbly located tented camps and a night at Mbotyi River Lodge.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 5
+    listing:
+      image: ../../img/listing/WCH-Pondo-Hopper.JPG
+      title: Pondo-Hopper Trails (Fully supported)
+      subtitle: 'Catered version of the Explorer:  Msikaba - Mbotyi - PSJ'
+      description: This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding and meals are catered for and your luggage is transferred from camp to camp by vehicle. This hike can be offered to groups of 2-24 persons, outside of the peak school holidays. A great option for groups who'd like to have ALL their planning and logistics taken care of.
+  - name: family
+    featured: 2
+    listing:
+      image: ../../img/listing/family-pondo.jpg
+      title: Pondo Hopper Hike - Custom
+      subtitle: Pondo-tripping
+      description: The fully catered & vehicle supported pondo-hopper is a great option to consider for younger families. We can offer a 3 night/ 3 hike day option which goes from Mbotyi to Port St Johns where the daily hike distances are between 10-13km/day. Manteku camp is nestled between the estuary and the beach, so you can bodysurf the waves before breakfast and canoe up the estuary by tea.
+subActivity:
+  - slackpacking
 tourName: Pondo-Hopper Hiking Trail
 slug: pondo-hopper-hiking-trail
-featured: 2
-popular: 3
 featuredImage: ../../img/generic/PP-pondohopper.jpg
 longDescription:
   - Keen to hike the most rugged and pristine section of Wild Coast, but don't feel like the schlep of planning and preparing meals, or bringing little more than you tekkies and a beach towel? Provided your hike is planned for outside the peak school holidays, we can offer a fully supported, fully-catered version of the 3 & 5 night Pondo-Explorer trail.
@@ -36,8 +52,8 @@ details:
       - 1 Night at Mbotyi River Lodge
   - heading: Logistic Support
     description:
-      - 'This is a fully catered and vehicle supported hiking trail.'
-      - 'Bedding and towels will be provided at all the tented camps'
+      - 'This is a fully catered and vehicle supported hiking trail'
+      - 'Bedding and towels will be provided'
       - 'Path-finder included on all trails'
   - heading: Group Size
     description:
@@ -69,8 +85,8 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: Luphuthana – Mbotyi River Lodge (18.5km)'
       description:
-        - 'Another long day but without major ascents. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, and the views from the top of Drew’s Camp looking down towards Mbotyi where you will enjoy the comfort of Mbotyi River Lodge for the night.'
-        - 'Overnight: <strong>Mbotyi River Lodge</strong> (DBB) (Breakfast, packed lunch & dinner)'
+        - 'A long day but without major ascents. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, and the views from the top of Drew’s Camp looking down towards Mbotyi where you will enjoy the comfort of Mbotyi River Lodge for the night.'
+        - 'Overnight: <strong>Mbotyi River Lodge</strong>(Breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Mbotyi River Lodge - Manteku (11km)'
       description:
@@ -163,38 +179,39 @@ price:
     - pax: 11 or more
       price: R7600/pp
 
-  heading2: null
+  heading2: 3 Night / 2 Hike Day Pondo-Hopper
   overview2: null
-  table2: null
+  table2:
+    - pax: 2 Persons
+      price: R7900/pp
+    - pax: 3 Persons
+      price: R7500/pp
+    - pax: 4-5 Persons
+      price: R6400/pp
+    - pax: 6-8 Persons
+      price: R6100/pp
+
   includes:
-    - 'Transfer from Port St Johns (or Mbotyi) to Msikaba trail head'
-    - '5 Nights Accommodation: 4 nights in tented camps, 1 night at Mbotyi hotel'
-    - 'Full Catering: DBB + Packed Lunch from all the tented camps & Mbotyi hotel'
-    - 'Daily Luggage transfers'
-    - 'Bedding and Towels provided'
-    - 'Local Guide / Pathfinder for all hike days '
+    - '<strong>Transfer </strong>from Port St Johns (or Mbotyi) to Msikaba trail head'
+    - '<strong>3/5 Nights Accommodation:</strong> 2/4 nights in tented camps, 1 night at Mbotyi hotel'
+    - '<strong>Full Catering:</strong> DBB + Packed Lunch from all the tented camps & Mbotyi hotel'
+    - '<strong>Daily Luggage transfers</strong>'
+    - '<strong>Bedding and Towels provided</strong>'
+    - '<strong>Local Guide / Pathfinder</strong> for all hike days '
     - 'Reserve Permits & Trail Fees'
     - 'Canoes – available at Msikaba & Manteku Camps'
     - 'Emergency Support Service'
   notIncludes: null
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/generic/pp-pondohopper-500.jpg
-  tagline: Pondo Hopping
-  title: A Slackpack in Pondoland
-  description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding & meals are catered for and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning & logistics taken care of."
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-pondohopper-500.jpg
   tagline: Pondo Hopping
   title: A Slackpack in Pondoland
   description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding & meals are catered for and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning & logistics taken care of."
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-pondohopper-500.jpg
   tagline: Pondo Hopping
-  title: A Slackpack in Pondoland
+  title: Pondo-Hopper Slackpacker
   description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding & meals are catered for and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning & logistics taken care of."
 ---

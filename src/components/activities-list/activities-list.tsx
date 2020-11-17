@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import { Reference } from '../../types'
 
 interface ActivitiesListData {
-  activity: Reference[]
+  activity: { name: Reference; featured: number }[]
   subActivity: Reference[] | null
 }
 
@@ -16,8 +16,9 @@ const ActivitiesList = ({
   data: { activity, subActivity },
 }: ActiviyIntroProps) => (
   <ul className="ico-list">
-    {activity.map(({ id, frontmatter }) => {
+    {activity.map(({ name: { id, frontmatter } }) => {
       const { activityName, icon, code } = frontmatter
+      console.log({ frontmatter })
       return (
         <li key={id} className="pop-opener">
           <Link to={`/activity/${code}/`}>
@@ -32,7 +33,7 @@ const ActivitiesList = ({
           .filter(
             (e) =>
               !activity.find(
-                (item) => e.frontmatter.code === item.frontmatter.code,
+                (item) => e.frontmatter.code === item.name.frontmatter.code,
               ),
           )
           .map(({ id, frontmatter }) => {

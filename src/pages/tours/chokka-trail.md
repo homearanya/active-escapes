@@ -1,171 +1,178 @@
 ---
 templateKey: tour-page
 meta:
-  title: Amphitheatre Heritage Hike
-  description: A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-tourName: Chokka Trail – Coastal Slackpacking trail, St Francis
+  title: Chokka Trail – Coastal Slackpack, St Francis
+  description: The 4 day Chokka Trail meanders between Oyster Bay & St Francis in the Eastern Cape. Fully catered and guided slackpacker with moderate hike distances
+destination: easterncape
+activity:
+  - name: hiking
+    featured: 1
+    listing:
+      image: ../../img/gallery/chokka_boat trip.jpg
+      title: Oyster Bay - St Francis Chokka Slackpack
+      subtitle: Chokka Delights
+      description: 'The 4 day Chokka Trail between Oyster & St Francis Bay, Eastern Cape, is a lodge-to-lodge slackpacker along golden beaches, rugged shoreline, dune fields and quaint fishing villages'
+subActivity:
+  - slackpacking
+tourName: Chokka Trail – Coastal Slackpack, St Francis
 slug: chokka-trail
-featured: 0
-popular: 0
-featuredImage: ../../img/generic/pp-amphi-966.jpg
-
+featuredImage: ../../img/generic/PP-Chokka.jpg
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
-  - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal National Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in either tents or caves.'
-fromPricing: R5000
+  - The 4 day/4 night Chokka Trail meanders between Oyster Bay, Cape St Francis and St Francis Bay in the Eastern Cape Province, South Africa.  The terrain includes fishermen’s footpaths and jeep-track over two moving dunefields and along the untamed ‘wild side’ of the Kouga shoreline.
+  - Ample birdlife and the chance to see the cape clawless otter while hiking through coastal forest and thicket adds to the excitement of finding century old middens where shells and potshards are scattered between the dunes.
+
+fromPricing: R7250
 difficultyLevel: moderate
-duration: 3 Days
+duration: 4 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights – extra days avail
-  - heading: Daily Distance
+      - 4 Hike Days / 4 Nights
+  - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 5.5-6.5hr (900m Elevation Gain)'
-      - 'Day 2: 14-16km  / 6-7hr (700m Elevation Gain)'
-      - 'Day 3: 11km  / 4-5hrs (-813m Descent)'
-  - heading: Trail Gradind
+      - 'Day 1: 19km / 5-6hr'
+      - 'Day 2: 18km / 5-6hr'
+      - 'Day 3: 16km / 5hrs'
+      - 'Day 4: 8km / 4hr'
+
+  - heading: Trail Grading
     description:
-      - 3.5/ 5 for both Fitness and Technicality.
-      - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
+      - '<strong>2-3/ 5 Fitness:</strong> It is a moderate hike, but can become challenging in inclement weather such as wind.'
+      - '<strong>2/ 5 Technicality:</strong> Relatively easy hike but the day through the dune-field can be challenging.'
   - heading: Trail Terrain
     description:
-      - The trail starts at an altitude of 1500m going up through grasslands & protea stands to an altitude of 2286m (Witsieshoek) and 3150m on the top of Beacon Buttress, watershed of the Orange & Tugela Rivers.
+      - 'The terrain is as diverse as the scenery: rugged shoreline, beaches, dune fields, coastal thicket and forest, modest fishing villages.'
   - heading: Accommodation
     description:
-      - 1 Night at Cavern Berg Hotel - Northern Drakensberg Valley
-      - 2 Nights at Witsieshook Mountain Lodge
+      - Holiday apartments, country house, Resort and B&B on the canals.
   - heading: Logistic Support
     description:
-      - 'This is a fully-catered trail, sleeping in comfortable lodges with bedding provided – you need only bring your clothes.'
-      - '* Guide for first 2 days but self-guided on 3rd day (easy descent). A guide can be arranged for the 3rd day if required.'
-      - '* Optional: Porter-supported option'
+      - Fully-catered and guided by the trail owner
+      - Daily luggage transfers
+
   - heading: Group Size
     description:
-      - Possible from 1 person. No maximum, but 12 persons max / per guide.
+      - Preferred min of <strong>4 </strong>persons - max 16 per group, all sharing.
   - heading: Pricing
     description:
-      - 'On a group of 6 persons: From R4,200 or R6,200/pp – dependent on accom and catering options selected.'
+      - 'On a group of 4 or more: from <strong>R7,500/pp/sharing</strong>'
 
-emailSubject: Amphitheatre Hike Enquiry – PP Enquire Now
+emailSubject: Chokka Trail Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - By spending 3 days and 3 nights on the route, staying at conveniently located hotels/lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit and not afraid of heights, to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
-    - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+    - The Chokka Trail is a uni-directional hike from Oyster Bay to Cape St Francis.  Vehicles can be left in Cape St Francis at the Resort, or shuttles from Port Elizabeth Airport can be arranged straight to Oyster Bay.
+    - Highlights of the trail include a sundown cruise on the famous St Francis canals, and a calamari tasting at Port St Francis, the only privately owned working harbour in South Africa.  The trail is professionally  guided and catered for.
+    - This slackpacking trail won the National Lilizela Awards for Best Visitors Experience (Beach Category) in 2016, 2017, 2018 and 2019.
+
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: Arrival Day
+      subHeading: 'Arrival Day/Hike Day 1: up to 19km from Oyster Bay to Thysbaai and back'
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB). Overnight: Cavern Hotel (Dinner provided)'
+        - Hikers need to be at Cape St Francis Resort by 11am on the day.  The trail owners will meet you here, and transfer you to Oyster Bay, 20km to the west.  Those flying in to Port Elizabeth can shuttle directly to Oyster Bay.
+        - From here, you will set off on your out-and-back hike to Thysbaai along the coastline.  This day is unguided, so you will receive a map and route description.
+        - Highlights include Thysfontein, a little beach with a holiday cottage, where you might find spoor of the cape clawless otter.  The trail continues past a rock gully, where during low tide you can see circular rock walls in the water – it is ancient Koi-San fish traps, more than 2 000 years old.  Total distance to Thysbaai and back is 19km, but you can turn around at any point.
+        - 'Overnight: <strong>Oyster Kaya</strong>'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
+      subHeading: 'Hike Day 2: Oyster Bay to Dune Ridge. 18km'
       description:
-        - After a hearty breakfast at the Cavern, a guide from the Cavern will accompany you on today’s hike up and over the sandstone cliffs, via Lone Rock (San rock art), through Sugar loaf gap, and along the ridge bypassing broom hill with sweeping views across to the former homeland QwaQwa and Metsi Matsho Dam.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
+        - On the second day you will be accompanied by an experienced local hiker.  You will traverse the dunes of the Sand River – a dune field mobilised by wind and water.  Wind blown patterns and rare finds of pot shards will take you into another world.
+        - At 18kms, this could be the most challenging day of the trail, especially in inclement weather, but nothing beats the feeling of conquering the Sand River!  A shorter route through beautiful coastal thicket, is an alternative -  to discuss with the trail owner.
+        - The trail stops at  <strong>Dune Ridge Country House</strong>, where we recommend pre-booking a massage.
     - heading: Day 3
-      subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
+      subHeading: 'Hike Day 3: Dune Ridge to Cape St Francis. 16km'
       description:
-        - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Breakfast & Packed Lunch from the Cavern (Opt A&B). Dinner at the Mountain Lodge – Opt A)'
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. Return transfer back to Witsies from Sentinel car park.
-        - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – provided by the Mountain Lodge on Opt A)'
+        - As most hikers are reluctant to leave the tranquillity of Dune Ridge, todays start is always a little later. The trail starts out through a beautiful section of coastal forest before reaching the shoreline.
+        - Keep your eyes open for grey duiker, mongoose, porcupine quills, bushbuck and caracal.  Once on the coast, look-out  for otters in the rock pools, as well as Oystercatchers, Kelp Gulls, terns, and Turnstones.
+        - You will pass Mostertshoek, and walk on the ‘Wild Side’ - so named for the untamed sea that crashes onto the rocks in spectacular fashion.  You will see the second largest blow hole in SA, an unknown grave, the remains of the HMS Osprey that ran onto the rocks in 1867, as well as the Cape Recife (1929).
+        - The day finishes at the <strong>Cape St Francis Resort</strong>, where you will enjoy a sundowner cruise on the St Francis canals before dinner.
     - heading: Day 4
-      subHeading: 'Hike Day 3: Witsies Mountain Lodge – Royal Natal – return by vehicle to Cavern. (11km hike /391m Total Ascent)'
+      subHeading: 'Hike Day 4: Cape St Francis to St Francis Bay. 8km'
       description:
-        - Self-guided hike down the Mahai valley with waterfalls and natural swimming pools along the way.
-        - 'Private collection from Royal Natal & transfer back to vehicle(s) left at the Cavern'
-        - '(Breakfast & Packed Trail lunch from Mountain Lodge'
+        - The last day kicks off on the Cape St Francis beach, and follows the footpaths via Shark Point to Port St Francis, where Clive Cantor from Chokka Block will tell you more about the Chokka industry and serve a calamari tasting.  Hiking past Bruce’s Beauties to Granny’s Pool, here our journey will come to an end with a farewell lunch at Bruce’s Ocean Museum and Café.
+        - You will be transported back to the Resort after lunch to collect your vehicles.  If needing to catch a plane this day, you will normally end around 3pm, but can be made earlier if needs be.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Member taking a short break
-      subHeading: 'Consider packing your bat with teh follwing daily essentials'
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/chokka_boat trip.jpg
+      heading: Sundowner Cruise on the St Francis canals
+      subHeading:
+
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at Cavern Berg Hotel –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. Post hike night recommended - with a massage booking at the Forest Spa.
+    - Oyster Kaya in Oyster Bay (holiday flats with catering)
+    - Dune Ridge Country House (4 star)
+    - Cape St Francis Resort (3 star)
+    - Brisan B&B on the Canals (4 star)
+    - We suggest arriving one day early and staying an additional night at the Oyster Kaya in Oyster Bay.
+
   images:
-    - src: ../../img/gallery/amphi_cavern_stdroom.jpg
-      heading: Standard Room at the Cavern
-      subHeading: ''
-    - src: ../../img/gallery/amphi_sentinelchalet.jpg
-      heading: Sentinel Chalet at Witsies Mountain Lodge
-      subHeading: 'Offer stunning views across to the Amphitheatre'
+    - src: ../../img/gallery/chokka_accom.jpg
+      heading: Cape St Francis Resort - Night 3 Chokka Trail
+      subHeading:
+
 faq:
   faq:
     - question: Do we carry our own backpacks?
       answer:
-        - Unfortunately, vehicle luggage support is not viable on this hike as it is a 6hr round trip from Cavern to Witsies. However, porters (as an optional extra) can be arranged to assist with your main backpack on the way up and back down (on day 1 & 3). However, as all meals, towels and bedding are provided, you literally just need to bring your clothes for 2 days/2 nights on the mountain, so you should get away with a light pack.
+        - No. You only carry a small day pack with your packed lunch, while your luggage is transported from lodge to lodge on this trail.
     - question: What type of footwear is appropriate?
       answer:
-        - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
+        - Worn in hiking boots or trail running shoes.
     - question: What is the best time of year for this trail?
       answer:
-        - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
-    - question: Can this hike be shortened to two days?
+        - The trail is closed 15 December to 5 January, and the best hiking weather is Autumn (Mar-May) and Spring (mid August - Oct).  As we are situated on the most south-eastern tip of Africa, and the world experiences a change in weather patterns, it is always best is to come prepared for 4 seasons in a day!
+    - question: Can this hike be trail run?
       answer:
-        - A frequently asked question and unfortunately not an option unless you willing to forgo the middle ‘highlight’ day which takes you to the top of the escarpment and the top of the Tugela Falls. However, you can be back at Cavern by midday on the final day, so there is still time to catch an evening flight out of King Shaka (Durban) or OR Thambo (JHB).
+        - If you want to!  We will recommend changes to the route to add some distance or other activities for the afternoons and of course everyone in the group must then be runners.
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_boots.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/chokka_family.jpg
+      caption: The chokka trail is a good option to do as a family or group of friends.
+    - src: ../../img/gallery/chokka_harbour.jpg
+      caption: Small harbour on the Chokka trail
+    - src: ../../img/gallery/chokka_oystercatchers.jpg
+      caption: A pair of Black Oyster Catcher’s sighted on the Chokka Hiking trail
+    - src: ../../img/gallery/chokka_rocks.jpg
+      caption: Rocky coastline near Cape St Francis
+    - src: ../../img/gallery/chokka_boat.jpg
+      caption: Yacht at twilight.
+    - src: ../../img/gallery/chokka_dunes.jpg
+      caption: The dune field of Sand River is both beautiful and potentially challenging.
+    - src: ../../img/gallery/chokka_boat trip.jpg
+      caption: A canal cruise is included on the hiking trail.
+    - src: ../../img/gallery/chokka_path.jpg
+      caption: null
+
 price:
   heading: At a Glance
   overview:
-    - '4 days/4 nights: 4 pax and more - R7250 pp/sharing'
-    - '2 pax - R8250 pp/sharing.'
-    - 'Single supplements are available at R200/pp/pn and a levy might be charged for groups smaller than 4 persons.'
+    - '<strong>4 days/4 nights</strong>: 4 pax and more - <strong>R7500 pp/sharing</strong>'
+    - '<strong>2</strong> pax - <strong>R8500 pp/sharing </strong>'
+    - '<strong>Single supplements</strong> are available at <strong>R250/pp/pn</strong> and a levy might be charged for groups smaller than 4 persons.'
   table: null
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 1 night at Cavern Hotel (Std Room) & 2 Nights at the Mountain Lodge – nicest Sentinel Chalets'
-    - '<strong>All meals:</strong> from dinner on arrival night to packed lunch on the final hike day (3 Breakfasts, 3 Packed Lunches, and 3 Dinners).'
-    - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is an easy self-guide down to Royal Natal)'
-    - '<strong>Hiking Permit</strong> - for Hike day 2 from Sentinel Car Park'
-    - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
-    - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
+    - '<strong>4 Nights Accom</strong> (sharing basis): Dinner, bed & breakfast basis'
+    - 'Packed lunch and a farewell restaurant meal on departure day'
+    - <strong>Hiking Guide</strong> - on Days 2,3 and 4. Self-guided first day
+    - <strong>Daily luggage transfers</strong>
+    - Calamari Tasting and Canal Cruise
+
   notIncludes: null
-destination: westerncape
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
-activityTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  featured: 1
+  image: ../../img/gallery/chokka_boat trip.jpg
+  tagline: Chokka Delights
+  title: Oyster Bay - St Francis Chokka Slackpack
+  description: 'The 4 day Chokka Trail between Oyster & St Francis Bay, Eastern Cape, is a lodge-to-lodge slackpacker along golden beaches, rugged shoreline, dune fields and quaint fishing villages'
 destinationTour:
-  image: ../../img/generic/pp-amphi-500x326.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: "A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry"
+  order: 1
+  image: ../../img/gallery/chokka_boat trip.jpg
+  tagline: Chokka Delights
+  title: Oyster Bay - St Francis Chokka Slackpack
+  description: 'The 4 day Chokka Trail between Oyster & St Francis Bay, Eastern Cape, is a lodge-to-lodge slackpacker along golden beaches, rugged shoreline, dune fields and quaint fishing villages'
 ---

@@ -233,7 +233,7 @@ interface PageQueryData {
 }
 
 export const query = graphql`
-  query TourDetailPageQuery($id: String!) {
+  query TourDetailPage($id: String!) {
     site {
       siteMetadata {
         siteUrl

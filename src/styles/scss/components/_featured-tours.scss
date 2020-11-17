@@ -2,7 +2,18 @@
   .featured-tour-row {
     display: flex;
     flex-wrap: wrap;
+
+    @media only screen and (max-width: $screen-sm) {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    &::before,
+    &::after {
+      content: none;
+    }
     .article {
+      margin: 30px 0 0;
       .thumbnail {
         height: 100%;
         display: flex;
@@ -12,6 +23,13 @@
           margin-top: auto;
           align-self: flex-start;
         }
+      }
+    }
+    &.grid-2 {
+      justify-content: center;
+      .article {
+        width: 50%;
+        max-width: 500px;
       }
     }
   }

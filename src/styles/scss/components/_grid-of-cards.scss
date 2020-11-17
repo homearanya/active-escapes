@@ -1,0 +1,32 @@
+.grid-of-cards.drop-wrap {
+  .row.menu-mega-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .menu-mega-col {
+      padding-bottom: 10px;
+
+      .img-wrap {
+        margin-bottom: 20px;
+      }
+      .des {
+        text-align: left;
+      }
+      .title {
+        a {
+          display: inline-block;
+          font-size: 18px;
+          color: $gray;
+          margin-bottom: 10px;
+          text-transform: uppercase;
+        }
+      }
+      width: 100%;
+      max-width: 500px;
+      margin: 0 auto;
+      @media (min-width: $screen-sm-max) {
+        width: 33.3333%;
+      }
+    }
+  }
+}

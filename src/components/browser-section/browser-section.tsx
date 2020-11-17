@@ -59,10 +59,10 @@ const BrowserSection = () => {
   })
 
   const activityIndex = menuItems.findIndex(
-    (menuItem) => menuItem.name === 'Activities'
+    (menuItem) => menuItem.name === 'Activities',
   )
   const destinationIndex = menuItems.findIndex(
-    (menuItem) => menuItem.name === 'Destinations'
+    (menuItem) => menuItem.name === 'Destinations',
   )
 
   return (

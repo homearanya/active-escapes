@@ -111,7 +111,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query PostPageQuery($id: String!) {
+  query PostPage($id: String!) {
     site {
       siteMetadata {
         siteUrl
