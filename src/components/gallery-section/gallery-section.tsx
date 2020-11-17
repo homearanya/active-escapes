@@ -22,6 +22,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo2: file(relativePath: { eq: "gallery/img-02-cycling.jpg" }) {
         childImageSharp {
@@ -29,6 +30,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo3: file(relativePath: { eq: "gallery/img-03-rafting.JPG" }) {
         childImageSharp {
@@ -36,6 +38,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo4: file(relativePath: { eq: "gallery/img-04-drakensberg.jpg" }) {
         childImageSharp {
@@ -43,6 +46,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo5: file(relativePath: { eq: "gallery/img-05-midlands.jpg" }) {
         childImageSharp {
@@ -50,6 +54,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo6: file(relativePath: { eq: "gallery/img-06-wildcoast.jpg" }) {
         childImageSharp {
@@ -57,6 +62,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo7: file(relativePath: { eq: "gallery/img-07-kosi.JPG" }) {
         childImageSharp {
@@ -64,6 +70,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo8: file(relativePath: { eq: "gallery/img-08-freestate.jpg" }) {
         childImageSharp {
@@ -71,6 +78,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       photo9: file(relativePath: { eq: "gallery/img-08-westerncape.JPG" }) {
         childImageSharp {
@@ -78,6 +86,7 @@ const GallerySection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
     }
   `)

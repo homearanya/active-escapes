@@ -92,6 +92,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
           heading
           subHeading

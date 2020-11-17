@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image'
 
 import ActivitiesList from '../activities-list'
 import SocialSharer from '../social-sharer'
+import Image from '../image'
 import { ImageSharp, Reference } from '../../types'
 import { ProcessText } from '../../utils/helpers'
 
@@ -55,7 +55,7 @@ const DestinationTour = ({
       <div className={`thumbnail${grid ? ' grid' : ''}`}>
         <div className="img-wrap">
           {image && image.childImageSharp ? (
-            <Img fluid={image.childImageSharp.fluid} alt={tourName} />
+            <Image image={image} alt={tourName} />
           ) : null}
         </div>
         <div className="description">

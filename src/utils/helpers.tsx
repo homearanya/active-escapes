@@ -89,14 +89,16 @@ export const socialSharers = (
   ),
 })
 
-export const getPresentationWidthFromSizes = (sizes: string): number | null => {
+export const getPresentationWidthFromSizes = (
+  sizes: string,
+): number | undefined => {
   const step1 = sizes.split('px')
-  if (step1.length < 2) return null
+  if (step1.length < 2) return undefined
   const step2 = step1[step1.length - 2].split(' ')
-  if (step2.length < 1) return null
+  if (step2.length < 1) return undefined
   if (+step2[step2.length - 1] > 0) {
     return +step2[step2.length - 1]
   } else {
-    return null
+    return undefined
   }
 }

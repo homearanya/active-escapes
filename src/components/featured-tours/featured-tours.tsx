@@ -51,6 +51,7 @@ const FeaturedTours = ({
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }
+                  publicURL
                 }
                 description
               }

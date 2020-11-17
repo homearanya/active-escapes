@@ -27,6 +27,8 @@ const NewsletterForm = () => {
     exited: { opacity: 0, transform: 'scale(0)' },
   }
   const [formData, setFormData] = useState(resetFields())
+  const { email, emailabcdefgjk } = formData
+
   const handleSubmit = (e) => {
     e.preventDefault()
 
@@ -55,7 +57,6 @@ const NewsletterForm = () => {
         console.log('Wrong Case in Switch HandleChange')
     }
   }
-  const { email, emailabcdefgjk } = formData
   return (
     <>
       <form

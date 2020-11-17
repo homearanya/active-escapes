@@ -18,6 +18,14 @@ const MailchimpForm = ({ inputEmail }: MailchimpFormProps) => {
   const [formData, setFormData] = useState({
     ...resetFields(),
   })
+  const {
+    first_name,
+    last_name,
+    email,
+    first_nameabcdefgjk,
+    last_nameabcdefgjk,
+    emailabcdefgjk,
+  } = formData
   const handleSubmit = (e) => {
     e.preventDefault()
     setMailchimpMessage('')
@@ -85,14 +93,7 @@ const MailchimpForm = ({ inputEmail }: MailchimpFormProps) => {
         console.log('Wrong Case in Switch HandleChange')
     }
   }
-  const {
-    first_name,
-    last_name,
-    email,
-    first_nameabcdefgjk,
-    last_nameabcdefgjk,
-    emailabcdefgjk,
-  } = formData
+
   useEffect(() => {
     setFormData((prevFormData) => ({
       ...prevFormData,

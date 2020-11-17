@@ -59,6 +59,7 @@ const DestinationPage = ({
   },
   location,
 }: DestinationPageProps) => {
+  console.log('tours: ', tours)
   const [grid, setGrid] = useState(false)
   const [{ holidayTypes, difficultyLevels }, setDropdowns] = useState({
     holidayTypes: {},
@@ -410,6 +411,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
         }
         intro {
@@ -501,6 +503,7 @@ export const query = graphql`
                     ...GatsbyImageSharpFluid_withWebp
                   }
                 }
+                publicURL
               }
               description
             }

@@ -19,7 +19,7 @@ const ActivitiesList = ({
     {activity.map(({ id, frontmatter }) => {
       const { activityName, icon, code } = frontmatter
       return (
-        <li className="pop-opener">
+        <li key={id} className="pop-opener">
           <Link to={`/activity/${code}/`}>
             <span className={icon}></span>
           </Link>

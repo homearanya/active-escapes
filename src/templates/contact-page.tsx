@@ -66,6 +66,7 @@ const ContactPage = ({
             <div className="social-wrapper">
               {socials.map((social, i) => (
                 <a
+                  key={i}
                   href={social.link}
                   target="_blank"
                   rel="noreferrer"
@@ -176,6 +177,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
           heading
           subHeading

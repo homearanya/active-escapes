@@ -1,7 +1,7 @@
 import React from 'react'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
+import Image from '../image'
 
 export interface TourLodgingData {
   description: string[]
@@ -33,11 +33,7 @@ const TourLodging = ({ data: { description, images } }: TourLodgingProps) => (
             <strong className="title">{heading}</strong>
             <span className="sub-title">{subHeading}</span>
             <div className="img-holder">
-              <Img
-                fluid={src.childImageSharp.fluid}
-                fixed={src.childImageSharp.fixed}
-                alt={heading}
-              />
+              <Image image={src} alt={heading} />
             </div>
           </div>
         </div>

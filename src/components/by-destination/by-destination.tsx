@@ -55,6 +55,7 @@ const ByDestination = ({ data: { activity } }: ByDestinationProps) => {
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }
+                  publicURL
                 }
                 heading
                 subHeading

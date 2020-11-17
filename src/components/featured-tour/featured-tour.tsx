@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image'
 
 import { ImageSharp, Reference } from '../../types'
 import { ProcessText } from '../../utils/helpers'
 import SocialSharer from '../social-sharer'
+import Image from '../image'
 
 interface FeaturedTourData {
   siteUrl: string
@@ -49,7 +49,7 @@ const FeaturedTour = ({
       <div className="thumbnail">
         <div className="img-wrap">
           {image && image.childImageSharp ? (
-            <Img fluid={image.childImageSharp.fluid} alt={tourName} />
+            <Image image={image} alt={tourName} />
           ) : null}
         </div>
         <h3 className="small-space">

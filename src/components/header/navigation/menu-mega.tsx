@@ -33,6 +33,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       cyclingImg: file(relativePath: { eq: "generic/activity-mtb.jpg" }) {
         childImageSharp {
@@ -40,6 +41,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       horseridingImg: file(
         relativePath: { eq: "generic/activity-horseriding.jpg" }
@@ -49,6 +51,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       natureImg: file(relativePath: { eq: "generic/activity-nature.jpg" }) {
         childImageSharp {
@@ -56,6 +59,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       familyImg: file(relativePath: { eq: "generic/activity-family.jpg" }) {
         childImageSharp {
@@ -63,6 +67,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       groupsImg: file(relativePath: { eq: "generic/activity-groups.jpg" }) {
         childImageSharp {
@@ -70,6 +75,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       raftingImg: file(relativePath: { eq: "generic/activity-rafting.jpg" }) {
         childImageSharp {
@@ -77,6 +83,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       runningImg: file(relativePath: { eq: "generic/activity-running.jpg" }) {
         childImageSharp {
@@ -84,6 +91,7 @@ const MenuDropdown = ({
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
     }
   `)

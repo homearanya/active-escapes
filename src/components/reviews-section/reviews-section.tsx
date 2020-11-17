@@ -20,6 +20,7 @@ const ReviewsSection = () => {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
+        publicURL
       }
       googlePlaceId: site {
         siteMetadata {

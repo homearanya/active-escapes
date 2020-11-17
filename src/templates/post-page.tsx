@@ -1,6 +1,5 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../types'
 import Layout from '../components/layout'
@@ -9,16 +8,16 @@ import BannerDestination, {
   BannerDestinationData,
 } from '../components/banner-destination'
 import BlogSidebar from '../components/blog-sidebar'
+import Image from '../components/image'
 
 interface PostPageProps {
   readonly data: PageQueryData
 }
+
 const PostPage = ({
   data: {
-    site: {
-      siteMetadata: { siteUrl },
-    },
     markdownRemark: {
+      fields: { slug },
       html,
       frontmatter: {
         meta: { title, description },
@@ -43,7 +42,12 @@ const PostPage = ({
 
   return (
     <Layout>
-      <SEO title={title} description={description} />
+      <SEO
+        title={title}
+        description={description}
+        path={`/blog/${slug}`}
+        image={banner.image.publicURL}
+      />
       <BannerDestination data={bannerData} />
       <div className="content-with-sidebar common-spacing content-left">
         <div className="container">
@@ -54,8 +58,8 @@ const PostPage = ({
                   <div className="img-wrap">
                     {homePageListingImage.image &&
                     homePageListingImage.image.childImageSharp ? (
-                      <Img
-                        fluid={homePageListingImage.image.childImageSharp.fluid}
+                      <Image
+                        image={homePageListingImage.image}
                         alt={homePageListingImage.alt}
                       />
                     ) : null}
@@ -84,6 +88,9 @@ interface PageQueryData {
     }
   }
   markdownRemark: {
+    fields: {
+      slug: string
+    }
     html: string
     frontmatter: {
       meta: {
@@ -131,6 +138,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
         }
         homePageListingImage {
@@ -141,6 +149,7 @@ export const query = graphql`
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
+            publicURL
           }
         }
       }

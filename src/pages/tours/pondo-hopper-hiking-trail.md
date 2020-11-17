@@ -11,7 +11,6 @@ featuredImage: ../../img/generic/PP-pondohopper.jpg
 longDescription:
   - Keen to hike the most rugged and pristine section of Wild Coast, but don't feel like the schlep of planning and preparing meals, or bringing little more than you tekkies and a beach towel? Provided your hike is planned for outside the peak school holidays, we can offer a fully supported, fully-catered version of the 3 & 5 night Pondo-Explorer trail.
   - You will overnight at the same East African style tented camps, but all bedding will be supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, Breakfast and a packed lunch for each trail day, will be provided by the tented camps and your third night is spent at Mbotyi River Lodge.
-
 fromPricing: R8400 (5N)
 difficultyLevel: moderate
 duration: 3 or 5 Days

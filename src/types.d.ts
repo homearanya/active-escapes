@@ -1,11 +1,13 @@
 import { FluidObject, FixedObject } from 'gatsby-image'
 
+type Maybe<T> = T | null
+
 interface ImageSharp {
-  childImageSharp: {
-    fluid?: FluidObject
-    fixed?: FixedObject
+  readonly childImageSharp: {
+    fluid?: Maybe<FluidObject>
+    fixed?: Maybe<FixedObject>
   }
-  publicURL?: string
+  readonly publicURL?: string
 }
 
 interface Reference {

@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
 import { ProcessText } from '../../utils/helpers'
 import SocialSharer from '../social-sharer'
+import Image from '../image'
 
 interface PostThumbnailData {
   siteUrl: string
@@ -29,7 +29,7 @@ const PostThumbnail = ({
         <div className="img-wrap">
           {image && image.childImageSharp ? (
             <Link to={postLink}>
-              <Img fluid={image.childImageSharp.fluid} alt={postTitle} />
+              <Image image={image} alt={postTitle} />
             </Link>
           ) : null}
         </div>

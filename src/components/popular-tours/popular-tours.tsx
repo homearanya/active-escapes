@@ -27,6 +27,7 @@ const PopularTours = () => {
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }
+                  publicURL
                 }
                 description
               }

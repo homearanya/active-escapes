@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import Loader from 'react-loader-spinner'
 import axios from 'axios'
 
 const resetFields = () => ({
@@ -25,11 +26,30 @@ const resetFields = () => ({
 
 const ContactForm = () => {
   const [submitting, setSubmitting] = useState(false)
-  const [submitted, setSubmitted] = useState(false)
-  const [failedSubmit, setFailedSubmit] = useState(false)
   const [message, setMessage] = useState('')
   const [mailchimpMessage, setMailchimpMessage] = useState('')
   const [formData, setFormData] = useState(resetFields())
+  const {
+    first_name,
+    last_name,
+    age,
+    email,
+    phone,
+    first_nameabcdefgjk,
+    last_nameabcdefgjk,
+    ageabcdefgjk,
+    emailabcdefgjk,
+    phoneabcdefgjk,
+    group_sizeabcdefgjk,
+    no_adultsabcdefgjk,
+    no_childrenabcdefgjk,
+    preferred_toursabcdefgjk,
+    arrival_dateabcdefgjk,
+    no_daysabcdefgjk,
+    alternative_start_dateabcdefgjk,
+    referral_sourceabcdefgjk,
+    newsletterabcdefgjk,
+  } = formData
 
   const handleSubmit = (e) => {
     setSubmitting(true)
@@ -199,27 +219,7 @@ const ContactForm = () => {
         console.log('Wrong Case in Switch HandleChange')
     }
   }
-  const {
-    first_name,
-    last_name,
-    age,
-    email,
-    phone,
-    first_nameabcdefgjk,
-    last_nameabcdefgjk,
-    ageabcdefgjk,
-    emailabcdefgjk,
-    phoneabcdefgjk,
-    group_sizeabcdefgjk,
-    no_adultsabcdefgjk,
-    no_childrenabcdefgjk,
-    preferred_toursabcdefgjk,
-    arrival_dateabcdefgjk,
-    no_daysabcdefgjk,
-    alternative_start_dateabcdefgjk,
-    referral_sourceabcdefgjk,
-    newsletterabcdefgjk,
-  } = formData
+
   return (
     <form className="subscribe-form" onSubmit={handleSubmit}>
       {/* honeypot fields */}
@@ -436,8 +436,25 @@ const ContactForm = () => {
             Would you like to subscribe to our quarterly newsletter?
           </label>
         </div>
-        <div className="form-group btn-holder">
-          <button type="submit" className="btn btn-md btn-default">
+        <div
+          className={`form-group btn-holder${submitting ? ' submitting' : ''}`}
+        >
+          {submitting && (
+            <Loader
+              className="loader"
+              type="ThreeDots"
+              color="#ffffff"
+              height={15}
+              width={80}
+            />
+          )}
+          <button
+            type="submit"
+            className={`btn btn-md btn-default${
+              submitting ? ' submitting' : ''
+            }`}
+            disabled={submitting}
+          >
             SEND
           </button>
           <p id="error_message" className="contact-confirmation">

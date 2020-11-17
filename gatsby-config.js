@@ -103,17 +103,6 @@ module.exports = {
             },
           ],
         },
-        {
-          name: 'Galleries',
-          link: null,
-          menuItems: [
-            { name: 'Adventure', link: '/gallery/adventure/' },
-            { name: 'Mountain Hikes', link: '/gallery/mountainhikes/' },
-            { name: 'Coastal Hikes', link: '/gallery/coastalhikes/' },
-            { name: 'Friends & Family', link: '/gallery/friendsfamily/' },
-            { name: 'Mountain Biking', link: '/gallery/mountainbiking/' },
-          ],
-        },
         { name: 'Blog', link: '/blog/' },
         { name: 'Contact', link: '/contact-us/' },
       ],

@@ -7,7 +7,7 @@ export interface BannerDestinationData {
   heading: string
   subHeading: string
   breadcrumbs: Breadcrumbs
-  heroImage?: FluidObject
+  heroImage?: FluidObject | null
 }
 
 interface BannerDestinationProps {
@@ -24,7 +24,7 @@ const BannerDestination = ({
     {heroImage ? (
       <div className="banner-image">
         <div className="has-overlay has-overlay-dark full-height">
-          <Img fluid={heroImage} />
+          {heroImage && <Img fluid={heroImage} />}
         </div>
       </div>
     ) : null}

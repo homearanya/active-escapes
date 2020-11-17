@@ -1,9 +1,9 @@
 import React from 'react'
-import Img from 'gatsby-image'
 
 import { ImageSharp } from '../../types'
 
 import { socialSharers } from '../../utils/helpers'
+import Image from '../image'
 
 export interface TourBannerData {
   tourName: string
@@ -48,11 +48,7 @@ const TourBanner = ({
         <div className="col-md-6 image height">
           <div className="bg-stretch banner-tour-image">
             {featuredImage ? (
-              <Img
-                fluid={featuredImage.childImageSharp.fluid}
-                alt={tourName}
-                title={tourName}
-              />
+              <Image image={featuredImage} alt={tourName} title={tourName} />
             ) : null}
           </div>
         </div>
@@ -71,7 +67,7 @@ const TourBanner = ({
                     <strong className="title">{heading}</strong>
                     {description.map((paragraph, j) => (
                       <span
-                        key={i}
+                        key={j}
                         dangerouslySetInnerHTML={{ __html: paragraph }}
                       />
                     ))}
