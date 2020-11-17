@@ -1,49 +1,71 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, useStaticQuery, graphql } from 'gatsby'
 
 import { ImageSharp, Reference } from '../../types'
 import { ProcessText } from '../../utils/helpers'
 import SocialSharer from '../social-sharer'
 import Image from '../image'
 
-interface FeaturedTourData {
-  siteUrl: string
-  tourName: string
+export interface FeaturedTourInterface {
+  meta: {
+    description: string
+  }
   slug: string
-  shortDescription: string
-  image: ImageSharp
-  tagline: string
-  title: string
-  description: string
-  activity: [Reference]
+  tourName: string
+  duration?: string
   destination: Reference
+  activity: {
+    name: Reference
+    featured: number
+    listing: {
+      title?: string
+      subtitle?: string
+      image: ImageSharp
+      description: string
+    }
+  }[]
 }
 
 interface FeaturedTourProps {
-  data: FeaturedTourData
+  data: FeaturedTourInterface
+  activityFilter: string
 }
 
 const FeaturedTour = ({
-  data: {
-    siteUrl,
-    tourName,
-    slug,
-    shortDescription,
-    image,
-    description,
-    destination,
-    activity,
-  },
+  data: { tourName, duration = '', slug, meta, destination, activity },
+  activityFilter,
 }: FeaturedTourProps) => {
-  const tourLink = `/${destination.frontmatter.code}/${activity[0].frontmatter.code}/${slug}`
+  const {
+    site: {
+      siteMetadata: { siteUrl },
+    },
+  } = useStaticQuery(graphql`
+    query FeaturedTours {
+      site {
+        siteMetadata {
+          siteUrl
+        }
+      }
+    }
+  `)
+  const tourLink = `/${destination.frontmatter.code}/${activity[0].name.frontmatter.code}/${slug}`
+  const activityListing = activity.find(
+    ({ name }) => name.frontmatter.code === activityFilter,
+  )
   const activities = activity.reduce((acc, cur, i) => {
     if (i === 0) {
-      return cur.frontmatter.activityName
+      return cur.name.frontmatter.activityName
     } else {
-      return acc + ', ' + cur.frontmatter.activityName
+      return acc + ', ' + cur.name.frontmatter.activityName
     }
   }, '')
-
+  let image, title, subtitle, description
+  if (activityListing && activityListing.listing) {
+    image = activityListing.listing.image
+    title = activityListing.listing.title
+    subtitle = activityListing.listing.subtitle
+    description = activityListing.listing.description
+  }
   return (
     <article className="col-sm-6 col-md-4 article has-hover-s1">
       <div className="thumbnail">
@@ -53,9 +75,16 @@ const FeaturedTour = ({
           ) : null}
         </div>
         <h3 className="small-space">
-          <Link to={tourLink}>{tourName}</Link>
+          <Link to={tourLink}>{title || tourName}</Link>
         </h3>
+        {subtitle && <span className="info">{subtitle}</span>}
         <aside className="meta">
+          {duration && (
+            <span className="duration">
+              <span className="ico-clock ux"></span>
+              {duration}
+            </span>
+          )}
           <span className="country">
             <span className="icon-world"></span>
             {destination.frontmatter.destinationName}
@@ -71,7 +100,12 @@ const FeaturedTour = ({
         </Link>
         <footer>
           <SocialSharer
-            data={{ siteUrl, tourLink, tourName, shortDescription }}
+            data={{
+              siteUrl,
+              tourLink,
+              tourName,
+              shortDescription: meta.description,
+            }}
           />
         </footer>
       </div>

@@ -3,15 +3,24 @@ templateKey: tour-page
 meta:
   title: Karkloof Falls2Falls Slackpacker Hike
   description: Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacking Hike.
+destination: kzn_midlands
+activity:
+  - name: hiking
+    featured: 1
+    listing:
+      image: ../../img/gallery/F2F_karkloof-500.jpg
+      tagline: Falls 2 Falls
+      title: Karkloof Slackpack Hike
+      description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
+subActivity:
+  - slackpacking
 tourName: Karkloof Falls2Falls Trail
 slug: karkloof-falls2falls-trail
-featured: 1
-popular: 4
 featuredImage: ../../img/generic/PP-F2F.jpg
 
 longDescription:
   - 'Immerse oneself in the natural splendour of the KZN Midlands: waterfalls, spectacular escarpment views, or ziplining through the forest canopy, this guided hike provides contrasting scenery with new surprises each day.'
-  - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umgeni valley gorge, you will be amazed at what the KZN Midlands has to offer. 
+  - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umgeni valley gorge, you will be amazed at what the KZN Midlands has to offer.
   - As a three-day trail, it is a good option for a long weekend getaway, and brings an active offering to the Midlands Meander Route.
 fromPricing: R6000
 difficultyLevel: moderate
@@ -19,7 +28,7 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights 
+      - 3 Hike Days / 3 Nights
       - '* Shorter & longer variations'
   - heading: Daily Distances
     description:
@@ -36,13 +45,13 @@ details:
 
   - heading: Accommodation
     description:
-      - "Farmstays & 3-4 star equivalent B&B's and Lodges" 
-  
+      - "Farmstays & 3-4 star equivalent B&B's and Lodges"
+
   - heading: Logistic Support
     description:
-      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. 
+      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers.
       - Return transfer to your vehicle
-      
+
   - heading: Group Size
     description:
       - Preferred min of <strong>4</strong> persons and maximum <strong>10 </strong>persons/ per group
@@ -55,7 +64,7 @@ overview:
   heading: At a Glance
   description:
     - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umgeni valley gorge, you will be amazed at what diversity the KZN Midlands has to offer.
-    - The birdlife is plentiful. A stop at the Karkloof Conservancy’s bird hide makes for a peaceful coffee break and an opportunity to tick off all three of South Africa’s cranes including the very rare Wattled Crane. 
+    - The birdlife is plentiful. A stop at the Karkloof Conservancy’s bird hide makes for a peaceful coffee break and an opportunity to tick off all three of South Africa’s cranes including the very rare Wattled Crane.
     - Other mammals like Reedbuck, porcupine, giraffe, zebra and the endangered Samango monkeys all share their hide-outs in the beautiful Karkloof valley.
     - 10% of proceeds from this hike go towards local conservation projects to help conserve the natural heritage.
 itinerary:
@@ -69,15 +78,15 @@ itinerary:
       subHeading: 'Hike Day 1: Karkloof Valley to Mount Gilboa summit – Bushwillow (14km /850m ascent/ 6hrs)'
       description:
         - The hike begins with a 2km climb, following ancient logging paths through the second largest indigenous forest in South Africa. This special place is home to duiker, Samango monkeys and the rare Karkloof Blue butterfly.
-        - From here we trace our way up the escarpment to the summit of Mt Gilboa (the highest point of the Karkloof range at 1768m). We then snake our way through indigenous forest and pristine grasslands to Gray Mare’s Falls for a picnic lunch with tremendous views overlooking the 900 HA Karkloof Nature reserve. 
+        - From here we trace our way up the escarpment to the summit of Mt Gilboa (the highest point of the Karkloof range at 1768m). We then snake our way through indigenous forest and pristine grasslands to Gray Mare’s Falls for a picnic lunch with tremendous views overlooking the 900 HA Karkloof Nature reserve.
         - After lunch we make our way back to Bushwillow Carpark from where we will return by vehicle to our first night’s accommodation.
         - 'Overnight: <strong>Karkloof Guesthouse/ B&B </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Karkloof Canopy Tours – Loskop  (+/- 11km / 265m ascent/ 4hrs)'
       description:
         - Optional early morning visit to the Karkloof bird hides, followed by a hearty breakfast at our Guesthouse. After breakfast, we will head off to the Karkloof canopy tours to glide through the forest canopy along a series of ziplines.
-        - Then you’ll trail through scenic farmlands around the base of Loskop mountain, and make your way to the last overnight stop, in time for high-tea. 
-        - 'Overnight: <strong>Karkloof Guesthouse/ B&B </strong> (breakfast, packed lunch, dinner)'      
+        - Then you’ll trail through scenic farmlands around the base of Loskop mountain, and make your way to the last overnight stop, in time for high-tea.
+        - 'Overnight: <strong>Karkloof Guesthouse/ B&B </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Umngeni Valley Meanderings (14 / 9 km) '
       description:
@@ -88,7 +97,7 @@ itinerary:
     - src: ../../img/gallery/F2F_greymares.JPG
       heading: A top Gray Mares Waterfall- Karkloof
       subHeading: null
-    
+
 lodging:
   heading: 'Lodges'
   description:
@@ -96,7 +105,7 @@ lodging:
   images:
     - src: ../../img/gallery/f2f_thistle.jpg
       heading: Karkloof Guesthouse
-      subHeading: null  
+      subHeading: null
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -108,14 +117,14 @@ faq:
     - question: What is the best time of year for this trail?
       answer:
         - The relative altitude has a moderating effect on summer temperature with day time temperatures seldom exceeding 30 degrees C. Summer nights can be cool > 15 degrees C. The rainy season is in Summer ( November to February).
-        - Winter days are warm and dry, often above 20 degree C with night temperatures 1-10 Degrees C. Occasionally there is a small scattering of snow in surrounding higher altitude areas 
-        -  Please try to avoid peak season holidays (Mar-Apr & Dec-Jan) as the lodges have to give priority to long-stay bookings over such times. Autumn and Spring are great times of year for the Midlands.
+        - Winter days are warm and dry, often above 20 degree C with night temperatures 1-10 Degrees C. Occasionally there is a small scattering of snow in surrounding higher altitude areas
+        - Please try to avoid peak season holidays (Mar-Apr & Dec-Jan) as the lodges have to give priority to long-stay bookings over such times. Autumn and Spring are great times of year for the Midlands.
     - question: Do you run scheduled trips?
       answer:
         - Scheduled tours will be a run a couple times a year (enquire regarding dates) otherwise private trips also available - date/ avail permitting.
     - question: What are the trail highlights?
       answer:
-        - Gliding through the forest on a canopy tour, healthy, local and ethically sourced country cuisine, dramatic views of the Karkloof valley, hidden waterfalls, world class bird hides with a chance to spot rare and special wildlife like the Wattled Crane, Midlands Dwarf chameleon Karkloof blue butterfly and Samango monkey, plenty of viewpoints for picnic lunches.    
+        - Gliding through the forest on a canopy tour, healthy, local and ethically sourced country cuisine, dramatic views of the Karkloof valley, hidden waterfalls, world class bird hides with a chance to spot rare and special wildlife like the Wattled Crane, Midlands Dwarf chameleon Karkloof blue butterfly and Samango monkey, plenty of viewpoints for picnic lunches.
 gallery:
   pictures:
     - src: ../../img/gallery/F2F_autumn.jpg
@@ -133,19 +142,19 @@ gallery:
     - src: ../../img/gallery/F2F_karkloofalls.JPG
       caption: The spectacular Karkloof Waterfall
     - src: ../../img/gallery/f2f_thistle.jpg
-      caption: Karkloof Guesthouse, Thistledown  
-    
+      caption: Karkloof Guesthouse, Thistledown
+
 price:
   heading: 3 Day / 3 Night Karkloof Falls2Falls
   overview: null
-  table:   
+  table:
     - pax: 4 Persons
       price: R6300/pp
     - pax: 5-7 Persons
       price: R6000/pp
     - pax: 8-10 Persons
       price: R5700/pp
-    
+
   heading2: null
   overview2: null
   table2: null
@@ -158,24 +167,16 @@ price:
     - <strong>Vehicle Luggage Support</strong>
     - <strong>10% of profit donated to local conservancies</strong>
   notIncludes: null
-destination: kzn_midlands
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
+  featured: 4
   image: ../../img/gallery/F2F_karkloof-500.jpg
   tagline: Falls 2 Falls
   title: Karkloof Slackpack Hike
-  description: "Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside"
-activityTour:
-  image: ../../img/gallery/F2F_karkloof-500.jpg
-  tagline: Falls 2 Falls
-  title: Karkloof Slackpack Hike
-  description: "Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside"
+  description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
 destinationTour:
+  order: 1
   image: ../../img/gallery/F2F_karkloof-500.jpg
   tagline: Falls 2 Falls
   title: Karkloof Slackpack Hike
-  description: "Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside"
+  description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
 ---

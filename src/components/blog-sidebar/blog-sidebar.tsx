@@ -4,7 +4,7 @@ const BlogSidebar = () => {
   const {
     posts: { edges },
   } = useStaticQuery(graphql`
-    query BlogSidebarQuery {
+    query BlogSidebar {
       posts: allMarkdownRemark(
         filter: { frontmatter: { templateKey: { eq: "post-page" } } }
         sort: { order: DESC, fields: [frontmatter___date] }

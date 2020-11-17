@@ -22,7 +22,7 @@ const Header = ({ tour = false, hasScrolled = false }: HeaderProps) => {
       id="header"
       className={`${tour ? 'dark-header' : 'white-header'}${
         hasScrolled ? ' fixed-position' : ''
-      }${showSearch ? ' search-active' : ''}`}
+      }`}
     >
       <div className="header-wrapper">
         <div className={`logo${tour ? ' tour' : ''}`}>
@@ -45,6 +45,7 @@ const Header = ({ tour = false, hasScrolled = false }: HeaderProps) => {
         <SearchForm
           handleCloseSearch={handleCloseSearch}
           handleOpenSearch={handleOpenSearch}
+          open={showSearch}
         />
         <Navigation handleOpenSearch={handleOpenSearch} />
       </div>

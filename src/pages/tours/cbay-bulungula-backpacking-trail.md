@@ -3,12 +3,20 @@ templateKey: tour-page
 meta:
   title: Coffee Bay to Bulungula Backpacking Trail
   description: Starting at Coffee Bay, or Mdumbi, this 3 or 4 night trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 6
+    listing:
+      image: ../../img/generic/pp-cbay-bul-500x327.jpg
+      title: Coffee Bay – Bulungula Hiking Trail
+      subtitle: Hole in the Wall, community-driven and eco-friendly
+      description: This 3-4 night trail starts out at Coffee Bay, passing the iconic ‘Hole in the Wall’ and the beautiful beach of Mpame, before finishing at Bulungula community eco-lodge. The trail is a mix of backpacker and community-owned accommodation options and is well suited to international backpackers.
+subActivity:
+  - hiking
 tourName: Coffee Bay to Bulungula Backpacking Trail
 slug: cbay-bulungula-backpacking-trail
-featured: 7
-popular: 0
 featuredImage: ../../img/generic/PP-CBay-Bulungula.jpg
-
 longDescription:
   - For backpackers using the Baz bus, or hikers keen on a landmark trail that can be packed into a long-weekend, this is the trail for you. Starting at Coffee Bay - or Mdumbi for a longer hike option – the trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
   - This is a fully guided trail, overnighting in funky backpackers with hearty meals included. We will also arrange for the bulk of your luggage to be safely transferred to the hike finish, so you get to hike with just your daypack.... as all you really need is a change of clothes, a sarong and your toothbrush!
@@ -19,13 +27,13 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 2 Hike Days/ 3-4 Nights 
+      - 2 Hike Days/ 3-4 Nights
       - Can be extended to 3-4 Hike Days
   - heading: Daily Distances
     description:
       - 'Day 1: 16km   Day 2: 13km'
       - 'Extended trail: 11km/ 10km'
-      
+
   - heading: Trail Grading
     description:
       - <strong>3.5/ 5 - Fitness.</strong> The section between Coffee Bay and Hole in the Wall has some of the steepest hills on the Wild Coast. However, you need only hike with a small backpack.
@@ -35,7 +43,7 @@ details:
       - Coastal Trail – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
   - heading: Accommodation
     description:
-      - Backpackers 
+      - Backpackers
       - Community-Owned Fair Trade Eco-Lodge
   - heading: Logistic Support
     description:
@@ -91,7 +99,7 @@ itinerary:
     - src: ../../img/gallery/cb-bul_beach.jpg
       heading: Beaches and Bays
       subHeading: 'Up and over grassy headlands and to the next secluded bay. '
-    
+
 lodging:
   heading: 'Lodging'
   description:
@@ -162,23 +170,14 @@ price:
     - '<strong>Hiking Guide </strong> - for 2 Days up to Bulungula '
     - '<strong>AE Customisation & Booking Service </strong>'
   notIncludes: null
-
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/generic/pp-cbay-bul-500x327.jpg
-  tagline: Hole in the Wall Bites
-  title: Coffee Bay to Bulungula Hike
-  description: "Past the iconic 'Hole in the Wall', down to the beautiful Bulungula estuary, overnighting in friendly backpackers and village-homestays along the way. Guided, with porter-support as an option, you need not worry about catering or bedding on this slackpacker trail."
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike
   description: "Past the iconic 'Hole in the Wall', down to the beautiful Bulungula estuary, overnighting in friendly backpackers and village-homestays along the way. Guided, with porter-support as an option, you need not worry about catering or bedding on this slackpacker trail."
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike

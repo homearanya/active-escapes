@@ -1,18 +1,27 @@
 ---
 templateKey: tour-page
 meta:
-  title: Pioneer Wilderness Trail – luxury trail in W.Cape Big 5 Reserve 
-  description: A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Experience up-close animal encounters & overnight in luxurious tented camps with gourmet bush dining. 
+  title: Pioneer Wilderness Trail – luxury trail in W.Cape Big 5 Reserve
+  description: A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Experience up-close animal encounters & overnight in luxurious tented camps with gourmet bush dining.
+destination: westerncape
+activity:
+  - name: hiking
+    featured: 4
+    listing:
+      image: ../../img/generic/pp-pioneer-500.jpg
+      tagline: Pioneering
+      title: Wilderness Trail - Western Cape
+      description: 'A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining.'
+subActivity:
+  - slackpacking
 tourName: Pioneer Wilderness Trail – Luxury Slackpacker
 slug: pioneer-trail
-featured: 4
-popular: 0
 featuredImage: ../../img/generic/PP-Pioneer.jpg
 
 longDescription:
   - This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with exciting wildlife encounters on-foot.
-  - Each luxurious tented camp is exquisitely appointed, in its own unique style, providing a well-deserved sanctuary at the end of the day. 
-  
+  - Each luxurious tented camp is exquisitely appointed, in its own unique style, providing a well-deserved sanctuary at the end of the day.
+
 fromPricing: R15500
 difficultyLevel: fairly-easy
 duration: 3 Days
@@ -27,13 +36,13 @@ details:
 
   - heading: Trail Grading
     description:
-      - <strong>2 / 5 - Fitness</strong>. Approx 10 km / day (+/- 6hrs of walking) but sometimes in hot and humid conditions. Min age - 12 yrs. 
+      - <strong>2 / 5 - Fitness</strong>. Approx 10 km / day (+/- 6hrs of walking) but sometimes in hot and humid conditions. Min age - 12 yrs.
 
-      - <strong>2/ 5 - Technicality</strong>. The trail traverses the 11 000 hectare, free roaming Big five game reserve under the escort of two armed and qualified trail guides. Remote footpaths and game trails. 
+      - <strong>2/ 5 - Technicality</strong>. The trail traverses the 11 000 hectare, free roaming Big five game reserve under the escort of two armed and qualified trail guides. Remote footpaths and game trails.
 
   - heading: Trail Terrain
     description:
-      - Walking along remote game trails & footpaths through the unique thicket & fynbos biomes of the Gondwana Big-5 Private Game Reserve. 
+      - Walking along remote game trails & footpaths through the unique thicket & fynbos biomes of the Gondwana Big-5 Private Game Reserve.
   - heading: Accommodation
     description:
       - Luxury Tented Fly Camps. Each camp, uniquely appointed, has just 4 private en-suite tents.
@@ -54,7 +63,7 @@ emailSubject: Pioneer Wilderness Trail Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - This 3 night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25min drive from Mossel Bay. 
+    - This 3 night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25min drive from Mossel Bay.
     - Under the escort of two armed and professional wilderness guides, you will hike approximately 10 km/a day (+/- 6hrs of walking) on exclusive, remote access game trails; whilst your luggage is transferred to the next luxury tented camp.
     - Trailist’s can expect gourmet bush meals, top notch guiding and artistic, uniquely-appointed tented camps. An active wilderness experience with a big lick of luxury....
 itinerary:
@@ -71,7 +80,7 @@ itinerary:
       subHeading: 'Hike Day 1'
       description:
         - '6-6:30am Wake up. Breakfast in dining tent'
-        -  '7/7:30am depart on trail with packed lunch'
+        - '7/7:30am depart on trail with packed lunch'
         - Guided interpretive walking, exploring the Fynbos biome, wildlife and birdlife with scenic rest stops and possible waterhole swims.
         - '+/- 4pm: arrive at <strong>Tented Camp 2 – Mozambique Style</strong>'
 
@@ -79,7 +88,7 @@ itinerary:
       subHeading: 'Hike Day 2'
       description:
         - '6-6:30am Wake up. Breakfast in dining tent'
-        -  '7/7:30am depart on trail with packed lunch'
+        - '7/7:30am depart on trail with packed lunch'
         - Guided interpretive walking, exploring the Fynbos biome, wildlife and birdlife with scenic rest stops and possible waterhole swims.
         - '+/- 2pm: arrive at <strong>Tented Camp 3 – Moroccan Style </strong>'
         - Afternoon game drive or more guided hiking for those that want
@@ -88,11 +97,11 @@ itinerary:
       description:
         - '7.30am: Sleep in. Leisurely breakfast fry-up around the fire'
         - '10am: transfer back to your vehicles'
-        
+
   images:
     - src: ../../img/gallery/pioneer_guiding.jpg
       heading: null
-      subHeading: null    
+      subHeading: null
 
 lodging:
   heading: 'Lodges'
@@ -104,7 +113,7 @@ lodging:
   images:
     - src: ../../img/gallery/pioneer_eastafrican_lounge.jpg
       heading: East African Camp Lounge
-      subHeading: null 
+      subHeading: null
     - src: ../../img/gallery/P_C3_room.jpg
       heading: Morrocan Camp room
       subHeading: null
@@ -121,14 +130,14 @@ faq:
         - The trail runs in the summer season only Oct through to May, with set departure days of Mondays and Thursdays. We will try to join you to an existing group or fill your trail date to a maximum of 8 hikers/ per trail.
     - question: Is malaria a problem?
       answer:
-        - No. The area is malaria free. Another good reason to do do this wilderness trail.   
+        - No. The area is malaria free. Another good reason to do do this wilderness trail.
 
 gallery:
   pictures:
     - src: ../../img/gallery/pioneer_elephants.jpg
       caption: Elephant encounter in Gondwana Game Reserve, on the Pioneer Slackpacking trail.
     - src: ../../img/gallery/pioneer_fire.jpg
-      caption: Fireside Stories. 
+      caption: Fireside Stories.
     - src: ../../img/gallery/pioneer_koppie.jpg
       caption: A koppie provides a natural viewing point on the Pioneer Wilderness hiking trail.
     - src: ../../img/gallery/P_C3_tent.jpg
@@ -145,10 +154,10 @@ gallery:
       caption: Free standing iron bath at the second nights camp.
 
 price:
-  heading: R15 000 per night Exclusive Use of the Trail for up to 8 people OR  R15 500/per person/sharing to join a trail group. 
+  heading: R15 000 per night Exclusive Use of the Trail for up to 8 people OR  R15 500/per person/sharing to join a trail group.
   overview: null
   table: null
-    
+
   heading2: null
   overview2: null
   table2: null
@@ -161,24 +170,16 @@ price:
     - '<strong>Drinks</strong>'
     - '<strong>Private Return Transfer</strong>'
   notIncludes: null
-destination: westerncape
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
+  featured: 0
   image: ../../img/generic/pp-pioneer-500.jpg
   tagline: Pioneering
   title: Wilderness Trail - Western Cape
-  description: "A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining."
-activityTour:
-  image: ../../img/generic/pp-pioneer-500.jpg
-  tagline: Pioneering
-  title: Wilderness Trail - Western Cape
-  description: "A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining."
+  description: 'A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining.'
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-pioneer-500.jpg
   tagline: Pioneering
   title: Wilderness Trail - Western Cape
-  description: "A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining."
+  description: 'A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining.'
 ---

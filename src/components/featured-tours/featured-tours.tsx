@@ -1,11 +1,16 @@
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
 
-import FeaturedTour from '../featured-tour'
+import FeaturedTour, { FeaturedTourInterface } from '../featured-tour'
 
-export interface FeaturedToursData {
+interface FeaturedToursData {
   heading: string
   subHeading: string
+  grid?: string
+  activityFilter: string
+  featuredTours: {
+    id: string
+    frontmatter: FeaturedTourInterface
+  }[]
 }
 
 interface FeaturedToursProps {
@@ -13,104 +18,28 @@ interface FeaturedToursProps {
 }
 
 const FeaturedTours = ({
-  data: { heading, subHeading },
+  data: { heading, subHeading, grid = '', activityFilter, featuredTours },
 }: FeaturedToursProps) => {
-  const {
-    site: {
-      siteMetadata: { siteUrl },
-    },
-    allMarkdownRemark: { edges },
-  } = useStaticQuery(graphql`
-    query FeaturedToursQuery {
-      site {
-        siteMetadata {
-          siteUrl
-        }
-      }
-      allMarkdownRemark(
-        filter: {
-          frontmatter: { templateKey: { eq: "tour-page" }, featured: { gt: 0 } }
-        }
-        sort: { order: ASC, fields: [frontmatter___featured] }
-      ) {
-        edges {
-          node {
-            id
-            frontmatter {
-              meta {
-                description
-              }
-              slug
-              tourName
-              activityTour {
-                title
-                tagline
-                image {
-                  childImageSharp {
-                    fluid(maxWidth: 500, maxHeight: 291, quality: 70) {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
-                  publicURL
-                }
-                description
-              }
-              destination {
-                frontmatter {
-                  code
-                  destinationName
-                }
-              }
-              activity {
-                frontmatter {
-                  code
-                  activityName
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  `)
-
   return (
-    <article className="content-block article-boxed featured-tours">
+    <article className={`content-block article-boxed featured-tours`}>
       <div className="container">
         <header className="content-heading">
           <h2 className="main-heading">{heading}</h2>
           <span className="main-subtitle">{subHeading}</span>
-          <div className="seperator" />
+          {/* <div className="seperator" /> */}
         </header>
         <div className="content-holder content-boxed">
-          <div className="row db-3-col featured-tour-row">
-            {edges.map(({ node }) => {
-              const {
-                id,
-                frontmatter: {
-                  meta,
-                  tourName,
-                  slug,
-                  activityTour: { image, tagline, title, description },
-                  destination,
-                  activity,
-                },
-              } = node
+          <div
+            className={`row db-3-col featured-tour-row${
+              grid ? ` ${grid}` : ''
+            }`}
+          >
+            {featuredTours.map(({ id, frontmatter }) => {
               return (
                 <FeaturedTour
                   key={id}
-                  data={{
-                    siteUrl,
-                    tourName,
-                    slug,
-                    shortDescription: meta.description,
-                    image,
-                    tagline,
-                    title,
-                    description,
-                    destination,
-                    activity,
-                  }}
+                  data={frontmatter}
+                  activityFilter={activityFilter}
                 />
               )
             })}

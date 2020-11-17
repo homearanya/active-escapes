@@ -2,11 +2,20 @@
 templateKey: tour-page
 meta:
   title: Hotel-Hopping Wild Coast Trails, Southern Wild Coast
-  description: The hotel-hopping trails extend from Kob Inn to Cintsa, with 3 and 5 night trail options – the Meander, Sunshine and Minibreak. Fully catered and guided with transfers to the start. Porters can be employed north of the Kei and vehicle luggage transfers are offered from Morgan Bay.    
+  description: The hotel-hopping trails extend from Kob Inn to Cintsa, with 3 and 5 night trail options – the Meander, Sunshine and Minibreak. Fully catered and guided with transfers to the start. Porters can be employed north of the Kei and vehicle luggage transfers are offered from Morgan Bay.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 2
+    listing:
+      image: ../../img/listing/WCH-hotel-hopper.JPG
+      title: Lower Wild Coast Hotel-Hopper
+      subtitle: Pristine beaches with hotel comforts at the end of the day
+      description: "If your idea of a hiking holiday is as much about the chilled wine, a comfy bed and a seafood dinner, then the Lower Wild Coast Hotel-Hopping trail should be right up your alley. We can tailor the hike to your group's time constraints, from a 2 day weekend-break to a 6 night trail starting at Kob Inn and finishing at Cintsa."
+subActivity:
+  - slackpacking
 tourName: Hotel-Hopping Wild Coast
 slug: hotel-hopping-wild-coast-trail
-featured: 2
-popular: 7
 featuredImage: ../../img/generic/PP_hotelhopper.JPG
 
 longDescription:
@@ -27,22 +36,22 @@ details:
       - 'Day 5: 14km   Day 6: 16km'
   - heading: Trail Grading
     description:
-      - <strong>2/ 5 - Fitness</strong>. The easy trail gradient and long beach sections make this a good trail for people of moderate fitness or older/younger hikers. 
+      - <strong>2/ 5 - Fitness</strong>. The easy trail gradient and long beach sections make this a good trail for people of moderate fitness or older/younger hikers.
       - <strong>1/ 5 - Technicality</strong>. Some small boulder hopping on rocky beach sections but no scrambling or sheer sections.
   - heading: Trail Terrain
     description:
       - Coastal Trail –  mostly flattish terrain with some small hills, long stretches of pristine beaches, secluded bays, and beautiful estuaries
   - heading: Accommodation
     description:
-      - Old world characterful <strong>Transkei Hotels</strong> 
+      - Old world characterful <strong>Transkei Hotels</strong>
       - 3-4 course dinners, full cooked breakfasts and packed lunches  provided
-  
+
   - heading: Logistic Support
     description:
       - Fully catered with hotel accommodation
       - Shuttle to the hike start or to/from EL airport
       - Luggage support by vehicle included south of the Kei River. Porters arranged north of the Kei.
-      - Guide - included on all hike days 
+      - Guide - included on all hike days
   - heading: Group Size
     description:
       - From <strong>2</strong> persons. No maximum, but <strong>12</strong> persons / per transfer vehicle.
@@ -54,7 +63,7 @@ emailSubject: Wild Coast Hotel-Hopping Trail Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - This hike is more accessible to younger and older hikers as the terrain flattens out (fewer hills) with paths running close to the beach, or along wide flat beaches. 
+    - This hike is more accessible to younger and older hikers as the terrain flattens out (fewer hills) with paths running close to the beach, or along wide flat beaches.
     - Accommodation is in the characterful old world hotels with 3-course dinners (often fresh line fish and seafood if you time it right), a cooked breakfast to start your day, and a packed lunch to munch-on out on the trail. Porters can be arranged north of the Kei to take your backpack from hotel to hotel, whilst vehicle luggage transfers are possible south of Morgan’s Bay. You can therefore hike burden-free, though you need pack little more than your clothes and trail shoes on this slackpacker.
     - The hiking distances between the hotels, allow ample time to soak in the atmosphere, take a swim and a leisurely lunch along way - arriving at the next hotel by mid-afternoon. Hikers have the option of flying in / out of East London, or driving their car to the start / finish of the trail, and we'll arrange a shuttle to the other end.
 itinerary:
@@ -68,9 +77,9 @@ itinerary:
       subHeading: 'Hike Day 1: Hike to Mazeppa (5km) / or to Cebe Guesthouse (19km from Kob Inn)'
       description:
         - Enjoy the morning on the beach at Kob Inn, have lunch and then take an afternoon stroll to Mazeppa.
-        -  OR do a longer first day - hiking through to Cebe Guesthouse (19km from Kob Inn, 14.5km from Mazeppa)
+        - OR do a longer first day - hiking through to Cebe Guesthouse (19km from Kob Inn, 14.5km from Mazeppa)
         - Today’s route is perhaps the ‘wildest’ - offering a mix of sandy beaches flanked by rippled dunes one side and flat-shelved wave-cut rocks on the other; and grassy banks that pass natural springs and indigenous forests alive with birds and insects.
-        - After crossing the Ngqwara River its a combination of beach, flat rocky shelves and grassy tracks before reaching the beautiful Cebe River Mouth. Flanked on both sides with thick indigenous forest, this river mouth is a truly a wild and special spot. 
+        - After crossing the Ngqwara River its a combination of beach, flat rocky shelves and grassy tracks before reaching the beautiful Cebe River Mouth. Flanked on both sides with thick indigenous forest, this river mouth is a truly a wild and special spot.
         - 'Overnight: <strong>Mazeppa hotel / Cebe Guesthouse</strong> (Breakfast, packed lunch & Dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike to Wavecrest (20km from Mazeppa, 7km from Cebe)'
@@ -83,8 +92,8 @@ itinerary:
       subHeading: 'Hike Day 3: Hike Wavecrest to Seagulls / Trennerys (13.5km) '
       description:
         - From Wavecrest to the Kobonqaba River, you will pass through a lovely section of indigenous forest.
-        - After the Kobonqaba River crossing, the trail is easy going. Look out for the last remains of the Jacaranda Shipwreck – a Greek Freighter that was wrecked in 1971 on a voyage from East London to Durban. 
-        - After crossing the Qolora river it is about another 800m along the beach to Seagulls hotel, or Trennerys, located on the estuary. 
+        - After the Kobonqaba River crossing, the trail is easy going. Look out for the last remains of the Jacaranda Shipwreck – a Greek Freighter that was wrecked in 1971 on a voyage from East London to Durban.
+        - After crossing the Qolora river it is about another 800m along the beach to Seagulls hotel, or Trennerys, located on the estuary.
         - 'Overnight: <strong>Seagulls / Trennerys Hotel</strong> (Breakfast, packed lunch & Dinner)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Trennerys - Morgan Bay (14km) '
@@ -92,35 +101,35 @@ itinerary:
         - The mighty Kei River will be crossed by motorised pont.
         - After passing through the small village of Kei Mouth, you will head in the direction of the lighthouse and then back down to the rocky coast.
         - The beach marks the final stretch through to Morgan Bay.
-        - 'Overnight: <strong>Mitford Hotel</strong> or upgrade to <strong>Morgan bay hotel</strong> avail permitting (Breakfast, packed lunch & Dinner)'     
+        - 'Overnight: <strong>Mitford Hotel</strong> or upgrade to <strong>Morgan bay hotel</strong> avail permitting (Breakfast, packed lunch & Dinner)'
     - heading: Day 6
       subHeading: Departure Day
       description:
-        - Breakfast incl. Leave in own vehicles left in Morgan Bay or transfer provided back to EL airport.     
+        - Breakfast incl. Leave in own vehicles left in Morgan Bay or transfer provided back to EL airport.
 
   images:
     - src: ../../img/gallery/HH_estuarycruise.JPG
       heading: Nxaxo River Cruise - Wavecrest
       subHeading: 'Tide-permitting, a sunset cruise us the Nxaxo estuary, offers the perfect tonic to the end of good days hike.'
-    
+
 lodging:
   heading: 'Lodges'
   description:
     - 'Old world characterful <strong>Transkei Hotels</strong> (ranging from 3-4 Star): 3-4 course dinners, full cooked breakfasts and packed lunches all provided.'
     - Double, Twin and family room options are available. <strong>Single supplement</strong> will apply if you specifically request your own room.
-    - Our hiking groups are given the nicest rooms availabilty permitting, but there are upgrade options available at some of the hotels - on request.   
+    - Our hiking groups are given the nicest rooms availabilty permitting, but there are upgrade options available at some of the hotels - on request.
   images:
     - src: ../../img/gallery/HH_crawfordcabins.JPG
       heading: Crawford Cabins, Cintsa
       subHeading: 'Final night of the Sunshine Hotel-Hopping trail'
-    
+
 faq:
   faq:
     - question: Can we get vehicle luggage transfers the whole way?
       answer:
         - From Kob Inn to Morgan Bay we strongly encourage employing porters for the local income earning opportunity it provides. From Morgan Bay to Cintsa, vehicle luggage transfers are included in your tour price. Porters need to be pre-arranged with us but they get paid directly.
     - question: What type of footwear is appropriate?
-      answer: 
+      answer:
         - A hiking type shoe or trail running sneaker is perfect for this trail.
     - question: What is the best time of year for this trail?
       answer:
@@ -149,66 +158,58 @@ gallery:
     - src: ../../img/gallery/HH_ngunicows.JPG
       caption: D’em cows on the beach becomes a normalised sight after a few days on the Lower Wild Coast Hotel-Hopping trail
     - src: ../../img/gallery/HH_Trennerys.JPG
-      caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail. 
+      caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail.
     - src: ../../img/gallery/HH_jacuzzi.JPG
-      caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.      
+      caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
     - src: ../../img/gallery/HH-lunch.jpg
       caption: Hikers can look forward to some scrumptious dining after a day on the trail. Open air dining.
     - src: ../../img/gallery/HH_estuary.JPG
-      caption:  null
+      caption: null
     - src: ../../img/gallery/HH_Mbay cliffs.JPG
-      caption:  null 
+      caption: null
     - src: ../../img/gallery/HH_cruise.JPG
-      caption:  null  
+      caption: null
 
 price:
   heading: Meander Trail (5 Nights/ 4 Hike Days)
-  overview: null    
+  overview: null
   table:
     - pax: 4-5 Persons
       price: R8200/pp
     - pax: 6 - 8 Persons
       price: R7800/pp
-    
+
   heading2: 'Minibreak: Morgan Bay - Cinsta (3 nights/ 2 hike days)'
   overview2: null
 
-  table2: 
+  table2:
     - pax: 4-5 Persons
       price: R5400/pp
     - pax: 6 - 8 Persons
-      price: R5100/pp  
+      price: R5100/pp
 
   includes:
     - <strong>'5 Night Meander Trail:'</strong>
     - '<strong>5 Nights Accommodation:</strong> Wavecrest, Trennerys, Mitford Lodge, Haga Haga & Crawfords'
     - '<strong>All meals:</strong> from dinner on arrival night to breakfast on departure day (5 Breakfasts, 4 Packed Lunches and 5 Dinners).'
     - '<strong>Hiking Guide</strong> on every hike day'
-    - '<strong>Private Transfer</strong> - collect from Crawfords – transfer to Wavecrest (for self-drives) OR return airport transfers if flying into/out of East London'   
+    - '<strong>Private Transfer</strong> - collect from Crawfords – transfer to Wavecrest (for self-drives) OR return airport transfers if flying into/out of East London'
     - '<strong>Vehicle Luggage transfers</strong> incl on last 2 hike days: Morgan Bay to Haga & Haga to Crawfords'
-  notIncludes: 
+  notIncludes:
     - '<strong>Porters</strong> are employed on the first <strong>2 hikes day</strong>. We must pre-book the porters, but porters are paid directly – budget  R200 - R250/porter/per day'
     - 'If you are a large group, a vehicle luggage transfer from Trennerys - Morgan Bay - R1100/transfer.'
     - Change to Morgan Bay hotel (avail dependent) – budget extra R250/pp
 
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
+  featured: 7
   image: ../../img/generic/pp-hh-500.jpg
   tagline: Hotel Hopping
   title: Slackpacking Southern Wild Coast
-  description: "If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options."
-activityTour:
-  image: ../../img/generic/pp-hh-500.jpg
-  tagline: Hotel Hopping
-  title: Slackpacking Southern Wild Coast
-  description: "If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options."
+  description: 'If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options.'
 destinationTour:
-  mage: ../../img/generic/pp-hh-500.jpg
+  order: 1
+  image: ../../img/generic/pp-hh-500.jpg
   tagline: Hotel Hopping
   title: Slackpacking Southern Wild Coast
-  description: "If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options."
+  description: 'If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options.'
 ---

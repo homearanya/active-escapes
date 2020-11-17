@@ -472,10 +472,10 @@
       }
 
       .country,
-      .activity {
-        max-width: 50%;
-        display: inline-block;
-        vertical-align: top;
+      .activity,
+      .duration {
+        display: flex;
+        align-items: center;
         margin-right: 0;
 
         [class^='glyphicon-'],

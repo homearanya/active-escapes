@@ -76,7 +76,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query SimplePageQuery($id: String!) {
+  query SimplePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

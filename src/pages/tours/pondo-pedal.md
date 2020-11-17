@@ -1,12 +1,21 @@
 ---
 templateKey: tour-page
 meta:
-  title: Pondo Pedal MTB Tour, Northern Wild Coast 
+  title: Pondo Pedal MTB Tour, Northern Wild Coast
   description: The 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible  long weekend. Mtamvuna – Mtentu, overnighting at a lodge with luggage support.
+destination: wildcoast
+activity:
+  - name: mountainbiking
+    featured: 1
+    listing:
+      image: ../../img/listing/activity-pondo-pedal.JPG
+      title: Pondo-Pedal Weekender
+      subtitle: Accessible wild ride experience
+      description: Our 3-day Pondo-Pedal packs the adventure of Wild Coast riding into a cost-effective long weekend. Starting at the Wild Coast Casino, the trail makes its way to Mtentu camp - an ideal base for exploring Mkambati Nature Reserve, before cycling back to Port Edward via a different route. Beach riding, organic single-track and Wild Coast vibes, just 2hrs drive from Durban.
+subActivity:
+  - mountainbiking
 tourName: Pondo-Pedal Mountain Bike Tour
 slug: pondo-pedal
-featured: 1
-popular: 0
 featuredImage: ../../img/generic/PP-pondopedal.JPG
 longDescription:
   - The Pondo-Pedal Mountain Bike tour is the perfect tour to cut your teeth on if you looking for a whetting of wild coast trail riding, and are a little short of leave, or looking for a stepping stone to the Lower Wild Coast MTB Adventure.
@@ -27,7 +36,7 @@ details:
   - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. A moderate level of MTB fitness and good overall fitness is recommended. Whilst the daily distances may not seem high, anticipate a few steep climbs, slower-going sections, and portaging in parts.
-      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to stay on your bike through soft sand and rutted paths. 
+      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to stay on your bike through soft sand and rutted paths.
 
   - heading: Trail Terrain
     description:
@@ -35,10 +44,10 @@ details:
   - heading: Accommodation
     description:
       - Rustic Wood and Thatch lodge on Mtentu estuary. 4 person chalets with communal showers, toilets and dining boma.
-  
+
   - heading: Logistic Support
     description:
-      - Fully Supported and Guided Mountain Bike Tour 
+      - Fully Supported and Guided Mountain Bike Tour
       - Luggage transfer provided
       - All meals from dinner on arrival day to packed lunch on departure day
       - '* Opt NOT to have luggage support at a reduced fee'
@@ -53,7 +62,7 @@ emailSubject: Pondo-Pedal MTB Tour Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - The tour consist of 3 cycle days, or 2 cycle days & a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach. 
+    - The tour consist of 3 cycle days, or 2 cycle days & a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach.
     - You’ll spend two nights at Mtentu lodge before cycling back to the Wild Coast casino via a different route.  Depending on the time and tides, you'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
     - If you an independent soul & wish to make it a more affordable getaway, there is also an option to self-guide and not have luggage support as the lodge does provide bedding, towels and meals.
 
@@ -73,12 +82,12 @@ itinerary:
       subHeading: 'Guided Cycle Day 2: Mtentu back to Wild Coast Casino via alternative route (38 or 26km)'
       description:
         - If you did more beach riding on the way-in, you can chose a more  inland route on the return - passing villages and waterfalls. (35-45km depending on route taken) - in discussion with guide and wind / tide permitting.
-        
+
   images:
     - src: ../../img/gallery/pondopedal_red.JPG
-      heading: Exploring the Red Dunes 
+      heading: Exploring the Red Dunes
       subHeading: 'Near Xolobeni village on the ride through to Mtentu. These culturally significant dunes are one of the proposed mining sites being heavily objected to by the local community.'
-    
+
 lodging:
   heading: 'Lodges'
   description:
@@ -89,15 +98,15 @@ lodging:
     - src: ../../img/gallery/pondopedal_Mtentu.JPG
       heading: Mtentu Lodge
       subHeading: 'The cabins are connected to one another by wooden boardwalk'
-    
+
 faq:
   faq:
     - question: Is it possible to self-guide but have vehicle back-up support?
       answer:
         - Yes, certainly. If you stick to the beach route in and out, it is quite easy to self-guide, and we still just provide the luggage transfer through to the lodge. However, if you wish to discover the hidden falls and local villages, we recommend taking a local guide.
-    - question: How good a mountain-biker do you need to be, to do this tour? 
+    - question: How good a mountain-biker do you need to be, to do this tour?
       answer:
-        - This is the perfect whetting for a Wild Coast MTB trail.  If you time your trip over a full or new moon period with a spring low in the morning, the long beach stretches through to the lodge should make for pretty easy riding. 
+        - This is the perfect whetting for a Wild Coast MTB trail.  If you time your trip over a full or new moon period with a spring low in the morning, the long beach stretches through to the lodge should make for pretty easy riding.
     - question: Can we hire bikes?
       answer:
         - Afraid not. The sand and salt also takes its toll on your steed, so if you have the luxury of a ‘B’ bike…but still in good working order, bring the ‘B’ bike. You can also chose to do the inland route in and out if you don’t want to take your fancy bike on the beach.
@@ -108,9 +117,9 @@ faq:
 gallery:
   pictures:
     - src: ../../img/gallery/pondopedal_village.JPG
-      caption: The inland route, following cattle paths, takes you through local villages and grasslands. 
+      caption: The inland route, following cattle paths, takes you through local villages and grasslands.
     - src: ../../img/gallery/pondopedal_red-desert.JPG
-      caption: The red desert – a place of great cultural significance to the local Pondo villagers and under threat from proposed dune mining. 
+      caption: The red desert – a place of great cultural significance to the local Pondo villagers and under threat from proposed dune mining.
     - src: ../../img/gallery/pondopedal_sunset.JPG
       caption: An early start may be optimal based on the tides.
     - src: ../../img/gallery/pondopedal-estuary.JPG
@@ -118,12 +127,12 @@ gallery:
     - src: ../../img/gallery/pondopedal_welcome.JPG
       caption: A warm welcome – Pondo pedalling.
     - src: ../../img/gallery/pondopedal-Jan.JPG
-      caption: Some portaging is inevitable on a Wild Coast ride.     
+      caption: Some portaging is inevitable on a Wild Coast ride.
     - src: ../../img/gallery/pondopedal_mtentuestuary.JPG
-      caption: The Mtentu Estuary is your playground for your ‘free’ day between cycling. 
+      caption: The Mtentu Estuary is your playground for your ‘free’ day between cycling.
     - src: ../../img/gallery/pondopedal_shebeen.JPG
       caption: Nothing like a refreshment stop at a local spaza store.
-    
+
 price:
   heading: 3 Day / 2 Night Package/ 2 Guided Ride Days
   overview: null
@@ -136,7 +145,7 @@ price:
       price: R3800/pp
     - pax: 9-12 Persons
       price: R3500/pp
-    
+
   heading2: null
   overview2: null
   table2: null
@@ -146,24 +155,16 @@ price:
     - '<strong>2 Guided Ride days</strong>'
     - '<strong>Free day </strong> at Mtentu for hiking, snorkelling, swimming, paddling up the estuary'
     - '<strong>4x4 Luggage Transfers</strong> to/back from lodge to Wild Coast Casino '
-    
+
   notIncludes: null
-destination: wildcoast
-activity:
-  - mountainbiking
-subActivity:
-  - mountainbiking
 popularTour:
-  image: ../../img/generic/pp-pondopedal-500.jpg
-  tagline: Pondo Pedaling
-  title: Pondo Wild Coast MTB
-  description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-pondopedal-500.jpg
   tagline: Pondo Pedaling
   title: Pondo Wild Coast MTB
   description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-pondopedal-500.jpg
   tagline: Pondo Pedaling
   title: Pondo Wild Coast MTB

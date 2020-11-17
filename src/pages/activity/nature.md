@@ -18,13 +18,20 @@ intro:
     - Being in nature has a profound impact on our brains and our behaviour; helping us to reduce anxiety and stress, and increase our attention capacity, creativity, and even our ability to connect with other people.
     - We at Active Escapes have always felt that, and that is why all our trips take place in beautiful natural surrounds, far from the madding crowds.
     - <em>Sometimes it’s just about BEING in nature, and we have some great getaways where this can be….</em>
-
-  bestSeason: Year-round options
-  locations: Drakensberg, Kosi Bay, Tugela, Wild Coast
-  icon: ../../img/icons/ico-water.svg
-toursSection:
+featuredToursSection:
   heading: Nature Retreats
   subHeading: Discover naturally good getaways, where you can just BE
+taylorMadeSection:
+  heading: This is the heading
+  subHeading: This is the subHeading
+  options:
+    - image: ../../img/listing/nature-pondocamps.JPG
+      title: Pondoland Tented Camps
+      subTitle: Tucked away in paradise
+      description: Tucked in behind a dune, sheltered under some milkwoods, or on the banks of a pristine estuary, these Wild Coast Beach Camps in Northern Pondoland offer the perfect friend and family getaway.  They are a place to reflect, explore, and be reminded about what is truly important in life.
+      link:
+        href: 'mailto:tours@active-escapes.co.za?subject=Pondoland Beach Camp Accommodation Enquiry'
+        text: Enquire Now
 icon: glyphicon glyphicon-leaf
 order: 4
 ---

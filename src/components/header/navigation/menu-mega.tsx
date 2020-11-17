@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link, graphql, useStaticQuery } from 'gatsby'
-import Img from 'gatsby-image'
+import React, { useMemo } from 'react'
+import { graphql, useStaticQuery } from 'gatsby'
 import { MenuItems } from './menu-item'
+import GridOfCards, { Item } from '../../grid-of-cards'
 
 interface MenuDropdownProps {
   menuItems: MenuItems
@@ -22,6 +22,7 @@ const MenuDropdown = ({
     familyImg,
     groupsImg,
     raftingImg,
+    retreatsImg,
     runningImg,
   } = useStaticQuery(graphql`
     query {
@@ -85,6 +86,14 @@ const MenuDropdown = ({
         }
         publicURL
       }
+      retreatsImg: file(relativePath: { eq: "listing/activity-retreat.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+        publicURL
+      }
       runningImg: file(relativePath: { eq: "generic/activity-running.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
@@ -103,8 +112,17 @@ const MenuDropdown = ({
     family: familyImg,
     groups: groupsImg,
     rafting: raftingImg,
+    retreats: retreatsImg,
     running: runningImg,
   }
+  const items: Item[] = useMemo(
+    () =>
+      menuItems.map(({ img, ...rest }) => {
+        const image = images[img as string]
+        return { ...rest, image }
+      }),
+    [menuItems, images],
+  )
   return (
     <div
       className={`dropdown-menu${className ? ` ${className}` : ''}`}
@@ -113,26 +131,7 @@ const MenuDropdown = ({
       <div className="drop-wrap">
         <div className="drop-holder">
           <div className="row menu-mega-row">
-            {menuItems.map(({ name, link, img, blurb }) => (
-              <div key={link} className="col-sm-6 col-md-3 menu-mega-col">
-                <div className="col">
-                  <div className="img-wrap">
-                    <Link to={link}>
-                      <Img
-                        fluid={images[img as string].childImageSharp.fluid}
-                        alt={name}
-                      />
-                    </Link>
-                  </div>
-                  <div className="des">
-                    <strong className="title">
-                      <Link to={link}>{name}</Link>
-                    </strong>
-                    <p>{blurb}</p>
-                  </div>
-                </div>
-              </div>
-            ))}
+            <GridOfCards items={items} />
           </div>
         </div>
       </div>

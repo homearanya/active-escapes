@@ -38,6 +38,10 @@ exports.createPages = async ({ actions, graphql }) => {
 
     pages.forEach(({ node }) => {
       const { id, frontmatter, fields } = node
+      const activity =
+        frontmatter.templateKey === 'activity-page'
+          ? frontmatter.code
+          : undefined
       const destination =
         frontmatter.templateKey === 'destination-page'
           ? frontmatter.code
@@ -51,6 +55,7 @@ exports.createPages = async ({ actions, graphql }) => {
         context: {
           id,
           destination,
+          activity,
         },
       })
     })
@@ -68,7 +73,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     if (node.frontmatter.templateKey === 'tour-page') {
       const { slug, activity, destination } = node.frontmatter
       const defaultSlug = slug ? `${slug}/` : value.replace('/tours/', '')
-      value = `/${destination}/${activity[0]}/${defaultSlug}`
+      value = `/${destination}/${activity[0].name}/${defaultSlug}`
     }
     createNodeField({
       name: `slug`,
@@ -107,12 +112,18 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
               .getAllNodes({ type: 'MarkdownRemark' })
               .filter((node) => {
                 if (node.frontmatter.templateKey === 'tour-page') {
+                  console.log(
+                    'buildObjectType',
+                    source.code,
+                    node.frontmatter.destination,
+                    node.frontmatter.activity,
+                  )
                   return (
                     (node.frontmatter.destination &&
                       node.frontmatter.destination === source.code) ||
                     (node.frontmatter.activity &&
                       node.frontmatter.activity.find(
-                        (activity) => activity === source.code,
+                        ({ name }) => name === source.code,
                       ))
                   )
                 } else {

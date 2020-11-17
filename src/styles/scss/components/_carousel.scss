@@ -283,13 +283,18 @@
         border-color: #6b6957;
         background: none;
         color: #b0a377;
+        cursor: pointer;
         border-radius: 25px;
         transition: all 0.3s;
 
-        &:hover {
+        &:hover,
+        &:active {
           border-color: #6b6957;
           background: #6b6957;
           color: #fff;
+        }
+        &:focus {
+          outline: 0;
         }
       }
     }

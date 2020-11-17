@@ -10,7 +10,7 @@ const RecentlyViews = () => {
   const {
     tours: { edges },
   } = useStaticQuery(graphql`
-    query RecentlyViewsQuery {
+    query RecentlyViews {
       tours: allMarkdownRemark(
         filter: { frontmatter: { templateKey: { eq: "tour-page" } } }
       ) {
@@ -36,11 +36,13 @@ const RecentlyViews = () => {
                 }
               }
               activity {
-                id
-                frontmatter {
-                  activityName
-                  code
-                  icon
+                name {
+                  id
+                  frontmatter {
+                    activityName
+                    code
+                    icon
+                  }
                 }
               }
               subActivity {
@@ -102,7 +104,7 @@ const RecentlyViews = () => {
               subActivity,
               popularTour,
             } = frontmatter
-            const tourLink = `/${destination.frontmatter.code}/${activity[0].frontmatter.code}/${slug}`
+            const tourLink = `/${destination.frontmatter.code}/${activity[0].name.frontmatter.code}/${slug}`
             const { image } = popularTour
             return (
               <article key={id} className="col-sm-6 col-md-3 article">

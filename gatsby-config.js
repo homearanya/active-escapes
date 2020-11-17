@@ -12,37 +12,64 @@ module.exports = {
     siteUrl: 'http://active-escapes.co.za/',
     siteMenu: {
       menuItems: [
-        { name: 'home', link: '/' },
+        { id: '1', name: 'home', link: '/' },
         {
           name: 'About',
           link: null,
           menuItems: [
-            { name: 'The Company', link: '/about/' },
-            { name: 'Trail Grading', link: '/trail-grading/' },
-            { name: 'FAQs', link: '/faqs/' },
+            { id: '11', name: 'The Company', link: '/about/' },
+            { id: '12', name: 'Trail Grading', link: '/trail-grading/' },
+            { id: '13', name: 'FAQs', link: '/faqs/' },
           ],
         },
         {
+          id: '2',
           name: 'Destinations',
           link: null,
           menuItems: [
-            { name: 'Drakensberg', link: '/destination/drakensberg/' },
-            { name: 'EC Highlands', link: '/destination/ec_highlands/' },
-            { name: 'Free State', link: '/destination/freestate/' },
-            { name: 'Kosi Bay', link: '/destination/kosibay/' },
-            { name: 'KZN Interior', link: '/destination/kzn_interior/' },
-            { name: 'KZN Midlands', link: '/destination/kzn_midlands/' },
-            { name: 'Western Cape', link: '/destination/westerncape/' },
-            { name: 'Wild Coast', link: '/destination/wildcoast/' },
-            { name: 'Southern Africa', link: '/destination/southernafrica/' },
+            {
+              id: '21',
+              name: 'Drakensberg',
+              link: '/destination/drakensberg/',
+            },
+            {
+              id: '22',
+              name: 'Eastern Cape',
+              link: '/destination/easterncape/',
+            },
+            { id: '23', name: 'Free State', link: '/destination/freestate/' },
+            { id: '24', name: 'Kosi Bay', link: '/destination/kosibay/' },
+            {
+              id: '25',
+              name: 'KZN Interior',
+              link: '/destination/kzn_interior/',
+            },
+            {
+              id: '26',
+              name: 'KZN Midlands',
+              link: '/destination/kzn_midlands/',
+            },
+            {
+              id: '27',
+              name: 'Western Cape',
+              link: '/destination/westerncape/',
+            },
+            { id: '28', name: 'Wild Coast', link: '/destination/wildcoast/' },
+            {
+              id: '29',
+              name: 'Southern Africa',
+              link: '/destination/southernafrica/',
+            },
           ],
         },
         {
+          id: '3',
           name: 'Activities',
           link: null,
           megaMenu: true,
           menuItems: [
             {
+              id: '31',
               name: 'Hiking / Slackpacking',
               link: '/activity/hiking/',
               img: 'hiking',
@@ -50,6 +77,7 @@ module.exports = {
                 'South Africa has a vast range of mountains, forests and coastline, which hold incredible hiking, trekking and backpacking opportunity.',
             },
             {
+              id: '32',
               name: 'Mountain Biking',
               link: '/activity/mountainbiking/',
               img: 'cycling',
@@ -57,13 +85,15 @@ module.exports = {
                 "Whether you're looking for adrenalin-pumping downhill, flowing single-track or tranquil country road riding, Active Escapes has a tour to get your wheels rolling.",
             },
             {
-              name: 'Horse Riding',
-              link: '/activity/horseriding/',
-              img: 'horseriding',
+              id: '33',
+              name: 'Retreats',
+              link: '/activity/retreats/',
+              img: 'retreats',
               blurb:
-                'Forging streams, galloping plains or cantering up golden miles of beach, we have multi-day riding adventures in the berg and coast.',
+                'Looking for a getaway with real connection? Feet on the ground, head to the sky, and quieten your mind on a Nature – Yoga – Mindfulness retreat.',
             },
             {
+              id: '34',
               name: 'Nature',
               link: '/activity/nature/',
               img: 'nature',
@@ -71,14 +101,15 @@ module.exports = {
                 '“Look into nature, and then you will be able to understand everything better.”  Albert Einstein. Nature is not just a place to visit. It is home.',
             },
             {
+              id: '35',
               name: 'Family',
               link: '/activity/family/',
               img: 'family',
               blurb:
                 "Roasting marshmallows around a campfire or hiking to a cave; bonding over an adventure - that’s what an Active Escape's family holiday package is all about.",
             },
-
             {
+              id: '36',
               name: 'Groups',
               link: '/activity/groups/',
               img: 'groups',
@@ -87,6 +118,7 @@ module.exports = {
             },
 
             {
+              id: '37',
               name: 'Rafting',
               link: '/activity/rafting/',
               img: 'rafting',
@@ -95,6 +127,7 @@ module.exports = {
             },
 
             {
+              id: '38',
               name: 'Running',
               link: '/activity/running/',
               img: 'running',
@@ -103,60 +136,77 @@ module.exports = {
             },
           ],
         },
-        { name: 'Blog', link: '/blog/' },
-        { name: 'Contact', link: '/contact-us/' },
+        { id: '4', name: 'Blog', link: '/blog/' },
+        { id: '5', name: 'Contact', link: '/contact-us/' },
       ],
     },
     footerMenu: {
       menuItems: [
         {
+          id: '1',
           heading: 'About',
           menuItems: [
-            { name: 'The Company', link: '/about/' },
-            { name: 'Trail Grading', link: '/trail-grading/' },
-            { name: 'FAQs', link: '/faqs/' },
+            { id: '11', name: 'The Company', link: '/about/' },
+            { id: '12', name: 'Trail Grading', link: '/trail-grading/' },
+            { id: '13', name: 'FAQs', link: '/faqs/' },
           ],
         },
         {
+          id: '2',
           heading: 'Top Destinations',
           menuItems: [
-            { name: 'Wild Coast', link: '/destination/wildcoast/' },
-            { name: 'Drakensberg', link: '/destination/drakensberg/' },
-            { name: 'Kosi Bay', link: '/destination/kosibay/' },
+            { id: '21', name: 'Wild Coast', link: '/destination/wildcoast/' },
+            {
+              id: '22',
+              name: 'Drakensberg',
+              link: '/destination/drakensberg/',
+            },
+            { id: '23', name: 'Kosi Bay', link: '/destination/kosibay/' },
           ],
         },
         {
+          id: '3',
           heading: 'Top Activities',
           menuItems: [
-            { name: 'Hiking', link: '/activity/hiking/' },
-            { name: 'Biking', link: '/activity/mountainbiking/' },
-            { name: 'Rafting', link: '/activity/rafting/' },
+            { id: '31', name: 'Hiking', link: '/activity/hiking/' },
+            { id: '32', name: 'Biking', link: '/activity/mountainbiking/' },
+            { id: '33', name: 'Rafting', link: '/activity/rafting/' },
           ],
         },
         {
+          id: '4',
           heading: 'Reservations',
           menuItems: [
             {
+              id: '41',
               name: 'Terms & Conditions',
               link: '/terms-and-conditions/',
             },
-            { name: 'Tour Enquiry', link: '/contact-us/#tour-enquiry' },
+            {
+              id: '42',
+              name: 'Tour Enquiry',
+              link: '/contact-us/#tour-enquiry',
+            },
           ],
         },
         {
+          id: '5',
           heading: 'Contact Us',
           menuItems: [
             {
+              id: '51',
               iconClassName: 'icon-tel',
               name: '+27 (0)33 329 5259',
               link: 'tel:+27333295259',
             },
             {
+              id: '52',
               iconClassName: 'icon-email',
               name: 'tours@active-escapes.co.za',
               link: 'mailto:tours@active-escapes.co.za',
             },
             {
+              id: '53',
               iconClassName: 'icon-home',
               name: 'Hilton, KwaZulu-Natal, SA',
               link: 'https://goo.gl/maps/WZhx6jMbd94mLVXx9',
@@ -238,13 +288,14 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
   mapping: {
     'MarkdownRemark.frontmatter.destination': `MarkdownRemark.frontmatter.code`,
-    'MarkdownRemark.frontmatter.activity': `MarkdownRemark.frontmatter.code`,
-    'MarkdownRemark.frontmatter.difficultyLevel': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.activity.name': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.subActivity': `MarkdownRemark.frontmatter.code`,
+    'MarkdownRemark.frontmatter.difficultyLevel': `MarkdownRemark.frontmatter.code`,
     'MarkdownRemark.frontmatter.images.tour': `MarkdownRemark.frontmatter.slug`,
+    'MarkdownRemark.frontmatter.byDestinationSection.destinations.destination': `MarkdownRemark.frontmatter.code`,
   },
 }

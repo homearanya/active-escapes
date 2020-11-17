@@ -3,12 +3,20 @@ templateKey: tour-page
 meta:
   title: Clarens San Traverse
   description: A 3-day slackpacker offering high berg wilderness and cultural treasures - San paintings, dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
+destination: freestate
+activity:
+  - name: hiking
+    featured: 1
+    listing:
+      image: ../../img/listing/img-04-clarens.jpg
+      tagline: San Traverse - Clarens
+      title: In the footprints of the San
+      description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
+subActivity:
+  - slackpacking
 tourName: Clarens San Traverse
 slug: clarens-san-traverse
-featured: 1
-popular: 0
 featuredImage: ../../img/generic/PP-Skywalk.JPG
-
 longDescription:
   - The Clarens San Traverse is a 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. The area is famous for its landmark San paintings, well-preserved dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
   - Our charismatic guide will lead you safely from one destination to the next whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
@@ -154,22 +162,14 @@ price:
     - 'Trail & Reserve permits'
     - 'Hiking Permits and land permissions for the 3 hike day'
   notIncludes: null
-destination: freestate
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
-  image: ../../img/listing/img-04-clarens.jpg
-  tagline: San Traverse - Clarens
-  title: In the footprints of the San
-  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
-activityTour:
+  featured: 0
   image: ../../img/listing/img-04-clarens.jpg
   tagline: San Traverse - Clarens
   title: In the footprints of the San
   description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 destinationTour:
+  order: 1
   image: ../../img/listing/img-04-clarens.jpg
   tagline: San Traverse - Clarens
   title: In the footprints of the San

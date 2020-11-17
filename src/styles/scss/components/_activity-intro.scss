@@ -1,0 +1,9 @@
+.activity-intro {
+  &__row {
+    display: flex;
+    justify-content: center;
+    @media only screen and (max-width: $screen-sm) {
+      flex-direction: column;
+    }
+  }
+}

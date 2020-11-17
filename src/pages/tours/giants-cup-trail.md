@@ -3,10 +3,19 @@ templateKey: tour-page
 meta:
   title: Giants Cup Slackpacking Trail, Southern Drakensberg
   description: This self-guided slackpacker trail in the Southern Berg covers the first 4 days of the Giants Cup Trail in three. Overnighting in comfortable lodges and farm-stays with catering and luggage transfers provided.
+destination: drakensberg
+activity:
+  - name: hiking
+    featured: 4
+    listing:
+      image: ../../img/generic/pp-giants-500.jpg
+      tagline: Take on the Giant
+      title: Slackpacking Southern Berg - Giants Cup
+      description: "A 3 Day slackpacking trail in the lower foothills of the Southern Berg. With comfy farmstays, catering & luggage support - this is a good friend and family hike for novice-intermediate hikers."
+subActivity:
+  - slackpacking  
 tourName: Giants Cup Slackpacking Trail
 slug: giants-cup-trail
-featured: 4
-popular: 0
 featuredImage: ../../img/generic/PP_Giantshike.JPG
 longDescription:
   - The Giants Cup Slackpacking Trail follows the well-marked hiking trail that runs along the base of the southern Drakensberg. Contouring around the Sandstone outcrops of the Little Berg, the trail affords magnificent views of the high mountains and a good chance of game sightings. 
@@ -145,22 +154,14 @@ price:
     - <strong>Park Entry x 3 days</strong>
   notIncludes: null
 
-destination: drakensberg
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
-  image: ../../img/generic/pp-giants-500.jpg
-  tagline: Take on the Giant
-  title: Slackpacking Southern Berg - Giants Cup
-  description: "A 3 Day slackpacking trail in the lower foothills of the Southern Berg. With comfy farmstays, catering & luggage support - this is a good friend and family hike for novice-intermediate hikers."
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-giants-500.jpg
   tagline: Take on the Giant
   title: Slackpacking Southern Berg - Giants Cup
   description: "A 3 Day slackpacking trail in the lower foothills of the Southern Berg. With comfy farmstays, catering & luggage support - this is a good friend and family hike for novice-intermediate hikers."
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-giants-500.jpg
   tagline: Take on the Giant
   title: Slackpacking Southern Berg - Giants Cup

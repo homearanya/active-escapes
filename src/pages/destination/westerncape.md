@@ -7,25 +7,18 @@ destinationName: Western Cape
 code: westerncape
 banner:
   image: ../../img/banner/dest-wcape1.jpg
-  heading: The Western Cape & Garden Route 
+  heading: The Western Cape & Garden Route
   subHeading: Wining, dining, whale watching and walking
 intro:
   heading: Mediterranean Amblings
   text:
-    - Tipping the most southerly section of South Africa is the wonderful Western Cape. Edged by the Atlantic Ocean on the west, and the Indian Ocean on the east; the Western Cape is famed for its diverse climates. 
-    - Most of the Western Cape is classified as 'Mediterranean' and is dominated by the sandstone Cape Fold Mountains. The interior sports semi-arid conditions typical of the mystical Karoo, and as one heads up the east coast the environment mellows into a maritime climate, feeding dense moisture into the green forests of the Garden Route. 
+    - Tipping the most southerly section of South Africa is the wonderful Western Cape. Edged by the Atlantic Ocean on the west, and the Indian Ocean on the east; the Western Cape is famed for its diverse climates.
+    - Most of the Western Cape is classified as 'Mediterranean' and is dominated by the sandstone Cape Fold Mountains. The interior sports semi-arid conditions typical of the mystical Karoo, and as one heads up the east coast the environment mellows into a maritime climate, feeding dense moisture into the green forests of the Garden Route.
     - Boasting the endemic Cape Floral Kingdom with nostalgic whiffs of Fynbos underfoot; the Western Cape is exceptionally popular with local and international holiday makers. Whether it's strolling from one vineyard to the next on the Winelands Trail, dossing down in luxury B&Bs after a day of dedicated strandlooping, or whale watching along the coast, there's something for everyone in this foot of the country.
-  bestSeason: Jan – May; Sept - Dec
-  locations: Mossel Bay, Hermanus, Overberg, Cederberg
-  icon: ../../img/icons/ico-landing-hiking.svg
-activities:
-  - activity: hiking
-    image: ../../img/listing/activity-wcape-hiking.JPG
-    heading: Western Cape
-    subHeading: Wine and fynbos at the heart of culture
-    description: Famed for its culture, wine, mountains and expansive ocean vantage, the western cape offers an exciting range of slackpacking and hiking trails which feature the best of the fair Cape.
-    link: '/destination/westerncape/'
-    filter: hiking
-    featured: 4
+  inset:
+    bestSeason: Jan – May; Sept - Dec
+    locations: Mossel Bay, Hermanus, Overberg, Cederberg
+    icon: ../../img/icons/ico-landing-hiking.svg
+
 order: 8
 ---

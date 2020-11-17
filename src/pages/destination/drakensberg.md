@@ -14,17 +14,9 @@ intro:
   text:
     - In the eastern part of South Africa a lengthy volcanic spine of escarpment lies in prehistoric slumber, a magical place that has drawn humans to its peaks and crevices for hundreds of years. Rising to over 3000m, the Drakensberg mountain range is a super-sized playground of lofty terrain for hikers, climbers, photographers and active families.
     - Active Escapes offers the full spectrum of hiking adventure from sleeping in caves on the top of the escarpment; to luxury ‘slackpacking’ with comfortable lodgings and luggage support. We also offer horseback adventures, multi-day mountain bike tours, trout fishing expeditions and trail running in the berg.
-  bestSeason: Mar – Nov
-  locations: Northern, Southern Berg & Maluti’s.
-  icon: ../../img/icons/ico-landing-hiking.svg
-activities:
-  - activity: hiking
-    image: ../../img/listing/activity-drak-hiking.JPG
-    heading: Drakensberg Hikes
-    subHeading: Soaring with the vultures
-    description: The Drakensberg mountains provide lofty terrain for walkers. Our Amphitheatre Trail (link to product page) will get you to the top without sleeping in tents or caves, whilst the Vulture trail (link to product page)  provides a more gentle amble in the lower foothills.
-    link: '/destination/drakensberg/'
-    filter: hiking
-    featured: 3
+  inset:
+    bestSeason: Mar – Nov
+    locations: Northern, Southern Berg & Maluti’s.
+    icon: ../../img/icons/ico-landing-hiking.svg
 order: 2
 ---

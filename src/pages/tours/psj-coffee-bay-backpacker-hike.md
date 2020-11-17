@@ -1,25 +1,34 @@
 ---
 templateKey: tour-page
 meta:
-  title: Port St Johns – Coffee Bay Backpacker Trail, Central Wild Coast 
+  title: Port St Johns – Coffee Bay Backpacker Trail, Central Wild Coast
   description: A trail well suited to the fitter and more budget conscious hiker looking for an authentic & iconic Wild Coast experience. Overnight in backpackers and village homestays.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 8
+    listing:
+      image: ../../img/listing/WCH-PSJ-CBay.JPG
+      title: Port St Johns – Coffee Bay Trail
+      subtitle: Shipwrecks, backpackers, and dramatic headlands
+      description: The 60km stretch of undulating Wild Coast terrain from Port St John's to Coffee Bay, is well suited to the fitter and more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hike, you can chose between friendly village homestays, chilled out backpackers, or a combination of both.
+subActivity:
+  - hiking
 tourName: Port St John’s to Coffee Bay Backpacker Hike
 slug: psj-coffee-bay-backpacker-hike
-featured: 7
-popular: 0
 featuredImage: ../../img/generic/PP-psj-cbay.jpg
 
 longDescription:
-  - The 60km stretch of Wild Coast from Port St Johns to Coffee Bay is well suited to the fitter traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all. 
+  - The 60km stretch of Wild Coast from Port St Johns to Coffee Bay is well suited to the fitter traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
   - From the lush coastal forests of Silaka to the rolling hills of Mpande, the PSJ to Coffee Bay hiking trail traverses grassland, rocky shores, mangrove-clad estuaries, sandy bays, nature reserves and passes through many colourful rural villages.
-  
+
 fromPricing: R4000
 difficultyLevel: challenging
 duration: 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 5 Hike Days / 6 Nights. 
+      - 5 Hike Days / 6 Nights.
       - Extra day extension to Hole-in-the-Wall
   - heading: Daily Distances
     description:
@@ -41,7 +50,7 @@ details:
       - 'Optional upgrade: to more upmarket B&Bs or hotels in Port St Johns, Mdumbi and Coffee Bay.'
   - heading: Logistic Support
     description:
-      - Hiking Guide for all days 
+      - Hiking Guide for all days
       - 'Partially catered trail: Village homestays provide simple dinner and breakfast inclusive in rate. Dinner inclusive at backpackers & other meals for own account'
       - '* Optional: Porter-support'
   - heading: Group Size
@@ -56,7 +65,7 @@ overview:
   heading: At a Glance
   description:
     - You'll pass some impressive natural phenomena along this undulating stretch of Wild Coastline. From the fascinating table mountain sandstone cliffs of Port St Johns, to the arched bays of Mpande and Mdumbi (voted in the top three of South Africa's most beautiful beaches and a surfing hotspot); the impressive dolerite intrusion at Brazen Head and the fabled landmark, Hole in the Wall, where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound.
-    - On this 5 day guided hiking trail you can chose between overnighting at friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all. 
+    - On this 5 day guided hiking trail you can chose between overnighting at friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
     - The village homestays provide dinner and breakfast as part of their inclusive rate. We include dinner in the backpacker option, and they are also well equipped for self-catering.  We provide a shuttle back to your vehicles left in Port St Johns, or to and from Mtata
 
 itinerary:
@@ -74,17 +83,17 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike from Mngazana – Mpande (14km/ 4-5hrs walk) '
       description:
-        - Todays hike follows the inland paths through hills and villages, and in and out forested valleys. The coastline itself is all rocks and headlands, so there will be no beach stretches today, until you descend to Sinangwana, where the river spills from the forest straight onto the beach. 
-        - 'Overnight: <strong>Kraal Backpackers </strong> (dinner incl) OR <strong>VBA</strong> (DBB) or <strong>Self-catering holiday cottage</strong> for groups of 6 or more out-of-season.'        
+        - Todays hike follows the inland paths through hills and villages, and in and out forested valleys. The coastline itself is all rocks and headlands, so there will be no beach stretches today, until you descend to Sinangwana, where the river spills from the forest straight onto the beach.
+        - 'Overnight: <strong>Kraal Backpackers </strong> (dinner incl) OR <strong>VBA</strong> (DBB) or <strong>Self-catering holiday cottage</strong> for groups of 6 or more out-of-season.'
     - heading: Day 4
       subHeading: 'Hike Day 3: Hike Mpande - Hluleka (18km/6-7hrs walk)'
       description:
-        - Today’s hike is one of the more challenging. You’ll ascend from Mpande through pristine forests towards Mthonga mouth - reputed to be one of the most beautiful spots on the Wild Coast. More hills and footpaths take you on a descent to the beach and the Mnenu River which then crosses into Hluleka Nature Reserve  - a combination of diverse eco systems including, rocky seashore, estuaries and evergreen 
+        - Today’s hike is one of the more challenging. You’ll ascend from Mpande through pristine forests towards Mthonga mouth - reputed to be one of the most beautiful spots on the Wild Coast. More hills and footpaths take you on a descent to the beach and the Mnenu River which then crosses into Hluleka Nature Reserve  - a combination of diverse eco systems including, rocky seashore, estuaries and evergreen
         - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Hluleka Nature Reserve</strong> Self-Catering chalets (Self-catering)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Hluleka - Mdumbi (21km/8hrs walk)'
       description:
-        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4kms, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots. 
+        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4kms, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
         - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Mdumbi Backpackers</strong> (dinner)'
     - heading: Day 6
       subHeading: 'Hike Day 5: Hike Mdumbi-Coffee Bay (10km/ 4hrs walk)'
@@ -94,13 +103,13 @@ itinerary:
     - heading: Day 7
       subHeading: Departure Day
       description:
-        - The backpacker’s shuttle departs between 11-12 on the day so you can enjoy a leisurely breakfast or we can arrange a private group transfer (additional fee)    
+        - The backpacker’s shuttle departs between 11-12 on the day so you can enjoy a leisurely breakfast or we can arrange a private group transfer (additional fee)
 
   images:
     - src: ../../img/gallery/psj-cbay_little-hole.jpg
       heading: null
       subHeading: null
-    
+
 lodging:
   heading: Accommodation
   description:
@@ -113,15 +122,15 @@ lodging:
     - src: ../../img/gallery/psj-cb_backpacker.jpg
       heading: null
       subHeading: null
-    
+
 faq:
   faq:
     - question: Is it possible to organise vehicle luggage transfers on this hike?
       answer:
-        - It is not very feasible. It is much better to organise porters on this hike. Budget around R300/porter/per day. 
-    - question: How fit do you need to be to do this hike? 
+        - It is not very feasible. It is much better to organise porters on this hike. Budget around R300/porter/per day.
+    - question: How fit do you need to be to do this hike?
       answer:
-        - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.    
+        - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.
     - question: What type of footwear is appropriate?
       answer:
         - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
@@ -131,7 +140,7 @@ faq:
     - question: Can this hike be shortened?
       answer:
         - Possible, but transfer logistics outside of of PSJ or Coffee Bay are more expensive.
-    - question: Is it possible to self-cater? 
+    - question: Is it possible to self-cater?
       answer:
         - Yes, the backpackers are well equipped for self-catering  . The homestays prefer to give meals as they cannot provide facilities for self-catering.
 
@@ -148,15 +157,15 @@ gallery:
     - src: ../../img/gallery/psj-cbay_deliciousmonster.jpg
       caption: A morning coffee on the deck at Delicious Monster – provides the perfect kickstart for the trail.
     - src: ../../img/gallery/psj-cbay_beadseller.jpg
-      caption: Local beadwork for sale 
+      caption: Local beadwork for sale
     - src: ../../img/gallery/psj-cbay_HIW.jpg
-      caption: The iconic Hole-in-the-Wall.  You will require an extra day to do this after you finish the trail at Coffee Bay.  
+      caption: The iconic Hole-in-the-Wall.  You will require an extra day to do this after you finish the trail at Coffee Bay.
     - src: ../../img/gallery/psj-cbay_seaview.jpg
       caption: Seaview between jutting headlands, the Port St Johns to Coffee Bay trail is full of such spectacles.
     - src: ../../img/gallery/psj-cbay_sisalsunset.jpg
-      caption: Sisal at Sunset 
+      caption: Sisal at Sunset
     - src: ../../img/gallery/psj-cbay_gogo.jpg
-      caption: A gogo, adorned with bracelets  
+      caption: A gogo, adorned with bracelets
 
 price:
   heading: At a Glance
@@ -171,8 +180,8 @@ price:
     - pax: 8-10 Persons
       price: R3900/pp
     - pax: 11 or more
-      price: R3800/pp  
-    
+      price: R3800/pp
+
   heading2: null
   overview2: null
   table2: null
@@ -183,27 +192,19 @@ price:
     - '<strong>5 Full Hiking Days</strong> accompanied by a local hiking guide'
     - '<strong>Return Backpacker shuttles</strong>from Coffee Bay back to PSJ (self-drives) OR pick-up from Mtata to PSJ + return from Coffee Bay to PSJ (* Larger groups – can request the additional price of a PRIVATE TRANSFER from Coffee Bay – PSJ direct, which doesn’t work out to much more)'
     - '<strong>Meals:</strong> Dinner & Breakfast’s inclusive from all village homestay’s. Dinner included on backpacker nights, but breakfasts for own account (continental & cooked ala carte breakfast options)'
-  notIncludes: 
+  notIncludes:
     - '<strong>Trail Lunches</strong>(sharing basis)- you will need to supply your own trail lunches or pre-request/book these from the homestays'
     - Personal Insurance
     - Own transport to/from start of hike
 
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
 popularTour:
-  image: ../../img/generic/pp-psj-cbay_500.jpg
-  tagline: Cultural Wild Coast
-  title: PSJ - Coffee Bay Backpacker
-  description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-psj-cbay_500.jpg
   tagline: Cultural Wild Coast
   title: PSJ - Coffee Bay Backpacker
   description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-psj-cbay_500.jpg
   tagline: Cultural Wild Coast
   title: PSJ - Coffee Bay Backpacker

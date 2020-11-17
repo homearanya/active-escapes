@@ -20,7 +20,7 @@ interface DestinationTourData {
     description: string
   }
   destination: Reference
-  activity: Reference[]
+  activity: { name: Reference; featured: number }[]
   subActivity: Reference[] | null
 }
 
@@ -46,7 +46,7 @@ const DestinationTour = ({
   siteUrl,
   grid,
 }: DestinationTourProps) => {
-  const tourLink = `/${destination.frontmatter.code}/${activity[0].frontmatter.code}/${slug}`
+  const tourLink = `/${destination.frontmatter.code}/${activity[0].name.frontmatter.code}/${slug}`
 
   return (
     <article

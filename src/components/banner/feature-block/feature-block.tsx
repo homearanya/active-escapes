@@ -19,9 +19,9 @@ const FeatureBlock = () => {
             text="Mountain Biking"
           />
           <Feature
-            link="/activity/horseriding/"
-            icon={<i className="ico-horse-riding ux"></i>}
-            text="Horse Riding"
+            link="/activity/retreats/"
+            icon={<span className="icon-culture"></span>}
+            text="Retreats"
           />
           <Feature
             link="/activity/nature/"
@@ -47,6 +47,11 @@ const FeatureBlock = () => {
             link="/running/"
             icon={<i className="ico-running ux"></i>}
             text="Running"
+          />
+          <Feature
+            link="/activity/horseriding/"
+            icon={<i className="ico-horse-riding ux"></i>}
+            text="Horse Riding"
           />
         </ul>
       </div>

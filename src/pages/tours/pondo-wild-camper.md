@@ -3,10 +3,19 @@ templateKey: tour-page
 meta:
   title: Pondo Wild Camper & VBA, Pondoland Wild Coast
   description: Are you backpack fit, but looking for a remote Wild Coast trail, a local guide & some logistical support? AE can arrange a 'wild camping' trips from Port Edward through to PSJ, with homestay options along the way.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 9
+    listing:
+      image: ../../img/listing/WCH-wildcamper.JPG
+      title: Pondo Wild Camper
+      subtitle: Have backpack, tent and cooker … but need some logistics taken care of
+      description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, and some logistical support? Active Escapes can arrange 'wild camping' trips from Port Edward through to PSJ, with an overnight or two in friendly village homestays along the way."
+subActivity:
+  - expedition
 tourName: Pondo Wild Camper & VBA’s
 slug: pondo-wild-camper
-featured: 8
-popular: 0
 featuredImage: ../../img/generic/PP-Wildcamper.jpg
 
 longDescription:
@@ -28,7 +37,7 @@ details:
       - 'Day 5: 18km  Day6/7: 10km'
   - heading: Trail Grading
     description:
-      - <strong>4/5 - Fitness</strong>. Carrying a backpack with food, tent & equipment requires multi-day hike experience & a good level of cardio fitness 
+      - <strong>4/5 - Fitness</strong>. Carrying a backpack with food, tent & equipment requires multi-day hike experience & a good level of cardio fitness
       - <strong>3/5 - Technicality</strong>. Some scrambling, rock-hopping and river crossings
   - heading: Trail Terrain
     description:
@@ -48,7 +57,7 @@ details:
       - From <strong>2</strong> pax. No max, but recommend <strong>12</strong> pax max / per guide.
   - heading: Pricing
     description:
-      - 'From <strong>R2000/pp</strong> based on a group of 6 persons for the 5N Wild Camper'     
+      - 'From <strong>R2000/pp</strong> based on a group of 6 persons for the 5N Wild Camper'
 
 emailSubject: Pondo Wild Camper / VBA Hike Enquiry – PP Enquire Now
 overview:
@@ -158,22 +167,14 @@ price:
     - 'Private Taxi Transfer (with trailer) from Mbotyi back to Wild Coast Casino'
   notIncludes: null
 
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - expedition
 popularTour:
+  featured: 0
   image: ../../img/generic/pp-wildcamper-500.jpg
   tagline: Wild Camper
   title: Pondo Wild Camper
   description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, route, and some logistical support like an end-point transfer? We arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
-activityTour:
-  image: ../../img/generic/pp-wildcamper-500.jpg
-  tagline: Wild Camper
-  title: Pondo Wild Camper 
-  description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, route, and some logistical support like an end-point transfer? We arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-wildcamper-500.jpg
   tagline: Wild Camper
   title: Pondo Wild Camper

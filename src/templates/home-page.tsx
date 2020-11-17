@@ -43,7 +43,7 @@ interface PageQueryData {
 }
 
 export const query = graphql`
-  query HomePageQuery($id: String!) {
+  query HomePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

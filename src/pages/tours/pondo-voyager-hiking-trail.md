@@ -2,11 +2,20 @@
 templateKey: tour-page
 meta:
   title: Pondo Voyager Hiking Trail
-  description: This 5 Day Hiking Voyage from Port Edward to Mbotyi, is the closest Wild Coast hike option to KZN and Gauteng. This hike packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and local hotel. 
+  description: This 5 Day Hiking Voyage from Port Edward to Mbotyi, is the closest Wild Coast hike option to KZN and Gauteng. This hike packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and local hotel.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 4
+    listing:
+      image: ../../img/listing/WCH-voyager.jpg
+      title: Pondo Voyager Hiking Trail
+      subtitle: From Port Edward - Mbotyi
+      description: If driving from Gauteng or KZN, our 5 Day Pondo-Voyager, starting at Port Edward and finishing at Mbotyi, is a good option to consider. With accommodation in friendly homestay's, community-camps, nature reserves & more luxury lodge options in the latter half of the trail, this hike packs an authentic mix of experience along a diverse route.
+subActivity:
+  - hiking
 tourName: Pondo-Voyager Hiking Trail
 slug: pondo-voyager-hiking-trail
-featured: 5
-popular: 6
 featuredImage: ../../img/generic/PP-pondovoyager.jpg
 
 longDescription:
@@ -45,7 +54,7 @@ details:
       - 'Partially-catered trail - catering provided by the village homestays, Mtentu lodge & Mbotyi'
       - 'Tented camps are fully equipped for self-catering.'
       - 'Guided for all days except through Mkambati NR.'
-      - 'Porter support can be arranged on special request.' 
+      - 'Porter support can be arranged on special request.'
   - heading: Group Size
     description:
       - Preferred min of <strong>4</strong> persons & max <strong>14</strong>/ per single transfer
@@ -74,7 +83,7 @@ itinerary:
         - Today’s hike heads out through the cultivated fields of Xolobeni across the grasslands and over the red dunes through to Sikombe and on to Mtentu.
         - 'Overnight: <strong>Mtentu River Lodge </strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 3
-      subHeading: 'Hike Day 3: Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve. Self-guided day'      
+      subHeading: 'Hike Day 3: Mtentu – Msikaba (12-15km) – through Mkambati Nature Reserve. Self-guided day'
       description:
         - Today’s self-guided hike traverses Mkambati Nature Reserve. Secret bays and waterfalls, baboon cave, palmiet rivers and zebra wave gazing.
         - 'Overnight: <strong>Msikaba tented camp  </strong> (Breakfast & packed lunch from Mtentu. Self-cater dinner).'
@@ -92,12 +101,12 @@ itinerary:
       subHeading: 'Departure Day'
       description:
         - 'Breakfast than private transfer back to the Wild Coast Casino (approx 3hrs)'
-           
+
   images:
     - src: ../../img/gallery/pvoyager-msikaba.JPG
       heading: null
       subHeading: null
-    
+
 lodging:
   heading: Accommodation
   description:
@@ -109,7 +118,7 @@ lodging:
     - src: ../../img/gallery/pvoyager_grosvenor.jpg
       heading: null
       subHeading: null
-    
+
 faq:
   faq:
     - question: Can this hike be shortened or lengthened?
@@ -124,15 +133,15 @@ faq:
     - question: What is the best time of year for this trail?
       answer:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Best to try avoid the busy school holiday periods though. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphin, and pelagic birds. Getting into Mbotyi hotel over sardine season is a challenge though.
-    - question: Is it possible to have catering provided the whole way? 
+    - question: Is it possible to have catering provided the whole way?
       answer:
-        - Unfortunately it’s not possible to have catering provided at the tented camps unless you go with the pondo-hopper option in this stretch which will significantly increase the price. However, the tented camps are fully equipped for self-catering – so you just need to bring your own food. It is also possible to do this trail in reverse so you get the self-catering nights done in the beginning of the hike.    
+        - Unfortunately it’s not possible to have catering provided at the tented camps unless you go with the pondo-hopper option in this stretch which will significantly increase the price. However, the tented camps are fully equipped for self-catering – so you just need to bring your own food. It is also possible to do this trail in reverse so you get the self-catering nights done in the beginning of the hike.
 gallery:
   pictures:
     - src: ../../img/gallery/pvoyager_grasslands.jpg
       caption: A lot of the walking on the first two days is through grasslands.
     - src: ../../img/gallery/pvoyager_grosvenor.jpg
-      caption: Subtropical forest frames deserted beaches. 
+      caption: Subtropical forest frames deserted beaches.
     - src: ../../img/gallery/pvoyager_mbotyihotel.JPG
       caption: Mbotyi hotel – the final night on the Pondo Voyager trail.
     - src: ../../img/gallery/pvoyager_mtentu.jpg
@@ -158,45 +167,35 @@ price:
       price: R4900/pp
     - pax: 8-10 Persons
       price: R4700/pp
-  
+
   heading2: null
   overview2: null
   table2: null
-    
+
   includes:
     - '<strong>5 Nights Accom</strong> (sharing basis):'
-    -   1 night in village-based homestay with dinner & breakfast provided
-    -   1 Night at Mtentu Lodge (with dinner, breakfast & packed lunch)
-    -   2 Nights (self-catered) in twin-bed tented camps with en suite bathrooms (Msikaba & Luphuthana) 
-    -   1 Night at Mbotyi River Lodge (DBB)
+    - 1 night in village-based homestay with dinner & breakfast provided
+    - 1 Night at Mtentu Lodge (with dinner, breakfast & packed lunch)
+    - 2 Nights (self-catered) in twin-bed tented camps with en suite bathrooms (Msikaba & Luphuthana)
+    - 1 Night at Mbotyi River Lodge (DBB)
     - '<strong>Hiking Guide:</strong> for 4 hike days. Hike Day 3 – through Mkambati Nature Reserve is a self-guided day'
     - '<strong>Meals</strong>: Breakfast, packed lunch & dinner from 1st night homestay & Mtentu. Dinner & breakfast from Mbotyi. * Need to self-cater for the 2 nights in the tented camps'
     - '<strong>Transfers</strong>: private transfer from Mbotyi –3hr transfer back to Port Edward/ Wild Coast Casino'
     - '<strong>Canoes</strong> - available at Mtentu & Msikaba camps'
-    
+
   notIncludes: null
 
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
-
 popularTour:
+  featured: 6
   image: ../../img/generic/pp-pvoyager_500.jpg
   tagline: Pondo Diversity
   title: Pondoland Voyager
-  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
-
-activityTour:
-  image: ../../img/generic/pp-pvoyager_500.jpg
-  tagline: Pondo Diversity
-  title: Pondoland Voyager
-  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
+  description: 'This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge.'
 
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-pvoyager_500.jpg
   tagline: Pondo Diversity
   title: Pondoland Voyager
-  description: "This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge."
+  description: 'This 5 day hiking voyage from Port Edward to Mbotyi, packs an authentic mix of experience along a diverse route. Overnighting in a village homestay, eco-lodge, tented camps and Mbotyi River Lodge.'
 ---

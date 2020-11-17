@@ -3,10 +3,26 @@ templateKey: tour-page
 meta:
   title: Baviaans Camino Slackpack/Horse Trail
   description: A 95km north-south traverse of the Baviaanskloof & Kouga Mountains, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.
+destination: easterncape
+activity:
+  - name: hiking
+    featured: 2
+    listing:
+      image: ../../img/generic/PP-Baviaans.jpg
+      tagline: Baviaans Camino Slackpacker
+      title: A Camino in the Baviaans
+      description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
+  - name: horseriding
+    featured: 2
+    listing:
+      image: ../../img/generic/PP-Baviaans.jpg
+      tagline: Baviaans Camino Slackpacker
+      title: A Camino in the Baviaans
+      description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
+subActivity:
+  - slackpacking
 tourName: Baviaans Camino Slackpack / Horse Trail
 slug: baviaans-camino
-featured: 2
-popular: 0
 featuredImage: ../../img/generic/PP-Baviaans.jpg
 longDescription:
   - The Baviaans Camino is a 95km north-south traverse of the Baviaanskloof Mountains and Kouga Mountain Range, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.  The trail uses the only ‘road’ over the Baviaanskloof Mountain, making this a unique adventure.
@@ -59,8 +75,8 @@ itinerary:
     - heading: Day 2
       subHeading: 'Hike Day 1: Nakop - Joachimskraal. Approx. 22km'
       description:
-        - After an early breakfast we will shuttle to Nakop.  The trail starts with a 400m climb over the first 4km, traversing the Baviaanskloof Mountains, followed by a 7km descent into the Kloof.  
-        - Overnight accommodation is 5kms further, on the farm <strong>Joachimskraal</strong> in an old farmhouse. 
+        - After an early breakfast we will shuttle to Nakop.  The trail starts with a 400m climb over the first 4km, traversing the Baviaanskloof Mountains, followed by a 7km descent into the Kloof.
+        - Overnight accommodation is 5kms further, on the farm <strong>Joachimskraal</strong> in an old farmhouse.
         - 'Dinner is enjoyed around the fire, a well deserved treat after a challenging day!'
     - heading: Day 3
       subHeading: 'Hike Day 2: Joachimskraal – Modderhuisie. Approx. 24km.'
@@ -70,7 +86,7 @@ itinerary:
     - heading: Day 4
       subHeading: 'Hike Day 3: Modderhuisie -  Nooitgedacht. Approx. 20km. '
       description:
-        - Today we start off through the beautiful Kouenek Kortkloof, towards the Joubertskraal River, before tackling the Kouenek to the highest point - a steep mountain with many false summits. 
+        - Today we start off through the beautiful Kouenek Kortkloof, towards the Joubertskraal River, before tackling the Kouenek to the highest point - a steep mountain with many false summits.
         - After which a slow re-introduction to civilization follows, as you enter the remote farming community of the <strong>Nooitgedacht</strong> area.  We tackle a last up and down for the day, before arriving at our farmhouse for the night.
     - heading: Day 5
       subHeading: 'Hike Day 4: Nooitgedacht – Nguniland. Approx 30km.'
@@ -82,17 +98,17 @@ itinerary:
         - Pack up and enjoy a hearty breakfast in a local restaurant before starting our journey back to the real world.  As they say though, a Camino has a start, but it never ends.
   images:
     - src: ../../img/gallery/baviaans_reststop.jpg
-      heading: 
-      subHeading:     
+      heading:
+      subHeading:
 lodging:
   heading: 'Accommodation'
   description:
     - Farmstays, 3 star Guesthouse, Outposts
   images:
     - src: ../../img/gallery/baviaans_hikers.jpg
-      heading: 
+      heading:
       subHeading:
-    
+
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -135,23 +151,14 @@ price:
     - 'Park Entry x 2 Days'
   notIncludes:
     - Shuttles to / from the start
-destination: EC
-activity:
-  - hiking
-  - horseriding
-subActivity:
-  - slackpacking
 popularTour:
-  image: ../../img/generic/PP-Baviaans.jpg
-  tagline: Baviaans Camino Slackpacker
-  title: A Camino in the Baviaans
-  description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
-activityTour:
+  featured: 0
   image: ../../img/generic/PP-Baviaans.jpg
   tagline: Baviaans Camino Slackpacker
   title: A Camino in the Baviaans
   description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 destinationTour:
+  order: 1
   image: ../../img/generic/PP-Baviaans.jpg
   tagline: Baviaans Camino Slackpacker
   title: A Camino in the Baviaans

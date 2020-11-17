@@ -8,8 +8,12 @@
 import React, { useState, useEffect } from 'react'
 // import { useStaticQuery, graphql } from 'gatsby'
 
+import { ModalProvider } from '../context/modal-context'
+
 import Header from './header'
 import Footer from './footer'
+import Modals from './modals'
+
 import '../vendors/font-awesome/css/font-awesome.css'
 import '../vendors/material-design-icons/material-icons.css'
 import '../vendors/animate/animate.css'
@@ -21,9 +25,14 @@ import ScrollToTop from './scroll-to-top'
 interface LayoutProps {
   children: React.ReactNode
   tour?: boolean
+  pageClassName?: string
 }
 
-const Layout = ({ children, tour = false }: LayoutProps) => {
+const Layout = ({
+  children,
+  tour = false,
+  pageClassName = '',
+}: LayoutProps) => {
   // const data = useStaticQuery(graphql`
   //   query SiteTitleQuery {
   //     site {
@@ -49,19 +58,23 @@ const Layout = ({ children, tour = false }: LayoutProps) => {
 
     return () => window.removeEventListener('scroll', handleScroll)
   })
+
   return (
-    <>
+    <ModalProvider>
       <Header tour={tour} hasScrolled={hasScrolled} />
       <main
         id="main"
-        className={hasScrolled ? 'scrolled' : undefined}
+        className={`${hasScrolled ? 'scrolled' : ''}${
+          pageClassName ? ` ${pageClassName}` : ''
+        }`}
         style={{ overflow: 'hidden' }}
       >
         {children}
       </main>
       <Footer />
       <ScrollToTop show={hasScrolled} />
-    </>
+      <Modals />
+    </ModalProvider>
   )
 }
 

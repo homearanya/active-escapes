@@ -3,12 +3,20 @@ templateKey: tour-page
 meta:
   title: Black Oyster Hiking Trail
   description: Explore stone-age caves & sandy shores on this 4 day hike along the Mossel Bay coastline - Garden Route. Quality guiding, catering, vehicle-support and an enriched ecological encounter.
+destination: westerncape
+activity:
+  - name: hiking
+    featured: 3
+    listing:
+      image: ../../img/generic/pp-oyster-500.jpg
+      tagline: Black Oyster Trail
+      title: Stone-age caves and Sandy Bays on the Green and Gold Coast
+      description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
+subActivity:
+  - slackpacking
 tourName: Black Oyster Hiking  Trail
 slug: black-oyster-hiking-trail
-featured: 2
-popular: 0
 featuredImage: ../../img/generic/PP-Oystercatcher.jpg
-
 longDescription:
   - Explore stone-age caves, meander along cliff tops, and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline - Western Cape's Garden Route. Quality guiding on this fully catered, vehicle supported slackpacking trail, provides an enriched ecological encounter with the marine environment. The endangered Black Oyster Catcher can be seen in good numbers along this shoreline, whilst whales are an attraction from July to October.
 fromPricing: R8600
@@ -82,7 +90,7 @@ itinerary:
     - src: ../../img/gallery/OC-2hikers.jpg
       heading: Golden Dunes on the Black Oyster Trail
       subHeading: null
-    
+
 lodging:
   heading: 'Lodges'
   description:
@@ -90,7 +98,7 @@ lodging:
   images:
     - src: ../../img/gallery/OC-cottage.jpg
       heading: Sandpiper Cottages
-    
+
 faq:
   faq:
     - question: Do we carry our own backpacks?
@@ -137,22 +145,14 @@ price:
     - '<strong>Hiking Guide</strong> - for 3 Days'
     - '<strong>Daily Luggage Transfers/ Support</strong>'
   notIncludes: null
-destination: westerncape
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
-  image: ../../img/generic/pp-oyster-500.jpg
-  tagline: Black Oyster Trail
-  title: Stone-age caves and Sandy Bays on the Green and Gold Coast
-  description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
-activityTour:
+  featured: 0
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast
   description: 'Explore stone-age caves and sandy shores on this 4 day hike along the green and gold Mossel Bay coastline. With quality guiding, full-catering and vehicle support, you will enjoy an enriched hiking experience with the marine environment'
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-oyster-500.jpg
   tagline: Black Oyster Trail
   title: Stone-age caves and Sandy Bays on the Green and Gold Coast

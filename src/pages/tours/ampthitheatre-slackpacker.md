@@ -7,14 +7,27 @@ meta:
   title: Amphitheatre Heritage Hike, Northern Drakensberg
   # Maximum 150 characters
   description: Hike to the 'Roof of Africa' and source of the Tugela. Previously only attainable to experienced mountaineers, this is a guided slackpacking trail overnighting in comfy lodges with catering.
+# one of the destinations under src/pages/destination folder. Use the same words field value "code"
+destination: drakensberg
+# one of the activities under src/pages/activity folder. Use the same words field value "code"
+# featured: If the tour is to be shown on the activity page and in what order. If not featured o the value must be 0.
+activity:
+  - name: hiking
+    featured: 1
+    # use on the tour card if the tour is a featured tour on a activity page
+    listing:
+      image: ../../img/listing/img-03-amphi.jpg
+      tagline: Aim for the summit
+      title: Hike to the Roof of Africa
+      description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and can have your backpack portered.'
+# one of the subActivities under src/data/sub-activity folder. Use the same words field value "code". If you need another one, contact me. This is use as a filter on destination page.
+subActivity:
+  - expedition
 # This is the generic name of the tour. Used as the tour heading on tour page
 tourName: Amphitheatre Heritage Hike
 # mandatory. This is part of the tour url. Exaple: https://www.active-escapes/drakensberg/hiking/amphitheatre-slackpacker
 slug: ampthitheatre-slackpacker
-# If the tour is to be shown on the activity page and in what order. If not feature the value must be 0.
-featured: 1
-# If the tour is to be shown on home page as a popular tour and in what order. If not popular the value must be 0.
-popular: 3
+
 # Main portrait-like image on tour page. Try to use same dimensions as this one
 featuredImage: ../../img/generic/pp-amphi-966.jpg
 # Text under heading on tour page
@@ -32,7 +45,7 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 Hike Days / 3 Nights 
+      - 3 Hike Days / 3 Nights
       - '* Extra days avail'
   - heading: Daily Distances
     description:
@@ -75,7 +88,7 @@ itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB).' 
+        - 'Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB).'
         - 'Overnight: Cavern Hotel (Dinner provided)'
     - heading: Day 2
       subHeading: 'Hike Day 1: Cavern – Witsies Mountain Lodge (15km / 1273m total ascent)'
@@ -86,8 +99,8 @@ itinerary:
       subHeading: 'Hike Day 2: Sentinel Car Park – Tugela Falls Summit – Sentinel Car Park (16km return hike / 985m total ascent)'
       description:
         - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
-        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s. 
-        - The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights. 
+        - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s.
+        - The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights.
         - Return transfer back to Witsies from Sentinel car park.
         - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – on Opt A)'
     - heading: Day 4
@@ -98,9 +111,9 @@ itinerary:
         - (Breakfast &  Trail lunch from Mountain Lodge - Opt A)
   images:
     - src: ../../img/gallery/amphi_chains.jpg
-      heading: Climbing the Chainladders to the Top 
+      heading: Climbing the Chainladders to the Top
       subHeading: 'The chainladders are securely bolted to the rock, but there is the gully alternative for those who cant face them - Day 2 of the Amphi Hike. '
-    
+
 # lodging tab on tour page
 lodging:
   heading: 'Lodges'
@@ -171,10 +184,10 @@ price:
       price: R6500/pp
     - pax: 6-7 Persons
       price: R6200/pp
-    
+
   heading2: Opt B - Buttress Package (partially catered)
   overview2: null
-  table2: 
+  table2:
     - pax: 1 Person
       price: R7700/pp
     - pax: 2 Persons
@@ -193,35 +206,22 @@ price:
     - '<strong>Witsies Mountain Lodge - Sentinel Car Park - RTN Transfer</strong>'
     - '<strong>Private Return Transfer:</strong> pick-up from Royal Natal & transfer back to the Cavern on the final day'
   # optional. Follow same format as includes fields
-  notIncludes: 
+  notIncludes:
     - '<strong>Porter Support</strong>: Budget R870/porter for the 2 days required (up & down the mountain)'
     - '<strong>Royal Natal Permit</strong> (purchased on exit): R40 (SADC residents) / R80 - Internationals'
     - <strong>Bar Tabs & Gratuities</strong>
-
-# one of the destinations under src/pages/destination folder. Use the same words field value "code"
-destination: drakensberg
-# one of the activities under src/pages/activity folder. Use the same words field value "code"
-activity:
-  - hiking
-# one of the subActivities under src/data/sub-activity folder. Use the same words field value "code". If you need another one, contact me. This is use as a filter on destination page.
-subActivity:
-  - expedition
 # use on the tour card if the tour is a popular tour on home page
 popularTour:
-  image: ../../img/listing/img-03-amphi.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and can have your backpack portered.'
-# use on the tour card if the tour is a featured tour on a activity page
-activityTour:
+  # If the tour is to be shown on home page as a popular tour and in what order. If not popular the value must be 0.
+  featured: 3
   image: ../../img/listing/img-03-amphi.jpg
   tagline: Aim for the summit
   title: Hike to the Roof of Africa
   description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and can have your backpack portered.'
 # use on the tour card on destination page.
 destinationTour:
-  image: ../../img/listing/img-03-amphi.jpg
-  tagline: Aim for the summit
-  title: Hike to the Roof of Africa
-  description: 'Reach the top of the escarpment and source of the Tugela River, where you can stand atop the second highest waterfall in the world. On our 3 day Amphitheatre hike you’ll overnight in comfy mountain lodges, have your meals catered for, and can have your backpack portered.'
+  order: 1
+  image: ../../img/listing/drak-amphi.JPG
+  title: Summit the Escarpment in Style – Amphitheatre, Northern Berg
+  description: Hike to the 'Roof of Africa' and source of the Tugela River, where you will stand atop the second highest waterfall in the world. Previously only attainable to experienced mountaineers, we offer a guided slackpacking trail where you can overnight in comfy mountain lodges, have your meals catered for, and backpack portered.
 ---

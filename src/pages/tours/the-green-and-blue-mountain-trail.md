@@ -3,10 +3,19 @@ templateKey: tour-page
 meta:
   title: Green and Blue Mountain Trail - Elgin, Western Cape
   description: Hike through fynbos, private reserves, wine and fruit farms, overnighting in 4-star country houses with fine Cape wine and dining. Just 1 hr drive from Cape Town.
+destination: westerncape
+activity:
+  - name: hiking
+    featured: 3
+    listing:
+      image: ../../img/generic/pp-GMtrail-500.jpg
+      tagline: Wine & Fynbos Tapestry
+      title: Fynbos & Winelands - Elgin Valley
+      description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
+subActivity:
+  - slackpacking
 tourName: The Green and Blue Mountain Trail – Elgin
 slug: the-green-and-blue-mountain-trail
-featured: 3
-popular: 0
 featuredImage: ../../img/generic/PP-Greenmountain.JPG
 
 longDescription:
@@ -25,7 +34,7 @@ details:
     description:
       - 'Day 1: 18km    Day 2: 15km'
       - 'Day 3: 13 km   Day 4: 11km'
-      
+
   - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. Moderate to good hiking fitness recommended.
@@ -35,7 +44,7 @@ details:
       - Mountain paths, ravine trails and wine and fruit farm traverses.
   - heading: Accommodation
     description:
-      - 4-star equivalent Country Houses and Lodges. 
+      - 4-star equivalent Country Houses and Lodges.
   - heading: Logistic Support
     description:
       - 'Professionally guided, fully supported slack packing trail with exclusive extras - wine tastings'
@@ -52,12 +61,12 @@ emailSubject: Green & Blue Mountain Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - "The <strong>Green Mountain trail</strong> (4 days/ 4 nights) scheduled from a <em>Monday to Friday</em>, traverses mostly privately-owned land, with all landowners being members of the Groenlandberg Conservancy: the world’s first biodiversity wine route, and part of the region’s efforts to conserve the environment and promote responsible tourism."
+    - 'The <strong>Green Mountain trail</strong> (4 days/ 4 nights) scheduled from a <em>Monday to Friday</em>, traverses mostly privately-owned land, with all landowners being members of the Groenlandberg Conservancy: the world’s first biodiversity wine route, and part of the region’s efforts to conserve the environment and promote responsible tourism.'
     - The <strong>Blue Mountain Trail</strong>, which runs from a <em>Tuesday to a Thursday</em>, is a three day - three night  slackpacking trail on the southern side of the Elgin Valley. The trail is 50 kms in total, traversing forest, wilderness, fynbos and fruit farms.
     - As part of the trail’s social responsibility programme, hikers are encouraged to “Walk with an Alien”, a project in which a personalised walking stick is carved from alien vegetation by local communities.
 
 itinerary:
-  itinerary: 
+  itinerary:
     - heading: Green Mountain Day 1
       subHeading: 'Arrival Day: Arrive at Porcupine Hills (near Houw Hoek)  between 16h00-17h30'
       description:
@@ -71,7 +80,7 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike through Fynbos and Vines (15km / 5hrs)'
       description:
-        - Transfer to Nuweberg and bags transferred to Wildekrans. Walk through the vineyards and fynbos along the foot of the Groenlandberg. Picnic lunch on Oak Valley Estate. Continue on to Paul Cluver Wine Estate with wine tasting & afternoon tea. Transfer provided to Wildekrans Country House, Houw Hoek Village.        
+        - Transfer to Nuweberg and bags transferred to Wildekrans. Walk through the vineyards and fynbos along the foot of the Groenlandberg. Picnic lunch on Oak Valley Estate. Continue on to Paul Cluver Wine Estate with wine tasting & afternoon tea. Transfer provided to Wildekrans Country House, Houw Hoek Village.
         - 'Overnight: <strong>Wildekrans Country House </strong> (breakfast, picnic lunch & dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Game and Forests (13km / 4- 5hrs)'
@@ -82,28 +91,28 @@ itinerary:
     - heading: Day 5
       subHeading: 'Hike Day 4: Leopard and Ox Wagon Route (11km / 4- 5hrs)'
       description:
-        - Breakfast at Wildekrans. Head towards Bot River through the Biosphere fynbos. Rest stop at Stony Beach and ledge rock. Climb up Pincushion ridge and discover Haws ton lookout. 
+        - Breakfast at Wildekrans. Head towards Bot River through the Biosphere fynbos. Rest stop at Stony Beach and ledge rock. Climb up Pincushion ridge and discover Haws ton lookout.
         - Descend into Bot River and Beaumont Wines. Lunch in Bot River village.
-        - Transfer back to Porcupine Hills to collect your vehicle. Porcupine Hills has an open air shower with views over the olive grove where you can refresh before departure.    
-        
+        - Transfer back to Porcupine Hills to collect your vehicle. Porcupine Hills has an open air shower with views over the olive grove where you can refresh before departure.
+
   images:
     - src: ../../img/gallery/GM-garden.JPG
       heading: Looking onto the Groenlandberg from Wildekrans Guest house
       subHeading: null
-   
+
 lodging:
   heading: 'Lodges'
   description:
     - 4-star equivalent Country Houses and Lodges (all ensuite).
     - Bedding and towels provided
-    - Cuisine with Cape flair and finesse 
+    - Cuisine with Cape flair and finesse
     - Private Wine Tastings & Picnic spreads
-    - Art & Garden Sculptures by prominent local artists 
+    - Art & Garden Sculptures by prominent local artists
   images:
     - src: ../../img/gallery/GM-Wildekrans GH.JPG
       heading: Wildekrans Guest House
       subHeading: null
-    
+
 faq:
   faq:
     - question: Can children join this hike?
@@ -111,7 +120,7 @@ faq:
         - Yes, accompanied by an adult and being sufficiently fit for the durations.
     - question: Are we a private group if we not a group of 10 persons?
       answer:
-        - No. We will 'schedule' the trip and add others to it up to maximum of 10 hikers/ per trip. If you want exclsuivity, please try to arrnage a group of 10 persons. 
+        - No. We will 'schedule' the trip and add others to it up to maximum of 10 hikers/ per trip. If you want exclsuivity, please try to arrnage a group of 10 persons.
     - question: Do you cater for vegans?
       answer:
         - Yes, we cater to all diets and have delicious dishes lined up for all walkers.
@@ -120,26 +129,26 @@ faq:
         - No, unfortunately not, we walk in protected natural and remote areas where domestic animals are not permitted.
     - question: Which is your closest airport and how far from you?
       answer:
-        - Cape Town International, 80kms.  
+        - Cape Town International, 80kms.
     - question: Do you recommend a transfer company or should we rent a car?
       answer:
-        - We recommend Overberg Transfers who will collect and drop you avoiding the hassle of renting your own car. 
+        - We recommend Overberg Transfers who will collect and drop you avoiding the hassle of renting your own car.
     - question: Do you walk all year round?
       answer:
-        - Yes, we do. We tend not to walk in the month of July, unless it is the only time a group can get away. 
+        - Yes, we do. We tend not to walk in the month of July, unless it is the only time a group can get away.
 
 gallery:
   pictures:
     - src: ../../img/gallery/GM-driedproteas.JPG
       caption: Fire is essential to the proteaceae regeneration cycle.
     - src: ../../img/gallery/GM-garden.JPG
-      caption: 'From garden to plate: meals are organic, local and delicious.' 
+      caption: 'From garden to plate: meals are organic, local and delicious.'
     - src: ../../img/gallery/GM-duckling.JPG
       caption: A duckling rescue in operation.
     - src: ../../img/gallery/GM-flower1.JPG
       caption: Many beautiful species of Iradaceae emerge in Spring.
     - src: ../../img/gallery/GM-blue iradacea.JPG
-      caption: Pinks and blues, and everything in-between, when you look a little closer. 
+      caption: Pinks and blues, and everything in-between, when you look a little closer.
     - src: ../../img/gallery/GM-pins.JPG
       caption: And of course the multi-coloured pins – so popular in the cut flower market.
     - src: ../../img/gallery/GM-alison.JPG
@@ -151,16 +160,16 @@ gallery:
     - src: ../../img/gallery/GM-guiding.JPG
       caption: Passionate guiding on Day 4 of the Green Mountain trail, with the old Houw Hoek railway line in the background.
     - src: ../../img/gallery/GM-Haws ton lookout.JPG
-      caption: The jagged rocks at Haws ton lookout.    
+      caption: The jagged rocks at Haws ton lookout.
     - src: ../../img/gallery/GM-winery.JPG
       caption: Finishing the hike off the at the lovely Beaumont winery with a Ploughmans platter and wine tasting.
- 
+
 price:
-  heading: "Green Mountain: 4 Night/ 4 Day Trail: R12 490/pp"
+  heading: 'Green Mountain: 4 Night/ 4 Day Trail: R12 490/pp'
   overview: null
   table: null
-    
-  heading2: "Blue Mountain: 3 Night/ 3 Day Trail - R9 600/pp"
+
+  heading2: 'Blue Mountain: 3 Night/ 3 Day Trail - R9 600/pp'
   overview2: null
   table2: null
   includes:
@@ -173,24 +182,16 @@ price:
     - Daily transfers as per itinerary and return to vehicles (start)
     - A ‘Walk with an Alien’ Walking Stick
   notIncludes: null
-destination: westerncape
-activity:
-  - hiking
-subActivity:
-  - slackpacking
 popularTour:
+  featured: 0
   image: ../../img/generic/pp-GMtrail-500.jpg
-  tagline: Wine & Fynbos Tapestry 
-  title: Fynbos & Winelands - Elgin Valley
-  description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
-activityTour:
-  image: ../../img/generic/pp-GMtrail-500.jpg
-  tagline: Wine & Fynbos Tapestry 
+  tagline: Wine & Fynbos Tapestry
   title: Fynbos & Winelands - Elgin Valley
   description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-GMtrail-500.jpg
-  tagline: Wine & Fynbos Tapestry 
+  tagline: Wine & Fynbos Tapestry
   title: Fynbos & Winelands - Elgin Valley
   description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
 ---

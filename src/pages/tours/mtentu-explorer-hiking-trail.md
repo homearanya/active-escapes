@@ -3,10 +3,19 @@ templateKey: tour-page
 meta:
   title: Mtentu-Explorer Hiking Trail, Northern Wild Coast
   description: Walk on the Wild Coast just 2hrs from Durban, on our 3 night Mtentu-Explorer – overnighting in a homestay and then 2 nights at an eco-lodge on the pristine Mtentu estuary. Ideal family getaway.
+destination: wildcoast
+activity:
+  - name: hiking
+    featured: 1
+    listing:
+      image: ../../img/listing/WCH-mtentu-explorer.jpg
+      title: Mtentu-Explorer Hiking Trail
+      subtitle: Long weekend getaway to the Wild Coast
+      description: 'Short on time, but wish to walk the Wild Coast, within easy reach of Durban? Our 3 Night Mtentu-Explorer takes you to places of paradise for which the Wild Coast is famed: private beaches, forgotten falls, and pristine estuaries. Overnighting in a village homestay the first night and a joint-venture eco-camp the next two nights. Your stay bolsters the local economy, much needed in the fight against mining here.'
+subActivity:
+  - hiking
 tourName: Mtentu-Explorer Hiking Trail
 slug: mtentu-explorer-hiking-trail
-featured: 1
-popular: 2
 featuredImage: ../../img/generic/PP-mtentuexplorer.jpg
 
 longDescription:
@@ -19,12 +28,12 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 2 Hike Days & 1 Free Day / 3 Nights 
+      - 2 Hike Days & 1 Free Day / 3 Nights
       - '* Extra days avail'
   - heading: Daily Distance
     description:
       - 'Day 1: 14km    Day 2: 12-14km'
-      - 'Day 3: 10-12km (optional)'    
+      - 'Day 3: 10-12km (optional)'
   - heading: Trail Grading
     description:
       - <strong>2.5/ 5 - Fitness</strong>. Porters can be arranged on special request
@@ -42,7 +51,7 @@ details:
       - Fully catered & guided trail (guided to Mtentu, 3rd day self-exploration)
       - Return transfer
       - '* Optional: Porter-support'
-     
+
   - heading: Group Size
     description:
       - From <strong>2</strong> persons. No max, but <strong>12</strong> pax / per guide.
@@ -79,23 +88,23 @@ itinerary:
       subHeading: 'Return Transfer Day'
       description:
         - After breakfast or lunch - 4x4 return transfer back to the Wild Coast casino (approx. 2hr transfer).
-        
+
   images:
     - src: ../../img/gallery/mtentuexplorer_view.jpeg
       heading: Mtentu Lodge Surrounds
       subHeading: null
-    
+
 lodging:
   heading: Lodges
   description:
-    - '1 Night at a <strong>Village Homestay</strong> - traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath.' 
+    - '1 Night at a <strong>Village Homestay</strong> - traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath.'
     - '2 Nights at <strong>Mtentu River Lodge</strong> - 4-sleeper Log Cabins (twin front room, bunk bed back room), communal ablutions (hot water showers), central dining area and bar.'
-  
+
   images:
     - src: ../../img/gallery/mtentuaccom_chalet.jpeg
       heading: null
       subHeading: null
-    
+
 faq:
   faq:
     - question: Is it possible to organise vehicle luggage transfers on this hike?
@@ -110,7 +119,7 @@ faq:
     - question: Can this hike be shortened to two days?
       answer:
         - Yes it can, or it can be extended with extra nights at Mtentu. Or consider our longer Pondo-Voyager trail.
-    - question: Is it possible to self-cater? 
+    - question: Is it possible to self-cater?
       answer:
         - No. Mtentu lodge does not offer a self-catered option.
 
@@ -127,15 +136,15 @@ gallery:
     - src: ../../img/gallery/mtentuexplorer_view.jpeg
       caption: The grasslands surrounds of Mtentu. The headland is in Mkambathi Nature Reserve, on which the Mtentu River forms the southern boundary.
     - src: ../../img/gallery/mtentuexplorer_kloofing.jpeg
-      caption: 'For the agile and adventurous: the paddle – kloof up to Swallowtail Falls on the Mtentu estuary, comes highly recommended!' 
+      caption: 'For the agile and adventurous: the paddle – kloof up to Swallowtail Falls on the Mtentu estuary, comes highly recommended!'
     - src: ../../img/gallery/mtentuexplorer_mtentu.jpg
       caption: Paddling up the Mtentu estuary.
     - src: ../../img/gallery/mtentuexplorer_boardwalk.jpeg
-      caption: Mtentu Lodge’s chalets are connected by wooden walkways.  
+      caption: Mtentu Lodge’s chalets are connected by wooden walkways.
     - src: ../../img/gallery/mtentuexplorer_pool.jpeg
       caption: The ‘kloofing’ scrambling up to Swallowtail falls is just under 2kms one way, but takes a good few hours there and back, with so many pools that just can’t go unswum.
     - src: ../../img/gallery/mtentu-exlorer_waterfall.jpeg
-      caption: A waterfall with no name….just one of the amazing natural splendours viewed from a canoe, as one paddles up the Mtentu estuary.   
+      caption: A waterfall with no name….just one of the amazing natural splendours viewed from a canoe, as one paddles up the Mtentu estuary.
 
 price:
   heading: At a Glance
@@ -151,7 +160,7 @@ price:
       price: R3000/pp
     - pax: 11 or more
       price: R2800/pp
-    
+
   heading2: null
   overview2: null
   table2: null
@@ -160,27 +169,19 @@ price:
     - '<strong>All meals:</strong> from dinner on first night to lunch on  final day (3 Breakfasts, 3 Lunches, and 3 Dinners)'
     - '<strong>Hiking Guide</strong> - for first 2 hike days (Day 3 is a self-exploration day)'
     - '<strong>4x4 Return Transfer</strong> - from Mtentu - back to WC Casino'
-    
-  notIncludes: 
-  - Mtentu chalets are 4-sleeper chalets & are costed on a sharing basis for your group. If couples wish to have EXCLUSIVITY of a chalet, they’ll need to pay a R300/pp exclusivity supplement, based on 2 persons only.
-  - 'Canoe Hire at Mtentu (for Swallowtail Falls): R100/per canoe'
-  
-destination: wildcoast
-activity:
-  - hiking
-subActivity:
-  - hiking
+
+  notIncludes:
+    - Mtentu chalets are 4-sleeper chalets & are costed on a sharing basis for your group. If couples wish to have EXCLUSIVITY of a chalet, they’ll need to pay a R300/pp exclusivity supplement, based on 2 persons only.
+    - 'Canoe Hire at Mtentu (for Swallowtail Falls): R100/per canoe'
+
 popularTour:
-  image: ../../img/generic/pp-mtentu-500.jpg
-  tagline: Exploring Mtentu
-  title: Red Dunes & Kloofing - Mtentu Explorer
-  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
-activityTour:
+  featured: 2
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer
   description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 destinationTour:
+  order: 1
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer
