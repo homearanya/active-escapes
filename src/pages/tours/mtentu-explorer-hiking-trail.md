@@ -181,7 +181,7 @@ popularTour:
   title: Red Dunes & Kloofing - Mtentu Explorer
   description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 destinationTour:
-  order: 1
+  order: 4
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer

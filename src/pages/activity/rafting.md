@@ -22,6 +22,7 @@ intro:
 featuredToursSection:
   heading: RAFTING PRODUCTS
   subHeading: Paddle your way down the Tugela or Umkomaas River
-icon: icon-rafting.inline
+icon: icon-boating
+iconFile: rafting
 order: 7
 ---

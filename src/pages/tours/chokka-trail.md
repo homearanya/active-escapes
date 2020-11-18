@@ -170,9 +170,9 @@ popularTour:
   title: Oyster Bay - St Francis Chokka Slackpack
   description: 'The 4 day Chokka Trail between Oyster & St Francis Bay, Eastern Cape, is a lodge-to-lodge slackpacker along golden beaches, rugged shoreline, dune fields and quaint fishing villages'
 destinationTour:
-  order: 1
-  image: ../../img/gallery/chokka_boat trip.jpg
-  tagline: Chokka Delights
-  title: Oyster Bay - St Francis Chokka Slackpack
-  description: 'The 4 day Chokka Trail between Oyster & St Francis Bay, Eastern Cape, is a lodge-to-lodge slackpacker along golden beaches, rugged shoreline, dune fields and quaint fishing villages'
+  order: 4
+  image: ../../img/listing/wcape-chokka.jpg
+  title: Chokka-Chokka Trail
+  description: Officially in the Eastern Cape province, this hike goes from Oyster Bay to Cape St Francis. The terrain includes fishermen’s footpaths and jeep-track over two moving dunefields and along the untamed ‘wild side’ of the Kouga shoreline.  Highlights of the trail include a sundown cruise on the famous St Francis canals, and a calamari tasting at Port St Francis, the only privately owned working harbour in South Africa.  The trail is professionally  guided and catered for.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Chokka Trail – EC Highlands Destination Listing
 ---

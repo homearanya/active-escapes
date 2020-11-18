@@ -170,9 +170,9 @@ popularTour:
   title: Cultural Trail in the Maluti's
   description: 'Discover diverse natural and cultural heritage on this fair-trade hiking trail along the foothills of the southern Maluti’s. Visit rock-art sites, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets offering delicious meals.'
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-maluti-500.jpg
-  tagline: Maloti Magic
-  title: Cultural Trail in the Maluti's
-  description: 'Discover diverse natural and cultural heritage on this fair-trade hiking trail along the foothills of the southern Maluti’s. Visit rock-art sites, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets offering delicious meals.'
+  order: 7
+  image: ../../img/listing/drak-maluti.JPG
+  title: Maluti Community Hike - Matatiele
+  description: Discover diverse natural and cultural heritage on this fair trade community-owned hiking trail. Traversing the mountainous foothills of the southern Maluti's, you'll visit ancient rock-art, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets with delicious meals prepared by your friendly community host.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Maluti Hiking Trail Enquiry – Drak Destination Listing
 ---

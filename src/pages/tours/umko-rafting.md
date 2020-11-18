@@ -217,9 +217,9 @@ popularTour:
   title: Umkomaas Rafting Trips
   description: 'Experience the thrill of rafting SA’s warmest, high-volume white water south of the Zambezi: the mighty Umkomaas river – near Richmond, KZN. During summer the river runs as a Grade 3, with rapids pumping up to Grade 4 after heavy rains'
 destinationTour:
-  order: 1
-  image: ../../img/gallery/umko-500.jpg
-  tagline: White Water Thrills
-  title: Umkomaas Rafting Trips
-  description: 'Experience the thrill of rafting SA’s warmest, high-volume white water south of the Zambezi: the mighty Umkomaas river – near Richmond, KZN. During summer the river runs as a Grade 3, with rapids pumping up to Grade 4 after heavy rains'
+  order: 2
+  image: ../../img/listing/tugela-umko-rafting.JPG
+  title: Umkomaas River Rafting
+  description: The Mkomazi River boasts Grade 3 rapids, which step-up to Grade 4 if there's been sufficient rain. The section from Daisy Chain to Lower Nkonka rapid is regarded as the one the biggest traversable sections of white water south of the Zambezi. Just 1hr from Durban and 30-min from PMB, a rafting trip on the Umko makes a great corporate team-build or day-trip adventure.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Umkomaas River Rafting – KZN Interior Destination Listing
 ---

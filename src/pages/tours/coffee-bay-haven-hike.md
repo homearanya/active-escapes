@@ -175,7 +175,7 @@ popularTour:
   title: Coffee Bay to Haven Hike
   description: 'From Coffee Bay, past Hole in the Wall, beyond Bulungula and finishing at the lovely Haven Hotel bordering Dwesa Nature reserve and the Mbashe river. This is a varied trail with a mix of accom from backpackers and family-friendly hotels.'
 destinationTour:
-  order: 1
+  order: 7
   image: ../../img/generic/pp_cb-haven-500.jpg
   tagline: Coffee to H(e)aven
   title: Coffee Bay to Haven Hike

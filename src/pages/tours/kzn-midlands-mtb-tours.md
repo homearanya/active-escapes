@@ -177,8 +177,8 @@ popularTour:
   description: 'Whether its mileage training in splendid surrounds, single-track delights, or a gentle ride through attractive farmlands - Active Escapes has a Mountain Bike offering that can be tailor-made for you.'
 destinationTour:
   order: 1
-  image: ../../img/gallery/mmtb_500.jpg
-  tagline: MTB Mecca
-  title: Mountain Biking Midlands
-  description: 'Whether its mileage training in splendid surrounds, single-track delights, or a gentle ride through attractive farmlands - Active Escapes has a Mountain Bike offering that can be tailor-made for you.'
+  image: ../../img/listing/midlands-mtb.JPG
+  title: Day and Multi-day MTB Tours – KZN Midlands
+  description: From country roads to downhill thrills, the Midlands offers a wide spectrum of terrain to excite all level of rider. Whether its mileage training in splendid surrounds, single-track delights, or a gentle ride through attractive farmland - stopping to visit deli's & art studios along the way - Active Escapes has a tour for you
+  emailLink: mailto:tours@active-escapes.co.za?subject=Midlands MTB Tours – KZN Midlands Destination Listing
 ---

@@ -30,6 +30,7 @@
 
     .thumbnail {
       display: flex;
+      align-items: center;
       transition: all 0.2s;
       .description {
         transition: all 0.2s;
@@ -44,6 +45,8 @@
         }
         p.text {
           transition: all 0.2s;
+          margin-bottom: 20px;
+          flex: 1 0 auto;
         }
         footer {
           transition: all 0.2s;
@@ -83,6 +86,8 @@
       @media only screen and (max-width: $screen-md) {
         display: flex;
         flex-direction: column;
+        max-width: 550px;
+        margin: 0 auto;
         .img-wrap {
           width: 100%;
         }
@@ -90,7 +95,7 @@
           display: flex;
         }
       }
-      @media only screen and (max-width: $screen-sm) {
+      @media only screen and (max-width: $screen-md) {
         .description {
           flex-direction: column;
         }
@@ -210,12 +215,34 @@
     .info-footer.destination {
       display: flex;
       justify-content: space-between;
+      align-items: center;
       &:after {
         content: none;
       }
 
       .ico-list {
         border-right: none;
+
+        li.pop-opener {
+          .ico-file {
+            svg {
+              height: 32px;
+            }
+          }
+          @media only screen and (max-width: $screen-md) {
+            margin: 0 10px 0 0;
+            flex-direction: column;
+          }
+        }
+        @media only screen and (max-width: $screen-md) {
+          display: flex;
+          justify-content: center;
+          margin-bottom: 10px;
+        }
+      }
+
+      @media only screen and (max-width: $screen-md) {
+        flex-direction: column;
       }
     }
 
@@ -264,7 +291,7 @@
     }
   }
 
-  @include breakpoint-min($screen-sm) {
+  @include breakpoint-min($screen-md) {
     .filter-option {
       max-width: none;
     }
@@ -315,7 +342,7 @@
     .article {
       .ico-list {
         li {
-          margin: 0 30px 0 0;
+          margin: 0 15px 0 0;
         }
       }
 

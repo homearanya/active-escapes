@@ -86,4 +86,19 @@
       color: $c-linkedin;
     }
   }
+  .icon-email {
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  &__email {
+    padding-left: 20px !important;
+    border-left: 1px solid $platinum;
+  }
+  @media only screen and (max-width: $screen-md) {
+    max-width: 100% !important;
+    display: flex;
+    justify-content: center;
+  }
 }

@@ -24,6 +24,6 @@ intro:
 featuredToursSection:
   heading: Scheduled Retreats
   subHeading: Yoga & Nature Retreats, Trail Runs...
-icon: ico-culture
+icon: icon-culture
 order: 3
 ---

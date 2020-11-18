@@ -177,7 +177,7 @@ popularTour:
   title: Coffee Bay to Bulungula Hike
   description: "Past the iconic 'Hole in the Wall', down to the beautiful Bulungula estuary, overnighting in friendly backpackers and village-homestays along the way. Guided, with porter-support as an option, you need not worry about catering or bedding on this slackpacker trail."
 destinationTour:
-  order: 1
+  order: 5
   image: ../../img/generic/pp-cbay-bul-500x327.jpg
   tagline: Hole in the Wall Bites
   title: Coffee Bay to Bulungula Hike

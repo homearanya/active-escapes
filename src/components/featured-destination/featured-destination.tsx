@@ -2,7 +2,7 @@ import React from 'react'
 import { navigate } from 'gatsby'
 
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 import Image from '../image'
 
 export interface FeaturedDestinationData {
@@ -50,7 +50,7 @@ const FeaturedDestination = ({
             {`${numberOfTours} ${numberOfTours === 1 ? 'tour' : 'tours'}`}
           </span>
         </aside>
-        <p>{ProcessText(description)}</p>
+        <p>{processText(description)}</p>
         <span
           onClick={handleClick}
           className="btn btn-default featured-explore-button"

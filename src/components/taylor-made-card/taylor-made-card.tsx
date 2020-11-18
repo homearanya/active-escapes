@@ -1,16 +1,21 @@
 import React from 'react'
 
 import { ImageSharp } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 import UniversalLink from '../universal-link'
 import Image from '../image'
 
 export interface TaylorMadeCardInterface {
   image: ImageSharp
   title: string
-  subTitle: string
-  description: string
-  link: {
+  subTitle?: string
+  description?: string
+  descriptionInParagraphs?: string[]
+  link?: {
+    href: string
+    text: string
+  }
+  link2?: {
     href: string
     text: string
   }
@@ -21,7 +26,15 @@ interface TaylorMadeCardProps {
 }
 
 const TaylorMadeCard = ({
-  data: { image, title, subTitle, description, link },
+  data: {
+    image,
+    title,
+    subTitle,
+    description,
+    descriptionInParagraphs,
+    link,
+    link2,
+  },
 }: TaylorMadeCardProps) => {
   return (
     <article className="taylor-made-card__wrapper">
@@ -34,15 +47,33 @@ const TaylorMadeCard = ({
         <h3 className="taylor-made-card__title">{title}</h3>
         {subTitle && <p className="taylor-made-card__subTitle">{subTitle}</p>}
 
-        <p className="taylor-made-card__description">
-          {ProcessText(description)}
-        </p>
-        <UniversalLink
-          href={link.href}
-          className="btn btn-default featured-explore-button"
-        >
-          {link.text}
-        </UniversalLink>
+        {description && (
+          <p className="taylor-made-card__description">
+            {processText(description)}
+          </p>
+        )}
+        {descriptionInParagraphs &&
+          descriptionInParagraphs.map((paragraph) => (
+            <p className="taylor-made-card__description">
+              {processText(paragraph)}
+            </p>
+          ))}
+        {link && (
+          <UniversalLink
+            href={link.href}
+            className="btn btn-default featured-explore-button"
+          >
+            {link.text}
+          </UniversalLink>
+        )}
+        {link2 && (
+          <UniversalLink
+            href={link2.href}
+            className="btn btn-default featured-explore-button featured-explore-button--extra"
+          >
+            {link2.text}
+          </UniversalLink>
+        )}
       </div>
     </article>
   )

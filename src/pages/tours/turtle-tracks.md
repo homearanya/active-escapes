@@ -215,8 +215,8 @@ popularTour:
   description: "Combining the best of the Kosi Lakes with Maputalands finest beaches, we offer 4 'Turtle Trail' Slackpacker’s. All of them start out at Kosi Mouth and finish at Lala Nek or Mabibi with snorkelling, kayaking, ocean safaris and barefoot dreams."
 destinationTour:
   order: 1
-  image: ../../img/gallery/TT-canoe.jpg
-  tagline: Turtle Tracking
-  title: Kosi Mouth to Mabibi Luxury Slackpacker
-  description: "Combining the best of the Kosi Lakes with Maputalands finest beaches, we offer 4 'Turtle Trail' Slackpacker’s. All of them start out at Kosi Mouth and finish at Lala Nek or Mabibi with snorkelling, kayaking, ocean safaris and barefoot dreams."
+  image: ../../img/listing/kosi-turtletrails.jpg
+  title: The Turtle Trails – from Kosi to Mabibi
+  description: Combining the best of the Kosi Lakes with Maputaland’s finest beaches, we offer four 'Turtle Trail' hiking packages. All of them start at the lodge closest to Kosi Mouth, crossing third lake by boat, and finish up near Mabibi. It is the trail to consider if world-class snorkelling and beach time comes top of your priority list. To end off with the ultimate in barefoot luxury, look no further than a final night spent at Thonga Beach Lodge.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Turtle Trails – Kosi Destination Listing
 ---

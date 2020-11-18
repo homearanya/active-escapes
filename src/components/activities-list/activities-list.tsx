@@ -2,6 +2,11 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import { Reference } from '../../types'
+import RaftingIcon from '../../img/icons/icon-rafting.inline.svg'
+
+const iconFiles = {
+  rafting: RaftingIcon,
+}
 
 interface ActivitiesListData {
   activity: { name: Reference; featured: number }[]
@@ -17,11 +22,18 @@ const ActivitiesList = ({
 }: ActiviyIntroProps) => (
   <ul className="ico-list">
     {activity.map(({ name: { id, frontmatter } }) => {
-      const { activityName, icon, code } = frontmatter
+      const { activityName, icon, iconFile, code } = frontmatter
+      const IconFile = iconFile ? iconFiles[iconFile] : undefined
       return (
         <li key={id} className="pop-opener">
           <Link to={`/activity/${code}/`}>
-            <span className={icon}></span>
+            {iconFile ? (
+              <span className="ico-file">
+                <IconFile />
+              </span>
+            ) : (
+              <span className={icon}></span>
+            )}
           </Link>
           <div className="popup">{activityName}</div>
         </li>

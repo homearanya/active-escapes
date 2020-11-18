@@ -163,8 +163,8 @@ popularTour:
   description: 'In the heart of the Cape Floral Kingdom, close to Hermanus, we offer a 2-3 slackpacking trail through coastal and mountain fynbos and ancient forests. Learn from knowledgeable guides and dine on locally grown food and wine on this true eco-trail.'
 destinationTour:
   order: 1
-  image: ../../img/generic/pp-fynbos-500.jpg
-  tagline: Fynbos & Whales
-  title: Fynbos Hike - Overberg
-  description: 'In the heart of the Cape Floral Kingdom, close to Hermanus, we offer a 2-3 slackpacking trail through coastal and mountain fynbos and ancient forests. Learn from knowledgeable guides and dine on locally grown food and wine on this true eco-trail.'
+  image: ../../img/listing/wcape-fynbostrail.JPG
+  title: Fynbos Slackpacking Trail
+  description: This unique nature trail in the heart of the Cape Floral Kingdom, is just 2 hours from Cape Town and close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and visits some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown and sourced food and wine on this eco-trail.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Fynbos Slackpacker – Western Cape Destination Listing
 ---

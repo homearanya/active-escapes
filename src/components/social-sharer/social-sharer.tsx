@@ -7,12 +7,13 @@ export interface SocialSharerData {
   tourLink: string
   tourName: string
   shortDescription: string
+  emailLink: string
 }
 interface SocialSharerProps {
   data: SocialSharerData
 }
 const SocialSharer = ({
-  data: { siteUrl, tourLink, tourName, shortDescription },
+  data: { siteUrl, tourLink, tourName, shortDescription, emailLink },
 }: SocialSharerProps) => {
   const fullUrl = `${siteUrl}${tourLink}`
   const { facebook, twitter, linkedin, pinterest } = socialSharers(
@@ -44,6 +45,12 @@ const SocialSharer = ({
       <li>
         <a href={pinterest} target="_blank" rel="noreferrer">
           <span className="icon-pin"></span>
+        </a>
+        <br />
+      </li>
+      <li className="social-networks__email">
+        <a href={emailLink} rel="noreferrer">
+          <span className="icon-email"></span>
         </a>
         <br />
       </li>

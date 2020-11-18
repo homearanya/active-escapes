@@ -174,9 +174,11 @@ popularTour:
   title: Karkloof Slackpack Hike
   description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
 destinationTour:
-  order: 1
-  image: ../../img/gallery/F2F_karkloof-500.jpg
-  tagline: Falls 2 Falls
-  title: Karkloof Slackpack Hike
-  description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
+  order: 2
+  image: ../../img/listing/midlands-falls2falls.JPG
+  title: Karkloof Falls 2 Falls Hiking Trail
+  descriptionInParagraphs:
+    - Hike through giant yellowwood forests and mist-belt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Karkloof Falls2Falls 3-day slackpacking hike is an all-inclusive trek encompassing some of the most picturesque and hidden parts of the Midlands countryside.
+    - Highlights include traversing the forest canopy on a zip line tour, a visit to a bird hide with the chance to spot the critically-endangered Wattled Crane, and an indigenous tree trail with abundant wildlife including various birds, antelope, zebra, wildebeest and other game.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Karkloof Fall 2 Falls – KZN Midlands Destination Listing
 ---

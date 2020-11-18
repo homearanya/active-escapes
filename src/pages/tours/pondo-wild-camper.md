@@ -174,7 +174,7 @@ popularTour:
   title: Pondo Wild Camper
   description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, route, and some logistical support like an end-point transfer? We arrange 'wild camping' trips from Port Edward through to PSJ with options to overnight in village homestays along the way."
 destinationTour:
-  order: 1
+  order: 9
   image: ../../img/generic/pp-wildcamper-500.jpg
   tagline: Wild Camper
   title: Pondo Wild Camper

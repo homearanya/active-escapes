@@ -17,6 +17,7 @@ interface Reference {
     activityName?: string
     destinationName?: string
     icon?: string
+    iconFile?: string
     title?: string
   }
 }

@@ -209,7 +209,7 @@ popularTour:
   title: A Slackpack in Pondoland
   description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding & meals are catered for and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning & logistics taken care of."
 destinationTour:
-  order: 1
+  order: 3
   image: ../../img/generic/pp-pondohopper-500.jpg
   tagline: Pondo Hopping
   title: Pondo-Hopper Slackpacker

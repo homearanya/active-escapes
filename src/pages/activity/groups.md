@@ -21,6 +21,6 @@ intro:
 featuredToursSection:
   heading: Group Activity Options
   subHeading: Hike, Bike or Paddle your way into a new Strategy
-icon: ico-group-large
+icon: icon-group-large
 order: 6
 ---

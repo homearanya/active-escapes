@@ -181,9 +181,9 @@ popularTour:
   title: Family Slackpacking - Dargle
   description: 'With flexible hiking days, country cottages, home-grown meals, and Tolkienesque explorations - the Dargle Slackpacker is the Midlands best kept secret.'
 destinationTour:
-  order: 1
-  image: ../../img/gallery/DD_lunchbreak-500.jpg
-  tagline: Dargle Discoverer
-  title: Family Slackpacking - Dargle
-  description: 'With flexible hiking days, country cottages, home-grown meals, and Tolkienesque explorations - the Dargle Slackpacker is the Midlands best kept secret.'
+  order: 3
+  image: ../../img/listing/midlands-dargle-discoverer.JPG
+  title: Dargle Discoverer Hiking Trail
+  description: With daily hikes gentle in distance and gradient, this slackpacking trail is perfect for families, and those who prefer to take a little more time to smell the daisies. Overnighting at cosy country lodges with locally grown home cooked meals, dams and rivers for cooling off enroute, and picturesque picnic spots, the Dargle Trails are one the Midlands best kept secret.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Dargle Discoverer Hike - KZN Midlands Destination Listing
 ---
