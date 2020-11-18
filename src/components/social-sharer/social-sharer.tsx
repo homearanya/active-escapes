@@ -48,12 +48,14 @@ const SocialSharer = ({
         </a>
         <br />
       </li>
-      <li className="social-networks__email">
-        <a href={emailLink} rel="noreferrer">
-          <span className="icon-email"></span>
-        </a>
-        <br />
-      </li>
+      {emailLink && (
+        <li className="social-networks__email">
+          <a href={emailLink} rel="noreferrer">
+            <span className="icon-email"></span>
+          </a>
+          <br />
+        </li>
+      )}
     </ul>
   )
 }
