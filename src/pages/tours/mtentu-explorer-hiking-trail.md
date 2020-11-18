@@ -90,7 +90,7 @@ itinerary:
         - After breakfast or lunch - 4x4 return transfer back to the Wild Coast casino (approx. 2hr transfer).
 
   images:
-    - src: ../../img/gallery/mtentuexplorer_view.jpeg
+    - src: ../../img/gallery/mtentuexplorer_view.jpg
       heading: Mtentu Lodge Surrounds
       subHeading: null
 
@@ -101,7 +101,7 @@ lodging:
     - '2 Nights at <strong>Mtentu River Lodge</strong> - 4-sleeper Log Cabins (twin front room, bunk bed back room), communal ablutions (hot water showers), central dining area and bar.'
 
   images:
-    - src: ../../img/gallery/mtentuaccom_chalet.jpeg
+    - src: ../../img/gallery/mtentuaccom_chalet.jpg
       heading: null
       subHeading: null
 
@@ -125,7 +125,7 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/mtentuexplorer_estuary.jpeg
+    - src: ../../img/gallery/mtentuexplorer_estuary.jpg
       caption: The pristine Mtentu estuary. The beach waxes and wanes with the coming and going of the tide.
     - src: ../../img/gallery/mtentuexplorer_kids.jpg
       caption: A night in a village homestay in the community of Xolobeni – first night of the Mtentu-Explorer hiking trail.
@@ -133,17 +133,17 @@ gallery:
       caption: Rural homesteads in Xolobeni, near the Nyameni river. Social distancing naturally in place.
     - src: ../../img/gallery/mtentuexplorer_vba-bath.jpg
       caption: There is no running water in the village homestay, but your hostess will go to great effort of collecting and heating up water over a fire to provide you with a warm bucket bath. It’s amazing how squeaky clean you feel after such a ‘bath’.
-    - src: ../../img/gallery/mtentuexplorer_view.jpeg
+    - src: ../../img/gallery/mtentuexplorer_view.jpg
       caption: The grasslands surrounds of Mtentu. The headland is in Mkambathi Nature Reserve, on which the Mtentu River forms the southern boundary.
-    - src: ../../img/gallery/mtentuexplorer_kloofing.jpeg
+    - src: ../../img/gallery/mtentuexplorer_kloofing.jpg
       caption: 'For the agile and adventurous: the paddle – kloof up to Swallowtail Falls on the Mtentu estuary, comes highly recommended!'
     - src: ../../img/gallery/mtentuexplorer_mtentu.jpg
       caption: Paddling up the Mtentu estuary.
-    - src: ../../img/gallery/mtentuexplorer_boardwalk.jpeg
+    - src: ../../img/gallery/mtentuexplorer_boardwalk.jpg
       caption: Mtentu Lodge’s chalets are connected by wooden walkways.
-    - src: ../../img/gallery/mtentuexplorer_pool.jpeg
+    - src: ../../img/gallery/mtentuexplorer_pool.jpg
       caption: The ‘kloofing’ scrambling up to Swallowtail falls is just under 2kms one way, but takes a good few hours there and back, with so many pools that just can’t go unswum.
-    - src: ../../img/gallery/mtentu-exlorer_waterfall.jpeg
+    - src: ../../img/gallery/mtentu-exlorer_waterfall.jpg
       caption: A waterfall with no name….just one of the amazing natural splendours viewed from a canoe, as one paddles up the Mtentu estuary.
 
 price:

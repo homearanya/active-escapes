@@ -15,7 +15,7 @@ activity:
   - name: family
     featured: 3
     listing:
-      image: ../../img/listing/family-kosi.JPG
+      image: ../../img/listing/family-kosi.jpg
       title: Kosi Lakes Slackpacker – Custom
       subTitle: Snorkeling, sand castles and turtles
       description: The lakes, beaches and estuary of Kosi Bay really has something for everyone. Our Kosi Lakes hike can be attuned with shorter walking distances, and a greater emphasis on activities. During the months of Nov and Dec, the giant loggerhead turtles come ashore to lay their eggs at Bhanga Nek, whilst from mid Jan – to the end of March, you may be lucky enough to see the baby turtles hatch.
@@ -23,7 +23,7 @@ subActivity:
   - slackpacking
 tourName: Kosi Bay Lakes Trail
 slug: kosi-bay-lakes-trail
-featuredImage: ../../img/generic/PP-KosiBayhike.JPG
+featuredImage: ../../img/generic/PP-KosiBayhike.jpg
 longDescription:
   - The Kosi Bay Lakes hike is an escape into one of the most inaccessible and ecologically special parts of South Africa. It is a region of pristine diversity, consisting of four interconnected lakes and an estuary that opens out into the warm Indian Ocean. It forms part of the protected iSimangaliso Wetland Park, South Africa's first World Heritage Site.
   - This is a flexible trail which can be tailored to suit the time, fitness and interests of the group. The average hike day ranges from 9-12kms, winding your way from isolated beach to cool dune forest, through open savannah, and wetlands.
@@ -166,7 +166,7 @@ gallery:
       caption: Light and shadow on the final beach stretch through to Kosi Mouth.
     - src: ../../img/gallery/KB_shellmiddens.jpg
       caption: The Zilonde dune has many interesting cretaceous shell middens.
-    - src: ../../img/gallery/KB_family.JPG
+    - src: ../../img/gallery/KB_family.jpg
       caption: The Kosi Bay Lakes hike is a good option to adapt to young families.
     - src: ../../img/gallery/KB_roots.jpg
       caption: Exploring the undergrowth of the fern and dune forests.

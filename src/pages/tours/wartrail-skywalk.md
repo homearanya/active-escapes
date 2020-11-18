@@ -159,7 +159,7 @@ popularTour:
   description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 destinationTour:
   order: 1
-  image: ../../img/listing/EChigh-skywalk.JPG
+  image: ../../img/listing/EChigh-skywalk.jpg
   title: Wartrail Skywalk - EC Highlands
   description: With daily hike distances averaging 10-12 km and altitudes between 1700 – 2750m, this tour is aimed at hikers of moderate fitness, looking for a trail with charming scenery, informative guiding, comfy farm lodgings and hearty country cuisine. A destination that’s far from the madding crowd and worth the drive!
 emailLink: mailto:tours@active-escapes.co.za?subject=Wartrail Skywalk – EC Highlands Destination Listing

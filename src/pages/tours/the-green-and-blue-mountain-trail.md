@@ -16,7 +16,7 @@ subActivity:
   - slackpacking
 tourName: The Green and Blue Mountain Trail – Elgin
 slug: the-green-and-blue-mountain-trail
-featuredImage: ../../img/generic/PP-Greenmountain.JPG
+featuredImage: ../../img/generic/PP-Greenmountain.jpg
 
 longDescription:
   - The Green and Blue Mountain Trails are four and three - day hikes along the Groenlandberg and Elgin valley - Houw Hoek, Western Cape. Approximately 1hr’s drive from Cape Town. The trail's traverse a tapestry of fynbos, private nature reserves, wine and fruit farms - offering four-star country lodging, fine Cape cuisine and enriched guiding.
@@ -96,7 +96,7 @@ itinerary:
         - Transfer back to Porcupine Hills to collect your vehicle. Porcupine Hills has an open air shower with views over the olive grove where you can refresh before departure.
 
   images:
-    - src: ../../img/gallery/GM-garden.JPG
+    - src: ../../img/gallery/GM-garden.jpg
       heading: Looking onto the Groenlandberg from Wildekrans Guest house
       subHeading: null
 
@@ -109,7 +109,7 @@ lodging:
     - Private Wine Tastings & Picnic spreads
     - Art & Garden Sculptures by prominent local artists
   images:
-    - src: ../../img/gallery/GM-Wildekrans GH.JPG
+    - src: ../../img/gallery/GM-Wildekrans GH.jpg
       heading: Wildekrans Guest House
       subHeading: null
 
@@ -139,29 +139,29 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/GM-driedproteas.JPG
+    - src: ../../img/gallery/GM-driedproteas.jpg
       caption: Fire is essential to the proteaceae regeneration cycle.
-    - src: ../../img/gallery/GM-garden.JPG
+    - src: ../../img/gallery/GM-garden.jpg
       caption: 'From garden to plate: meals are organic, local and delicious.'
-    - src: ../../img/gallery/GM-duckling.JPG
+    - src: ../../img/gallery/GM-duckling.jpg
       caption: A duckling rescue in operation.
-    - src: ../../img/gallery/GM-flower1.JPG
+    - src: ../../img/gallery/GM-flower1.jpg
       caption: Many beautiful species of Iradaceae emerge in Spring.
-    - src: ../../img/gallery/GM-blue iradacea.JPG
+    - src: ../../img/gallery/GM-blue iradacea.jpg
       caption: Pinks and blues, and everything in-between, when you look a little closer.
-    - src: ../../img/gallery/GM-pins.JPG
+    - src: ../../img/gallery/GM-pins.jpg
       caption: And of course the multi-coloured pins – so popular in the cut flower market.
-    - src: ../../img/gallery/GM-alison.JPG
+    - src: ../../img/gallery/GM-alison.jpg
       caption: The founder of the Green Mountain trail, Alison Green, on the final day of the trail.
-    - src: ../../img/gallery/GM-watsonia.JPG
+    - src: ../../img/gallery/GM-watsonia.jpg
       caption: Stone sculptures and a natural pool at Wildekrans Guesthouse – night 3 and 4 of the Green Mountain hiking trail.
-    - src: ../../img/gallery/GM-sheep.JPG
+    - src: ../../img/gallery/GM-sheep.jpg
       caption: Prominent artists have their sculptures on display around the gardens of Wildekrans.
-    - src: ../../img/gallery/GM-guiding.JPG
+    - src: ../../img/gallery/GM-guiding.jpg
       caption: Passionate guiding on Day 4 of the Green Mountain trail, with the old Houw Hoek railway line in the background.
-    - src: ../../img/gallery/GM-Haws ton lookout.JPG
+    - src: ../../img/gallery/GM-Haws ton lookout.jpg
       caption: The jagged rocks at Haws ton lookout.
-    - src: ../../img/gallery/GM-winery.JPG
+    - src: ../../img/gallery/GM-winery.jpg
       caption: Finishing the hike off the at the lovely Beaumont winery with a Ploughmans platter and wine tasting.
 
 price:
@@ -190,7 +190,7 @@ popularTour:
   description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
 destinationTour:
   order: 2
-  image: ../../img/listing/wcape-winelands.JPG
+  image: ../../img/listing/wcape-winelands.jpg
   title: Wine & Fynbos in the Elgin Valley
   description: Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms. Four star lodgings , fine Cape cuisine and truly enriching guiding. These 3 & 4 day hikes along the Groenlandberg and Elgin valley, are just an hour’s drive from  Cape Town. Daily hike distances range from 11 -18km / day, with some exclusive wine tastings and picnics along the way. The trail is mostly over privately-owned land in the world's first 'biodiversity wine route'.
   emailLink: mailto:tours@active-escapes.co.za?subject=Elgin Winelands Slackpacker – Western Cape Destination Listing

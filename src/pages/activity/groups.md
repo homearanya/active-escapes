@@ -6,7 +6,7 @@ meta:
 activityName: Groups
 code: groups
 banner:
-  image: ../../img/banner/activity-group.JPG
+  image: ../../img/banner/activity-group.jpg
   heading: Group Adventures
   subHeading: 'Friends or Business: by the end, hopefully both'
 intro:

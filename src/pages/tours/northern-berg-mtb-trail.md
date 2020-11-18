@@ -8,7 +8,7 @@ activity:
   - name: mountainbiking
     featured: 1
     listing:
-      image: ../../img/listing/activity-NBerg-MTB.JPG
+      image: ../../img/listing/activity-NBerg-MTB.jpg
       title: Northern Berg MTB Adventure
       subtitle: Self-guided option in the Big Berg
       description: Training for a multi-day event and tiring of your same old routes? Need some hills to sweat and new track to tame? Just 2.5hrs from Durbs and 3.5hrs from Joburg, the Northern Berg makes for an easy weekend MTB getaway.  With over 100 kms of custom built single-track and bikes available for hire, it is an easy self-guided option for international travellers and those looking for a weekend escape in big berg country.
@@ -88,7 +88,7 @@ itinerary:
         - Join Cavern’s daily guided hikes in the morning before breakfast or some more trail riding.
         - Stay for lunch at Cavern on departure day if you haven’t had lunch on your arrival day (incl).
   images:
-    - src: ../../img/gallery/bergmtb-ferns.JPG
+    - src: ../../img/gallery/bergmtb-ferns.jpg
       heading: Singletrack in the Northern Berg valley
       subHeading: With the Drakensberg Mountains as a backdrop
 
@@ -98,7 +98,7 @@ lodging:
     - 2 Nights at <strong>Cavern Berg Hotel</strong> –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest.
     - 1 Night at <strong>Mountain Lodge </strong>– log cabins nestled under the sandstone cliffs with fantastic views.
   images:
-    - src: ../../img/gallery/vulture_mountaincabins.JPG
+    - src: ../../img/gallery/vulture_mountaincabins.jpg
       heading: Drak Mountain Lodge
       subHeading: null
 
@@ -116,22 +116,22 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/bergmtb-track.JPG
+    - src: ../../img/gallery/bergmtb-track.jpg
       caption: Blue skies and groomed track in the Grotto section of the Northern Berg MTB trails.
-    - src: ../../img/gallery/bergmtb-river.JPG
+    - src: ../../img/gallery/bergmtb-river.jpg
       caption: During summer months, a few of the river crossings may provide more than an ankle-deep whetting.
-    - src: ../../img/gallery/bergmtb-dam.JPG
+    - src: ../../img/gallery/bergmtb-dam.jpg
       caption: The Grotto trail heads up to the trout dam above Cavern hotel.
-    - src: ../../img/gallery/bergmtb-amphi.JPG
-    - src: ../../img/gallery/bergmtb-chameleon.JPG
+    - src: ../../img/gallery/bergmtb-amphi.jpg
+    - src: ../../img/gallery/bergmtb-chameleon.jpg
       caption: Right of track granted to these endangered creatures
-    - src: ../../img/gallery/bergmtb-windmill.JPG
+    - src: ../../img/gallery/bergmtb-windmill.jpg
       caption: Free-range mountain biking on private farms – access negotiated.
-    - src: ../../img/gallery/bergmtb-ferns.JPG
+    - src: ../../img/gallery/bergmtb-ferns.jpg
       caption: Views of the high berg as you cross the valleys
-    - src: ../../img/gallery/vulture_mountaincabins.JPG
+    - src: ../../img/gallery/vulture_mountaincabins.jpg
       caption: Drak Mountain Lodge
-    - src: ../../img/gallery/bergmtb-berghouse.JPG
+    - src: ../../img/gallery/bergmtb-berghouse.jpg
       caption: A stop-off at Berghouse before doing the Leopards loop.
 
 price:

@@ -132,13 +132,13 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/maluti-cosmos.JPG
+    - src: ../../img/gallery/maluti-cosmos.jpg
       caption: The cosmos in Spring never fails to delight.
     - src: ../../img/gallery/maluti-boy.jpg
       caption: This community-based trail takes you through a few friendly rural villages.
     - src: ../../img/gallery/maluti-chalet.jpg
       caption: Malekhonyane chalet – first night of the Maluti trail.
-    - src: ../../img/gallery/maluti-horses.JPG
+    - src: ../../img/gallery/maluti-horses.jpg
       caption: The trail can also be mountain-biked.
     - src: ../../img/gallery/maluti-kids.jpg
       caption: Kids at play, in one of the friendly mountain villages through which the Maluti trail passes.
@@ -171,7 +171,7 @@ popularTour:
   description: 'Discover diverse natural and cultural heritage on this fair-trade hiking trail along the foothills of the southern Maluti’s. Visit rock-art sites, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets offering delicious meals.'
 destinationTour:
   order: 7
-  image: ../../img/listing/drak-maluti.JPG
+  image: ../../img/listing/drak-maluti.jpg
   title: Maluti Community Hike - Matatiele
   description: Discover diverse natural and cultural heritage on this fair trade community-owned hiking trail. Traversing the mountainous foothills of the southern Maluti's, you'll visit ancient rock-art, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets with delicious meals prepared by your friendly community host.
   emailLink: mailto:tours@active-escapes.co.za?subject=Maluti Hiking Trail Enquiry – Drak Destination Listing

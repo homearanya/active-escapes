@@ -21,14 +21,14 @@ taylorMadeSection:
   heading: This is the heading
   subHeading: This is the subHeading
   options:
-    - image: ../../img/listing/family_pbcamps.JPG
+    - image: ../../img/listing/family_pbcamps.jpg
       title: Pondoland Tented Camps
       subTitle: Tucked away in paradise
       description: Tucked in behind a dune, sheltered under some milkwoods, or on the banks of a pristine estuary, these Wild Coast Beach Camps in Northern Pondoland offer the perfect friend and family getaway.  They are a place to reflect, explore, and be reminded about what is truly important in life.
       link:
         href: 'mailto:tours@active-escapes.co.za?subject=Pondoland Beach Camp Accommodation Enquiry'
         text: Enquire Now
-    - image: ../../img/listing/family-cavern.JPG
+    - image: ../../img/listing/family-cavern.jpg
       title: Berg Escape to a family-run hotel
       subTitle: Hiking, horse-riding, fishing and games
       description: A third generation hotel, in the foothills of the Northern Berg. Unpretentious yet beautiful and serene, with a strong focus on family bonding and fun.  Join in on the daily guided hikes, an outride, or cast a line in one of the private dams on the property.  With facilitated activities for pre-schoolers and trained nannies for the tots, parents also get to enjoy a few precious hours of ‘time out’; whilst tweens and teens get an opportunity for new friendships and quality time with the family.

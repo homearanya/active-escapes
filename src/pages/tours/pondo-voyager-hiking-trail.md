@@ -103,7 +103,7 @@ itinerary:
         - 'Breakfast than private transfer back to the Wild Coast Casino (approx 3hrs)'
 
   images:
-    - src: ../../img/gallery/pvoyager-msikaba.JPG
+    - src: ../../img/gallery/pvoyager-msikaba.jpg
       heading: null
       subHeading: null
 
@@ -142,15 +142,15 @@ gallery:
       caption: A lot of the walking on the first two days is through grasslands.
     - src: ../../img/gallery/pvoyager_grosvenor.jpg
       caption: Subtropical forest frames deserted beaches.
-    - src: ../../img/gallery/pvoyager_mbotyihotel.JPG
+    - src: ../../img/gallery/pvoyager_mbotyihotel.jpg
       caption: Mbotyi hotel – the final night on the Pondo Voyager trail.
     - src: ../../img/gallery/pvoyager_mtentu.jpg
       caption: The Mtentu river ( Day 3) usually requires a ferry crossing.
-    - src: ../../img/gallery/pvoyager_river.JPG
+    - src: ../../img/gallery/pvoyager_river.jpg
       caption: Deeply incised river gorges on the Pondo Voyager trail.
-    - src: ../../img/gallery/pvoyager-msikaba.JPG
+    - src: ../../img/gallery/pvoyager-msikaba.jpg
       caption: Kids at play on one of the pristine estuaries on the pondoland stretch of Wild Coast.
-    - src: ../../img/gallery/pvoyager_cathedral.JPG
+    - src: ../../img/gallery/pvoyager_cathedral.jpg
       caption: Cathedral Rock – on the hike day between Luphuthana and Mbotyi.
     - src: ../../img/gallery/pvoyager_dogs.jpg
       caption: It’s a dog’s life on the northern Pondoland Wild Coast.

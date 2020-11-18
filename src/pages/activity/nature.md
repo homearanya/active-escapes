@@ -25,7 +25,7 @@ taylorMadeSection:
   heading: This is the heading
   subHeading: This is the subHeading
   options:
-    - image: ../../img/listing/nature-pondocamps.JPG
+    - image: ../../img/listing/nature-pondocamps.jpg
       title: Pondoland Tented Camps
       subTitle: Tucked away in paradise
       description: Tucked in behind a dune, sheltered under some milkwoods, or on the banks of a pristine estuary, these Wild Coast Beach Camps in Northern Pondoland offer the perfect friend and family getaway.  They are a place to reflect, explore, and be reminded about what is truly important in life.

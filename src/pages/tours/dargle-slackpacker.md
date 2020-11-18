@@ -98,7 +98,7 @@ itinerary:
         - 'A ‘local is lekker’ picnic lunch ends off the experience, with finger foods selected from the surrounding producers: a true taste of the Midlands. Transfer provided back to vehicles or alternative arrangements'
 
   images:
-    - src: ../../img/gallery/DD_darglepath.JPG
+    - src: ../../img/gallery/DD_darglepath.jpg
       heading: Montane forest and mistbelt grasslands
       subHeading: null
 
@@ -107,7 +107,7 @@ lodging:
   description:
     - "Farmstays & 3-4 star equivalent B&B's and Country Cottages"
   images:
-    - src: ../../img/gallery/DD_cows.JPG
+    - src: ../../img/gallery/DD_cows.jpg
       heading: Farm stay accommodation
       subHeading: null
 
@@ -134,21 +134,21 @@ gallery:
   pictures:
     - src: ../../img/gallery/DD_Dargle-lunchbreak.jpg
       caption: Picnic lunch in a forest clearing near Kilgobbin
-    - src: ../../img/gallery/DD_cows.JPG
+    - src: ../../img/gallery/DD_cows.jpg
       caption: null
-    - src: ../../img/gallery/DD_viewpoint.JPG
+    - src: ../../img/gallery/DD_viewpoint.jpg
       caption: Lovely look-out point on Day 2 of the Dargle Discover
-    - src: ../../img/gallery/DD_waterstop.JPG
+    - src: ../../img/gallery/DD_waterstop.jpg
       caption: Fill your bottle with spring water direct from the source.
     - src: ../../img/gallery/DD_winterdams.jpg
       caption: Red grass and dams - descending from Blessberg
     - src: ../../img/gallery/DD_horse.jpg
       caption: null
-    - src: ../../img/gallery/DD_darglepath.JPG
+    - src: ../../img/gallery/DD_darglepath.jpg
       caption: The path meanders through montane forest and grasslands
     - src: ../../img/gallery/DD-autumnpatchwork.jpg
       caption: Autumnal colours - Midlands
-    - src: ../../img/gallery/F2F_family.JPG
+    - src: ../../img/gallery/F2F_family.jpg
       caption: Daily distances can be tailored to families with younger members
 
 price:
@@ -182,7 +182,7 @@ popularTour:
   description: 'With flexible hiking days, country cottages, home-grown meals, and Tolkienesque explorations - the Dargle Slackpacker is the Midlands best kept secret.'
 destinationTour:
   order: 3
-  image: ../../img/listing/midlands-dargle-discoverer.JPG
+  image: ../../img/listing/midlands-dargle-discoverer.jpg
   title: Dargle Discoverer Hiking Trail
   description: With daily hikes gentle in distance and gradient, this slackpacking trail is perfect for families, and those who prefer to take a little more time to smell the daisies. Overnighting at cosy country lodges with locally grown home cooked meals, dams and rivers for cooling off enroute, and picturesque picnic spots, the Dargle Trails are one the Midlands best kept secret.
   emailLink: mailto:tours@active-escapes.co.za?subject=Dargle Discoverer Hike - KZN Midlands Destination Listing

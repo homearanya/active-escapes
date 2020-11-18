@@ -123,7 +123,7 @@ lodging:
     - <strong>Backpacker</strong> alternatives in some places
 
   images:
-    - src: ../../img/gallery/HH_wcrest deckpool.JPG
+    - src: ../../img/gallery/HH_wcrest deckpool.jpg
       heading: First light at Wavecrest Hotel
       subHeading: null
 
@@ -213,7 +213,7 @@ popularTour:
   description: 'Discover the diversity of this wild coastline from the vantage of your saddle, winding your way from cliff-top to sandy bay, across grassy plateau and along forested track. Our supported tour follows the route of Imana, but over more days with lower daily mileages'
 destinationTour:
   order: 0.2
-  image: ../../img/listing/WC-mtbadventure.JPG
+  image: ../../img/listing/WC-mtbadventure.jpg
   title: Lower Wild Coast MTB Adventure
   description: There's no better way to appreciate the diversity of this wild coastline than from the vantage of your saddle, as you wind your way from cliff-top to sandy bay, across grassy plateau and up forested tracks, passing friendly villages along the way. Following the popular route of the Imana Wild Ride, our supported tours offer more days to do the distance, making it as much a holiday with friends as an Epic MTB adventure.
   emailLink: mailto:tours@active-escapes.co.za?subject=Lower Wild Coast MTB Adventure – Wild Coast Destination Listing

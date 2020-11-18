@@ -8,7 +8,7 @@ activity:
   - name: rafting
     featured: 1
     listing:
-      image: ../../img/listing/activity-umko-rafting.JPG
+      image: ../../img/listing/activity-umko-rafting.jpg
       title: Umkomaas River Rafting
       subtitle: Thrills and spills
       description: The Mkomazi River boasts Grade 3 rapids, which step-up to Grade 4 if there's been sufficient rain. The section from Daisy Chain to Lower Nkonka is regarded as some of the biggest traversable white-water south of the Zambezi. Just 1hr from Durban and 30-min from PMB, a rafting trip on the Umko makes a great corporate team-build or day-trip adventure.
@@ -22,7 +22,7 @@ activity:
   - name: family
     featured: 3
     listing:
-      image: ../../img/listing/family-umkomaas.JPG
+      image: ../../img/listing/family-umkomaas.jpg
       title: Umkomaas White Water Adventure
       subtitle: Thrills and spills on the Mkomazi
       description: "Experience the thrill of rafting one of South Africa's best white water rivers: the Umkomaas. In summer, the Mkomazi River offers warm, high-volume white water, interspersed with short pools to get your breath back. Tamer and shorter stretches are on option for younger kids, but the general age restriction is 12yrs or older."
@@ -118,7 +118,7 @@ itinerary:
         - Enjoy a picnic lunch on the riverbank before transferring 1hr back to the bush camp to collect your vehicles
 
   images:
-    - src: ../../img/gallery/umko_gorge.JPG
+    - src: ../../img/gallery/umko_gorge.jpg
       heading: The Umko river carves through Gorge and Valley Bushveld
       subHeading: null
 
@@ -132,7 +132,7 @@ lodging:
     - 'Budget Alternative: Level and shady grass patches to <strong>pitch your own tent </strong>with communal kitchen and shower facilities OR <strong>Dormitory Style</strong> School Group Tents - with bunk beds, no bedding.'
 
   images:
-    - src: ../../img/gallery/umko_nkonka1.JPG
+    - src: ../../img/gallery/umko_nkonka1.jpg
       heading: Large Bushcamp
       subHeading: Sleeping 24 persons, on the river with a deck, pool and fire-pit, this bush lodge offers the ideal venue for Bulls overnighters and large group getaways.
 
@@ -159,29 +159,29 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/umko_1.JPG
+    - src: ../../img/gallery/umko_1.jpg
       caption: The Umko river generally runs as a Grade 3 during summer, but after heavy rains the rapids can quickly ramp up to Grade 4.
-    - src: ../../img/gallery/umko_briefing.JPG
+    - src: ../../img/gallery/umko_briefing.jpg
       caption: A comprehensive safety briefing always takes place before we hit the water.
-    - src: ../../img/gallery/umko_family.JPG
+    - src: ../../img/gallery/umko_family.jpg
       caption: A days rafting makes for a memorable family adventure. Min age is usually 12yrs and under 18's to be accompanied by an adult.
-    - src: ../../img/gallery/umko_side.JPG
+    - src: ../../img/gallery/umko_side.jpg
       caption: Paddling in a 'croc' calls for some serious teamwork.
     - src: ../../img/gallery/umko_hella.jpg
       caption: Day breaks in the Umko Valley
-    - src: ../../img/gallery/umko_lunch.JPG
+    - src: ../../img/gallery/umko_lunch.jpg
       caption: A lunch on the river is included on the full-day rafting trip
-    - src: ../../img/gallery/umko_gorge.JPG
+    - src: ../../img/gallery/umko_gorge.jpg
       caption: The Mkomazi river cuts through valley bushveld and rock gorges
-    - src: ../../img/gallery/umko_rapid.JPG
+    - src: ../../img/gallery/umko_rapid.jpg
       caption: In the thick of things.....just keep PADDLING
-    - src: ../../img/gallery/umko_takeout.JPG
+    - src: ../../img/gallery/umko_takeout.jpg
       caption: Take-out point after the full-day rafting trip. Load the boats and return by 4x4 transfer back to the meet point.
     - src: ../../img/gallery/umko_raft1.jpg
       caption: In good months, the Umko offers the warmest high-volume white-water south of the Zambezi
-    - src: ../../img/gallery/umko_bike.JPG
+    - src: ../../img/gallery/umko_bike.jpg
       caption: Make a weekend of it - there's plenty of dirt roads to explore.
-    - src: ../../img/gallery/umko_teambuild.JPG
+    - src: ../../img/gallery/umko_teambuild.jpg
       caption: Rafting is a popular teambuild activity
 
 price:
@@ -218,7 +218,7 @@ popularTour:
   description: 'Experience the thrill of rafting SA’s warmest, high-volume white water south of the Zambezi: the mighty Umkomaas river – near Richmond, KZN. During summer the river runs as a Grade 3, with rapids pumping up to Grade 4 after heavy rains'
 destinationTour:
   order: 2
-  image: ../../img/listing/tugela-umko-rafting.JPG
+  image: ../../img/listing/tugela-umko-rafting.jpg
   title: Umkomaas River Rafting
   description: The Mkomazi River boasts Grade 3 rapids, which step-up to Grade 4 if there's been sufficient rain. The section from Daisy Chain to Lower Nkonka rapid is regarded as the one the biggest traversable sections of white water south of the Zambezi. Just 1hr from Durban and 30-min from PMB, a rafting trip on the Umko makes a great corporate team-build or day-trip adventure.
   emailLink: mailto:tours@active-escapes.co.za?subject=Umkomaas River Rafting – KZN Interior Destination Listing

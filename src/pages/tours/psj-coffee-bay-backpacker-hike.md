@@ -8,7 +8,7 @@ activity:
   - name: hiking
     featured: 8
     listing:
-      image: ../../img/listing/WCH-PSJ-CBay.JPG
+      image: ../../img/listing/WCH-PSJ-CBay.jpg
       title: Port St Johns – Coffee Bay Trail
       subtitle: Shipwrecks, backpackers, and dramatic headlands
       description: The 60km stretch of undulating Wild Coast terrain from Port St John's to Coffee Bay, is well suited to the fitter and more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hike, you can chose between friendly village homestays, chilled out backpackers, or a combination of both.
@@ -152,7 +152,7 @@ gallery:
       caption: You will pass through many friendly rural villages on the PSJ – Coffee Bay Hiking trail. Here the geese are employed as watchdogs.
     - src: ../../img/gallery/psj-cbay_group.jpg
       caption: The hike from Port St Johns to Coffee Bay traverses over many jutting headlands.
-    - src: ../../img/gallery/psj-cbay_sun.JPG
+    - src: ../../img/gallery/psj-cbay_sun.jpg
       caption: Mngazana estuary – the second night of the PSJ – Coffee Bay trail – at last light.
     - src: ../../img/gallery/psj-cbay_deliciousmonster.jpg
       caption: A morning coffee on the deck at Delicious Monster – provides the perfect kickstart for the trail.

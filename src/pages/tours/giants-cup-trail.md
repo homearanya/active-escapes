@@ -16,7 +16,7 @@ subActivity:
   - slackpacking  
 tourName: Giants Cup Slackpacking Trail
 slug: giants-cup-trail
-featuredImage: ../../img/generic/PP_Giantshike.JPG
+featuredImage: ../../img/generic/PP_Giantshike.jpg
 longDescription:
   - The Giants Cup Slackpacking Trail follows the well-marked hiking trail that runs along the base of the southern Drakensberg. Contouring around the Sandstone outcrops of the Little Berg, the trail affords magnificent views of the high mountains and a good chance of game sightings. 
   - This slackpacking trail effectively covers the first 4 days of the Giants Cup Trail in three, and can be extended to cover the full 5-day 60km trail all the way through to Bushmens Nek. Overnighting in comfortable lodges and farm-stays.
@@ -125,7 +125,7 @@ gallery:
   pictures:
     - src: ../../img/gallery/giants-watsonia.jpg
       caption: Watsonia’s in flower during Spring – Southern Drakensberg.
-    - src: ../../img/gallery/giants-trailrun.JPG
+    - src: ../../img/gallery/giants-trailrun.jpg
       caption: The Giants Cup hiking trail can just as easily be trail-run. We were treated to a snow dusting when we did it in September.
     - src: ../../img/gallery/giants-castleburn.jpg
       caption: The Castle – on Day 3 of the Giants Cup Slackpacking Trail

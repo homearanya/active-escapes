@@ -8,7 +8,7 @@ activity:
   - name: hiking
     featured: 3
     listing:
-      image: ../../img/listing/WCH-Pondo-Explorer.JPG
+      image: ../../img/listing/WCH-Pondo-Explorer.jpg
       title: Pondo-Explorer Trails (Self-Catered)
       subtitle: Rrom Msikaba - Mbotyi - PSJ
       description: On this self-catered 3 or 5 night hiking trail, you'll overnight in tent and thatch camps in pristine and wild locations. The camps are well equipped for self-catering so you need only bring your food; and porters can be arranged to lighten your load. On both the 3 & 5 day trails, a night at Mbotyi River Lodge with dinner and breakfast, provides a night of pampering on the trail.
@@ -16,7 +16,7 @@ subActivity:
   - hiking
 tourName: Pondo Exploring
 slug: pondo-explorer-hiking-trail
-featuredImage: ../../img/generic/PP-PondoExplore.JPG
+featuredImage: ../../img/generic/PP-PondoExplore.jpg
 
 longDescription:
   - The northern Pondoland section of the Wild Coast stretches from Mtamvuna River in the north (Port Edward) to the mighty Umzimvubu in the south (Port St John's) and is arguably the most rugged and breathtakingly pristine section of Wild Coast.
@@ -101,7 +101,7 @@ itinerary:
     - src: ../../img/gallery/pondoexplore_cow&hiker.jpg
       heading: null
       subHeading: null
-    - src: ../../img/gallery/pondoexplore_hikersea.JPG
+    - src: ../../img/gallery/pondoexplore_hikersea.jpg
       heading: null
       subHeading: null
 lodging:
@@ -111,10 +111,10 @@ lodging:
     - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower. Central kitchen & dining boma - fully equipped for self-catering.
 
   images:
-    - src: ../../img/gallery/pondoexplore-Mbotyi.JPG
+    - src: ../../img/gallery/pondoexplore-Mbotyi.jpg
       heading: Oceanview Chalet - Mbotyi Lodge
       subHeading: null
-    - src: ../../img/gallery/pondoexplore-ntafufu.JPG
+    - src: ../../img/gallery/pondoexplore-ntafufu.jpg
       heading: Ntafufu Tented Camp
       subHeading: null
 faq:
@@ -139,25 +139,25 @@ faq:
         - The 3 and 5 night trails are the standard options but it is possible to spend an extra day-night at any of the tented camps  or Mbotyi and it is also possible to extend the trail should you want to do this.
 gallery:
   pictures:
-    - src: ../../img/gallery/pondoexplore_hikersea.JPG
+    - src: ../../img/gallery/pondoexplore_hikersea.jpg
       caption: The pondo-explorer hiking trail affords sweeping sea-views most of the way.
-    - src: ../../img/gallery/pondoexplore_kids.JPG
+    - src: ../../img/gallery/pondoexplore_kids.jpg
       caption: Local kids playing at one of the pristine estuaries on the route.
     - src: ../../img/gallery/pondoexplore_cow&hiker.jpg
       caption: The ‘trail’ is a series of fisherman paths and it’s not unusual to come across cows grazing merrily on the hillslopes or chilling on the beach.
     - src: ../../img/gallery/pondoexplore_dogs.jpg
       caption: null
-    - src: ../../img/gallery/pondoexplore-cathedralrock.JPG
+    - src: ../../img/gallery/pondoexplore-cathedralrock.jpg
       caption: The iconic Cathedral Rock – a freestanding rock stack – Day 2 of the Pondo-Explorer trail.
-    - src: ../../img/gallery/pondoexplore_milkwoods.JPG
+    - src: ../../img/gallery/pondoexplore_milkwoods.jpg
       caption: The milkwood forests make for a perfect lunch stop enroute.
-    - src: ../../img/gallery/pondoexplore_village.JPG
+    - src: ../../img/gallery/pondoexplore_village.jpg
       caption: The pondo-explorer trail passes through a few rural villages.
-    - src: ../../img/gallery/pondoexplore_mbotyiestuary.JPG
+    - src: ../../img/gallery/pondoexplore_mbotyiestuary.jpg
       caption: Mbotyi estuary – Night 3 on the Pondo-Explorer trail.
-    - src: ../../img/gallery/pondoexplore_beach.JPG
+    - src: ../../img/gallery/pondoexplore_beach.jpg
       caption: null
-    - src: ../../img/gallery/pondoexplore-ntafufu.JPG
+    - src: ../../img/gallery/pondoexplore-ntafufu.jpg
       caption: Ntafufu Tented Camp
 price:
   heading: 5 Night Pondo-Explorer
