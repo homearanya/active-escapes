@@ -63,6 +63,7 @@ const DestinationPage = ({
   },
   location,
 }: DestinationPageProps) => {
+  console.log('tours: ', tours)
   const [grid, setGrid] = useState(false)
   const [{ holidayTypes, difficultyLevels }, setDropdowns] = useState({
     holidayTypes: {},
