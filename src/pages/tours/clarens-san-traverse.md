@@ -170,8 +170,8 @@ popularTour:
   description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 destinationTour:
   order: 1
-  image: ../../img/listing/img-04-clarens.jpg
-  tagline: San Traverse - Clarens
-  title: In the footprints of the San
-  description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
+  image: ../../img/listing/freestate-clarens.JPG
+  title: The Clarens San Traverse
+  description: A 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. Our charismatic guide will share his unique perspective on the ancient culture and people who once inhabited this valley. From Cannibal cave to locally brewed ales, a hiking trip to Clarens will delight your finer senses.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Clarens San Traverse HIke – Free State Destination Listing
 ---

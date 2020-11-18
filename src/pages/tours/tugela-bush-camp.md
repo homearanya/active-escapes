@@ -253,8 +253,8 @@ popularTour:
   description: "Whether its adventure, nature, or relaxation you after, the surrounds & company of Tugela Bushcamp offer the perfect tonic. From birding & fishing to 4x4'ing, mtb-biking, river rafting and trail-running, and newly launched nature and yoga-focused ‘Retreats’"
 destinationTour:
   order: 1
-  image: ../../img/gallery/zing_sunrock-500.jpg
-  tagline: Adventure & Reflection
-  title: Tugela Bushcamp - heart of KZN
-  description: "Whether its adventure, nature, or relaxation you after, the surrounds & company of Tugela Bushcamp offer the perfect tonic. From birding & fishing to 4x4'ing, mtb-biking, river rafting and trail-running, and newly launched nature and yoga-focused ‘Retreats’"
+  image: ../../img/listing/tugela-bushcamp.JPG
+  title: Tugela Bush Camp
+  description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as 4x4'ing, river rafting and abseiling …. you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Tugela Bushcamp Enquiry – KZN Interior
 ---

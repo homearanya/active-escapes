@@ -29,7 +29,8 @@ export const textTruncate = (text: string, num: number): string => {
   return result
 }
 
-export const ProcessText = (text: string): JSX.Element => {
+export const processText = (text: string): JSX.Element | null => {
+  if (!text) return null
   const linkStart = text.indexOf('<a ')
   if (linkStart === -1) {
     return <>{text}</>
@@ -58,7 +59,7 @@ export const ProcessText = (text: string): JSX.Element => {
     <>
       {preLinkText}
       <Link to={theLink}>{theContent}</Link>
-      {ProcessText(theRestText)}
+      {processText(theRestText)}
     </>
   )
 }

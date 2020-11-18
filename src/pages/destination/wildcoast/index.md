@@ -19,5 +19,12 @@ intro:
     bestSeason: Jan – Dec
     locations: From Port Edward to Cintsa, we cover every km
     icon: ../../../img/icons/ico-landing-hiking.svg
+customListings:
+  - order: 1
+    image: ../../../img/listing/WC-hikes.JPG
+    title: Wild Coast Hiking Trails
+    description: The Wild Coast is a hiker's paradise. Starting from Port Edward in the north all the way down to Cintsa, Active Escape's offers a full spectrum of hiking & slackpacking trails to suit all levels of fitness, budget and time constraints. From hotel-hopping to overnight's in traditional village homestays, we'll tailor-make a hiking trip to suit your needs and interests.
+    link: /destination/wildcoast/hiking-trails/
+    emailLink: mailto:tours@active-escapes.co.za?subject=Wild Coast Hiking – Wild Coast Destination Listing
 order: 1
 ---

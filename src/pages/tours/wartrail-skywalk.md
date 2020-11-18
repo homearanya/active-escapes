@@ -12,8 +12,15 @@ activity:
       tagline: Baviaans Camino Slackpacker
       title: A Camino in the Baviaans
       description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
+  - name: horseriding
+    featured: 2
+    listing:
+      image: ../../img/generic/PP-Baviaans.jpg
+      tagline: Baviaans Camino Slackpacker
+      title: A Camino in the Baviaans
+      description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 subActivity:
-  - slackpacking
+  - expedition
 tourName: Baviaans Camino Slackpack / Horse Trail
 slug: baviaans-camino
 featuredImage: ../../img/generic/PP-Baviaans.jpg
@@ -151,9 +158,9 @@ popularTour:
   title: A Camino in the Baviaans
   description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 destinationTour:
-  order: 3
-  image: ../../img/generic/PP-Baviaans.jpg
-  title: Baviaans Camino
-  description: The Baviaans Camino is a 95km north-south traverse of the Baviaanskloof Mountains and Kouga Mountain Range, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.  Groups of up to 12 hikers set off on specific dates between March and October, of which 6 can choose to do the trail on horseback.
-  emailLink: mailto:tours@active-escapes.co.za?subject=Baviaans Camino – EC Highlands Destination Listing
+  order: 1
+  image: ../../img/listing/EChigh-skywalk.JPG
+  title: Wartrail Skywalk - EC Highlands
+  description: With daily hike distances averaging 10-12 km and altitudes between 1700 – 2750m, this tour is aimed at hikers of moderate fitness, looking for a trail with charming scenery, informative guiding, comfy farm lodgings and hearty country cuisine. A destination that’s far from the madding crowd and worth the drive!
+emailLink: mailto:tours@active-escapes.co.za?subject=Wartrail Skywalk – EC Highlands Destination Listing
 ---

@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import { ImageSharp } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 import SocialSharer from '../social-sharer'
 import Image from '../image'
 
@@ -40,7 +40,7 @@ const PostThumbnail = ({
             </h3>
             <time className="info-day">{date}</time>
           </header>
-          <p>{ProcessText(introduction)}</p>
+          <p>{processText(introduction)}</p>
           <footer className="meta">
             <SocialSharer
               data={{

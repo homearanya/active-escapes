@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import UniversalLink from '../universal-link'
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 import Image from '../image'
 
 interface PopularTourData {
@@ -53,7 +53,7 @@ const PopularTour = ({
       <h3>
         <Link to={tourLink}>{title}</Link>
       </h3>
-      <p>{ProcessText(description)}</p>
+      <p>{processText(description)}</p>
     </article>
   )
 }

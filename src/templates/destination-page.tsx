@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { graphql } from 'gatsby'
 import { Flipper, Flipped } from 'react-flip-toolkit'
 
+import TaylorMadeCard from '../components/taylor-made-card'
 import DestinationTour from '../components/destination-tour'
 
 import { ImageSharp, Reference } from '../types'
@@ -29,7 +30,9 @@ type TourEdges = {
       destinationTour: {
         title: string
         image: ImageSharp
-        description: string
+        description?: string
+        descriptionInParagraphs?: string[]
+        emailLink: string
       }
     }
   }
@@ -50,6 +53,7 @@ const DestinationPage = ({
         destinationName,
         banner,
         intro,
+        customListings,
       },
     },
     tours,
@@ -200,125 +204,165 @@ const DestinationPage = ({
   }, [])
 
   return (
-    <Layout>
+    <Layout pageClassName="destination-page">
       <SEO title={title} description={description} />
       <BannerDestination data={bannerData} />
       <ActivityIntro data={intro} />
-      <div className="content-block content-sub">
-        <div className="container">
-          <div className="filter-option">
-            <strong className="result-info">
-              {`${filteredTours?.length} TRIPS MATCHES YOUR SEARCH CRITERIA`}
-            </strong>
-            <div className="layout-holder">
-              <div className="layout-action">
-                <div
-                  onClick={() => setGrid(false)}
-                  className={`link link-list${!grid ? ' active' : ''}`}
-                >
-                  <span className="icon-list"></span>
-                </div>
-                <div
-                  onClick={() => setGrid(true)}
-                  className={`link link-grid${grid ? ' active' : ''}`}
-                >
-                  <span className="icon-grid"></span>
-                </div>
-              </div>
-              <div className="select-holder">
-                <a href="#" className="btn btn-primary btn-filter">
-                  <i className="fa fa-sliders"></i> Filter
-                </a>
-                <div className="filter-slide destination">
-                  <div className="select-col">
-                    <select
-                      className="btn btn-trip btn-trip-v2 filter-select"
-                      value={holidayType}
-                      onChange={(e) =>
-                        setFilter({ holidayType: e.target.value, difficulty })
-                      }
-                    >
-                      <option value="">Holiday Type</option>
-                      {Object.keys(holidayTypes).map((ht) => (
-                        <option
-                          key={ht}
-                          value={ht}
-                        >{`${holidayTypes[ht].name}`}</option>
-                      ))}
-                    </select>
+      {customListings && customListings.length > 0 && (
+        <div className="content-block content-sub">
+          <div className="container">
+            {customListings.map((data) => {
+              const {
+                title,
+                image,
+                description,
+                link: pageLink,
+                emailLink,
+              } = data
+              const link = pageLink
+                ? {
+                    href: pageLink,
+                    text: 'explore',
+                  }
+                : undefined
+              const link2 = emailLink
+                ? {
+                    href: emailLink,
+                    text: 'Enquire now',
+                  }
+                : undefined
+              return (
+                <TaylorMadeCard
+                  data={{
+                    title,
+                    image,
+                    description,
+                    link,
+                    link2,
+                  }}
+                />
+              )
+            })}
+          </div>
+        </div>
+      )}
+      {tours && tours.edges.length > 0 && (
+        <div className="content-block content-sub">
+          <div className="container">
+            <div className="filter-option">
+              <strong className="result-info">
+                {`${filteredTours?.length} TRIPS MATCHES YOUR SEARCH CRITERIA`}
+              </strong>
+              <div className="layout-holder">
+                <div className="layout-action">
+                  <div
+                    onClick={() => setGrid(false)}
+                    className={`link link-list${!grid ? ' active' : ''}`}
+                  >
+                    <span className="icon-list"></span>
                   </div>
-                  <div className="select-col">
-                    <select
-                      className="btn btn-trip btn-trip-v2 filter-select"
-                      value={difficulty}
-                      onChange={(e) =>
-                        setFilter({ holidayType, difficulty: e.target.value })
-                      }
-                    >
-                      <option value="">Difficulty</option>
-                      {Object.keys(difficultyLevels).map((dfLevel) => (
-                        <option
-                          key={dfLevel}
-                          value={dfLevel}
-                        >{`${difficultyLevels[dfLevel].name}`}</option>
-                      ))}
-                    </select>
+                  <div
+                    onClick={() => setGrid(true)}
+                    className={`link link-grid${grid ? ' active' : ''}`}
+                  >
+                    <span className="icon-grid"></span>
+                  </div>
+                </div>
+                <div className="select-holder">
+                  <a href="#" className="btn btn-primary btn-filter">
+                    <i className="fa fa-sliders"></i> Filter
+                  </a>
+                  <div className="filter-slide destination">
+                    <div className="select-col">
+                      <select
+                        className="btn btn-trip btn-trip-v2 filter-select"
+                        value={holidayType}
+                        onChange={(e) =>
+                          setFilter({ holidayType: e.target.value, difficulty })
+                        }
+                      >
+                        <option value="">Holiday Type</option>
+                        {Object.keys(holidayTypes).map((ht) => (
+                          <option
+                            key={ht}
+                            value={ht}
+                          >{`${holidayTypes[ht].name}`}</option>
+                        ))}
+                      </select>
+                    </div>
+                    <div className="select-col">
+                      <select
+                        className="btn btn-trip btn-trip-v2 filter-select"
+                        value={difficulty}
+                        onChange={(e) =>
+                          setFilter({ holidayType, difficulty: e.target.value })
+                        }
+                      >
+                        <option value="">Difficulty</option>
+                        {Object.keys(difficultyLevels).map((dfLevel) => (
+                          <option
+                            key={dfLevel}
+                            value={dfLevel}
+                          >{`${difficultyLevels[dfLevel].name}`}</option>
+                        ))}
+                      </select>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-          {filteredTours ? (
-            <Flipper
-              flipKey={filteredTours.map(({ node }) => node.id).join('')}
-            >
-              <div
-                className={`content-holder list-view${
-                  grid ? ' row db-3-col' : ''
-                }`}
+            {filteredTours ? (
+              <Flipper
+                flipKey={filteredTours.map(({ node }) => node.id).join('')}
               >
-                {filteredTours.map(({ node }) => {
-                  const {
-                    id,
-                    frontmatter: {
-                      tourName,
-                      slug,
-                      duration,
-                      fromPricing,
-                      difficultyLevel,
-                      shortDescription,
-                      destinationTour,
-                      destination,
-                      activity,
-                      subActivity,
-                    },
-                  } = node
-                  return (
-                    <Flipped key={id} flipId={id}>
-                      <DestinationTour
-                        siteUrl={siteUrl}
-                        data={{
-                          tourName,
-                          duration,
-                          slug,
-                          fromPricing,
-                          difficultyLevel,
-                          shortDescription,
-                          destinationTour,
-                          destination,
-                          activity,
-                          subActivity,
-                        }}
-                        grid={grid}
-                      />
-                    </Flipped>
-                  )
-                })}
-              </div>
-            </Flipper>
-          ) : null}
+                <div
+                  className={`content-holder list-view${
+                    grid ? ' row db-3-col' : ''
+                  }`}
+                >
+                  {filteredTours.map(({ node }) => {
+                    const {
+                      id,
+                      frontmatter: {
+                        tourName,
+                        slug,
+                        duration,
+                        fromPricing,
+                        difficultyLevel,
+                        shortDescription,
+                        destinationTour,
+                        destination,
+                        activity,
+                        subActivity,
+                      },
+                    } = node
+                    return (
+                      <Flipped key={id} flipId={id}>
+                        <DestinationTour
+                          siteUrl={siteUrl}
+                          data={{
+                            tourName,
+                            duration,
+                            slug,
+                            fromPricing,
+                            difficultyLevel,
+                            shortDescription,
+                            destinationTour,
+                            destination,
+                            activity,
+                            subActivity,
+                          }}
+                          grid={grid}
+                        />
+                      </Flipped>
+                    )
+                  })}
+                </div>
+              </Flipper>
+            ) : null}
+          </div>
         </div>
-      </div>
+      )}
       <RecentlyViews />
     </Layout>
   )
@@ -346,6 +390,13 @@ interface PageQueryData {
         image: ImageSharp
       }
       intro: ActivityIntroData
+      customListings: {
+        title: string
+        image: ImageSharp
+        description?: string
+        link?: string
+        emailLink: string
+      }[]
     }
   }
   allHolidayTypes: {
@@ -423,6 +474,25 @@ export const query = graphql`
               publicURL
             }
           }
+          link {
+            href
+            text
+          }
+        }
+        customListings {
+          order
+          title
+          image {
+            childImageSharp {
+              fluid(maxWidth: 550, maxHeight: 338, quality: 70) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+            publicURL
+          }
+          description
+          link
+          emailLink
         }
       }
     }
@@ -489,6 +559,7 @@ export const query = graphql`
                   activityName
                   code
                   icon
+                  iconFile
                 }
               }
               featured
@@ -513,6 +584,8 @@ export const query = graphql`
                 publicURL
               }
               description
+              descriptionInParagraphs
+              emailLink
             }
           }
         }

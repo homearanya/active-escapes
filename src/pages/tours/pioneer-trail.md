@@ -177,9 +177,9 @@ popularTour:
   title: Wilderness Trail - Western Cape
   description: 'A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining.'
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-pioneer-500.jpg
-  tagline: Pioneering
-  title: Wilderness Trail - Western Cape
-  description: 'A 3-night wilderness trail in the Western Cape’s only Big-5 reserve. Seasoned trail guides will lead you through diverse fynbos and thicket, with some exciting wildlife encounters on foot. Overnight in uniquely appointed tented camps with gourmet bush dining.'
+  order: 4
+  image: ../../img/listing/wcape-pioneer.jpg
+  title: Pioneer Trail
+  description: This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located seasonal tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with exciting wildlife encounters on foot.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Pioneer Trail – Western Cape Destination Listing
 ---

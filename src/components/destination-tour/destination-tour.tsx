@@ -5,7 +5,7 @@ import ActivitiesList from '../activities-list'
 import SocialSharer from '../social-sharer'
 import Image from '../image'
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 
 interface DestinationTourData {
   slug: string
@@ -17,7 +17,9 @@ interface DestinationTourData {
   destinationTour: {
     image: ImageSharp
     title: string
-    description: string
+    description?: string
+    descriptionInParagraphs?: string[]
+    emailLink: string
   }
   destination: Reference
   activity: { name: Reference; featured: number }[]
@@ -38,7 +40,13 @@ const DestinationTour = ({
     fromPricing,
     difficultyLevel,
     shortDescription,
-    destinationTour: { image, title, description },
+    destinationTour: {
+      image,
+      title,
+      description,
+      descriptionInParagraphs,
+      emailLink,
+    },
     destination,
     activity,
     subActivity,
@@ -66,11 +74,21 @@ const DestinationTour = ({
               </h3>
               <div className="info-day">{duration}</div>
             </header>
-            <p className="text">{ProcessText(description)}</p>
+            {description && <p className="text">{processText(description)}</p>}
+            {descriptionInParagraphs &&
+              descriptionInParagraphs.map((paragraph) => (
+                <p className="text">{processText(paragraph)}</p>
+              ))}
             <footer className="info-footer destination">
               <ActivitiesList data={{ activity, subActivity }} />
               <SocialSharer
-                data={{ siteUrl, tourLink, tourName, shortDescription }}
+                data={{
+                  siteUrl,
+                  tourLink,
+                  tourName,
+                  shortDescription,
+                  emailLink,
+                }}
               />
             </footer>
           </div>

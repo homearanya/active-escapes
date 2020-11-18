@@ -220,8 +220,8 @@ popularTour:
   description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
 destinationTour:
   order: 1
-  image: ../../img/listing/img-02-kosi.jpg
-  tagline: Adventures in Kosi
-  title: Walking & Snorkeling the Kosi Lakes
-  description: 'This walking trail is an escape into one of the most ecologically diverse parts of South Africa. Fern and swamp forests, savannah and secluded beaches. Overnighting in comfortable bush and beach camps with catering, guiding, snorkelling, and a 3 lakes boat-trip.'
+  image: ../../img/listing/kosi-lakeshike.jpg
+  title: Slackpacking the Kosi Lakes
+  description: This walking trail is an escape into one of the most inaccessible and ecologically diverse parts of Southern Africa. From fern and swamp forests, savannah and secluded beaches; the daily hike distances range from 10 – 17km a day, with overnight stays in comfortable bush and beach camps. Luggage transfers, catering, guiding, snorkelling, and a boat-trip across the 3 lakes, are all inclusive in these trails.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Kosi Lakes Slackpacking – Kosi Destination Listing
 ---

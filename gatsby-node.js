@@ -23,6 +23,10 @@ exports.createPages = async ({ actions, graphql }) => {
               frontmatter {
                 templateKey
                 code
+                filter {
+                  destination
+                  activity
+                }
               }
             }
           }
@@ -38,14 +42,20 @@ exports.createPages = async ({ actions, graphql }) => {
 
     pages.forEach(({ node }) => {
       const { id, frontmatter, fields } = node
-      const activity =
-        frontmatter.templateKey === 'activity-page'
-          ? frontmatter.code
-          : undefined
-      const destination =
-        frontmatter.templateKey === 'destination-page'
-          ? frontmatter.code
-          : undefined
+      let activity, destination
+      switch (frontmatter.templateKey) {
+        case 'activity-page':
+          activity = frontmatter.code
+          break
+        case 'destination-page':
+          destination = frontmatter.code
+          break
+        case 'destination-activity-page':
+          activity = frontmatter.filter.activity
+          destination = frontmatter.filter.destination
+          console.log('destination-activity-page :', activity, destination)
+          break
+      }
       createPage({
         path: fields.slug,
         component: path.resolve(

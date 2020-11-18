@@ -1,10 +1,12 @@
 ---
-templateKey: activity-page
+templateKey: destination-activity-page
 meta:
   title: Wild Coast Hiking Trails
   description: Walking & Slackpacking Trails on the Wild Side
-activityName: Wild Coast Hiking / Slackpacking
-code: hiking
+title: Wild Coast Hiking / Slackpacking
+filter:
+  destination: wildcoast
+  activity: hiking
 banner:
   image: ../../../img/banner/activity-wildcoast-hiking.jpg
   heading: Hiking on the Wild Coast
@@ -20,7 +22,6 @@ intro:
 featuredToursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
   subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
-  destination: wildcoast
 taylorMadeSection:
   heading: This is the heading
   subHeading: This is the subHeading

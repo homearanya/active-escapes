@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
 
 import { ImageSharp, Reference } from '../../types'
-import { ProcessText } from '../../utils/helpers'
+import { processText } from '../../utils/helpers'
 import SocialSharer from '../social-sharer'
 import Image from '../image'
 
@@ -94,7 +94,7 @@ const FeaturedTour = ({
             {activities}
           </span>
         </aside>
-        <p>{ProcessText(description)}</p>
+        <p>{processText(description)}</p>
         <Link to={tourLink} className="btn btn-default featured-explore-button">
           explore
         </Link>

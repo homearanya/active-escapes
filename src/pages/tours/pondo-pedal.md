@@ -164,9 +164,9 @@ popularTour:
   title: Pondo Wild Coast MTB
   description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-pondopedal-500.jpg
-  tagline: Pondo Pedaling
-  title: Pondo Wild Coast MTB
-  description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
+  order: 0.1
+  image: ../../img/listing/WC-pondopedal.JPG
+  title: Pondo-Pedal Weekender
+  description: The Pondo-Pedal mountain bike trip is the perfect trip to cut your teeth on, if you looking for a whetting of wild coast trail riding over a long weekend. Starting at the Wild Coast casino (Port Edward), you'll cycle to Mtentu Lodge. A free day can be spent paddling up the gorgeous Mtentu estuary, or swimming under forgotten falls in Mkambati Nature reserve, before cycling back to the Wild Coast casino via a different route. Depending on the time and tides, we'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Pondo-pedal – Wild Coast Destination Listing
 ---

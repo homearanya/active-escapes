@@ -207,7 +207,7 @@ popularTour:
   title: Slackpacking Southern Wild Coast
   description: 'If your idea of a hiking holiday is as much about the chilled wine, comfy bed and seafood dinner, then look no further than the Lower Wild Coast Hotel-Hopping trails. Starting at Kob Inn and finishing at Cintsa, we have 3-7 night options.'
 destinationTour:
-  order: 1
+  order: 8
   image: ../../img/generic/pp-hh-500.jpg
   tagline: Hotel Hopping
   title: Slackpacking Southern Wild Coast

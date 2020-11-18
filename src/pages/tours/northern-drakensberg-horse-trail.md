@@ -151,9 +151,8 @@ popularTour:
   title: Overnight Horse Trail - Northern Berg
   description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support all provided.'
 destinationTour:
-  order: 1
+  order: 8
   image: ../../img/listing/activity-northernhorse.jpg
-  tagline: Riding High
   title: Overnight Horse Trail - Northern Berg
   description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support all provided.'
 ---

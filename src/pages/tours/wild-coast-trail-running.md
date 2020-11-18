@@ -159,7 +159,6 @@ gallery:
       caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
     - src: ../../img/gallery/HH_estuary.JPG
       caption: null
-
 price:
   heading: 4 Night / 3 Day Trail Run
   overview: null
@@ -172,7 +171,6 @@ price:
       price: R6000/pp
     - pax: 6-8 Persons
       price: R5800/pp
-
   heading2: null
   overview2: null
   table2: null
@@ -188,9 +186,10 @@ popularTour:
   title: Trail Running the Wild Coast
   description: 'Running along miles of sun-kissed beach, following local fishermen paths up and over the rocky headlands, you too can run wild with Active Escapes.  Most of our Wild Coast hikes can be arranged as a trail-run, but the southern stretch with its well positioned hotels and easy flight access in & out of East London is a great place to start.'
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-WCtrailrun-500.jpg
+  order: 0.3
+  image: ../../img/listing/WC-trailrunning.jpg
   tagline: Wild Running
   title: Trail Running the Wild Coast
-  description: 'Running along miles of sun-kissed beach, following local fishermen paths up and over the rocky headlands, you too can run wild with Active Escapes.  Most of our Wild Coast hikes can be arranged as a trail-run, but the southern stretch with its well positioned hotels and easy flight access in & out of East London is a great place to start.'
+  description: Running along miles of sun-kissed beach, following local fishermen paths up and over the rocky headlands, you too can run wild with Active Escapes. Any of our Wild Coast hikes can potentially be arranged as a trail-run, but the lower wild coast with its well positioned hotels and network for luggage support, makes for an easy weekend of trail running, flying in and out of East London.
+  emailLink: mailto:tours@active-escapes.co.za?subject=WC Trail Running – Wild Coast Destination Listing
 ---

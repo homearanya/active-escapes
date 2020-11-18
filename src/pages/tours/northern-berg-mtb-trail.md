@@ -170,9 +170,9 @@ popularTour:
   title: High Berg vistas and sublime singletrack
   description: 'One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway.'
 destinationTour:
-  order: 1
-  image: ../../img/listing/img-05-nberg.jpg
-  tagline: Northern Berg MTB
-  title: High Berg vistas and sublime singletrack
-  description: 'One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway.'
+  order: 3
+  image: ../../img/listing/drak-mtb.jpg
+  title: High Berg Vistas & Sublime Singletrack – Northern Berg
+  description: One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway?  The Northern Berg offers the perfect playground with tour options tailored to suite all level of rider.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Northern Berg MTB Tour – Drak Destination Listing
 ---

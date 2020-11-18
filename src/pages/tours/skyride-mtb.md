@@ -5,7 +5,7 @@ meta:
   description: A 95km north-south traverse of the Baviaanskloof & Kouga Mountains, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.
 destination: easterncape
 activity:
-  - name: hiking
+  - name: mountainbiking
     featured: 2
     listing:
       image: ../../img/generic/PP-Baviaans.jpg
@@ -13,7 +13,7 @@ activity:
       title: A Camino in the Baviaans
       description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 subActivity:
-  - slackpacking
+  - expedition
 tourName: Baviaans Camino Slackpack / Horse Trail
 slug: baviaans-camino
 featuredImage: ../../img/generic/PP-Baviaans.jpg
@@ -151,9 +151,9 @@ popularTour:
   title: A Camino in the Baviaans
   description: 'A 95km north-south traverse of the Baviaanskloof & Kouga Mountains done on foot or horse back. Scheduled departure dates during Autumn and Spring, with a min of 8 persons - maximum 14 per group.'
 destinationTour:
-  order: 3
-  image: ../../img/generic/PP-Baviaans.jpg
-  title: Baviaans Camino
-  description: The Baviaans Camino is a 95km north-south traverse of the Baviaanskloof Mountains and Kouga Mountain Range, between the towns of Willowmore and Kareedouw in the Eastern Cape, South Africa.  Groups of up to 12 hikers set off on specific dates between March and October, of which 6 can choose to do the trail on horseback.
-  emailLink: mailto:tours@active-escapes.co.za?subject=Baviaans Camino – EC Highlands Destination Listing
+  order: 2
+  image: ../../img/listing/EChigh-skyride.JPG
+  title: Riding High in the Eastern Cape Highlands
+  description: Discover the Rhodes less travelled, on a fully supported 4-6 day cycle tour in the Eastern Cape highlands. Expect breath-taking passes, scenic farm roads and thrilling descents on this vehicle supported tour from Rhodes to Wartrail.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Skyride – EC Highlands Destination Listing
 ---

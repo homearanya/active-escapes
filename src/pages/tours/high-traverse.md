@@ -195,9 +195,9 @@ popularTour:
   title: Sentinel to Cathedral - Half the GT
   description: 'This 5 Day expedition from Sentinel to Cathedral covers half the Grand Traverse (GT), and is a bucket-list trail for the strong hiker. Guided by a professional and camping wild in tents and caves. The Bell Traverse from Twins to Buggers is arguably the climax of High Berg trails.'
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-traverse_500.jpg
-  tagline: Traverse the Top
-  title: Sentinel to Cathedral - Half the GT
-  description: 'This 5 Day expedition from Sentinel to Cathedral covers half the Grand Traverse (GT), and is a bucket-list trail for the strong hiker. Guided by a professional and camping wild in tents and caves. The Bell Traverse from Twins to Buggers is arguably the climax of High Berg trails.'
+  order: 4
+  image: ../../img/listing/drak-hightraverse.jpg
+  title: Traversing the High Berg – Sentinel to Cathedral
+  description: Are you fit and ready for the challenge of high berg mountaineering. With an experienced guide you can tackle the Drakensberg traverse from the Sentinel massif across to Cathedral Peak. 5 days / 4 nights of jaw dropping terrain, wild-camping in tents and caves along the way.
+  emailLink: mailto:tours@active-escapes.co.za?subject=High Traverse Enquiry  – Drak Destination Listing
 ---

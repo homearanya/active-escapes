@@ -204,7 +204,7 @@ popularTour:
   title: PSJ - Coffee Bay Backpacker
   description: "The 60km stretch of undulating terrain from Port St John's to Coffee Bay, is well suited to the more budget conscious traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly homestays, chilled-out backpackers & private cottages."
 destinationTour:
-  order: 1
+  order: 5
   image: ../../img/generic/pp-psj-cbay_500.jpg
   tagline: Cultural Wild Coast
   title: PSJ - Coffee Bay Backpacker

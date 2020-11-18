@@ -195,7 +195,7 @@ popularTour:
   title: Back – slack - packing Pondoland
   description: '3 or 5 night Wild Coast Pondoland Trail Options: either fully-supported & catered (the <a href="/wildcoast/hiking/pondo-hopper-hiking-trail/">Pondo-Hopper</a>) or a self-catered version (the <a href="/wildcoast/hiking/pondo-explorer-hiking-trail/">Pondo-Explorer</a>), sleeping in tented camps nestled up against a dune or along a pristine estuary.'
 destinationTour:
-  order: 1
+  order: 2
   image: ../../img/listing/img-01-pondoexplore.jpg
   tagline: Pondo Exploring
   title: Back – slack - packing Pondoland

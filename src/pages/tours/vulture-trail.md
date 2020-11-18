@@ -13,7 +13,7 @@ activity:
       title: Soar with the Vultures
       description: 'Overnighting in high mountain cabins, this newly launched slackpacker, offers a birds-eye view of one of only two vulture colonies in the Drakensberg. Just 3hrs drive from the major airports, this trail offers the perfect long weekend getaway from Joburg and Durbs.'
 subActivity:
-  - slackpacking
+  - expedition
 tourName: Vulture Hiking Trail
 slug: vulture-trail
 featuredImage: ../../img/generic/PP-Vulturetrail.JPG
@@ -165,9 +165,9 @@ popularTour:
   title: Soar with the Vultures
   description: 'Overnighting in high mountain cabins, this newly launched slackpacker, offers a birds-eye view of one of only two vulture colonies in the Drakensberg. Just 3hrs drive from the major airports, this trail offers the perfect long weekend getaway from Joburg and Durbs.'
 destinationTour:
-  order: 1
-  image: ../../img/listing/img-06-vulturehike.jpg
-  tagline: Vulture Sightings
+  order: 2
+  image: ../../img/listing/drak-vulture.JPG
   title: Soar with the Vultures – Northern Drakensberg
   description: 'Overnighting in high mountain cabins, this newly launched slackpacker, offers a birds-eye view of one of only two vulture colonies in the Drakensberg. Just 3hrs drive from the major airports, this trail offers the perfect long weekend getaway from Joburg and Durbs.'
+  emailLink: mailto:tours@active-escapes.co.za?subject=Vulture Hike Enquiry – Drak Destination Listing
 ---

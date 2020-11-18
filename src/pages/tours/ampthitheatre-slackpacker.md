@@ -224,4 +224,5 @@ destinationTour:
   image: ../../img/listing/drak-amphi.JPG
   title: Summit the Escarpment in Style – Amphitheatre, Northern Berg
   description: Hike to the 'Roof of Africa' and source of the Tugela River, where you will stand atop the second highest waterfall in the world. Previously only attainable to experienced mountaineers, we offer a guided slackpacking trail where you can overnight in comfy mountain lodges, have your meals catered for, and backpack portered.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Amphitheatre Hike Enquiry - Drak Destination Listing
 ---

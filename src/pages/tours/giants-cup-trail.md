@@ -161,9 +161,9 @@ popularTour:
   title: Slackpacking Southern Berg - Giants Cup
   description: "A 3 Day slackpacking trail in the lower foothills of the Southern Berg. With comfy farmstays, catering & luggage support - this is a good friend and family hike for novice-intermediate hikers."
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-giants-500.jpg
-  tagline: Take on the Giant
-  title: Slackpacking Southern Berg - Giants Cup
-  description: "A 3 Day slackpacking trail in the lower foothills of the Southern Berg. With comfy farmstays, catering & luggage support - this is a good friend and family hike for novice-intermediate hikers."
+  order: 5
+  image: ../../img/listing/drak-giants.jpg
+  title: Easy Slackpacking in the Southern Berg – Giants Cup
+  description: Following the well-marked trail that runs along the base of the Southern Berg, this 3 day slackpacking hike follows the Giants Cup Trail in the little berg, but overnighting in comfy guesthouses with catering & daily  luggage transfers provided. Without the burden of a heavy pack, enjoy more time to take a swim in a mountain stream, or photograph the wild flowers along the way.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Giants Cup Hike Enquiry – Drak Destination Listing  
 ---

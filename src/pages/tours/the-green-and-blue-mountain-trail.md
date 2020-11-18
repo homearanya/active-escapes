@@ -189,9 +189,9 @@ popularTour:
   title: Fynbos & Winelands - Elgin Valley
   description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
 destinationTour:
-  order: 1
-  image: ../../img/generic/pp-GMtrail-500.jpg
-  tagline: Wine & Fynbos Tapestry
-  title: Fynbos & Winelands - Elgin Valley
-  description: "Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms on a 3 & 4 day hike through the Elgin Valley.  Guided hikes (11 -18km / day) with some exclusive wine tasting's, through the world's first 'biodiversity wine route' "
+  order: 2
+  image: ../../img/listing/wcape-winelands.JPG
+  title: Wine & Fynbos in the Elgin Valley
+  description: Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms. Four star lodgings , fine Cape cuisine and truly enriching guiding. These 3 & 4 day hikes along the Groenlandberg and Elgin valley, are just an hour’s drive from  Cape Town. Daily hike distances range from 11 -18km / day, with some exclusive wine tastings and picnics along the way. The trail is mostly over privately-owned land in the world's first 'biodiversity wine route'.
+  emailLink: mailto:tours@active-escapes.co.za?subject=Elgin Winelands Slackpacker – Western Cape Destination Listing
 ---
