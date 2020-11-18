@@ -16,7 +16,7 @@ subActivity:
   - expedition
 tourName: Vulture Hiking Trail
 slug: vulture-trail
-featuredImage: ../../img/generic/PP-Vulturetrail.JPG
+featuredImage: ../../img/generic/PP-Vulturetrail.jpg
 
 longDescription:
   - This newly launched slackpacking trail allows hikers of moderate fitness to explore a little traversed section of berg wilderness, and get a birds eye view of one of only two Vulture colonies in the Drakensberg. The Cape and Bearded Vultures have made the cliff faces of the Little Drakensberg their home, and it’s a sight to behold.
@@ -87,7 +87,7 @@ itinerary:
         - You should arrive back at Berghouse by early afternoon, with plenty of light to travel home, or stay another night.
 
   images:
-    - src: ../../img/gallery/vulture_viewsite.JPG
+    - src: ../../img/gallery/vulture_viewsite.jpg
       heading: Lunch Break - Day 1
       subHeading: 'With a view of the vultures soaring on the thermals below'
 lodging:
@@ -96,10 +96,10 @@ lodging:
     - 1 Night at <strong>Berghouse Cottages</strong> –  homely, well appointed cottages with some of the best views onto the Amphitheatre range.
     - 1 Night at <strong>Mountain Lodge </strong>– log cabins nestled under sandstone cliffs.
   images:
-    - src: ../../img/gallery/vulture_berghouse2.JPG
+    - src: ../../img/gallery/vulture_berghouse2.jpg
       heading: Cosy room at Berg House Cottages - Night 1
       subHeading: ''
-    - src: ../../img/gallery/vulture_mountaincabins.JPG
+    - src: ../../img/gallery/vulture_mountaincabins.jpg
       heading: Log Cabins at Drak Mountain Lodge - Night 2
       subHeading: 'Framed by sandstone cliffs and spectacular views'
 faq:
@@ -120,23 +120,23 @@ faq:
         - Yes, and we strongly recommend an extra night spent at Mountain lodge where you can take a horse ride, go flyfishing in one of the dams or enjoy the rock swimming pool with stunning views across to the Amphitheatre.
 gallery:
   pictures:
-    - src: ../../img/gallery/vulture_sterkfontein.JPG
+    - src: ../../img/gallery/vulture_sterkfontein.jpg
       caption: Wonderful views across Sterkfontein dam on the first day of the Vulture Hiking Trail.
-    - src: ../../img/gallery/vulture_oldfarmhouse.JPG
+    - src: ../../img/gallery/vulture_oldfarmhouse.jpg
       caption: Remains of an old farmhouse. Sandstone masonry at its best.
-    - src: ../../img/gallery/vulture_mist.JPG
+    - src: ../../img/gallery/vulture_mist.jpg
       caption: Sandstone boulders on day one of the Vulture Trail.
-    - src: ../../img/gallery/vulture_viewsite.JPG
+    - src: ../../img/gallery/vulture_viewsite.jpg
       caption: Lunch spot at the vulture colony – as you watch the Cape Vultures navigate the thermals below.
-    - src: ../../img/gallery/vulture_vultures.JPG
+    - src: ../../img/gallery/vulture_vultures.jpg
       caption: Soaring on the thermals. This colony is only one of two vulture colonies in the Drakensberg.
-    - src: ../../img/gallery/vulture_deckview.JPG
+    - src: ../../img/gallery/vulture_deckview.jpg
       caption: Drak Mountain Lodge, night two of the Vulture trail.
-    - src: ../../img/gallery/vulture_day2.JPG
+    - src: ../../img/gallery/vulture_day2.jpg
       caption: Descent day back to Berghouse cottages.
-    - src: ../../img/gallery/vulture_mountaincabins.JPG
+    - src: ../../img/gallery/vulture_mountaincabins.jpg
       caption: Drak Mountain Lodge
-    - src: ../../img/gallery/vulture_DML_pool.JPG
+    - src: ../../img/gallery/vulture_DML_pool.jpg
       caption: A refreshing dip in this mountain pool - Drak Mountain Lodge
 
 price:
@@ -166,7 +166,7 @@ popularTour:
   description: 'Overnighting in high mountain cabins, this newly launched slackpacker, offers a birds-eye view of one of only two vulture colonies in the Drakensberg. Just 3hrs drive from the major airports, this trail offers the perfect long weekend getaway from Joburg and Durbs.'
 destinationTour:
   order: 2
-  image: ../../img/listing/drak-vulture.JPG
+  image: ../../img/listing/drak-vulture.jpg
   title: Soar with the Vultures – Northern Drakensberg
   description: 'Overnighting in high mountain cabins, this newly launched slackpacker, offers a birds-eye view of one of only two vulture colonies in the Drakensberg. Just 3hrs drive from the major airports, this trail offers the perfect long weekend getaway from Joburg and Durbs.'
   emailLink: mailto:tours@active-escapes.co.za?subject=Vulture Hike Enquiry – Drak Destination Listing

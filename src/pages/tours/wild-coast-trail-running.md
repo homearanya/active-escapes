@@ -110,7 +110,7 @@ lodging:
     - Double, Twin and family room options are available. <strong>Single supplement</strong> will apply if you specifically request your own room.
 
   images:
-    - src: ../../img/gallery/HH_WC.JPG
+    - src: ../../img/gallery/HH_WC.jpg
       heading: Wavecrest Hotel at first light
       subHeading: null
 
@@ -137,27 +137,27 @@ gallery:
   pictures:
     - src: ../../img/gallery/WC-TR-sea.jpg
       caption: Running wild with your significant other – a very bonding experience
-    - src: ../../img/gallery/WC-TR-Mbay cliffs.JPG
+    - src: ../../img/gallery/WC-TR-Mbay cliffs.jpg
       caption: The trail hugs the spectacular Morgan Bay cliffs.
-    - src: ../../img/gallery/HH_WC.JPG
+    - src: ../../img/gallery/HH_WC.jpg
       caption: Wavecrest hotel chalets at first light.
     - src: ../../img/gallery/WC-TR-grp.jpg
       caption: Get your buddies together and come running on the Wild Side.
-    - src: ../../img/gallery/HH-headlands.JPG
+    - src: ../../img/gallery/HH-headlands.jpg
       caption: The headlands south of Morgan Bay – Double Mouth and Haga Haga lie beyond.
-    - src: ../../img/gallery/HH_ngunicows.JPG
+    - src: ../../img/gallery/HH_ngunicows.jpg
       caption: D’em cows on the beach becomes a normalised sight after a few days on the Lower Wild Coast Hotel-Hopping trail
-    - src: ../../img/gallery/WC-TR-forest.JPG
+    - src: ../../img/gallery/WC-TR-forest.jpg
       caption: Some of the trail wanders through cool dune forest – a welcome reprieve.
     - src: ../../img/gallery/WC-TR-sky.jpg
       caption: Big sky, high dunes.
-    - src: ../../img/gallery/WC-TR-rocks.JPG
+    - src: ../../img/gallery/WC-TR-rocks.jpg
       caption: On a spring low tide, the beaches become hard and fast.
     - src: ../../img/gallery/WC-TR-girls.jpg
       caption: Nothing beats a break with your beastie. Running wild and free on the lower Wild Coast.
-    - src: ../../img/gallery/HH_jacuzzi.JPG
+    - src: ../../img/gallery/HH_jacuzzi.jpg
       caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
-    - src: ../../img/gallery/HH_estuary.JPG
+    - src: ../../img/gallery/HH_estuary.jpg
       caption: null
 price:
   heading: 4 Night / 3 Day Trail Run

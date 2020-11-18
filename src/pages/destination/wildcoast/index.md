@@ -6,7 +6,7 @@ meta:
 destinationName: Wild Coast
 code: wildcoast
 banner:
-  image: '../../../img/banner/dest-wildcoast.JPG'
+  image: '../../../img/banner/dest-wildcoast.jpg'
   heading: The Wild Coast
   subHeading: Walk and Ride on the Wilder Side
 intro:
@@ -21,7 +21,7 @@ intro:
     icon: ../../../img/icons/ico-landing-hiking.svg
 customListings:
   - order: 1
-    image: ../../../img/listing/WC-hikes.JPG
+    image: ../../../img/listing/WC-hikes.jpg
     title: Wild Coast Hiking Trails
     description: The Wild Coast is a hiker's paradise. Starting from Port Edward in the north all the way down to Cintsa, Active Escape's offers a full spectrum of hiking & slackpacking trails to suit all levels of fitness, budget and time constraints. From hotel-hopping to overnight's in traditional village homestays, we'll tailor-make a hiking trip to suit your needs and interests.
     link: /destination/wildcoast/hiking-trails/

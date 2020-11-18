@@ -8,7 +8,7 @@ activity:
   - name: family
     featured: 1
     listing:
-      image: ../../img/listing/family-zing.JPG
+      image: ../../img/listing/family-zing.jpg
       title: Tugela Bush Camp
       subtitle: Plug out and reconnect
       description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
@@ -22,28 +22,28 @@ activity:
   - name: mountainbiking
     featured: 0
     listing:
-      image: ../../img/listing/nature-zing.JPG
+      image: ../../img/listing/nature-zing.jpg
       title: Tugela Bush Camp
       subtitle: Plug out and reconnect
       description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
   - name: nature
     featured: 1
     listing:
-      image: ../../img/listing/nature-zing.JPG
+      image: ../../img/listing/nature-zing.jpg
       title: Tugela Bush Camp
       subtitle: Plug out and reconnect
       description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
   - name: running
     featured: 1
     listing:
-      image: ../../img/listing/nature-zing.JPG
+      image: ../../img/listing/nature-zing.jpg
       title: Tugela Bush Camp
       subtitle: Plug out and reconnect
       description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
   - name: retreats
     featured: 1
     listing:
-      image: ../../img/listing/nature-zing.JPG
+      image: ../../img/listing/nature-zing.jpg
       title: Tugela Bush Camp
       subtitle: Plug out and reconnect
       description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as river rafting and abseiling, you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
@@ -135,7 +135,7 @@ itinerary:
         - 12pm - Depart or transfer back to Weenen
 
   images:
-    - src: ../../img/gallery/zing_trailrunning.JPG
+    - src: ../../img/gallery/zing_trailrunning.jpg
       heading: Trail Running past Sunset Rock
       subHeading: Over 50kms of handcrafted trail exists - built for Zingela's annual trail-run event, but kindly maintained by game and the dedicated trailblazing team.
     - src: ../../img/gallery/zing_retreat3.jpg
@@ -155,10 +155,10 @@ lodging:
     - 'Our master builders have worked with local materials: boulders, trees, reeds and a little concrete and canvas to make each ‘unit’ naturally distinctive.'
 
   images:
-    - src: ../../img/gallery/zing_hitchens.JPG
+    - src: ../../img/gallery/zing_hitchens.jpg
       heading: Hitchen Honeymoon Suite
       subHeading: Rock forms a natural bedhead
-    - src: ../../img/gallery/zing_aloes-familyunit.JPG
+    - src: ../../img/gallery/zing_aloes-familyunit.jpg
       heading: Aloes Family Unit
       subHeading: Where a warm shower under a Tamboti, offers the perfect start to your day
 
@@ -178,31 +178,31 @@ faq:
         - If you are a group of 8 or more, we can organise a Yoga or Special-Interest retreat for you on any weekend - availabilty permitting with the lodge and our instructors. We also going to schedule a couple of 'holistic' retreats during the course of the year so that singles and small groups can join. Another Yoga-Meditation-Nature retreat will be on the cards again, along with Mother-Daughter, Women's Fishing, Nutrition and Couples Retreats. Please drop us a mail if you interested in attending such.
 gallery:
   pictures:
-    - src: ../../img/gallery/zing_aloe-trail.JPG
+    - src: ../../img/gallery/zing_aloe-trail.jpg
       caption: Animal paths provide a natural trail network, with a little bit of rock clearing from the trail blazers.
     - src: ../../img/gallery/zing_flyfishing.jpg
       caption: During winter months, the Tugela River cleans up considerably and fishing for the Natal Yellow fish becomes a key attraction.
-    - src: ../../img/gallery/zing_mtb2.JPG
+    - src: ../../img/gallery/zing_mtb2.jpg
       caption: Blaaukrantz hill - a daring climb or a dare-devil descent
-    - src: ../../img/gallery/zing_sunrock.JPG
+    - src: ../../img/gallery/zing_sunrock.jpg
       caption: Sundowners or meditation time at Sunset Rock, just a short scramble above the lodge.
-    - src: ../../img/gallery/zing_campchat.JPG
+    - src: ../../img/gallery/zing_campchat.jpg
       caption: 'Tugela Bush Camp provides a unique venue for celebrating special occasions: birthdays, weddings, family reunions'
     - src: ../../img/gallery/zing_HOH.jpg
       caption: The last rays of light on a summers eve – House on the Hill, Tugela Bush Camp
-    - src: ../../img/gallery/zing_road.JPG
+    - src: ../../img/gallery/zing_road.jpg
       caption: Take a dirt road….. See where it leads
-    - src: ../../img/gallery/zing_trailrunning.JPG
+    - src: ../../img/gallery/zing_trailrunning.jpg
       caption: Find a trail that takes your breath away
-    - src: ../../img/gallery/zing_sunset.JPG
+    - src: ../../img/gallery/zing_sunset.jpg
       caption: And if that doesn’t….then the view absolutely should.
     - src: ../../img/gallery/zing_dawsonscreek.jpg
       caption: Dawsons - one of the lovely 'Larney Lane' units - double outdoor shower...of course
-    - src: ../../img/gallery/zing_boat-on-river.JPG
+    - src: ../../img/gallery/zing_boat-on-river.jpg
       caption: Merrily, merrily down the stream, life is but a dream.
-    - src: ../../img/gallery/zing_abseil.JPG
+    - src: ../../img/gallery/zing_abseil.jpg
       caption: Abseil Rock
-    - src: ../../img/gallery/zing_badlands.JPG
+    - src: ../../img/gallery/zing_badlands.jpg
       caption: One of the 'Badlands' units - built from local stone, thatch and reeds by our valley master builders.
     - src: ../../img/gallery/zing_retreat1.jpg
       caption: Yoga & Meditation Retreats can be organised on a private request basis or look out for our scheduled weekends
@@ -253,7 +253,7 @@ popularTour:
   description: "Whether its adventure, nature, or relaxation you after, the surrounds & company of Tugela Bushcamp offer the perfect tonic. From birding & fishing to 4x4'ing, mtb-biking, river rafting and trail-running, and newly launched nature and yoga-focused ‘Retreats’"
 destinationTour:
   order: 1
-  image: ../../img/listing/tugela-bushcamp.JPG
+  image: ../../img/listing/tugela-bushcamp.jpg
   title: Tugela Bush Camp
   description: Wake to the call of a fish-eagle, partake in early morning game walks, sunbathe on one of the giant boulders in front of camp, or unwind with sundowners, a roaring campfire, open-air dining and evening skies awash with stars. From fly-fishing and birding to more adventurous pursuits such as 4x4'ing, river rafting and abseiling …. you'll never run short of things to do at this eco-camp nestled in the heart of the Tugela valley.
   emailLink: mailto:tours@active-escapes.co.za?subject=Tugela Bushcamp Enquiry – KZN Interior

@@ -106,7 +106,7 @@ lodging:
     - <strong>Friendly Backpackers</strong> – usually have some double rooms otherwise small dorms for your group to share.
     - <strong>Community homestay</strong> - bedding & meals provided.
   images:
-    - src: ../../img/gallery/cb-bul_lubanzi.JPG
+    - src: ../../img/gallery/cb-bul_lubanzi.jpg
       heading: Private Double - Backpacker Room
       subHeading: 'We try to book double or twin rooms, otherwise small private dorms for groups'
     - src: ../../img/gallery/cb-bul_dining.jpg

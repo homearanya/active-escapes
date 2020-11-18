@@ -107,7 +107,7 @@ lodging:
     - <strong>Community homestay</strong> - bedding & meals provided.
     - <strong>Family hotel</strong> - 3 course dinners and old-world entertainment like a game of darts or pool.
   images:
-    - src: ../../img/gallery/cb-bul_lubanzi.JPG
+    - src: ../../img/gallery/cb-bul_lubanzi.jpg
       heading: Private Double - Backpacker Room
       subHeading: 'We try to book double or twin rooms, otherwise small private dorms for groups'
     - src: ../../img/gallery/cb-bul_dining.jpg
@@ -143,7 +143,7 @@ gallery:
       caption: A bay at sunset on the Coffee Bay - Haven Hiking trail.
     - src: ../../img/gallery/CB-Haven_HIW.jpg
       caption: Hole-in-the-Wall. First day of the Coffee Bay – Haven hiking trail.
-    - src: ../../img/gallery/CB-haven_lighthouse.JPG
+    - src: ../../img/gallery/CB-haven_lighthouse.jpg
       caption: View of the lighthouse confirms you are close to your final destination – the Haven Hotel.
     - src: ../../img/gallery/CB-Haven_beach.jpg
       caption: Calm bays and Ocean Blue - near Hole in the Wall

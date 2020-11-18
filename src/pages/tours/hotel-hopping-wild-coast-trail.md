@@ -8,7 +8,7 @@ activity:
   - name: hiking
     featured: 2
     listing:
-      image: ../../img/listing/WCH-hotel-hopper.JPG
+      image: ../../img/listing/WCH-hotel-hopper.jpg
       title: Lower Wild Coast Hotel-Hopper
       subtitle: Pristine beaches with hotel comforts at the end of the day
       description: "If your idea of a hiking holiday is as much about the chilled wine, a comfy bed and a seafood dinner, then the Lower Wild Coast Hotel-Hopping trail should be right up your alley. We can tailor the hike to your group's time constraints, from a 2 day weekend-break to a 6 night trail starting at Kob Inn and finishing at Cintsa."
@@ -16,7 +16,7 @@ subActivity:
   - slackpacking
 tourName: Hotel-Hopping Wild Coast
 slug: hotel-hopping-wild-coast-trail
-featuredImage: ../../img/generic/PP_hotelhopper.JPG
+featuredImage: ../../img/generic/PP_hotelhopper.jpg
 
 longDescription:
   - If your idea of a hiking holiday is as much about the chilled wine, a comfy bed and a seafood dinner, then the Lower Wild Coast Hotel-Hopper is your trail.
@@ -108,7 +108,7 @@ itinerary:
         - Breakfast incl. Leave in own vehicles left in Morgan Bay or transfer provided back to EL airport.
 
   images:
-    - src: ../../img/gallery/HH_estuarycruise.JPG
+    - src: ../../img/gallery/HH_estuarycruise.jpg
       heading: Nxaxo River Cruise - Wavecrest
       subHeading: 'Tide-permitting, a sunset cruise us the Nxaxo estuary, offers the perfect tonic to the end of good days hike.'
 
@@ -119,7 +119,7 @@ lodging:
     - Double, Twin and family room options are available. <strong>Single supplement</strong> will apply if you specifically request your own room.
     - Our hiking groups are given the nicest rooms availabilty permitting, but there are upgrade options available at some of the hotels - on request.
   images:
-    - src: ../../img/gallery/HH_crawfordcabins.JPG
+    - src: ../../img/gallery/HH_crawfordcabins.jpg
       heading: Crawford Cabins, Cintsa
       subHeading: 'Final night of the Sunshine Hotel-Hopping trail'
 
@@ -139,35 +139,35 @@ faq:
         - We include and cost for a group transfer/shuttle from either the end point of the hike to the start (usually done at the beginning so you hike back to your vehicle) OR return airport transfers (to/from East London airport). Groups need to co-ordinate their flight arrival times. On larger groups, it is possible to do multiple transfers but you will pay for the additional transfers required. It is also possible to collect some of the group from the airport and the rest from the hike end-point, but  additional 'detour' charges will apply.
 gallery:
   pictures:
-    - src: ../../img/gallery/HH_Wcrest_deck.JPG
+    - src: ../../img/gallery/HH_Wcrest_deck.jpg
       caption: Kicking back on the Wavecrest deck, after hiking in from Mazeppa.
-    - src: ../../img/gallery/HH_WC.JPG
+    - src: ../../img/gallery/HH_WC.jpg
       caption: Wavecrest hotel chalets at first light.
     - src: ../../img/gallery/HH-wavecrash.jpg
       caption: Spectacular wave explosion on the Southern Wild Coast near Haga Haga
-    - src: ../../img/gallery/HH-headlands.JPG
+    - src: ../../img/gallery/HH-headlands.jpg
       caption: The headlands south of Morgan Bay – Double Mouth and Haga Haga lie beyond.
-    - src: ../../img/gallery/HH_wcrest deckpool.JPG
+    - src: ../../img/gallery/HH_wcrest deckpool.jpg
       caption: The ebb and flow of the Nxaxo estuary at Wavecrest, Southern Wild Coast.
-    - src: ../../img/gallery/HH_pristinebeach.JPG
+    - src: ../../img/gallery/HH_pristinebeach.jpg
       caption: Much of the southern Wild Coast consists of long stretches of beach – perfect for breaking out a gallop or easy walking especially on an outgoing tide.
-    - src: ../../img/gallery/HH_Cebedunes.JPG
+    - src: ../../img/gallery/HH_Cebedunes.jpg
       caption: Lost in time  in the dunes between Cebe and Wavecrest. There are also some most interesting geological finds here.
-    - src: ../../img/gallery/HH_pool.JPG
+    - src: ../../img/gallery/HH_pool.jpg
       caption: The sparkling blue pool at Crawfords Beach Lodge provides just the medicine for weary limbs
-    - src: ../../img/gallery/HH_ngunicows.JPG
+    - src: ../../img/gallery/HH_ngunicows.jpg
       caption: D’em cows on the beach becomes a normalised sight after a few days on the Lower Wild Coast Hotel-Hopping trail
-    - src: ../../img/gallery/HH_Trennerys.JPG
+    - src: ../../img/gallery/HH_Trennerys.jpg
       caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail.
-    - src: ../../img/gallery/HH_jacuzzi.JPG
+    - src: ../../img/gallery/HH_jacuzzi.jpg
       caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
     - src: ../../img/gallery/HH-lunch.jpg
       caption: Hikers can look forward to some scrumptious dining after a day on the trail. Open air dining.
-    - src: ../../img/gallery/HH_estuary.JPG
+    - src: ../../img/gallery/HH_estuary.jpg
       caption: null
-    - src: ../../img/gallery/HH_Mbay cliffs.JPG
+    - src: ../../img/gallery/HH_Mbay cliffs.jpg
       caption: null
-    - src: ../../img/gallery/HH_cruise.JPG
+    - src: ../../img/gallery/HH_cruise.jpg
       caption: null
 
 price:

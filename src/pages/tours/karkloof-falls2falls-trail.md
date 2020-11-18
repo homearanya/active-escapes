@@ -94,7 +94,7 @@ itinerary:
         - It is with heavy legs but happy hearts, that our journey comes to an end overlooking the cascading waters of the iconic Howick Falls.
         - Depart after lunch
   images:
-    - src: ../../img/gallery/F2F_greymares.JPG
+    - src: ../../img/gallery/F2F_greymares.jpg
       heading: A top Gray Mares Waterfall- Karkloof
       subHeading: null
 
@@ -129,17 +129,17 @@ gallery:
   pictures:
     - src: ../../img/gallery/F2F_autumn.jpg
       caption: The golden hues of Autumn in the KZN Midlands
-    - src: ../../img/gallery/F2F_forest.JPG
+    - src: ../../img/gallery/F2F_forest.jpg
       caption: Many of the paths are through old montane forests
-    - src: ../../img/gallery/F2F_greymares.JPG
+    - src: ../../img/gallery/F2F_greymares.jpg
       caption: The top of Grey Mares waterfall offers a birds eye view across the Karkloof.
-    - src: ../../img/gallery/F2F_family.JPG
+    - src: ../../img/gallery/F2F_family.jpg
       caption: On a private tour, distances and routes can be adjusted to suite a younger family.
     - src: ../../img/gallery/F2F_stream.jpg
       caption: Bubbling brooks in the Karkloof valley
-    - src: ../../img/gallery/F2F_pool.JPG
+    - src: ../../img/gallery/F2F_pool.jpg
       caption: Fill your bottle with spring water direct from the source.
-    - src: ../../img/gallery/F2F_karkloofalls.JPG
+    - src: ../../img/gallery/F2F_karkloofalls.jpg
       caption: The spectacular Karkloof Waterfall
     - src: ../../img/gallery/f2f_thistle.jpg
       caption: Karkloof Guesthouse, Thistledown
@@ -175,7 +175,7 @@ popularTour:
   description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
 destinationTour:
   order: 2
-  image: ../../img/listing/midlands-falls2falls.JPG
+  image: ../../img/listing/midlands-falls2falls.jpg
   title: Karkloof Falls 2 Falls Hiking Trail
   descriptionInParagraphs:
     - Hike through giant yellowwood forests and mist-belt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Karkloof Falls2Falls 3-day slackpacking hike is an all-inclusive trek encompassing some of the most picturesque and hidden parts of the Midlands countryside.

@@ -32,31 +32,31 @@ byDestinationSection:
       description: Walking the Wild Coast is the surest way of easing into the Transkei vibe. From village homestays to hotel lays, with tented camps and traditional backpackers along the way, we cover the entire stretch of Wild Coast with trail options to suit all levels of fitness and comfort.
       link: '/destination/wildcoast/hiking-trails/'
     - destination: kosibay
-      image: ../../img/listing/activity-kosi-hiking.JPG
+      image: ../../img/listing/activity-kosi-hiking.jpg
       heading: Kosi Bay Walks
       subHeading: Lakes and lagoons, beaches and creatures
       description: Fern and swamp forests, coastal lakes, high dunes and secluded beaches. The diverse biomes on the Kosi Bay Slackpacker allow one to go swimming with dolphins one day and birding from dugout canoes the next. Here are some great hike options for families and friends
       link: '/destination/kosibay/'
     - destination: drakensberg
-      image: ../../img/listing/activity-drak-hiking.JPG
+      image: ../../img/listing/activity-drak-hiking.jpg
       heading: Drakensberg Hikes
       subHeading: Soaring with the vultures
       description: The Drakensberg mountains provide lofty terrain for walkers. Our Amphitheatre Trail (link to product page) will get you to the top without sleeping in tents or caves, whilst the Vulture trail (link to product page)  provides a more gentle amble in the lower foothills.
       link: '/destination/drakensberg/'
     - destination: westerncape
-      image: ../../img/listing/activity-wcape-hiking.JPG
+      image: ../../img/listing/activity-wcape-hiking.jpg
       heading: Western Cape
       subHeading: Wine and fynbos at the heart of culture
       description: Famed for its culture, wine, mountains and expansive ocean vantage, the western cape offers an exciting range of slackpacking and hiking trails which feature the best of the fair Cape.
       link: '/destination/westerncape/'
     - destination: easterncape
-      image: ../../img/listing/activity-echighlands-hiking.JPG
+      image: ../../img/listing/activity-echighlands-hiking.jpg
       heading: Eastern Cape Highlands
       subHeading: Wild Mountain territory
       description: The wild mountains around Rhodes and Barkly East provide a tranquil escape from fast city life. Relax with a glass of Glühwein by a log fire in winter, or enjoy an invigorating swim in a mountain stream by summer, the Eastern Cape highlands has a bounty of pleasures to discover.
       link: '/destination/easterncape/'
     - destination: freestate
-      image: ../../img/listing/activity-clarens-hiking.JPG
+      image: ../../img/listing/activity-clarens-hiking.jpg
       heading: Clarens Traverse - Free State
       subHeading: Conversing with the San
       description: 'Detour off the N3 and discover high berg wilderness and cultural treasures. The Clarens area is famous for its fine restaurants, quirky art cafes and more recently: its well preserved dinosaur fossils and San Rock Art. Our new 3 day slackpacking trail in the area will enable you to discover all these gems and more.'

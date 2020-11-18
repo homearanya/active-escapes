@@ -6,7 +6,7 @@ meta:
 destinationName: Free State
 code: freestate
 banner:
-  image: ../../img/banner/dest-freestate.jpeg
+  image: ../../img/banner/dest-freestate.jpg
   heading: A Free'r State of Being
   subHeading: On the Sans Clarens Traverse
 intro:

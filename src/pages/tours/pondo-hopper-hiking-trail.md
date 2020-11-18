@@ -8,7 +8,7 @@ activity:
   - name: hiking
     featured: 5
     listing:
-      image: ../../img/listing/WCH-Pondo-Hopper.JPG
+      image: ../../img/listing/WCH-Pondo-Hopper.jpg
       title: Pondo-Hopper Trails (Fully supported)
       subtitle: 'Catered version of the Explorer:  Msikaba - Mbotyi - PSJ'
       description: This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding and meals are catered for and your luggage is transferred from camp to camp by vehicle. This hike can be offered to groups of 2-24 persons, outside of the peak school holidays. A great option for groups who'd like to have ALL their planning and logistics taken care of.
@@ -103,7 +103,7 @@ itinerary:
         - 'Trail Highlights: Dome Bluff, golden miles of beach through to Poenskop'
         - 'ETA: Groups arrive back in PSJ from midday to early afternoon'
   images:
-    - src: ../../img/gallery/pondohopper-estuary.JPG
+    - src: ../../img/gallery/pondohopper-estuary.jpg
       heading: null
       subHeading: null
 lodging:
@@ -113,7 +113,7 @@ lodging:
     - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower. Central kitchen & dining boma where meals will be provided.
 
   images:
-    - src: ../../img/gallery/pondohopper-breakfast.JPG
+    - src: ../../img/gallery/pondohopper-breakfast.jpg
       heading: Breakfast at Ntafufu Tented Camp
       subHeading: null
     - src: ../../img/gallery/pondohopper-bluff2.jpg
@@ -147,17 +147,17 @@ gallery:
       caption: The view from ‘Drews Camp’ down to Shelly beach is a sight to behold.
     - src: ../../img/gallery/pondohopper-luphut.jpg
       caption: The tented camps comprise of safari style tents on wooden platforms, with thatch roofs, to keep cool. All have their own ensuite.
-    - src: ../../img/gallery/pondohopper-estuary.JPG
+    - src: ../../img/gallery/pondohopper-estuary.jpg
       caption: There are many stunning estuaries along this stretch of coastline. There are canoes at Msikaba, Manteku and Ntafufu estuaries for the intrepid to explore.
     - src: ../../img/gallery/pondohopper-cathedralselfie.jpg
       caption: Cathedral peak  - a free standing rock stack – is one of the geological wonders along the route.
-    - src: ../../img/gallery/pondoexplore-cathedralrock.JPG
+    - src: ../../img/gallery/pondoexplore-cathedralrock.jpg
       caption: The iconic Cathedral Rock – a freestanding rock stack – Day 2 of the Pondo-Explorer trail.
-    - src: ../../img/gallery/pondoexplore_milkwoods.JPG
+    - src: ../../img/gallery/pondoexplore_milkwoods.jpg
       caption: The milkwood forests make for a perfect lunch stop enroute.
-    - src: ../../img/gallery/pondohopper-breakfast.JPG
+    - src: ../../img/gallery/pondohopper-breakfast.jpg
       caption: Breakfast awaits at Ntafufu tented camp.
-    - src: ../../img/gallery/pondohopper_boats.JPG
+    - src: ../../img/gallery/pondohopper_boats.jpg
       caption: The final ferry crossing over the Mzimvubu river, Port St Johns.
     - src: ../../img/gallery/pondohopper-aloes.jpg
       caption: Aloes provide a vibrant splash of colour during winter months.

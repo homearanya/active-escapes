@@ -6,7 +6,7 @@ meta:
 destinationName: Eastern Cape
 code: easterncape
 banner:
-  image: ../../img/banner/dest-EChighlands.JPG
+  image: ../../img/banner/dest-EChighlands.jpg
   heading: Eastern Cape
   subHeading: Hiking & Cycling in Wild Mountain & Coastal Territory
 intro:

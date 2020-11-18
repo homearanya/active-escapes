@@ -26,7 +26,7 @@ taylorMadeSection:
   heading: This is the heading
   subHeading: This is the subHeading
   options:
-    - image: ../../../img/listing/WCH-tailor-made.JPG
+    - image: ../../../img/listing/WCH-tailor-made.jpg
       title: Tailor Made Wild Coast Adventures
       subTitle: You plot, we’ll plan
       description: Having walked every kilometre of the Wild Coast, we can provide sound advice on trail routes and options.  If you wanted to hike the entire Wild Coast as a corporate or personal challenge – we can arrange it. If there is a section of coastline that you'd like to hike and is not covered by any of our standard offerings, then why not drop us a line and we'll see if we can make it happen.

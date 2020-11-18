@@ -16,7 +16,7 @@ const GallerySection = () => {
     photo9,
   } = useStaticQuery(graphql`
     query {
-      photo1: file(relativePath: { eq: "gallery/img-01-hiking.JPG" }) {
+      photo1: file(relativePath: { eq: "gallery/img-01-hiking.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
@@ -32,7 +32,7 @@ const GallerySection = () => {
         }
         publicURL
       }
-      photo3: file(relativePath: { eq: "gallery/img-03-rafting.JPG" }) {
+      photo3: file(relativePath: { eq: "gallery/img-03-rafting.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
@@ -64,7 +64,7 @@ const GallerySection = () => {
         }
         publicURL
       }
-      photo7: file(relativePath: { eq: "gallery/img-07-kosi.JPG" }) {
+      photo7: file(relativePath: { eq: "gallery/img-07-kosi.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
@@ -80,7 +80,7 @@ const GallerySection = () => {
         }
         publicURL
       }
-      photo9: file(relativePath: { eq: "gallery/img-08-westerncape.JPG" }) {
+      photo9: file(relativePath: { eq: "gallery/img-08-westerncape.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
