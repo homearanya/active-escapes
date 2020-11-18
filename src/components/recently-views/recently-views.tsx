@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import { useCookies } from 'react-cookie'
@@ -7,6 +7,7 @@ import ActivitiesList from '../activities-list'
 
 const RecentlyViews = () => {
   const [cookies] = useCookies(['recently-views'])
+  const [{ tours, allTours }, setTours] = useState({ tours: [], allTours: [] })
   const {
     tours: { edges },
   } = useStaticQuery(graphql`
@@ -69,24 +70,24 @@ const RecentlyViews = () => {
       }
     }
   `)
-  let tours
-  if (!cookies['recently-views']) {
-    tours = []
-  } else {
-    tours = cookies['recently-views']
-  }
-  const allTours = useMemo(
-    () =>
-      edges
-        .filter(({ node }) =>
-          tours.find((tour) => tour === node.frontmatter.slug),
-        )
-        .reduce((acc, { node }) => {
-          acc[node.frontmatter.slug] = node
-          return acc
-        }, {}),
-    edges,
-  )
+  useEffect(() => {
+    let tours
+    if (!cookies['recently-views']) {
+      tours = []
+    } else {
+      tours = cookies['recently-views']
+    }
+    const allTours = edges
+      .filter(({ node }) =>
+        tours.find((tour) => tour === node.frontmatter.slug),
+      )
+      .reduce((acc, { node }) => {
+        acc[node.frontmatter.slug] = node
+        return acc
+      }, {})
+    setTours({ tours, allTours })
+  }, [edges])
+
   return (
     <aside className="recent-block recent-list recent-wide-thumbnail">
       <div className="container">
