@@ -6,7 +6,7 @@ meta:
 destinationName: KZN Interior
 code: kzn_interior
 banner:
-  image: ../../img/banner/dest-tugela.JPG
+  image: ../../img/banner/dest-tugela.jpg
   heading: Inside KwaZulu-Natal
   subHeading: Bushveld and Battlefields – the Explorer's Playground
 intro:

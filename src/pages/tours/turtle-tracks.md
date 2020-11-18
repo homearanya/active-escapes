@@ -100,7 +100,7 @@ itinerary:
         - '** Or stay an extra night'
 
   images:
-    - src: ../../img/gallery/TT-raffiapontcross.JPG
+    - src: ../../img/gallery/TT-raffiapontcross.jpg
       heading: Raffia Pont Crossing
       subHeading: 'On the Siyadla river leading into fourth lake'
     - src: ../../img/gallery/TT_firstlake.jpg
@@ -149,7 +149,7 @@ gallery:
       caption: The beautifully renovated Gugulisizwe Camp
     - src: ../../img/gallery/TT_kosilakeswim.jpg
       caption: A chilled vino in First Lake, the Turtle Trails hike
-    - src: ../../img/gallery/TT_fishkraals.JPG
+    - src: ../../img/gallery/TT_fishkraals.jpg
       caption: Learning about traditional Thonga fishing techniques
     - src: ../../img/gallery/TT_Gugsrooms.jpg
       caption: Colourfully decorated and spacious rooms at Gugulisizwe Camp – Night 3 of the Turtle Tracks trail.

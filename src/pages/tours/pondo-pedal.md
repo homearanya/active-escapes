@@ -8,7 +8,7 @@ activity:
   - name: mountainbiking
     featured: 1
     listing:
-      image: ../../img/listing/activity-pondo-pedal.JPG
+      image: ../../img/listing/activity-pondo-pedal.jpg
       title: Pondo-Pedal Weekender
       subtitle: Accessible wild ride experience
       description: Our 3-day Pondo-Pedal packs the adventure of Wild Coast riding into a cost-effective long weekend. Starting at the Wild Coast Casino, the trail makes its way to Mtentu camp - an ideal base for exploring Mkambati Nature Reserve, before cycling back to Port Edward via a different route. Beach riding, organic single-track and Wild Coast vibes, just 2hrs drive from Durban.
@@ -16,7 +16,7 @@ subActivity:
   - mountainbiking
 tourName: Pondo-Pedal Mountain Bike Tour
 slug: pondo-pedal
-featuredImage: ../../img/generic/PP-pondopedal.JPG
+featuredImage: ../../img/generic/PP-pondopedal.jpg
 longDescription:
   - The Pondo-Pedal Mountain Bike tour is the perfect tour to cut your teeth on if you looking for a whetting of wild coast trail riding, and are a little short of leave, or looking for a stepping stone to the Lower Wild Coast MTB Adventure.
   - Starting out at the Wild Coast Casino (Port Edward), you’ll cycle to Mtentu Lodge. Spend a free day paddling up the gorgeous Mtentu estuary, swimming under forgotten falls in Mkambati Nature reserve or cycling through to Msikaba.
@@ -84,7 +84,7 @@ itinerary:
         - If you did more beach riding on the way-in, you can chose a more  inland route on the return - passing villages and waterfalls. (35-45km depending on route taken) - in discussion with guide and wind / tide permitting.
 
   images:
-    - src: ../../img/gallery/pondopedal_red.JPG
+    - src: ../../img/gallery/pondopedal_red.jpg
       heading: Exploring the Red Dunes
       subHeading: 'Near Xolobeni village on the ride through to Mtentu. These culturally significant dunes are one of the proposed mining sites being heavily objected to by the local community.'
 
@@ -95,7 +95,7 @@ lodging:
     - Each chalet sleeps 4 persons (twin front room, and adult bunk bed in back room).
     - Communal showers & toilets. Central dining area and bar.
   images:
-    - src: ../../img/gallery/pondopedal_Mtentu.JPG
+    - src: ../../img/gallery/pondopedal_Mtentu.jpg
       heading: Mtentu Lodge
       subHeading: 'The cabins are connected to one another by wooden boardwalk'
 
@@ -116,21 +116,21 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/pondopedal_village.JPG
+    - src: ../../img/gallery/pondopedal_village.jpg
       caption: The inland route, following cattle paths, takes you through local villages and grasslands.
-    - src: ../../img/gallery/pondopedal_red-desert.JPG
+    - src: ../../img/gallery/pondopedal_red-desert.jpg
       caption: The red desert – a place of great cultural significance to the local Pondo villagers and under threat from proposed dune mining.
-    - src: ../../img/gallery/pondopedal_sunset.JPG
+    - src: ../../img/gallery/pondopedal_sunset.jpg
       caption: An early start may be optimal based on the tides.
-    - src: ../../img/gallery/pondopedal-estuary.JPG
+    - src: ../../img/gallery/pondopedal-estuary.jpg
       caption: Riders at Mzamba Estuary – Day 1 of the Pondo-pedal.
-    - src: ../../img/gallery/pondopedal_welcome.JPG
+    - src: ../../img/gallery/pondopedal_welcome.jpg
       caption: A warm welcome – Pondo pedalling.
-    - src: ../../img/gallery/pondopedal-Jan.JPG
+    - src: ../../img/gallery/pondopedal-Jan.jpg
       caption: Some portaging is inevitable on a Wild Coast ride.
-    - src: ../../img/gallery/pondopedal_mtentuestuary.JPG
+    - src: ../../img/gallery/pondopedal_mtentuestuary.jpg
       caption: The Mtentu Estuary is your playground for your ‘free’ day between cycling.
-    - src: ../../img/gallery/pondopedal_shebeen.JPG
+    - src: ../../img/gallery/pondopedal_shebeen.jpg
       caption: Nothing like a refreshment stop at a local spaza store.
 
 price:
@@ -165,7 +165,7 @@ popularTour:
   description: 'Our 3 day Pondo-Pedal packs the adventure of Wild Coast riding into an accessible long weekend. From Port Edward to Mtentu, cycle along the beach one way and explore the inland villages and waterfalls on return. Guided with luggage support, or opt for the self-supported version.'
 destinationTour:
   order: 0.1
-  image: ../../img/listing/WC-pondopedal.JPG
+  image: ../../img/listing/WC-pondopedal.jpg
   title: Pondo-Pedal Weekender
   description: The Pondo-Pedal mountain bike trip is the perfect trip to cut your teeth on, if you looking for a whetting of wild coast trail riding over a long weekend. Starting at the Wild Coast casino (Port Edward), you'll cycle to Mtentu Lodge. A free day can be spent paddling up the gorgeous Mtentu estuary, or swimming under forgotten falls in Mkambati Nature reserve, before cycling back to the Wild Coast casino via a different route. Depending on the time and tides, we'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
   emailLink: mailto:tours@active-escapes.co.za?subject=Pondo-pedal – Wild Coast Destination Listing

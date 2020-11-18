@@ -91,7 +91,7 @@ lodging:
     - 1 Night at <strong>Eco-Camp</strong> in the Northern Berg valley (2 Night trail)
     - 1 Night at <strong>Mountain Lodge</strong> – log cabins nestled under the sandstone cliffs (1 & 2 night trail)
   images:
-    - src: ../../img/gallery/NBhorse-cabins.JPG
+    - src: ../../img/gallery/NBhorse-cabins.jpg
       heading: Mountain Lodge Cabins
       subHeading: 'Overnight on the Northern Drak 2 Day/ 1 Night Horse Trail'
 
@@ -119,9 +119,9 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/NBhorse-paddock.JPG
+    - src: ../../img/gallery/NBhorse-paddock.jpg
       caption: Nestled under the sandstone cap of the little berg, these horses enjoy green pastures.
-    - src: ../../img/gallery/NBhorse-lodge.JPG
+    - src: ../../img/gallery/NBhorse-lodge.jpg
       caption: The log cabins at Drak Mountain lodge are a happy sight after a full day in the saddle.
 
 price:

@@ -16,7 +16,7 @@ subActivity:
   - slackpacking
 tourName: Clarens San Traverse
 slug: clarens-san-traverse
-featuredImage: ../../img/generic/PP-Skywalk.JPG
+featuredImage: ../../img/generic/PP-Skywalk.jpg
 longDescription:
   - The Clarens San Traverse is a 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. The area is famous for its landmark San paintings, well-preserved dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
   - Our charismatic guide will lead you safely from one destination to the next whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
@@ -83,10 +83,10 @@ itinerary:
         - Restaurant lunch in Clarens for own account.
 
   images:
-    - src: ../../img/gallery/clarens_fallowfields.jpeg
+    - src: ../../img/gallery/clarens_fallowfields.jpg
       heading: 'A fallow field amongst Clarens Sandstone'
       subHeading: null
-    - src: ../../img/gallery/clarens_overhang.JPG
+    - src: ../../img/gallery/clarens_overhang.jpg
       heading: 'Caves and overhangs provide a shady rest-spot'
       subHeading: null
 lodging:
@@ -94,7 +94,7 @@ lodging:
   description:
     - Homely farm stays and country lodges - 3-star equivalent.
   images:
-    - src: ../../img/gallery/clarens_stone-cottage.JPG
+    - src: ../../img/gallery/clarens_stone-cottage.jpg
       heading: Original Sandstone cottage, St Fort - First nights  accomodation.
       subHeading: null
 
@@ -111,41 +111,41 @@ faq:
         - Any time outside of peak school and public holiday periods. But April/May is when the cosmos is in flower .
 gallery:
   pictures:
-    - src: ../../img/gallery/clarens_overhang.JPG
+    - src: ../../img/gallery/clarens_overhang.jpg
       caption: Much of the San traverse trail passes over and under Clarens Sandstone.
-    - src: ../../img/gallery/clarens_lonehiker.JPG
+    - src: ../../img/gallery/clarens_lonehiker.jpg
       caption: Start of the first hike day, leaving St Fort Country House.
     - src: ../../img/gallery/clarens_ladder.jpg
       caption: A neat ladder has been constructed to get over this boulder.
     - src: ../../img/gallery/clarens_cosmos.jpg
       caption: The Free State in Spring – a cosmos wonderland.
-    - src: ../../img/gallery/clarens_batcave.JPG
+    - src: ../../img/gallery/clarens_batcave.jpg
       caption: Bat Cave – aptly named.
-    - src: ../../img/gallery/clarens_medicinal.JPG
+    - src: ../../img/gallery/clarens_medicinal.jpg
       caption: Learning about the medicinal and hallucinogenic properties of some of interesting plant species along the way.
-    - src: ../../img/gallery/clarens_imphepho.JPG
+    - src: ../../img/gallery/clarens_imphepho.jpg
       caption: Imphepho (a Helichrysum)  in flower –  the herb is traditionally burnt to invoke, honour and placate the ancestors.
     - src: ../../img/gallery/clarens_fallowfields.jpg
       caption: Freshly ploughed, fallow fields provide a cinematic contrast to their surrounds.
-    - src: ../../img/gallery/clarens_hikers.JPG
+    - src: ../../img/gallery/clarens_hikers.jpg
       caption: Final day of the Clarens San Traverse – the approach back to Clarens town.
-    - src: ../../img/gallery/clarens_redhotpoka.JPG
+    - src: ../../img/gallery/clarens_redhotpoka.jpg
       caption: Striking Red Hot Pokas at the entrance of our second nights accommodation.
-    - src: ../../img/gallery/clarens_rockart guide.JPG
+    - src: ../../img/gallery/clarens_rockart guide.jpg
       caption: Creative interpretation on the local rock art sites. This guide will take you on a whole new trip.
-    - src: ../../img/gallery/clarens_rivercross.JPG
+    - src: ../../img/gallery/clarens_rivercross.jpg
       caption: This river crossing may prove a bit more of a challenge during Summer months.
-    - src: ../../img/gallery/clarens_trailandcliffs.JPG
+    - src: ../../img/gallery/clarens_trailandcliffs.jpg
       caption: Sandstone caps the horizon on the 3 day Clarens San Traverse Hiking trail.
-    - src: ../../img/gallery/clarens_rainbow.JPG
+    - src: ../../img/gallery/clarens_rainbow.jpg
       caption: Over the Rainbow
-    - src: ../../img/gallery/clarens_exposedrock.JPG
+    - src: ../../img/gallery/clarens_exposedrock.jpg
       caption: Large parts of the trail are on exposed sandstone domes.
-    - src: ../../img/gallery/clarens_forest.JPG
+    - src: ../../img/gallery/clarens_forest.jpg
       caption: There are some cool forest sections too – with ancient Ou hout trees.
-    - src: ../../img/gallery/clarens_errol.JPG
+    - src: ../../img/gallery/clarens_errol.jpg
       caption: Up and over.
-    - src: ../../img/gallery/clarens_birdspot.JPG
+    - src: ../../img/gallery/clarens_birdspot.jpg
       caption: The first Bird of Prey sighting on the days trail.
 price:
   heading: At a Glance
@@ -170,7 +170,7 @@ popularTour:
   description: 'Offering a unique combination of high berg wilderness and cultural treasures, the 3 day San Traverse in and around Clarens, Free State, will delight your finer senses.'
 destinationTour:
   order: 1
-  image: ../../img/listing/freestate-clarens.JPG
+  image: ../../img/listing/freestate-clarens.jpg
   title: The Clarens San Traverse
   description: A 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. Our charismatic guide will share his unique perspective on the ancient culture and people who once inhabited this valley. From Cannibal cave to locally brewed ales, a hiking trip to Clarens will delight your finer senses.
   emailLink: mailto:tours@active-escapes.co.za?subject=Clarens San Traverse HIke – Free State Destination Listing

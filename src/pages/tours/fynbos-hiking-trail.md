@@ -16,7 +16,7 @@ subActivity:
   - slackpacking
 tourName: The Fynbos Trail – Overberg
 slug: fynbos-hiking-trail
-featuredImage: ../../img/generic/PP-Fynbos.JPG
+featuredImage: ../../img/generic/PP-Fynbos.jpg
 longDescription:
   - The Fynbos trail is a unique nature experience in the heart of the Cape Floral Kingdom that can be undertaken as a fully guided and catered slackpacker, or as a self-guided option. Just two hours from Cape Town and close to Hermanus in the Overberg, the Fynbos trail has a two or three night option and takes hikers along a beautiful stretch of trail through coastal and mountain fynbos, remote forests and visits some fascinating environmental and social projects along the way.
   - Enjoy highly knowledgeable guides, the opportunity to plant a tree in your name, and delicious locally prepared food and wine. This trail has a real personal touch which will leave you with wonderful memories.
@@ -83,7 +83,7 @@ itinerary:
         - The trail ends at Grootbos Garden Lodge where you will be treated to a <strong>5-star lunch</strong> at this exclusive lodge.
 
   images:
-    - src: ../../img/gallery/fynbos-path.JPG
+    - src: ../../img/gallery/fynbos-path.jpg
       heading: null
 
 lodging:
@@ -93,7 +93,7 @@ lodging:
     - Final lunch is at an esteemed restaurant, whilst fine traditional Cape cooking can be enjoyed the rest of the time.
 
   images:
-    - src: ../../img/gallery/fynbos-witkrans.JPG
+    - src: ../../img/gallery/fynbos-witkrans.jpg
       heading: Witkrans Cottage - Fynbos Hiking Trail
 
 faq:
@@ -112,29 +112,29 @@ faq:
         - The standard fynbos trail is only 2 nights, but you can add on the coastal hike day and night, which comes highly recommended.
 gallery:
   pictures:
-    - src: ../../img/gallery/fynbos-mulching.JPG
+    - src: ../../img/gallery/fynbos-mulching.jpg
       caption: Learning about the fungi lifecycle on the Fynbos trail, near Standford, Western Cape.
-    - src: ../../img/gallery/fynbos-photographer.JPG
+    - src: ../../img/gallery/fynbos-photographer.jpg
       caption: Flower Valley in full bloom – a photographers dream.
     - src: ../../img/gallery/fynbos-guideJPG
       caption: Sean Privett, founder of the Fynbos Trail, explains the role of the bird pollinators  on these Mimetes Pagoda’s
-    - src: ../../img/gallery/fynbos-oldmansbeard.JPG
+    - src: ../../img/gallery/fynbos-oldmansbeard.jpg
       caption: Old Man’s Beard – a canary species indicator for excellent air quality.
-    - src: ../../img/gallery/fynbos-snacks.JPG
+    - src: ../../img/gallery/fynbos-snacks.jpg
       caption: Tea break in Witvoetskloof forest - Day 2 of the Fynbos Trail.
-    - src: ../../img/gallery/fynbos-species.JPG
+    - src: ../../img/gallery/fynbos-species.jpg
       caption: The view from Pinnacles in September – a flush of oranges, whites and yellows – Leucadendrons, Leucaspermum’s, and proteas are just some of the genera within the family of Proteaceae.
-    - src: ../../img/gallery/fynbos-top.JPG
+    - src: ../../img/gallery/fynbos-top.jpg
       caption: Summit of Grootberg – 409m above sea-level, is the highest point of the Fynbos trail and offers spectacular 360° views with the Uilkraals Valley and Dyer Island to the south, the Kleinriviersberge to the north, and Walker Bay and Hermanus to the west
-    - src: ../../img/gallery/fynbos-vista.JPG
+    - src: ../../img/gallery/fynbos-vista.jpg
       caption: Overlooking flower valley – which was once a harvest area for wild fynbos species.
-    - src: ../../img/gallery/fynbos-ascent.JPG
+    - src: ../../img/gallery/fynbos-ascent.jpg
       caption: The final day of the Fynbos tail entails walking up the Baviaans Fontein valley through pockets of indigenous forests and dense fynbos-clad hills over onto Grootbos Nature Reserve.
-    - src: ../../img/gallery/fynbos-boardwalk.JPG
+    - src: ../../img/gallery/fynbos-boardwalk.jpg
       caption: Wooden stairs built down into the Witvoetskloof forest.
-    - src: ../../img/gallery/fynbos-flame.JPG
+    - src: ../../img/gallery/fynbos-flame.jpg
       caption: Mimetes cucullatus – common pagoda. This flower head is actually compromised of modified leaves – known as floral bracts.
-    - src: ../../img/gallery/fynbos-cones.JPG
+    - src: ../../img/gallery/fynbos-cones.jpg
       caption: Leucadendron salignum, the common sunshine conebush, has a wide variety of colours from yellow-green to vivid orange-red, and it is popular species within the wild flower industry.
 
 price:
@@ -163,7 +163,7 @@ popularTour:
   description: 'In the heart of the Cape Floral Kingdom, close to Hermanus, we offer a 2-3 slackpacking trail through coastal and mountain fynbos and ancient forests. Learn from knowledgeable guides and dine on locally grown food and wine on this true eco-trail.'
 destinationTour:
   order: 1
-  image: ../../img/listing/wcape-fynbostrail.JPG
+  image: ../../img/listing/wcape-fynbostrail.jpg
   title: Fynbos Slackpacking Trail
   description: This unique nature trail in the heart of the Cape Floral Kingdom, is just 2 hours from Cape Town and close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and visits some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown and sourced food and wine on this eco-trail.
   emailLink: mailto:tours@active-escapes.co.za?subject=Fynbos Slackpacker – Western Cape Destination Listing

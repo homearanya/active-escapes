@@ -8,7 +8,7 @@ activity:
   - name: mountainbiking
     featured: 1
     listing:
-      image: ../../img/listing/midlands-mtb.JPG
+      image: ../../img/listing/midlands-mtb.jpg
       title: Midlands – Mountain Biking Mecca
       subtitle: From day trips to multi-day adventures
       description: The Midland’s is our backyard. From quiet country roads and private farm tracks to sweeping single-track or downhill thrills, we can tailor-make a MTB or Cycle tour to excite all level of rider. Traversing through private farmlands, forest and nature reserves – you’ll discover the real Midlands countryside of forgotten falls, valley vistas and wildlife. We offer day-trips, multi-day and training tours.
@@ -16,7 +16,7 @@ subActivity:
   - mountainbiking
 tourName: KZN Midlands -  Mountain Biking Mecca
 slug: kzn-midlands-mtb-tours
-featuredImage: ../../img/generic/PP-MidlandsMTB.JPG
+featuredImage: ../../img/generic/PP-MidlandsMTB.jpg
 
 longDescription:
   - The beautiful KwaZulu-Natal Midlands offers arguably the best mountain biking in South Africa. Whether you are keen on riding the handcrafted single-track of Howick and the Karkloof, or taking a gentle ride through attractive farmlands and quiet country roads, stopping to visit local art studios and organic deli's along the way, we can customise a fully supported Midlands tour to suit your particular needs.
@@ -94,7 +94,7 @@ itinerary:
         - Transfer provided back to your vehicles.
 
   images:
-    - src: ../../img/gallery/Mmtb_karklooffalls.JPG
+    - src: ../../img/gallery/Mmtb_karklooffalls.jpg
       heading: Looking out from Woodhouse Falls, Karkloof
       subHeading: null
 
@@ -123,27 +123,27 @@ faq:
         - Our multiday tours are flexible and can be adapted to different levels of experience, fitness and interest. We can custom design a trip along quiet country roads (gravel biking) or keep the singletrack flowing to your hearts content.
 gallery:
   pictures:
-    - src: ../../img/gallery/Mmtb_winterscape.JPG
+    - src: ../../img/gallery/Mmtb_winterscape.jpg
       caption: Making tracks over private farmlands, between lower Lotheni and the Dargle.
-    - src: ../../img/gallery/MMtb-gorges.JPG
+    - src: ../../img/gallery/MMtb-gorges.jpg
       caption: Gorgeous Gorges in the Eston area.
-    - src: ../../img/gallery/Mmtb_wall.JPG
+    - src: ../../img/gallery/Mmtb_wall.jpg
       caption: Stone wall, made by the Italian prisoners of war, at the top of Lebanon Mountain – Karkloof.
-    - src: ../../img/gallery/MMtb_singletrack-flowers.JPG
+    - src: ../../img/gallery/MMtb_singletrack-flowers.jpg
       caption: Flowing singletrack through forested valleys.
     - src: ../../img/gallery/MMtb_umngeni.jpg
       caption: The Black Eagle trail in Umngeni Valley, Howick
-    - src: ../../img/gallery/Mmtb_loskop.JPG
+    - src: ../../img/gallery/Mmtb_loskop.jpg
       caption: Half-way down Rene’s Rumble with Loskop in the foreground
-    - src: ../../img/gallery/Mmtb_kidsriding.JPG
+    - src: ../../img/gallery/Mmtb_kidsriding.jpg
       caption: Trips can be tailored for young families.
-    - src: ../../img/gallery/Mmtb_gnomes.JPG
+    - src: ../../img/gallery/Mmtb_gnomes.jpg
       caption: Be sure to give a warm greeting to Howie the Gnome, when you meet him on one of the Howick singletracks.
     - src: ../../img/gallery/MMtb_family.jpg
       caption: Family Rides
-    - src: ../../img/gallery/Mmtb_countryroads.JPG
+    - src: ../../img/gallery/Mmtb_countryroads.jpg
       caption: For those with less penchant for swoops and berms, there is plenty of scenic ‘gravel road’ riding here in the Midlands.
-    - src: ../../img/gallery/Mmtb_Drak.JPG
+    - src: ../../img/gallery/Mmtb_Drak.jpg
       caption: Group starting out in Lower Lotheni with the Little Drakensberg mountains as a fitting backdrop.
 price:
   heading: Midlands MTB Meander - 3 Ride Days/ 3 Nights
@@ -177,7 +177,7 @@ popularTour:
   description: 'Whether its mileage training in splendid surrounds, single-track delights, or a gentle ride through attractive farmlands - Active Escapes has a Mountain Bike offering that can be tailor-made for you.'
 destinationTour:
   order: 1
-  image: ../../img/listing/midlands-mtb.JPG
+  image: ../../img/listing/midlands-mtb.jpg
   title: Day and Multi-day MTB Tours – KZN Midlands
   description: From country roads to downhill thrills, the Midlands offers a wide spectrum of terrain to excite all level of rider. Whether its mileage training in splendid surrounds, single-track delights, or a gentle ride through attractive farmland - stopping to visit deli's & art studios along the way - Active Escapes has a tour for you
   emailLink: mailto:tours@active-escapes.co.za?subject=Midlands MTB Tours – KZN Midlands Destination Listing

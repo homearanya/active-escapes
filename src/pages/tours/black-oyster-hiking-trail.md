@@ -115,7 +115,7 @@ faq:
         - Yes, there are also 2 and 3 night versions of this trail .
 gallery:
   pictures:
-    - src: ../../img/gallery/OC-cliffs.JPG
+    - src: ../../img/gallery/OC-cliffs.jpg
       caption: Lichen headlands on the Black Oyster trail.
     - src: ../../img/gallery/OC-cottage.jpg
       caption: Quaint accommodation
@@ -125,7 +125,7 @@ gallery:
       caption: Cosy lodgings.
     - src: ../../img/gallery/OC-2hikers.jpg
       caption: Golden dunes and aquamarine ocean on the Black Oyster Trail.
-    - src: ../../img/gallery/OC-pinnacles.JPG
+    - src: ../../img/gallery/OC-pinnacles.jpg
       caption: At Pinnacle Point, an optional experience is the POHO (Point of Human Origin) presentation by Dr Peter Nilssen with a guided tour of the famous 13 series middle stone age caves.
     - src: ../../img/gallery/OC-bedroom.jpg
       caption: null

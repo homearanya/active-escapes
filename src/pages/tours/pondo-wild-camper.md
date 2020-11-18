@@ -8,7 +8,7 @@ activity:
   - name: hiking
     featured: 9
     listing:
-      image: ../../img/listing/WCH-wildcamper.JPG
+      image: ../../img/listing/WCH-wildcamper.jpg
       title: Pondo Wild Camper
       subtitle: Have backpack, tent and cooker … but need some logistics taken care of
       description: "So you've heard about Waterfall Bluff, Cathedral Rock and the wild hiking that Pondoland has to offer? Have the tent, gas cooker and are backpacker fit, but looking for a guide, and some logistical support? Active Escapes can arrange 'wild camping' trips from Port Edward through to PSJ, with an overnight or two in friendly village homestays along the way."
@@ -107,7 +107,7 @@ lodging:
     - <strong>Wild Camping Sites</strong> – usually located close to stream or in a sheltered area. Your guide knows the best spots.
     - <strong>Village Homestay</strong> – book a night or two along the way in a VBA. A simple dinner and breakfast will be included in the R350/per head price paid. Bedding and warm water for a bath or shower is also provided.
   images:
-    - src: ../../img/gallery/WC_Mlambom.JPG
+    - src: ../../img/gallery/WC_Mlambom.jpg
       heading: Pristine River Frontage
       subHeading: The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.
 faq:
@@ -133,19 +133,19 @@ faq:
 
 gallery:
   pictures:
-    - src: ../../img/gallery/WC_backpacker.JPG
+    - src: ../../img/gallery/WC_backpacker.jpg
       caption: The true backpacking experience.
     - src: ../../img/gallery/WC_grasslands.jpg
       caption: Backpacking through the grasslands of the Eastern Cape, Wild Coast.
-    - src: ../../img/gallery/WC_cutweni.JPG
+    - src: ../../img/gallery/WC_cutweni.jpg
       caption: The deeply-incised gorges on the Pondoland Wild Coast have mostly  precluded development , but also keeps the area a pristine piece of paradise.
     - src: ../../img/gallery/WC_shebeen.jpg
       caption: A refresher at a local shebeen on the Pondo Wild Camper.
-    - src: ../../img/gallery/WC_melons.JPG
+    - src: ../../img/gallery/WC_melons.jpg
       caption: Pumpkins in transit.
-    - src: ../../img/gallery/WC_Mlambom.JPG
+    - src: ../../img/gallery/WC_Mlambom.jpg
       caption: The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.
-    - src: ../../img/gallery/WC_yellowboat.JPG
+    - src: ../../img/gallery/WC_yellowboat.jpg
       caption: Local kids having fun on one of the rivers.
     - src: ../../img/gallery/WC_stickcollecters.jpg
       caption: Collecting firewood.

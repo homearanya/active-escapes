@@ -16,7 +16,7 @@ subActivity:
   - expedition
 tourName: High Traverse Hiking Trail
 slug: high-traverse
-featuredImage: ../../img/generic/PP-traverse.jpeg
+featuredImage: ../../img/generic/PP-traverse.jpg
 
 longDescription:
   - Take on this 5 Day High Berg challenge from the Sentinel to Cathedral Peak Hotel via the famous Bell Traverse. Sleeping in tents and caves, this is an adventurous expedition-style trail. A bucket-list hike, but should only be attempted by the fit.
@@ -138,13 +138,13 @@ gallery:
       caption: Top of Mweni Pass.
     - src: ../../img/gallery/traverse_rolands.jpg
       caption: Dawn in Rolands Cave
-    - src: ../../img/gallery/traverse_twins.jpeg
+    - src: ../../img/gallery/traverse_twins.jpg
       caption: Twins Cave - the final night on the top before starting the Bell Traverse
     - src: ../../img/gallery/amphi_ladders2.jpg
       caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
     - src: ../../img/gallery/traverse_mwenitop.jpg
       caption: There’s something special about being entirely self-sufficient.
-    - src: ../../img/gallery/traverse_cathedral.jpeg
+    - src: ../../img/gallery/traverse_cathedral.jpg
       caption: On the Bell Traverse - Cathedral and the Bell in the background.
     - src: ../../img/gallery/traverse_saddle.jpg
       caption: Wild camping on the saddle
@@ -152,11 +152,11 @@ gallery:
       caption: The Bell Traverse - Final Day.
     - src: ../../img/gallery/traverse_solohiker.jpg
       caption: One feels on top of the world from the escarpment
-    - src: ../../img/gallery/traverse_cliffs.jpeg
+    - src: ../../img/gallery/traverse_cliffs.jpg
       caption: null
-    - src: ../../img/gallery/traverse_cavehole.jpeg
+    - src: ../../img/gallery/traverse_cavehole.jpg
       caption: Looking out from Rolands Cave
-    - src: ../../img/gallery/traverse_top.jpeg
+    - src: ../../img/gallery/traverse_top.jpg
       caption: On the top of the escrapment in winter.
 
 price:
