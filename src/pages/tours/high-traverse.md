@@ -39,13 +39,13 @@ details:
   - heading: Trail Grading
     description:
       - <strong>4.5 - 5 / 5 - Fitness</strong>. An excellent level of physical fitness is required for this high berg hike
-      - <strong>4/ 5 - Technicality</strong>. Hiking at Altitude (2800 – 3000m) with a backpack, even if porters are taken. Exposed sections and rugged in most parts.
+      - <strong>4 / 5 - Technicality</strong>. Hiking at altitude (2800 – 3000m) with a backpack, even if porters are taken. Exposed sections and rugged in most parts.
   - heading: Trail Terrain
     description:
-      - Mostly along the top of the Drakensberg escarpment which is anything but flat. Some long steep passes and descents. Pre-existing injuries will be felt over this terrain.
+      - Mostly along the top of the Drakensberg escarpment which is anything but flat. Some long steep passes and descents. Preceding injuries will be felt over this terrain.
   - heading: Accommodation
     description:
-      - <strong>Wild Camping</strong> in hiking tents and sleeping in <strong>caves</strong> or overhangs.
+      - <strong>Wild camping</strong> in hiking tents and sleeping in <strong>caves</strong> or overhangs.
 
   - heading: Logistic Support
     description:
@@ -65,7 +65,7 @@ overview:
   heading: At a Glance
   description:
     - Take on this 5 Day High Berg challenge from the Sentinel to Cathedral Peak Hotel via the famous Bell Traverse. Overnighting in tents and caves, this is a bucket-list hike for the fit and adventurous.
-    - It is effectively half the Grand Traverse and includes the epic 'Bell Traverse' which the GT does not.
+    - It is effectively half the Grand Traverse (GT) and includes the epic 'Bell Traverse' which the GT does not.
 
 itinerary:
   itinerary:
@@ -83,7 +83,7 @@ itinerary:
       subHeading: 'Hike Day 3: Mbundini Abbey to Orange River Source (15km  / min 250m ascent / 7.5hr)'
       description:
         - Dramatic views of <strong>Mweni needles</strong>, the cutback and Rockeries beyond.
-        - After making camp near the stream (2860m), provided you have the stamina and the light is good, it’s worth walking out to either the top of Mnweni pass, or <strong>Rockeries Pass</strong> (both about 30mins from camp) for sundowner views.
+        - After making camp near the stream (2860m), provided the light is good and you have the stamina, it’s worth walking out to either the top of Mnweni pass, or <strong>Rockeries Pass</strong> (both about 30mins from camp) for sundowner views.
     - heading: Day 4
       subHeading: 'Hike Day 4: Orange River Source to Twins Cave  (17km  / 250m ascent/ 7.5hr)	'
       description:
@@ -157,7 +157,7 @@ gallery:
     - src: ../../img/gallery/traverse_cavehole.jpg
       caption: Looking out from Rolands Cave
     - src: ../../img/gallery/traverse_top.jpg
-      caption: On the top of the escrapment in winter.
+      caption: On the top of the escarpment in winter.
 
 price:
   heading: at a glance

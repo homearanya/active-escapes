@@ -30,8 +30,10 @@ details:
       - 1 - 4 Day Tours
   - heading: Daily Distances
     description:
-      - 'Day 1: 40km   Day 2: 36km'
-      - 'Day 3: 35km   Day 4: 35-40km'
+      - 'Day 1: 40km'
+      - 'Day 2: 36km'
+      - 'Day 3: 35km'
+      - 'Day 4: 35-40km'
 
   - heading: Trail Grading
     description:
@@ -47,8 +49,8 @@ details:
 
   - heading: Logistic Support
     description:
-      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers.
-      - Return transfer included.
+      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers
+      - Return transfer included
 
   - heading: Group Size
     description:
@@ -74,23 +76,27 @@ itinerary:
     - heading: Day 2
       subHeading: 'Ride Day 1: Transfer to Lotheni. Ride Lotheni (Umgeni Vlei) – Lions Bush (40km / 557m Ascent, 920m Descent , 3.5 – 4 hours) '
       description:
-        - Todays ride is largely along farm tracks and provides riders with magnificent views of the Drakensberg foothills, expansive wetlands and mist-belt grasslands. Beginning at a lofty height of 1877m, the Drakensberg is highly visible on a clear day, giving you a real sense of riding in the mountains.  The trail crosses the source of the Mgeni River and continues to descend through wild mountain terrain, towards one of the oldest and most successful working farms in the region. There is a steep descent before joining up with quiet country road.
+        - Todays ride is largely along farm tracks and provides riders with magnificent views of the Drakensberg foothills, expansive wetlands and mist-belt grasslands. 
+        - Beginning at a lofty height of 1877m, the Drakensberg is highly visible on a clear day, giving you a real sense of riding in the mountains.  
+        - The trail crosses the source of the Mgeni River and continues to descend through wild mountain terrain, towards one of the oldest and most successful working farms in the region. There is a steep descent before joining up with quiet country road.
         - 'Overnight: <strong>Fort Nottingham Guesthouse </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 3
       subHeading: 'Ride Day 2: Fort Nottingham to Currys Post (36km / 712m ascent, 912m descent / 3.5hrs )'
       description:
         - Today we cross several private farms. The last half of the ride sees you climbing out of the valley and, ascending 350m over a distance of 4km, but provides some absolutely magnificent views back over Balgowan and the Drakensberg mountains.
-        - 'Overnight: <strong>Curry Post Country Lodge </strong> (breakfast, packed lunch & dinner)'
+        - 'Overnight: <strong>Curry's Post Country Lodge </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Ride Day 3: Currys Post to Karkloof (35km /3-4hrs) '
       description:
-        - We’ll make our way along fast forestry tracks to Kyber Pass, where after a stiff little climb stands between you and 8 kilometres of flowing downhill track. After descending into the fertile Karkloof valley, you’ll make your way on farm and forestry tracks towards Thistledown Country House, arriving in time for lunch.
-        - Depending on your preference, the afternoon can either be spent zip lining through the trees on the Karkloof Canopy Tour, or simply relaxing at Thistledown. Your host Norma is a renowned local chef, and that evening you will be treated to some of the best country style cooking in the Midlands (if not the country!)! Bon apetite!
+        - We’ll make our way along fast forestry tracks to Kyber Pass, where a stiff little climb stands between you and 8km of fast-flowing downhill track. After descending into the fertile Karkloof valley, you’ll make your way on farm and forestry tracks towards Thistledown Country House, arriving in time for lunch.
+        - Depending on your preference, the afternoon can be spent zip-lining through the trees on the Karkloof Canopy Tour, or simply relaxing at Thistledown. Your host is a renowned local chef, and this evening you will be treated to some of the best country style cooking in the Midlands. Bon appetit!
         - 'Overnight: <strong>Karkloof Guesthouse </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 5
       subHeading: 'Ride Day 4:  Karkloof to Howick (35-40km /4hrs) '
       description:
-        - After eggs benedict, today’s ride will start by crossing pig and dairy farms across to the Karkloof Country Club.  From here you enter the heart of Karkloof single-track territory, where more technical riders can test their mettle on the curves, rock gardens and berms (Less technical routes are also available). You will pass the impressive Karkloof Falls and follow the contours with some dips and dales across to Howick for lunch at a local restaurant.
+        - After <em>eggs benedict</em>, today’s ride will start by crossing pig and dairy farms across to the Karkloof Country Club.  
+        - From here you enter the heart of Karkloof single-track territory, where more technical riders can test their mettle on the curves, rock gardens and berms (less technical routes are also available). 
+        - You will pass the impressive Karkloof Falls and follow the contours with some dips and dales, across to Howick for lunch at a local restaurant.
         - Transfer provided back to your vehicles.
 
   images:
@@ -101,7 +107,9 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - 3-4 Star Country Guest Houses and B&B’s
+    - 3-4 Star Country Guest Houses and B&B’s in superb locations 
+    - Mostly all ensuite
+    - Towels provided
   images:
     - src: ../../img/gallery/f2f_thistle.jpg
       heading: Karkloof Guesthouse - Thistledown
@@ -130,21 +138,21 @@ gallery:
     - src: ../../img/gallery/Mmtb_wall.jpg
       caption: Stone wall, made by the Italian prisoners of war, at the top of Lebanon Mountain – Karkloof.
     - src: ../../img/gallery/MMtb_singletrack-flowers.jpg
-      caption: Flowing singletrack through forested valleys.
+      caption: Flowing singletrack through forested valleys
     - src: ../../img/gallery/MMtb_umngeni.jpg
       caption: The Black Eagle trail in Umngeni Valley, Howick
     - src: ../../img/gallery/Mmtb_loskop.jpg
       caption: Half-way down Rene’s Rumble with Loskop in the foreground
     - src: ../../img/gallery/Mmtb_kidsriding.jpg
-      caption: Trips can be tailored for young families.
+      caption: Trips can be tailored for young families too
     - src: ../../img/gallery/Mmtb_gnomes.jpg
-      caption: Be sure to give a warm greeting to Howie the Gnome, when you meet him on one of the Howick singletracks.
+      caption: Be sure to give a warm greeting to Howie the Gnome, when you meet him on one of the Howick singletracks
     - src: ../../img/gallery/MMtb_family.jpg
       caption: Family Rides
     - src: ../../img/gallery/Mmtb_countryroads.jpg
-      caption: For those with less penchant for swoops and berms, there is plenty of scenic ‘gravel road’ riding here in the Midlands.
+      caption: For those with less penchant for swoops and berms, there is plenty of scenic ‘gravel road’ riding here in the Midlands
     - src: ../../img/gallery/Mmtb_Drak.jpg
-      caption: Group starting out in Lower Lotheni with the Little Drakensberg mountains as a fitting backdrop.
+      caption: Group starting out in Lower Lotheni with the Little Berg as a fitting backdrop
 price:
   heading: Midlands MTB Meander - 3 Ride Days/ 3 Nights
   overview: null

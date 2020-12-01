@@ -20,7 +20,7 @@ featuredImage: ../../img/generic/PP-NB-horsetrail.jpg
 
 longDescription:
   - A day in the saddle on this Northern Berg Horse trail will see you traversing mountain ridges, forging crisp streams and galloping along wide open plains; whilst overnighting in the comfort of a mountain lodge at night.
-  - The sure-footed horses have been bred in the area, so whilst the terrain may be technical, you are on experienced footing. This overnight trail in stunning mountain surrounds is a pioneer adventure suited to both novice and experienced riders.
+  - The sure-footed horses have been bred in the area, so whilst the terrain may be technical, you are on experienced footing. This overnight trail is a pioneer adventure suited to both novice and experienced riders.
 
 fromPricing: R3000
 difficultyLevel: moderate
@@ -32,16 +32,16 @@ details:
       - 2 - 3 Ride Days/ 2 Nights
   - heading: Daily Distances
     description:
-      - 'Ride Day 1: 6.5 - 7hr ride time'
-      - 'Ride Day 2: 7 - 7.5hr ride time'
-      - 'Ride Day 2/3: 3-4hr ride time'
+      - 'Ride Day 1:  6.5 - 7hr ride time'
+      - 'Ride Day 2:  7 - 7.5hr ride time'
+      - 'Ride Day 2/3:  3-4hr ride time'
   - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. Moderate to good overall fitness and endurance needed, but previous horse-riding experience not <em>essential</em>.
       - <strong>3/ 5 - Technicality</strong>. The trail covers some technical riding, but you can trust in the sure-footed horses.
   - heading: Trail Terrain
     description:
-      - Exciting riding, with steep descents into river valleys and climbs up ridges.  Steep terrain is punctuated by wide open plains conducive to galloping for the more experienced rider.
+      - Exciting riding, with steep descents into river valleys and climbs up ridges.  The steep terrain is punctuated by wide open plains conducive to galloping for the more experienced riders.
   - heading: Accommodation
     description:
       - 1 Night at a <strong>Tented Bush Camp</strong> in Northern Drak Valley
@@ -55,14 +55,15 @@ details:
       - Possible from <strong>2</strong> persons, maximum <strong>8 </strong>persons/group.
   - heading: Pricing
     description:
-      - '1.5 Day/ 1 Night Option: <strong>R3,000/pp </strong>.'
+      - '1.5 Day/ 1 Night Option: <strong>R3,000/pp</strong>'
 
 emailSubject: Northern Horse Trail Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - High mountains, sandstone cliffs and rolling plains provide a scenic and dramatic backdrop to this Northern Drakensberg multi-day horse trail. A day in the saddle will see you traversing mountain ridges, forging crisp streams and galloping along wide open plains. Guests wishing to include a cultural element in their ride can alter their route to ride through the village,  visiting a local Sangoma, and getting a feel for contemporary rural Zulu life.
-    - The sure-footed horses have been bred in the area so whilst the terrain may seem technical, you are on experienced footing. You will overnight in the comfort of mountain lodges, so you get to play cowboy by day... but get to sleep in a real bed by night.
+    - High mountains, sandstone cliffs and rolling plains provide a scenic backdrop to this Northern Drakensberg multi-day horse trail. Guests wishing to include a cultural element to their ride, can ride through the local village, visiting a Sangoma, and getting a feel for contemporary rural Zulu life.
+    - The sure-footed horses have been bred in the area so whilst the terrain may seem technical, you are on experienced footing. 
+    - Each night you will sleep in a comfy mountain lodge, so you get to play cowboy by day... but sleep in a proper bed by night.
 itinerary:
   itinerary:
     - heading: Day 1
@@ -108,8 +109,8 @@ faq:
         - In the high berg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, winter months (June-July) can be the best – chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight.  Afternoon thunderstorms are most common in the hottest months (Nov-Feb).
     - question: Do you run scheduled trips or when can we do these trips?
       answer:
-        - We do not run scheduled tours, and will try to accommodate your date request provided you are a minimum of 2 persons, and as per lodge & guide/horse availability.
-        - The overnight trails are <em>not usually</em> available over a <strong>weekend</strong> (Friday or Saturday night), due to the lodges ‘2-night stay’ policy over weekends. But if the weekend is outside of a popular period (i.e. not long weekends or school hols) – we will endeavour to organise it for you.
+        - We do not run scheduled tours, and will try to accommodate your date request provided you are a minimum of 2 persons, and as per lodge and the guide/horse availability.
+        - The overnight trails are <em>not usually</em> available over a <strong>weekend</strong> (Friday or Saturday night), due to the lodges ‘2-night stay’ policy over weekends. But if the weekend is outside of a popular period (i.e. not a long weekend or school holiday) – we will endeavour to organise it for you.
     - question: What riding equipment do we need?
       answer:
         - All tack and helmets will be provided. However we recommend you bring along a small daypack that can carry a water-bladder for easy hydration enroute (In summer months you will need to carry at least 1.5l of water).
@@ -149,10 +150,10 @@ popularTour:
   image: ../../img/listing/activity-northernhorse.jpg
   tagline: Riding High
   title: Overnight Horse Trail - Northern Berg
-  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support all provided.'
+  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support provided.'
 destinationTour:
   order: 8
   image: ../../img/listing/activity-northernhorse.jpg
   title: Overnight Horse Trail - Northern Berg
-  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support all provided.'
+  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support provided.'
 ---

@@ -38,8 +38,8 @@ details:
       - '* Shorter & longer variations'
   - heading: Daily Distances
     description:
-      - 'Day 1: 7-10km / 6hr'
-      - 'Day 2: 15km  / 5-7hr'
+      - 'Day 1: 7-10km / 5-6hr'
+      - 'Day 2: 15km / 5-7hr'
       - 'Day 3: 10-15km  / 5-7hrs'
   - heading: Trail Grading
     description:
@@ -47,7 +47,7 @@ details:
       - <strong>2 -3/ 5 - Technicality</strong>. Cleared paths, but also some off-camber grassy trails (relatively well maintained), and a few vertical up and down sections.
   - heading: Trail Terrain
     description:
-      - Varies between well maintained yellowwood forest logging paths, stone terraced paths, mountain paths, ravine trails and rocky ridge.
+      - Varies between well maintained yellowwood forest logging paths, stone terraced paths, mountain paths, ravine trails and rocky ridges
 
   - heading: Accommodation
     description:
@@ -55,7 +55,7 @@ details:
 
   - heading: Logistic Support
     description:
-      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers.
+      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers
       - Return transfer provided
 
   - heading: Group Size
@@ -69,9 +69,9 @@ emailSubject: Dargle Discoverer Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - The upper Dargle/Impendle area, although part of the Midlands, is also considered the start of the mighty Drakensberg Escarpment, and this hike combines some more rugged berg hiking with the luxury of Midlands comforts.
-    - Given the variety of different ecological niches, the Dargle valley is home to over 200 species of birds including the rare Cape Parrot and White-winged Starling. Due to the prioritised protection status of this area, it is not uncommon to find highly specialised animals like the elusive Samango monkeys playing in the Cape Chestnut trees, or some of the successfully reintroduced rock dassies sunbathing in the forest fringe. Blue duiker, oribi and mountain reedbuck are also frequent visitors.
-    - Some steep ascents and off-camber grassy trails, makes this hike challenging at times. As with the Karkloof Falls2Falls, 10% of profit proceeds will go towards local conservation projects.
+    - The upper Dargle/Impendle area, although part of the Midlands, is also considered the start of the mighty Drakensberg escarpment, and this hike combines some more rugged berg hiking with the luxury of Midland's comforts.
+    - Given the variety of ecological niches, the Dargle valley is home to over 200 bird species including the rare Cape Parrot and White-winged Starling. Due to the protection status of this area, it is not uncommon to find highly specialised animals like the elusive Samango monkeys playing in the Cape Chestnut trees, or some of the successfully re-introduced rock dassies sunbathing in the forest fringe. Blue duiker, oribi and mountain reedbuck are also frequent visitors.
+    - Some steep ascents and off-camber grassy trails, make this hike challenging at times. As with the Karkloof Falls2Falls, 10% of profit will go towards local conservation projects.
 
 itinerary:
   itinerary:
@@ -81,21 +81,24 @@ itinerary:
         - Sundowners
         - 'Overnight: <strong>Dargle Farmstay</strong> (Dinner)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Inhlosane Summit (7-10km /764m ascent/ 6hrs)'
+      subHeading: 'Hike Day 1: Inhlosane Summit (7-10km /764m ascent/ 5-6hrs)'
       description:
-        - Today’s hike starts with a slow ascent up the ridge using a well-marked indigenous forest trail, up onto the saddle of iNhlosane mountain. From here there are a few rocky and steep inclines across the highland grassland, which in spring and summer are swathed in a blanket of beautifully delicate wildflowers.
-        - At 1976 meters above sea level, iNhlosane is the highest mountain in the Midlands. From the summit, you will be rewarded with stunning vistas of the Midlands. From here it is a short but steep walk through indigenous forest back to your farm-stay.
+        - Today’s hike starts with a slow ascent up the ridge using a well-marked indigenous forest trail, up onto the saddle of iNhlosane mountain. From here there are a few rocky and steep inclines across the highland grasslands, which in Spring and Summer are swathed in a blanket of delicate wildflowers.
+        - At 1976 meters above sea level, iNhlosane is the highest mountain in the Midlands. From the summit, you will be rewarded with stunning vistas of the Midlands. From here it is a short but steep walk through indigenous forest back to your farmstay.
         - 'Overnight: <strong>Dargle Farmstay </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: The Heart of the Midlands (+/- 15km / 5-7hrs)'
       description:
-        - Todays hike is relatively easy walking; taking hikers through typical Midlands farm scenery and past an expansive wetland (an important nesting site for cranes), before descending to pass by one of the oldest farmhouses of KwaZulu-Natal, renowned for its architecture.  From here its an undulating stroll through mistbelt grassland to your next nights accommodation, nestled under the eaves of one of the most ancient indigenous forests.
+        - Today's hike is relatively easy walking; taking hikers through typical Midlands farm scenery and past an expansive wetland (an important nesting site for cranes), before descending to pass by one of the oldest farmhouses of KwaZulu-Natal, renowned for its architecture.  
+        - From here, it's an undulating stroll through mistbelt grassland to your next nights accommodation, nestled under the eaves of one of the most ancient indigenous forests.
         - 'Overnight: <strong>Dargle Guesthouse </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: The ancient Dargle Forest (10-15km /200m ascent/ 5-7hrs)'
       description:
-        - Using old logging trails and newly developed hiking paths, todays hike takes you through the cool undergrowth of Mistbelt forest, in the heart of the Dargle valley. There are plenty of spring mountain streams to drink from, as well as frequent sightings of Tree Dassie, Oribi, Reedbuck and perhaps an elusive Samango monkey. At the top of the forest you are rewarded with a panoramic view of the Dargle and Lidgetton valley with the iconic Nhlosane Mountain serving as a backdrop.
-        - 'A ‘local is lekker’ picnic lunch ends off the experience, with finger foods selected from the surrounding producers: a true taste of the Midlands. Transfer provided back to vehicles or alternative arrangements'
+        - Using old logging trails and newly developed hiking paths, todays hike takes you through the cool undergrowth of Mistbelt forest, in the heart of the Dargle valley. There are plenty of spring mountain streams to drink from, as well as frequent sightings of tree dassie's, oribi, reedbuck and perhaps a Samango monkey. 
+        - At the top of the forest you are rewarded with a panoramic view of the Dargle and Lidgetton valley, with the iconic Nhlosane mountain as a backdrop.
+        - "A <em>‘local is lekker’</em> picnic lunch ends off the experience, with finger foods selected from the surrounding producers: a true taste of the Midlands."
+        - Transfer provided back to vehicles or alternative arrangements made.
 
   images:
     - src: ../../img/gallery/DD_darglepath.jpg
@@ -106,6 +109,9 @@ lodging:
   heading: 'Lodges'
   description:
     - "Farmstays & 3-4 star equivalent B&B's and Country Cottages"
+    - Bedding and towels provided
+    - Locally sourced and almost all organic country cuisine
+
   images:
     - src: ../../img/gallery/DD_cows.jpg
       heading: Farm stay accommodation
@@ -139,7 +145,7 @@ gallery:
     - src: ../../img/gallery/DD_viewpoint.jpg
       caption: Lovely look-out point on Day 2 of the Dargle Discover
     - src: ../../img/gallery/DD_waterstop.jpg
-      caption: Fill your bottle with spring water direct from the source.
+      caption: Fill your bottle with spring water direct from source
     - src: ../../img/gallery/DD_winterdams.jpg
       caption: Red grass and dams - descending from Blessberg
     - src: ../../img/gallery/DD_horse.jpg
@@ -169,11 +175,12 @@ price:
     - '<strong>3 Nights Accom</strong> (sharing basis): country cottages'
     - '<strong>Full Catering:</strong> 3 packed lunches for the hike days, 3 dinners and 3 breakfasts '
     - '<strong>Professional Hiking Guide</strong> - for all hike days. FGASA qualified to explore the fauna and fauna with you'
-    - '<strong>Hiking Permits</strong> and private <strong>Land Permissions</strong>for the 3 hike days '
+    - '<strong>Hiking Permits</strong> and private <strong>Land Permissions</strong>'
     - '<strong>Return Transfer</strong>'
     - <strong>Vehicle Luggage Support</strong>
-    - 10% of profit donation to local conservancies
+    - <strong>10% of profit donation</strong> to the local conservancies
   notIncludes: null
+
 popularTour:
   featured: 0
   image: ../../img/gallery/DD_lunchbreak-500.jpg
@@ -183,7 +190,7 @@ popularTour:
 destinationTour:
   order: 3
   image: ../../img/listing/midlands-dargle-discoverer.jpg
-  title: Dargle Discoverer Hiking Trail
-  description: With daily hikes gentle in distance and gradient, this slackpacking trail is perfect for families, and those who prefer to take a little more time to smell the daisies. Overnighting at cosy country lodges with locally grown home cooked meals, dams and rivers for cooling off enroute, and picturesque picnic spots, the Dargle Trails are one the Midlands best kept secret.
+  title: Dargle Discoverer Trail
+  description: With daily hikes gentle in distance and gradient, this slackpacking trail is perfect for families, and those who prefer to take things at a gentler pace. Overnighting at cosy country lodges with locally grown home-cooked meals, dams and rivers for cooling off enroute, and picturesque picnic spots, the Dargle Trails are one the Midlands best kept secrets.
   emailLink: mailto:tours@active-escapes.co.za?subject=Dargle Discoverer Hike - KZN Midlands Destination Listing
 ---

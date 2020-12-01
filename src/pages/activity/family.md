@@ -12,14 +12,14 @@ banner:
 intro:
   heading: Two of the greatest gifts we can give our children are roots and wings
   text:
-    - In today’s digitally dominated world, it's easy to forget that holidays are supposed to be about spending real   time with your family. Why go somewhere different just to plug in to the same old distractions? Why not go somewhere, where signal is poor and Wifi does not come with coffee.
+    - In today’s digitally dominated world, it's easy to forget that holidays are supposed to be about spending real time with your family. Why go somewhere different just to plug in to the same old distractions? Why not go somewhere, where signal is poor and Wifi does not come with coffee.
     - Active Escapes believes in promoting fun, healthy holidays where children, spouses, and even you (that’s right, even you) are removed from the gadgets that have come to control our daily lives. Teach them to fish, ride bikes through the mud, go for walks, or bomb-drop into chilly river pools. Spend a night under the stars, build fires, toast marshmallows and have a connected family blast. Reconnect with your loved ones and destress in the process. This is what Active Escapes family holidays are all about, and we have plenty of ideas and places where you can do just this.
 featuredToursSection:
   heading: FAMILY-FRIENDLY PRODUCTS
   subHeading: Some Family Orientated Holiday Options to consider
 taylorMadeSection:
-  heading: This is the heading
-  subHeading: This is the subHeading
+  heading: Family Getaways
+  subHeading: null
   options:
     - image: ../../img/listing/family_pbcamps.jpg
       title: Pondoland Tented Camps

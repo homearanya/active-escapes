@@ -26,7 +26,7 @@ slug: kosi-bay-lakes-trail
 featuredImage: ../../img/generic/PP-KosiBayhike.jpg
 longDescription:
   - The Kosi Bay Lakes hike is an escape into one of the most inaccessible and ecologically special parts of South Africa. It is a region of pristine diversity, consisting of four interconnected lakes and an estuary that opens out into the warm Indian Ocean. It forms part of the protected iSimangaliso Wetland Park, South Africa's first World Heritage Site.
-  - This is a flexible trail which can be tailored to suit the time, fitness and interests of the group. The average hike day ranges from 9-12kms, winding your way from isolated beach to cool dune forest, through open savannah, and wetlands.
+  - This is a flexible trail which can be tailored to suit the time, fitness and interests of the group. The average hike day ranges from 9-12km, winding your way from isolated beach to cool dune forest, through open savannah, and wetlands.
   - Each day brings a new natural or cultural fascination. From watching the local fisherman spear a mullet in their fish kraals, seeing the loggerhead turtles waddle ashore to lay their eggs (Nov – March), or snorkelling in a natural aquarium. It is a great hike option for families.
 fromPricing: R6500
 difficultyLevel: moderate
@@ -38,9 +38,9 @@ details:
       - Shorter & customised routes also available
   - heading: Daily Distances
     description:
-      - 'Day 1: 13km/ 6hr'
-      - 'Day 2: 7km hike/ 5hr with boat trip'
-      - 'Day 3: 12 / 19km  / 4-7hr'
+      - 'Day 1: 13km / 6hr'
+      - 'Day 2: 7km hike / 5hr with boat trip'
+      - 'Day 3: 12 / 19km / 4-7hr'
   - heading: Trail Grading
     description:
       - <strong>2-3 / 5 - Fitness</strong>. Generally short daily distances & little ascent, but soft sand makes it harder-going in places.
@@ -61,17 +61,17 @@ details:
       - Min <strong>2 </strong> persons and large groups can be accommodated
   - heading: Pricing
     description:
-      - 'From 5 or more persons: <strong>R6,500/pp</strong> – for a 4 night trail.'
+      - 'For a 4 night trail: from <strong>R6,500/pp</strong> based on 5 or more persons'
 
 emailSubject: Kosi Bay Lakes Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - On the Kosi Lakes hike, we have two standard offerings. For those that like to unpack and not have to repack their bags until the end, we offer a 4 or 5 night trail <strong>based out of beach camp</strong> for all nights. Those that like to mix-up their accommodation experience, we offer a 4 or 5 night Lakes Trail with <strong>3 nights</strong> spent at <strong>beach camp</strong> and 1 or 2 nights spent at <strong>Kosi Lodge </strong>on the western shore of third lake.
+    - On the Kosi Lakes hike, we have two standard offerings. For those that like to unpack and not have to repack their bags until the end, we offer a 4 or 5 night trail <strong>based out of beach camp</strong> for all nights. For those that like to mix-up their accommodation experience, we offer a 4 or 5 night Lakes Trail with <strong>3 nights</strong> spent at <strong>beach camp</strong> and 1 or 2 nights spent at <strong>Kosi Lodge </strong>on the western shore of third lake.
     - There is also an <strong>Exclusive Trail</strong> offering where 1 or 2 nights can be spent at IsiBindi's Kosi Forest Lodge on fourth lake.
     - The trail is led by local community guides who are happy to share their knowledge and heritage, so you leave not only 'refreshed' but enriched.
-    - An inclusive boat excursion will take you through the reed channels, with an opportunity to snorkel and visit the Tonga fish traps. These <strong>palisade fish kraals</strong> consist of a guide fence that curves in towards a fish trap allowing the fish easy entry but no escape. Fish moving through the channel are guided into the traps where they are then caught and speared by the trap owner. Ownership of these kraals is handed down through the generations.
-    - Other activities such as <strong>snorkelling and birding </strong>are very much part of the hike experience, whilst additional activities like turtle tours (in-season) or specialised fishing trips can be organised on request.
+    - An inclusive boat excursion will take you through the reed channels, with an opportunity to snorkel and visit the Tonga fish traps. These palisade fish kraals consist of a guide fence that curves in towards a fish trap allowing the fish easy entry but no escape. Fish moving through the channel are guided into the traps where they are then caught and speared by the trap owner. Ownership of these kraals is handed down through the generations.
+    - Other activities such as snorkelling and birding are very much part of the hike experience, whilst additional activities like turtle tours (in-season) or specialised fishing trips can be organised on request.
 
 itinerary:
   itinerary:
@@ -81,9 +81,9 @@ itinerary:
         - 'Self-drive to Kosi Bay (approx. 8hrs from JHB/ 4.5hrs from Durban)'
         - 'Overnight: <strong>Beach Camp</strong> (Dinner provided)'
     - heading: Day 2
-      subHeading: 'Hike Day 1: Lake Zilonde Loop. (13km hike + snorkelling in mouth /approx. 6hr)'
+      subHeading: 'Hike Day 1: Lake Zilonde Loop. (13km hike + snorkeling in mouth /approx. 6hr)'
       description:
-        - The lake Zilonde loop takes you close to the Mozambican border, traversing mangal swamp and fern forest. You will climb a 65m high dune and hike over prehistoric coral dunes (interesting corals & plant communities to see) down to the ocean, where you continue along flat beach through to Kosi Mouth, a palm-fringed beach of rippling sand curved around the mouth. End off your day with snorkelling in the virtual aquarium that is the Kosi Bay Mouth.
+        - The lake Zilonde loop takes you close to the Mozambican border, traversing mangal swamp and fern forest. You will climb a 65m high dune and hike over prehistoric coral dunes (interesting corals & plant communities to see) down to the ocean, where you continue along flat beach through to Kosi Mouth. With a palm-fringed beach of rippling sand curved around the mouth, end off your day with snorkelling in the virtual aquarium that is the Kosi Bay Mouth.
         - 'Overnight: <strong>Beach Camp</strong> (breakfast, packed lunch & dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Beach Camp – Kosi Lodge with 3 Lakes Boat Charter (7km hike / 2.5 hr boat trip / 6hr)'
@@ -93,7 +93,7 @@ itinerary:
     - heading: Day 4
       subHeading: 'Hike Day 3: 4th Lake Hike (12km) / Bhanga Nek (17km/ 4-7hr)'
       description:
-        - Hike along western shore to 4th lake – Pontoon crossing between 3rd & 4th lake. Hike through to Bhanga Nek enjoy the beach, back to boat launch. Cross over 3rd lake by boat – hike back up to Kosi Bay Lodge.
+        - Hike along western shore to 4th lake – Pontoon crossing between 3rd & 4th lake. Hike through to Bhanga Nek and enjoy some beach-time before walking back to the 3rd lake boat launch. Cross over 3rd lake by boat and hike up to Kosi Bay Lodge.
         - 'Overnight: <strong>Kosi Bay Lodge</strong> (breakfast, packed lunch & dinner)'
     - heading: Day 5
       subHeading: Departure Day
@@ -135,8 +135,8 @@ faq:
         - Availability is generally not a problem outside of the peak school holiday periods.
     - question: What endemic fauna and flora exists?
       answer:
-        - Kosi Bay is a sanctuary for many special & protected faunal & floral species. From the ancient Cycads to the most southerly grove of the giant Raffia Palm (whose fronds /leaves are the longest of any plant species in the world) on which the rare fruit-eating Palm-nut vulture depends.
-        - The Kosi Lake system is especially important for migratory birds such as the Greater & Lesser Flamingos and Ospreys. The protected lakes provide an important nursery function & supports some of the largest populations of 8 fish species that are listed in the Red Data book for threatened or vulnerable species.
+        - Kosi Bay is a sanctuary for many special and protected faunal & floral species. From the ancient Cycads to the most southerly grove of the giant Raffia Palm (whose fronds are the longest of any plant species in the world) on which the rare fruit-eating Palm-nut Vulture depends.
+        - The Kosi Lake system is especially important for migratory birds such as the Greater and Lesser Flamingos and Ospreys. The protected lakes provide an important nursery function and support some of the largest populations of 8 fish species that are listed in the Red Data book for threatened or vulnerable species.
     - question: Is malaria a problem here?
       answer:
         - The Kosi Bay area is still classified as an 'intermediate risk' area according to the Health Department but if you ask the lodges they will tell you this is very outdated. I would only take prophylactics if you are a high risk candidate (pregnant, elderly). Almost all of our hikers dont take, and we have never had a case of malaria reported.
@@ -159,7 +159,7 @@ gallery:
     - src: ../../img/gallery/KB_blossom.jpg
       caption: A beautifully tentacled inflorescence found in one of the mangal forests.
     - src: ../../img/gallery/KB_birding.jpg
-      caption: Birding around Kosi Bay lakes is world-class, with a few endemic species such as the Palm-nut vulture.
+      caption: Birding around Kosi Bay lakes is world-class, with a few endemic species such as the Palm-nut Vulture.
     - src: ../../img/gallery/KB_kraals.jpg
       caption: The patchwork of fish kraals resembling a tribal tattoo, First Lake, Kosi Bay.
     - src: ../../img/gallery/KB_lights.jpg

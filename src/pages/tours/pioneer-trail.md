@@ -19,7 +19,7 @@ slug: pioneer-trail
 featuredImage: ../../img/generic/PP-Pioneer.jpg
 
 longDescription:
-  - This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with exciting wildlife encounters on-foot.
+  - This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with the chance of some exciting wildlife encounters on-foot.
   - Each luxurious tented camp is exquisitely appointed, in its own unique style, providing a well-deserved sanctuary at the end of the day.
 
 fromPricing: R15500
@@ -38,17 +38,17 @@ details:
     description:
       - <strong>2 / 5 - Fitness</strong>. Approx 10 km / day (+/- 6hrs of walking) but sometimes in hot and humid conditions. Min age - 12 yrs.
 
-      - <strong>2/ 5 - Technicality</strong>. The trail traverses the 11 000 hectare, free roaming Big five game reserve under the escort of two armed and qualified trail guides. Remote footpaths and game trails.
+      - <strong>2 / 5 - Technicality</strong>. The trail traverses the 11 000 ha free roaming Big-5 game reserve, under the escort of two armed and qualified trail guides. Remote footpaths and game trails.
 
   - heading: Trail Terrain
     description:
-      - Walking along remote game trails & footpaths through the unique thicket & fynbos biomes of the Gondwana Big-5 Private Game Reserve.
+      - Walking along remote game trails and footpaths through the unique thicket and fynbos biomes of the Gondwana Big-5 Private Game Reserve.
   - heading: Accommodation
     description:
-      - Luxury Tented Fly Camps. Each camp, uniquely appointed, has just 4 private en-suite tents.
+      - Luxurious Tented Fly Camps. Each camp, uniquely appointed, has just 4 private en-suite tents.
   - heading: Logistic Support
     description:
-      - This is an expertly guided, luxury catered and vehicle supported private wilderness trail.
+      - This is an expertly guided, luxury catered, and vehicle supported private wilderness trail.
       - '* Runs in Summer only - October to May'
   - heading: Group Size
     description:
@@ -63,7 +63,7 @@ emailSubject: Pioneer Wilderness Trail Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - This 3 night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25min drive from Mossel Bay.
+    - This three night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25 min drive from Mossel Bay.
     - Under the escort of two armed and professional wilderness guides, you will hike approximately 10 km/a day (+/- 6hrs of walking) on exclusive, remote access game trails; whilst your luggage is transferred to the next luxury tented camp.
     - Trailist’s can expect gourmet bush meals, top notch guiding and artistic, uniquely-appointed tented camps. An active wilderness experience with a big lick of luxury....
 itinerary:
@@ -73,7 +73,7 @@ itinerary:
       description:
         - Arrival at Gondwana Game Reserve for a light lunch and to meet your trail guides
         - Pack trail clothes into duffel bags and transfer to first tented camp in open Game Viewer. Afternoon tea and treats in the lounge tent.
-        - Pre-dinner drinks and snacks in the lounge tent and briefing for Day 1 on the trail
+        - Pre-dinner drinks and snacks in the lounge tent with intro briefing
         - 'Overnight: <strong>Tented Camp 1 - East African Style</strong>'
 
     - heading: Day 2
@@ -81,7 +81,7 @@ itinerary:
       description:
         - '6-6:30am Wake up. Breakfast in dining tent'
         - '7/7:30am depart on trail with packed lunch'
-        - Guided interpretive walking, exploring the Fynbos biome, wildlife and birdlife with scenic rest stops and possible waterhole swims.
+        - Guided interpretive walking, exploring the Fynbos biome, wildlife and birdlife, with scenic rest stops and possible waterhole swims.
         - '+/- 4pm: arrive at <strong>Tented Camp 2 – Mozambique Style</strong>'
 
     - heading: Day 3
@@ -91,7 +91,7 @@ itinerary:
         - '7/7:30am depart on trail with packed lunch'
         - Guided interpretive walking, exploring the Fynbos biome, wildlife and birdlife with scenic rest stops and possible waterhole swims.
         - '+/- 2pm: arrive at <strong>Tented Camp 3 – Moroccan Style </strong>'
-        - Afternoon game drive or more guided hiking for those that want
+        - Afternoon game drive or more guided hiking for those so inclined
     - heading: Day 4
       subHeading: 'Departure Day'
       description:
@@ -106,8 +106,8 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - <strong>Luxury Tented Fly Camps </strong>– all in private locations with a unique flavour
-    - Each exclusive camp is comprised of only four en-suite tents, and a beautifully furnished lounge and dining tent, and private outdoor relaxation areas. Maximum of 8 persons/ per group.
+    - <strong>Luxurious Tented Fly Camps </strong>– all in private locations with a unique flavour.
+    - Each exclusive camp is comprised of only four en-suite tents, a beautifully furnished lounge and dining tent, and private outdoor relaxation areas. Maximum of 8 persons/ per group.
     - Indulge in homemade African inspired meals with cold beverages on tap
     - You literally need to “just bring your boots” and the Pioneer Trail team will do the rest for you. There is no better way to experience nature and wildlife up close, than on foot.
   images:
@@ -127,7 +127,7 @@ faq:
         - Hiking shoes or boots. We recommend gaiters or longer socks for ticks and to prevent grass seeds from getting in your shoes.
     - question: When can this trail be done?
       answer:
-        - The trail runs in the summer season only Oct through to May, with set departure days of Mondays and Thursdays. We will try to join you to an existing group or fill your trail date to a maximum of 8 hikers/ per trail.
+        - The trail runs in the summer season only, Oct through to May, with set departure days of Mondays and Thursdays. We will try to join you to an existing group or fill your trail date to a maximum of 8 hikers / per trail.
     - question: Is malaria a problem?
       answer:
         - No. The area is malaria free. Another good reason to do do this wilderness trail.
@@ -163,7 +163,7 @@ price:
   table2: null
   includes:
     - '<strong>3 Nights Luxury Tented Camps</strong> - Each camp only has 4 tents with ensuite bathrooms and private outdoor area '
-    - '<strong>Gourmet meals:</strong> from dinner on arrival night to breakfast on final day (3 Breakfasts, 2 Lunches, and 3 Dinners) and beverages'
+    - '<strong>Gourmet meals:</strong> from dinner on arrival night to breakfast on final day (3 Breakfasts, 2 Lunches, and 3 Dinners) and beverages on-tap'
     - '<strong>Two Big-5 Certified Wilderness Hiking Guides</strong>'
     - '<strong>Daily Luggage transfers & support </strong>'
     - '<strong>Game Drive </strong>'
@@ -183,3 +183,4 @@ destinationTour:
   description: This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located seasonal tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with exciting wildlife encounters on foot.
   emailLink: mailto:tours@active-escapes.co.za?subject=Pioneer Trail – Western Cape Destination Listing
 ---
+

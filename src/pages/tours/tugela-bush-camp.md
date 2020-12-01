@@ -75,8 +75,8 @@ details:
 
   - heading: Trail Grading
     description:
-      - <strong>1-2 / 5 - Fitness</strong>.There are circular walking-running trails which are just a few kms, but you can extend your network as far as you are fit.
-      - <strong>2/ 5 - Technicality</strong>. The trail network is surprisingly well cleared and maintained, but the overall terrain is pretty wild.
+      - <strong>1-2 / 5 - Fitness</strong>.There are circular walking-running trails which are just a few km, but you can extend your network as far as you are fit.
+      - <strong>2 / 5 - Technicality</strong>. The trail network is surprisingly well cleared and maintained, but the overall terrain is pretty wild.
   - heading: Trail Terrain
     description:
       - Thukela Thornveld and Valley Bushveld – comprising river valleys, rocky ridges, alluvial sands, gnarled and ancient Shepard trees, aloes and acacias.
@@ -106,7 +106,7 @@ overview:
 
 itinerary:
   itinerary:
-    - heading: <strong>Yoga - Nature Retreat Itinerary</strong>
+    - heading: Yoga - Nature Retreat Itinerary
       subHeading: Arrival / Day 1
       description:
         - Self-drive drive to Weenen - Meet and Greet
@@ -130,14 +130,14 @@ itinerary:
       description:
         - '06h30: Walk and Meditation at Hippo Hill'
         - Fruit salad, yoghurt & muffins at camp
-        - '08h30-9am: Vinyasa Yoga Session'
-        - 'From 10.30 -11: Brunch'
+        - '08h30-09h30: Vinyasa Yoga Session'
+        - 'From 10 -11: Brunch'
         - 12pm - Depart or transfer back to Weenen
 
   images:
     - src: ../../img/gallery/zing_trailrunning.jpg
       heading: Trail Running past Sunset Rock
-      subHeading: Over 50kms of handcrafted trail exists - built for Zingela's annual trail-run event, but kindly maintained by game and the dedicated trailblazing team.
+      subHeading: Over 50km of handcrafted trail exists - built for Zingela's annual trail-run event, but kindly maintained by game and the dedicated trailblazing team.
     - src: ../../img/gallery/zing_retreat3.jpg
       heading: Yoga and Nature Retreats
       subHeading: If you are a group of 8 or more, we can run a private retreat as per your date request (a novel book-club or corporate getaway). But we are also scheduling a handful of retreats in the upcoming year - so check-in with us if this is your call.

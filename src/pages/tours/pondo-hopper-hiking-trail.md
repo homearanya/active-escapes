@@ -134,7 +134,7 @@ faq:
         - For this trail, heavier hiking boots are not necessary. A hiking type shoe or trail running sneaker with good grip is perfect.
     - question: Do you cater for vegetarians and other dietary constraints?
       answer:
-        - Vegetarian is no problem at all, but we do need to be given good advance warning. Other dietary constraints need to be assessed on a case-by-case scenario and a surcharge may apply. The shops in the area are limited and the nearest health shop is over 300kms away.
+        - Vegetarian is no problem at all, but we do need to be given good advance warning. Other dietary constraints need to be assessed on a case-by-case scenario and a surcharge may apply. The shops in the area are limited and the nearest health shop is over 300km away.
     - question: What about drinks?
       answer:
         - Tea and coffee, and juice at meals is provided, but for all other drinks (both alcoholic and soft) – you will need to bring your own, and these will be transferred along with your bags from camp to camp by the support vehicle. Space is limited, and the roads are rough, so your drinks need to be properly packaged (cooler or box) and please avoid glass.
@@ -162,7 +162,7 @@ gallery:
     - src: ../../img/gallery/pondohopper-aloes.jpg
       caption: Aloes provide a vibrant splash of colour during winter months.
     - src: ../../img/gallery/pondohopper-msikaba-canoe.jpg
-      caption: Paddling up the Msikaba estuary – one can paddle about 5kms upstream.
+      caption: Paddling up the Msikaba estuary – one can paddle about 5km upstream.
     - src: ../../img/gallery/pondohopper-seaview.jpg
       caption: Little pockets of indigenous forest between the rolling green hills.
     - src: ../../img/gallery/pondohopper-bluff.jpg

@@ -93,7 +93,7 @@ itinerary:
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Hluleka - Mdumbi (21km/8hrs walk)'
       description:
-        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4kms, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
+        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4km, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
         - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Mdumbi Backpackers</strong> (dinner)'
     - heading: Day 6
       subHeading: 'Hike Day 5: Hike Mdumbi-Coffee Bay (10km/ 4hrs walk)'

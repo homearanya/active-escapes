@@ -32,9 +32,9 @@ slug: ampthitheatre-slackpacker
 featuredImage: ../../img/generic/pp-amphi-966.jpg
 # Text under heading on tour page
 longDescription:
-  - A mighty wall of basalt which rises over 1000 metres from the Tugela Valley to the Lesotho plateau nearly 3000 metres above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry - extending as a sheer wall of rock some 5 kilometres in length from the Eastern Buttress to the Sentinel Peak in the west - altogether an area of majestic and incomparable beauty.
+  - A mighty wall of basalt which rises over 1000m from the Tugela Valley to the Lesotho plateau nearly 3000m above sea level, the Northern Drakensberg's Amphitheatre, gains much of its aesthetic appeal from its near perfect symmetry. Extending as a sheer rock wall - 5km in length from the Eastern Buttress to Sentinel Peak in the west - the Amphitheatre provides an unmistakable horizon.
   - The Tugela Falls, the world's second tallest falls (and the highest in Africa), plunges 948m over the basalt face of the Amphitheatre, down to Royal Natal Park below.
-  - 'This Amphitheatre Slackpacking Trail has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in tents or caves.'
+  - 'Our Amphitheatre Slackpacking Trail (AST) has been designed to enable walkers of average fitness to reach the summit and be rewarded by never-to-be-forgotten views: a feat normally only undertaken by  experienced hikers who would camp overnight in tents or caves.'
 # Used on tour cards on Recently Views tours section and destination page. As requested is not shown on tour page or other tour cards. Leave blank if not to be shown
 fromPricing: R6200
 # One of the difficulty levels under folder src/data/difficulty-level. Use the same words field value "code"
@@ -46,15 +46,15 @@ details:
   - heading: Trip Duration
     description:
       - 3 Hike Days / 3 Nights
-      - '* Extra days avail'
+      - '* Extra days available'
   - heading: Daily Distances
     description:
-      - 'Day 1: 15km/ 5-6.5hr (1273m Asc)'
-      - 'Day 2: 16km/ 6-7hr (985m Asc)'
+      - 'Day 1: 15km / 5-6.5hr (1273m Asc)'
+      - 'Day 2: 16km / 6-7hr (985m Asc)'
       - 'Day 3: 11km / 4-5hrs (391m Asc)'
   - heading: Trail Grading
     description:
-      - <strong> 3.5/ 5 </strong> for both <strong>Fitness</strong> and <strong>Technicality</strong>
+      - <strong> 3.5 / 5 </strong> for both <strong>Fitness</strong> and <strong>Technicality</strong>
       - Some steep ascents on Day 1 & 2 but without a heavy backpack. A head for heights needed on Day 2 (the chain ladders and top of the escarpment), but there is also a gully alternative to the chain-ladders.
   - heading: Trail Terrain
     description:
@@ -100,7 +100,7 @@ itinerary:
       description:
         - Vehicle transfer provided up to Sentinel Car Park (8km / approx 30min transfer).
         - Today’s trail starts with a well-trodden path which ascends gradually towards the Witches and Zigzags, taking you to the base of the Sentinel massif. From here you’ll follow the contour path below the Western buttress, with the land sloping steeply to the north and east giving you wonderful views of the Maluti’s.
-        - The chain ladders are reached after about 3 kilometres. After negotiating the 35m ascent on the chainladders it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont aux Sources (highest peak in the area) and the top of the Tugela Falls are highlights.
+        - The chain ladders are reached after about 3km. After negotiating the 35m ascent on the chainladders, it is only a short scramble from there to the escarpment top, where you can spend the better part of the day in exploration. Mont-aux-Sources (highest peak in the area) and the top of the Tugela Falls are highlights.
         - Return transfer back to Witsies from Sentinel car park.
         - 'Overnight: <strong>Witsies Mountain Lodge</strong> - Opt A: Sentinel Chalets. Opt B: Hikers Cabin (Dinner Bed & Breakfast + Packed Lunch – on Opt A)'
     - heading: Day 4
@@ -118,7 +118,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - 1 Night at <strong>Cavern Berg Hotel</strong> –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. A post-hike night is recommended - with a massage at their Forest Spa.
+    - 1 Night at <strong>Cavern Berg Hotel</strong> –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest. A post-hike night is recommended, with a massage at their Forest Spa.
     - 2 Nights at <strong>Witsieshoek Mountain Lodge</strong> -  one of the highest lodges in South Africa and as close a bed as you get to the summit. The recently renovated Sentinel chalets offer breath-taking views of the Drakensberg  Amphitheatre.
   images:
     - src: ../../img/gallery/amphi_cavern_stdroom.jpg

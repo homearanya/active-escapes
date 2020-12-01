@@ -142,7 +142,7 @@ gallery:
     - src: ../../img/gallery/mtentuexplorer_boardwalk.jpg
       caption: Mtentu Lodge’s chalets are connected by wooden walkways.
     - src: ../../img/gallery/mtentuexplorer_pool.jpg
-      caption: The ‘kloofing’ scrambling up to Swallowtail falls is just under 2kms one way, but takes a good few hours there and back, with so many pools that just can’t go unswum.
+      caption: The ‘kloofing’ scrambling up to Swallowtail falls is just under 2km one way, but takes a good few hours there and back, with so many pools that just can’t go unswum.
     - src: ../../img/gallery/mtentu-exlorer_waterfall.jpg
       caption: A waterfall with no name….just one of the amazing natural splendours viewed from a canoe, as one paddles up the Mtentu estuary.
 
@@ -179,11 +179,11 @@ popularTour:
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer
-  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
+  description: Walk the Wild Coast, 2hrs from Durban. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 destinationTour:
   order: 4
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer
-  description: Walk the Wild Coast, 2hrs from Durbs. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
+  description: Walk the Wild Coast, 2hrs from Durban. Our 3 Night Mtentu-Explorer takes you to private beaches, forgotten falls and pristine estuaries. Overnighting in a homestay the first night and a joint-venture eco-camp the next two– your stay bolsters the local economy, much needed in the fight against mining.
 ---

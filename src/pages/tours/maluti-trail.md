@@ -15,13 +15,14 @@ activity:
       description: 'Discover diverse natural and cultural heritage on this fair-trade hiking trail along the foothills of the southern Maluti’s. Visit rock-art sites, learn about medicinal plants and share in local traditions along the way. Overnight in comfortable mountain chalets offering delicious meals.'
 subActivity:
   - slackpacking
+  - mountainbiking
 tourName: Maluti Hiking Trail
 slug: maluti-trail
 featuredImage: ../../img/generic/PP-Malutitrail.jpg
 
 longDescription:
   - Traversing the mountainous foothills of the southern Drakensberg on the cusp of the Eastern Cape, KZN and southern Lesotho, the Maluti Trail is a successful community-owned trail into this lesser known part of the Ukhahlamba Drakensberg National Park.
-  - This 4 day trail explores the diverse natural and cultural heritage of this World Heritage Site. Hiking along the mountainous foothills, you’ll pass through friendly villages, learn about medicinal plants and local culture, and explore ancient rock-art sites.
+  - This 4 day trail explores the diverse natural and cultural heritage of this World Heritage Site. Hiking in the foothills, you’ll pass through friendly rural villages, learn about medicinal plants and local culture, and explore ancient rock-art sites.
 
 fromPricing: R4000
 difficultyLevel: moderate
@@ -33,8 +34,10 @@ details:
       - '* Fewer days on request'
   - heading: Daily Distances
     description:
-      - 'Day 1: 14km/6hr  Day 2: 20km/8hr '
-      - 'Day 3: 13km/7hr  Day 4:12km/6hr'
+      - 'Day 1: 14km/ 6hr' 
+      - 'Day 2: 20km/ 8hr'
+      - 'Day 3: 13km/ 7hr' 
+      - 'Day 4: 12km/ 6hr'
 
   - heading: Trail Grading
     description:
@@ -42,7 +45,7 @@ details:
       - <strong>2-3/ 5 - Technicality</strong>. A clear path (relatively well maintained), with no sheer vertical sections.
   - heading: Trail Terrain
     description:
-      - Mountainous foothills of the Maluti Mountains (classified as 'Little berg'). A fair degree of ascent and descent each day - undulating trail, passing through rural mountain villages, grasslands and indigenous forest.
+      - Foothills of the Maluti Mountains (classified as 'Little berg'). A fair degree of ascent and descent each day, passing through rural mountain villages, grasslands and indigenous forest.
 
   - heading: Accommodation
     description:
@@ -66,7 +69,7 @@ overview:
   heading: At a Glance
   description:
     - This 4 day/ 4 night hiking trail explores the diverse natural and cultural heritage of the Maloti-Drakensberg World Heritage Site. Hiking along the mountainous foothills, you’ll pass through friendly rural villages, take in ancient rock-art sites, and learn about local medicinal plants and culture.
-    - Each night you'll be welcomed by your chalet host into a comfortable trail hut where hot showers, fresh linen and a delicious cooked dinner awaits. The hike is guided by a qualified community guide, and luggage transfers from one chalet to the next, can easily be arranged for those who don't wish to carry more than a light daypack.
+    - Each night you'll be welcomed by your chalet host into a comfortable trail hut where hot showers, fresh linen and a delicious dinner awaits. The hike is guided by a qualified community guide, and luggage transfers from one chalet to the next, can easily be arranged for those who don't wish to carry more than a light daypack.
 
 itinerary:
   itinerary:
@@ -78,24 +81,24 @@ itinerary:
     - heading: Day 2
       subHeading: 'Hike Day 1: Malekhonyane  -  Mpharane Chalet (14km. Alt: 1591m) '
       description:
-        - Crossing over the Jordan river visting rock art paintings nearby. Short steep climb up onto grassland ridge with easy walking descending down to stream crossing near Masupha village. Moderate climb with great views followed by descent through Mpharane village to chalet.
+        - Crossing over the Jordan river visting rock art paintings nearby. Short steep climb up onto a grassland ridge followed by an easy descent to a river crossing near Masupha village. Then a moderate climb, with great views, followed by a final descent through Mpharane village to the chalet.
         - 'Overnight: <strong>Makhulong</strong> Chalet above Mpharane village (breakfast,trail lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Mpharane Chalet – Makhulong Chalet (19.5km / Alt: 1560m)'
       description:
         - Descend through Mpharane village to cross the Seeta river. Thereafter a steady climb using footpaths and sled tracks to reach a long easy ridge with 360-degree views.
-        - Through a nek and contour path to the protea level where the path meanders through open grassland with streams and incised valleys. A final moderate climb takes you to the chalet at Maboloka located below the Twin Sisters and Makalane peaks
+        - Through a nek and contour path to the protea level where the path meanders through open grassland with streams and incised valleys. A final moderate climb takes you to the chalet at Maboloka located below the Twin Sisters and Makalane peaks.
         - 'Overnight: <strong>Machekong </strong>Chalet (breakfast, trail lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Makhulong – Maboloka Chalet (12.5km / Alt: 1663m)'
       description:
-        - Moderate climb along stock paths up pleasant contour with interesting sandstone features. Descend to Kinira river and follow undulating terrain through Goxe and Pepela villages.
-        - The chalet at Madlangala is surrounded by encircling mountain peaks and has a sense of space and clear mountain air.
+        - Moderate climb along cattle paths with interesting sandstone features. Descend to the Kinira river and follow undulating terrain through Goxe and Pepela villages.
+        - The chalet at Madlangala is surrounded by mountain peaks and has a real sense of place.
         - 'Overnight: <strong>Madlangala </strong> Chalet (breakfast, trail lunch, dinner)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Maboloka - Madlangala Chalet (12km/ Alt: 1685m). Transfer back to Matatiele this day.'
       description:
-        - The last day's hike is a pleasant contour walk with patches of indigenous forest, protea groves, fascinating sandstone features and mountain grassland.
+        - The last day's hike is a pleasant contour walk with patches of indigenous forest, protea groves, fascinating sandstone features and mountain grasslands.
         - The trail ends nears Qachas Nek (border post with Lesotho) where you will be collected by vehicle and taken back to <strong>Matatiele</strong> where your cars have been left. (breakfast, lunch)
 
   images:
@@ -106,7 +109,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - <strong>Mountain Trail Chalets</strong> - maintained and hosted by a friendly local community member
+    - <strong>Mountain Trail Chalets</strong> - maintained and hosted by a friendly local community member.
     - Communal bathrooms and central dining area - where meals will be shared
     - Fresh linen & towels provided
 
@@ -125,7 +128,7 @@ faq:
         - Worn-in hiking boots for ankle support if you wish, otherwise a hiking or trail-running shoe will also be suitable for this trail.
     - question: What is the best time of year for this trail?
       answer:
-        - In the Drakensberg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather. Winter months (June-July) can be the best – chilly starts but generally warm and dry days. The hottest months (Nov-Feb) also tend to have the heaviest thunderstorms.
+        - "In the Drakensberg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, Winter months (June-July) are usually the best: chilly starts but generally warm and dry days. The hottest months (Nov-Feb) also tend to have the heaviest thunderstorms."
     - question: Can this hike be lengtened or shortened?
       answer:
         - Yes, it is very customisable.
