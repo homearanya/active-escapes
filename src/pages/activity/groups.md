@@ -10,7 +10,7 @@ banner:
   heading: Group Adventures
   subHeading: 'Friends or Business: by the end, hopefully both'
 intro:
-  heading: Good Company in a journey makes the way seem shorter.
+  heading: Good Company in a journey makes the way seem shorter
   text:
     - Tired of the same old company team builds? Run out of ideas for the staff Christmas party?  Or perhaps it’s time for the company’s seniors to brain storm and strategise?  Getting out into a remote and beautiful place is a great way to do this. Avoid the constant distractions of your mobile and everything else that comes with ‘the office’, and let us organise a novel location with fresh air and activity to get the brain cells firing.
     - With locations close to Durban and Johannesburg (the Drakensberg & KZN Midlands), or further afield but more remote  (Kosi Bay, Wild Coast) - Active Escapes can transform your next strategy session into a game-changer.

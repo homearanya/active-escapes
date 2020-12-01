@@ -23,9 +23,9 @@ intro:
     - iconClass: icon-africa
       heading: Where is AE?
       text:
-        - Tucked away in the village of Hilton, Active Escape's head-quarters are in the adventure packed hills of the KwaZulu-Natal Midlands.  With some of the country's best mountain biking on our doorstep, an hour’s drive from the hiking trails of the Drakensberg, and just 90kms from (show to here) the warm surf of the ...
+        - Tucked away in the village of Hilton, Active Escape's head-quarters are in the adventure packed hills of the KwaZulu-Natal Midlands.  With some of the country's best mountain biking on our doorstep, an hour’s drive from the hiking trails of the Drakensberg, and just 90km from (show to here) the warm surf of the ...
       extraText:
-        - Tucked away in the village of Hilton, Active Escape's head-quarters are in the adventure packed hills of the KwaZulu-Natal Midlands.  With some of the country's best mountain biking on our doorstep, an hour’s drive from the hiking trails of the Drakensberg, and just 90kms from (show to here) the warm surf of the Indian Ocean, it’s no surprises we love where we live!
+        - Tucked away in the village of Hilton, Active Escape's head-quarters are in the adventure packed hills of the KwaZulu-Natal Midlands.  With some of the country's best mountain biking on our doorstep, an hour’s drive from the hiking trails of the Drakensberg, and just 90km from (show to here) the warm surf of the Indian Ocean, it’s no surprises we love where we live!
     - iconClass: icon-globe
       heading: Mission & Values
       text:

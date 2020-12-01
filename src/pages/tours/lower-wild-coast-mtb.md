@@ -157,7 +157,7 @@ gallery:
     - src: ../../img/gallery/WCMTB-HIW relax.jpg
       caption: Lunch at Hole in the Wall  on the ride day from Bulungula to Coffee Bay.
     - src: ../../img/gallery/WCMTB_silaka.jpg
-      caption: Racing the sunset as we still had 15kms to do through the beautiful, but wild, Silaka Nature Reserve – last day of the Wild Coast Adventure trip.
+      caption: Racing the sunset as we still had 15km to do through the beautiful, but wild, Silaka Nature Reserve – last day of the Wild Coast Adventure trip.
     - src: ../../img/gallery/WCMTB-darksky.jpg
       caption: Early morning start from Bulungula
     - src: ../../img/gallery/WCMTB-lonerider.jpg

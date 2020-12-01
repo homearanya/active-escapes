@@ -19,7 +19,7 @@ slug: clarens-san-traverse
 featuredImage: ../../img/generic/PP-Skywalk.jpg
 longDescription:
   - The Clarens San Traverse is a 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. The area is famous for its landmark San paintings, well-preserved dinosaur fossils, fine restaurants, quirky art cafes and intriguing African folk-lore tales.
-  - Our charismatic guide will lead you safely from one destination to the next whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
+  - Our charismatic guide will lead you safely from one destination to the next, whilst sharing his unique perspective on ancient culture and the stories of the people who once inhabited this valley.
 fromPricing: R5000/pp
 difficultyLevel: moderate
 duration: 3 Days
@@ -30,8 +30,10 @@ details:
       - '* Shorter and longer variations'
   - heading: Daily Distances
     description:
-      - 'Day 1: 17km  Day 2: 14km'
+      - 'Day 1: 17km'  
+      - 'Day 2: 14km'
       - 'Day 3: 5.5 - 10km'
+
   - heading: Trail Grading
     description:
       - <strong>2-3/ 5 for Fitness</strong>.
@@ -44,7 +46,7 @@ details:
       - Comfortable farm stays & 3-star lodges
   - heading: Logistic Support
     description:
-      - 'A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfers to vehicles.'
+      - 'A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers. Return transfer provided.'
   - heading: Group Size
     description:
       - Min of <strong>4</strong> persons and max <strong>12-14 </strong>persons per group.
@@ -63,23 +65,23 @@ itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Self-drive drive to the trail head near Clarens, Free State.'
+        - 'Self-drive to the trail head near Clarens, Free State.'
         - 'Overnight: <strong>St Fort </strong> (dinner)'
     - heading: Day 2
       subHeading: 'Hike Day 1: St Fort to Schaaplaats (17km / 7hr hike)'
       description:
-        - Breakfast at St Fort. Gradual hike up the scenic ravine kloof onto the high Basothu grasslands.
-        - 'Overnight: <strong>Schaaplaats Country Guesthouse </strong> -offering twin/double en-suite and communal bathrooms (breakfast, packed lunch, dinner)'
+        - Breakfast at St Fort. Gradual hike up the scenic ravine onto the high Basothu grasslands.
+        - 'Overnight: <strong>Schaaplaats Country Guesthouse </strong> -offering twin/double en-suites and communal bathrooms (breakfast, packed lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Schaaplaats to Rock Art Paintings (13.5 km / 5 hr)'
       description:
-        - Hike through farmland up through a river trail to visit a National Monument Rock Art cave paintings. Continue along the grassland ridge with dramatic views of Lesotho and the Caledon river.
+        - Hike through farmland and up along a river trail to visit a national monument rock art cave paintings. Continue along the grassland ridge with dramatic views of Lesotho and the Caledon river.
         - Drivers will be transferred back to collect their vehicle at St Fort.
         - 'Overnight: <strong>Schaaplaats Country Guesthouse </strong>  (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Clarens Historical Walk (5.5km-10km / approx 2-4 hr hike)'
       description:
-        - Self-Drive to Clarens for a historical walk through the village onto the circular trails of the Clarens Conservancy.
+        - Self-drive to Clarens for a historical walk through the village onto the circular trails of the Clarens Conservancy.
         - Restaurant lunch in Clarens for own account.
 
   images:
@@ -92,7 +94,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - Homely farm stays and country lodges - 3-star equivalent.
+    - Homely <strong>farmstays</strong> and <strong>country lodges</strong> - 3-star equivalent. Most rooms are ensuite, but some of the rooms will share a bathroom. Breakfasts and dinners will be prepared and served at your overnight lodgings.   
   images:
     - src: ../../img/gallery/clarens_stone-cottage.jpg
       heading: Original Sandstone cottage, St Fort - First nights  accomodation.
@@ -102,7 +104,7 @@ faq:
   faq:
     - question: Do we carry our own backpacks?
       answer:
-        - NO. Vehicle luggage transfers will be provided between your overight locations on this slackpacking trail.
+        - No. Vehicle luggage transfers will be provided between your overight locations on this slackpacking trail.
     - question: What type of footwear is appropriate?
       answer:
         - Worn in hiking boots or a more rugged hiking shoe with a decent rubber sole.
@@ -150,18 +152,19 @@ gallery:
 price:
   heading: At a Glance
   overview:
-    - Price varies based on group size, but indicative price indicative price on a full group (8-12 persons) - <strong>R5000/pp</strong>
+    - Price varies based on group size, but indicative price based on a full group size (8-12 persons) - <strong>R5000/pp</strong>
   table: null
   heading2: null
   overview2: null
   table2: null
   includes:
-    - '3 Nights Accommodation (per person sharing basis)'
-    - 'All Meals: 3 packed/picnic/restaurant lunches for the hike days and 3 dinners and breakfasts at the accommodation'
-    - 'Hiking Guide -a qualified nature guide to explore the fauna and fauna with you on the trail'
-    - 'Trail & Reserve permits'
-    - 'Hiking Permits and land permissions for the 3 hike day'
+    - '<strong>3 Nights Accommodation </strong> - based on a double or twin sharing basis'
+    - '<strong>All Meals:</strong> 3 packed/picnic/restaurant lunches for the hike days and 3 dinners and breakfasts at your accommodation'
+    - '<strong>Professional Hiking Guide</strong> for all days '
+    - 'Trail & Reserve Permits'
+    - 'Land Permissions'
   notIncludes: null
+
 popularTour:
   featured: 0
   image: ../../img/listing/img-04-clarens.jpg
@@ -172,6 +175,6 @@ destinationTour:
   order: 1
   image: ../../img/listing/freestate-clarens.jpg
   title: The Clarens San Traverse
-  description: A 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. Our charismatic guide will share his unique perspective on the ancient culture and people who once inhabited this valley. From Cannibal cave to locally brewed ales, a hiking trip to Clarens will delight your finer senses.
+  description: A 3-day slackpacker offering the unique combination of high berg wilderness and cultural treasures. Our charismatic guide will share his unique perspective on the ancient culture and people who once inhabited this valley. From cannibal cave to locally brewed ales, a hiking trip to Clarens will delight your finer senses.
   emailLink: mailto:tours@active-escapes.co.za?subject=Clarens San Traverse HIke – Free State Destination Listing
 ---

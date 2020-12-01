@@ -110,7 +110,7 @@ We have described the 5 levels below in terms of **hiking** and **mountain-bikin
         <td>1</td>
         <td style="text-align: left;">
             very easy walking, mostly all flat – gradient less than 5%, for
-            the whole hike. Generally less than 7kms in daily distance. Trail
+            the whole hike. Generally less than 7km in daily distance. Trail
             surface is invariably hard and stable. No exposure to heights.
         </td>
         <td>

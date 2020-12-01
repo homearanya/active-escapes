@@ -19,8 +19,8 @@ slug: karkloof-falls2falls-trail
 featuredImage: ../../img/generic/PP-F2F.jpg
 
 longDescription:
-  - 'Immerse oneself in the natural splendour of the KZN Midlands: waterfalls, spectacular escarpment views, or ziplining through the forest canopy, this guided hike provides contrasting scenery with new surprises each day.'
-  - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umgeni valley gorge, you will be amazed at what the KZN Midlands has to offer.
+  - 'Immerse oneself in the natural splendour of the KZN Midlands: waterfalls, spectacular escarpment views, or ziplining through the forest canopy. This guided hike provides contrasting scenery with new surprises each day.'
+  - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umngeni gorge, you will be amazed at what the KZN Midlands has to offer.
   - As a three-day trail, it is a good option for a long weekend getaway, and brings an active offering to the Midlands Meander Route.
 fromPricing: R6000
 difficultyLevel: moderate
@@ -37,11 +37,11 @@ details:
       - 'Day 3: 14/9km  / 4-5hrs'
   - heading: Trail Grading
     description:
-      - <strong>3/ 5 - Fitness</strong>. You should have a moderate to good overall fitness
-      - <strong>2 -3/ 5 - Technicality</strong>. The path varies from well-maintained forest paths to fainter farmland and grassy trails.
+      - <strong>3 / 5 - Fitness</strong>. You should have a moderate to good overall fitness
+      - <strong>2 -3 / 5 - Technicality</strong>. The path varies from well-maintained forest paths to fainter farmland and grassy trails
   - heading: Trail Terrain
     description:
-      - Well maintained yellowwood forest logging paths, terraced bush paths, open grass and farm land.
+      - Well maintained yellowwood forest logging paths, terraced bush paths, open grass and farm land
 
   - heading: Accommodation
     description:
@@ -49,12 +49,12 @@ details:
 
   - heading: Logistic Support
     description:
-      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers.
+      - A fully guided and catered lodge-to-lodge tour with vehicle back-up and daily luggage transfers
       - Return transfer to your vehicle
 
   - heading: Group Size
     description:
-      - Preferred min of <strong>4</strong> persons and maximum <strong>10 </strong>persons/ per group
+      - Preferred min of <strong>4</strong> persons and maximum <strong>10 </strong>persons / per group
   - heading: Pricing
     description:
       - 'On a group of 4 persons: from <strong>R6,100/pp/sharing</strong>'
@@ -65,8 +65,8 @@ overview:
   description:
     - From highly vulnerable mist-belt forest, serene pastoral lands, and indigenous bushveld tree trails overlooking the mighty Umgeni valley gorge, you will be amazed at what diversity the KZN Midlands has to offer.
     - The birdlife is plentiful. A stop at the Karkloof Conservancy’s bird hide makes for a peaceful coffee break and an opportunity to tick off all three of South Africa’s cranes including the very rare Wattled Crane.
-    - Other mammals like Reedbuck, porcupine, giraffe, zebra and the endangered Samango monkeys all share their hide-outs in the beautiful Karkloof valley.
-    - 10% of proceeds from this hike go towards local conservation projects to help conserve the natural heritage.
+    - Other mammals like reedbuck, porcupine, giraffe, zebra and the endangered samango monkey, all share their hide-outs in the beautiful Karkloof valley.
+    - 10% of proceeds from this hike go towards local conservation projects.
 itinerary:
   itinerary:
     - heading: Day 1
@@ -78,19 +78,19 @@ itinerary:
       subHeading: 'Hike Day 1: Karkloof Valley to Mount Gilboa summit – Bushwillow (14km /850m ascent/ 6hrs)'
       description:
         - The hike begins with a 2km climb, following ancient logging paths through the second largest indigenous forest in South Africa. This special place is home to duiker, Samango monkeys and the rare Karkloof Blue butterfly.
-        - From here we trace our way up the escarpment to the summit of Mt Gilboa (the highest point of the Karkloof range at 1768m). We then snake our way through indigenous forest and pristine grasslands to Gray Mare’s Falls for a picnic lunch with tremendous views overlooking the 900 HA Karkloof Nature reserve.
-        - After lunch we make our way back to Bushwillow Carpark from where we will return by vehicle to our first night’s accommodation.
-        - 'Overnight: <strong>Karkloof Guesthouse/ B&B </strong> (breakfast, packed lunch, dinner)'
+        - From here we trace our way up the escarpment to the summit of Mt Gilboa (the highest point of the Karkloof range at 1768m). We then snake our way through indigenous forest and pristine grasslands to Gray Mare’s Falls for a picnic lunch with tremendous views overlooking the 900ha Karkloof Nature reserve.
+        - After lunch we make our way back to Bushwillow, from where we will return by vehicle to our first night’s accommodation.
+        - 'Overnight: <strong>Karkloof Guesthouse / B&B </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Karkloof Canopy Tours – Loskop  (+/- 11km / 265m ascent/ 4hrs)'
       description:
-        - Optional early morning visit to the Karkloof bird hides, followed by a hearty breakfast at our Guesthouse. After breakfast, we will head off to the Karkloof canopy tours to glide through the forest canopy along a series of ziplines.
+        - Optional early morning visit to the Karkloof bird hides, followed by a hearty breakfast at your guesthouse. After breakfast, we will head off to the Karkloof Canopy Tours to glide through the forest along a series of ziplines.
         - Then you’ll trail through scenic farmlands around the base of Loskop mountain, and make your way to the last overnight stop, in time for high-tea.
-        - 'Overnight: <strong>Karkloof Guesthouse/ B&B </strong> (breakfast, packed lunch, dinner)'
+        - 'Overnight: <strong>Karkloof Guesthouse / B&B </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Umngeni Valley Meanderings (14 / 9 km) '
       description:
-        - The final day’s hike is an indigenous tree trail with spectacular views overlooking the mighty uMngeni gorge below. uMngeni Valley is home to giraffe, Zebra, antelope and 270 species of birds.
+        - The final day’s hike is an indigenous tree trail with spectacular views overlooking the mighty uMngeni gorge below. uMngeni Valley is home to giraffe, zebra, antelope and 270 species of birds.
         - It is with heavy legs but happy hearts, that our journey comes to an end overlooking the cascading waters of the iconic Howick Falls.
         - Depart after lunch
   images:
@@ -102,6 +102,8 @@ lodging:
   heading: 'Lodges'
   description:
     - "Farm stays & 3-4 star equivalent B&B's and lodges"
+    - Bedding and towels provided
+    - Locally sourced and almost all organic country cuisine
   images:
     - src: ../../img/gallery/f2f_thistle.jpg
       heading: Karkloof Guesthouse
@@ -124,7 +126,7 @@ faq:
         - Scheduled tours will be a run a couple times a year (enquire regarding dates) otherwise private trips also available - date/ avail permitting.
     - question: What are the trail highlights?
       answer:
-        - Gliding through the forest on a canopy tour, healthy, local and ethically sourced country cuisine, dramatic views of the Karkloof valley, hidden waterfalls, world class bird hides with a chance to spot rare and special wildlife like the Wattled Crane, Midlands Dwarf chameleon Karkloof blue butterfly and Samango monkey, plenty of viewpoints for picnic lunches.
+        - Gliding through the forest on a canopy tour, healthy, local and ethically sourced country cuisine, dramatic views of the Karkloof valley, hidden waterfalls, world-class bird hides with a chance to spot rare and specials like the Wattled Crane, Midlands Dwarf chameleon, Karkloof Blue butterfly and Samango monkey, plenty of viewpoints for picnic lunches.
 gallery:
   pictures:
     - src: ../../img/gallery/F2F_autumn.jpg
@@ -132,13 +134,13 @@ gallery:
     - src: ../../img/gallery/F2F_forest.jpg
       caption: Many of the paths are through old montane forests
     - src: ../../img/gallery/F2F_greymares.jpg
-      caption: The top of Grey Mares waterfall offers a birds eye view across the Karkloof.
+      caption: The top of Grey Mares waterfall offers a birds eye view across the Karkloof
     - src: ../../img/gallery/F2F_family.jpg
-      caption: On a private tour, distances and routes can be adjusted to suite a younger family.
+      caption: On a private tour, distances and routes can be adjusted to suite a younger family
     - src: ../../img/gallery/F2F_stream.jpg
       caption: Bubbling brooks in the Karkloof valley
     - src: ../../img/gallery/F2F_pool.jpg
-      caption: Fill your bottle with spring water direct from the source.
+      caption: Fill your bottle with spring water direct from source
     - src: ../../img/gallery/F2F_karkloofalls.jpg
       caption: The spectacular Karkloof Waterfall
     - src: ../../img/gallery/f2f_thistle.jpg
@@ -159,26 +161,26 @@ price:
   overview2: null
   table2: null
   includes:
-    - '<strong>3 Nights Accom</strong> (sharing basis): 2 night at Karkloof lodgings (twin rooms/double room with communal bathrooms and ensuite bathroom) & 1 nights at a country Lodge (twin ensuite rooms)'
+    - '<strong>3 Nights Accom</strong> (sharing basis): 2 nights at Karkloof lodgings (twin rooms/double room with communal bathrooms and ensuite bathroom) & 1 night at a country Lodge (twin ensuite rooms)'
     - '<strong>Full Catering:</strong> 3 packed lunches for the hike days, 3 dinners and 3 breakfasts '
     - '<strong>Professional Hiking Guide</strong> - for all hike days. FGASA qualified to explore the fauna and fauna with you'
     - '<strong>Hiking Permits</strong> and private <strong> Land Permissions</strong> for the 3 hike days '
     - '<strong>Return Transfer</strong>'
     - <strong>Vehicle Luggage Support</strong>
-    - <strong>10% of profit donated to local conservancies</strong>
+    - <strong>10% of profit donated</strong> to local conservancies
   notIncludes: null
 popularTour:
   featured: 4
   image: ../../img/gallery/F2F_karkloof-500.jpg
   tagline: Falls 2 Falls
-  title: Karkloof Slackpack Hike
-  description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside'
+  title: Karkloof Slackpack Trail
+  description: 'Hike through giant yellowwood forests and mistbelt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Falls2Falls is a fully catered, luggage-supported trail encompassing some of the least discovered parts of Midlands countryside.'
 destinationTour:
   order: 2
   image: ../../img/listing/midlands-falls2falls.jpg
-  title: Karkloof Falls 2 Falls Hiking Trail
+  title: Karkloof Falls-2-Falls Hike
   descriptionInParagraphs:
-    - Hike through giant yellowwood forests and mist-belt grasslands to the forgotten falls of the Karkloof, on our 3 day Midlands Slackpacker. The Karkloof Falls2Falls 3-day slackpacking hike is an all-inclusive trek encompassing some of the most picturesque and hidden parts of the Midlands countryside.
-    - Highlights include traversing the forest canopy on a zip line tour, a visit to a bird hide with the chance to spot the critically-endangered Wattled Crane, and an indigenous tree trail with abundant wildlife including various birds, antelope, zebra, wildebeest and other game.
+    - Hike through giant yellowwood forests and mist-belt grasslands to the forgotten falls of the Karkloof, on our 3 day fully catered and supported Midlands Slackpacker.
+    - Highlights include a zip-line canopy tour, a visit to a bird hide with the chance to spot the critically-endangered Wattled Crane, and an indigenous tree trail. Enjoy abundant wildlife including antelope, wildebeest and endemic bird sightings.
   emailLink: mailto:tours@active-escapes.co.za?subject=Karkloof Fall 2 Falls – KZN Midlands Destination Listing
 ---

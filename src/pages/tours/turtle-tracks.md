@@ -19,7 +19,7 @@ slug: turtle-tracks
 featuredImage: ../../img/generic/PP-turtletrail.jpg
 
 longDescription:
-  - If you wish to combine the best of the Kosi lakes and Maputaland's finest beaches, then consider the Kosi to Mabibi 'Turtle Tracks' Trails. All options start out at Kosi Beach camp, and thereafter, hikers can chose from a combination of accommodation options to best suite their pockets and distance aspirations.
+  - If you wish to combine the best of the Kosi lakes and Maputaland's finest beaches, then consider the Kosi to Mabibi 'Turtle Tracks' Trails. All options start out at Kosi Beach Camp, and thereafter, hikers can chose from a combination of accommodation options to best suite their pockets and distance aspirations.
   - At the high-end, we have connected the exclusive lodgings of Kosi Forest Lodge and Thonga to one another. Guests hike from lodge-to-lodge with a community guide, and enjoy experiences such as ocean safaris, snorkelling and kayaking.
   - For those wanting to walk this route on a tighter budget, one can change down on accom and remove the Thonga night to finish off with two nights spent at Gugs camp.
 fromPricing: R9700
@@ -33,8 +33,8 @@ details:
       - Extra hike or lay days avail
   - heading: Daily Distances
     description:
-      - 'Day 1: 17km/ 8hr'
-      - 'Day 2: 12/ 7 km / 3-5hr'
+      - 'Day 1: 17km / 8hr'
+      - 'Day 2: 12 / 7 km / 3-5hr'
       - 'Day 3: 14 / 9km  / 4-5hr'
   - heading: Trail Grading
     description:
@@ -42,14 +42,14 @@ details:
       - <strong>1 / 5 - Technicality</strong>. No scrambling or sheer sections.
   - heading: Trail Terrain
     description:
-      - Coastal Trail passing through diverse ecosystems – open savannah, wetlands, coastal dune & fern forests, shallow lake crossings, and golden miles of sandy beach
+      - Coastal Trail passing through diverse ecosystems – open savannah, wetlands, coastal dune and fern forests, shallow lake crossings, and golden miles of sandy beach
   - heading: Accommodation
     description:
       - Safari Style Tented Camps and Luxury Bush and Beach Camps.
 
   - heading: Logistic Support
     description:
-      - 'Fully-catered & guided hike with luggage transfers, vehicle back-up, 3 Lakes boat-trip, snorkeling and end-point transfers all included.'
+      - 'Fully-catered & guided hike with luggage transfers, vehicle back-up, 3 Lakes boat-trip, snorkelling and end-point transfers all included.'
 
   - heading: Group Size
     description:

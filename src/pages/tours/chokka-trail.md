@@ -6,7 +6,7 @@ meta:
 destination: easterncape
 activity:
   - name: hiking
-    featured: 1
+    featured: 18
     listing:
       image: ../../img/gallery/chokka_boat trip.jpg
       title: Oyster Bay - St Francis Chokka Slackpack
@@ -18,8 +18,8 @@ tourName: Chokka Trail – Coastal Slackpack, St Francis
 slug: chokka-trail
 featuredImage: ../../img/generic/PP-Chokka.jpg
 longDescription:
-  - The 4 day/4 night Chokka Trail meanders between Oyster Bay, Cape St Francis and St Francis Bay in the Eastern Cape Province, South Africa.  The terrain includes fishermen’s footpaths and jeep-track over two moving dunefields and along the untamed ‘wild side’ of the Kouga shoreline.
-  - Ample birdlife and the chance to see the cape clawless otter while hiking through coastal forest and thicket adds to the excitement of finding century old middens where shells and potshards are scattered between the dunes.
+  - The 4 day/4 night Chokka Trail meanders between Oyster Bay, Cape St Francis and St Francis Bay in the Eastern Cape province of South Africa.  The terrain includes fishermen footpaths and jeep-track over two moving dunefields, and along the untamed ‘wild side’ of the Kouga shoreline.
+  - Wonderful birdlife, and the chance to see the cape clawless otter, adds to the excitement of finding century old middens scattered amongst the sand dunes.
 
 fromPricing: R7250
 difficultyLevel: moderate
@@ -37,11 +37,11 @@ details:
 
   - heading: Trail Grading
     description:
-      - '<strong>2-3/ 5 Fitness:</strong> It is a moderate hike, but can become challenging in inclement weather such as wind.'
-      - '<strong>2/ 5 Technicality:</strong> Relatively easy hike but the day through the dune-field can be challenging.'
+      - '<strong>2-3/ 5 Fitness:</strong> a moderate hike, which can become challenging in inclement weather such as wind'
+      - '<strong>2/ 5 Technicality:</strong> a relatively easy hike, but the day through the dune-field can be challenging'
   - heading: Trail Terrain
     description:
-      - 'The terrain is as diverse as the scenery: rugged shoreline, beaches, dune fields, coastal thicket and forest, modest fishing villages.'
+      - 'The terrain is as diverse as the scenery: rugged shoreline, beaches, dune fields, coastal thicket and forest, and modest fishing villages'
   - heading: Accommodation
     description:
       - Holiday apartments, country house, Resort and B&B on the canals.
@@ -52,7 +52,7 @@ details:
 
   - heading: Group Size
     description:
-      - Preferred min of <strong>4 </strong>persons - max 16 per group, all sharing.
+      - Preferred min of <strong>4 </strong>persons - max <strong>16</strong> per group, all sharing.
   - heading: Pricing
     description:
       - 'On a group of 4 or more: from <strong>R7,500/pp/sharing</strong>'
@@ -61,7 +61,7 @@ emailSubject: Chokka Trail Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - The Chokka Trail is a uni-directional hike from Oyster Bay to Cape St Francis.  Vehicles can be left in Cape St Francis at the Resort, or shuttles from Port Elizabeth Airport can be arranged straight to Oyster Bay.
+    - The Chokka Trail is a uni-directional hike from Oyster Bay to Cape St Francis.  Vehicles can be left in Cape St Francis at the Resort, or shuttles from Port Elizabeth airport can be arranged straight to Oyster Bay.
     - Highlights of the trail include a sundown cruise on the famous St Francis canals, and a calamari tasting at Port St Francis, the only privately owned working harbour in South Africa.  The trail is professionally  guided and catered for.
     - This slackpacking trail won the National Lilizela Awards for Best Visitors Experience (Beach Category) in 2016, 2017, 2018 and 2019.
 
@@ -72,26 +72,26 @@ itinerary:
       description:
         - Hikers need to be at Cape St Francis Resort by 11am on the day.  The trail owners will meet you here, and transfer you to Oyster Bay, 20km to the west.  Those flying in to Port Elizabeth can shuttle directly to Oyster Bay.
         - From here, you will set off on your out-and-back hike to Thysbaai along the coastline.  This day is unguided, so you will receive a map and route description.
-        - Highlights include Thysfontein, a little beach with a holiday cottage, where you might find spoor of the cape clawless otter.  The trail continues past a rock gully, where during low tide you can see circular rock walls in the water – it is ancient Koi-San fish traps, more than 2 000 years old.  Total distance to Thysbaai and back is 19km, but you can turn around at any point.
+        - Highlights include Thysfontein, a little beach with a holiday cottage, where you might find spoor of the cape clawless otter.  The trail continues past a rock gully, where during low tide you can see circular rock walls in the water – they are ancient Koi-San fish traps, more than 2 000 years old.  Total distance to Thysbaai and back is 19km, but you can turn around at any point.
         - 'Overnight: <strong>Oyster Kaya</strong>'
     - heading: Day 2
       subHeading: 'Hike Day 2: Oyster Bay to Dune Ridge. 18km'
       description:
         - On the second day you will be accompanied by an experienced local hiker.  You will traverse the dunes of the Sand River – a dune field mobilised by wind and water.  Wind blown patterns and rare finds of pot shards will take you into another world.
-        - At 18kms, this could be the most challenging day of the trail, especially in inclement weather, but nothing beats the feeling of conquering the Sand River!  A shorter route through beautiful coastal thicket, is an alternative -  to discuss with the trail owner.
+        - At 18km, this could be the most challenging day of the trail, especially in inclement weather, but nothing beats the feeling of conquering the Sand River!  A shorter route through beautiful coastal thicket, is an alternative -  to discuss with the trail owner.
         - The trail stops at  <strong>Dune Ridge Country House</strong>, where we recommend pre-booking a massage.
     - heading: Day 3
       subHeading: 'Hike Day 3: Dune Ridge to Cape St Francis. 16km'
       description:
-        - As most hikers are reluctant to leave the tranquillity of Dune Ridge, todays start is always a little later. The trail starts out through a beautiful section of coastal forest before reaching the shoreline.
+        - Todays start is always a little later, as most hikers are reluctant to leave the tranquillity of Dune Ridge. The trail starts out through a beautiful section of coastal forest before reaching the shoreline.
         - Keep your eyes open for grey duiker, mongoose, porcupine quills, bushbuck and caracal.  Once on the coast, look-out  for otters in the rock pools, as well as Oystercatchers, Kelp Gulls, terns, and Turnstones.
         - You will pass Mostertshoek, and walk on the ‘Wild Side’ - so named for the untamed sea that crashes onto the rocks in spectacular fashion.  You will see the second largest blow hole in SA, an unknown grave, the remains of the HMS Osprey that ran onto the rocks in 1867, as well as the Cape Recife (1929).
-        - The day finishes at the <strong>Cape St Francis Resort</strong>, where you will enjoy a sundowner cruise on the St Francis canals before dinner.
+        - The day finishes at <strong>Cape St Francis Resort</strong>, where you will enjoy a sundowner cruise on the St Francis canals before dinner.
     - heading: Day 4
       subHeading: 'Hike Day 4: Cape St Francis to St Francis Bay. 8km'
       description:
-        - The last day kicks off on the Cape St Francis beach, and follows the footpaths via Shark Point to Port St Francis, where Clive Cantor from Chokka Block will tell you more about the Chokka industry and serve a calamari tasting.  Hiking past Bruce’s Beauties to Granny’s Pool, here our journey will come to an end with a farewell lunch at Bruce’s Ocean Museum and Café.
-        - You will be transported back to the Resort after lunch to collect your vehicles.  If needing to catch a plane this day, you will normally end around 3pm, but can be made earlier if needs be.
+        - The last day kicks off on Cape St Francis beach, and follows the footpaths via Shark Point to Port St Francis, where Clive Cantor from Chokka Block will tell you more about the Chokka industry and provide a calamari tasting.  Hiking past Bruce’s Beauties to Granny’s Pool, here our journey will come to an end with a farewell lunch at Bruce’s Ocean Museum and Café.
+        - You will be transported back to the Resort after lunch to collect your vehicle. If needing to catch a plane this day, you will normally end around 3pm, but this can be made earlier if needs be.
 
   images:
     - src: ../../img/gallery/chokka_boat trip.jpg
@@ -158,13 +158,13 @@ price:
   includes:
     - '<strong>4 Nights Accom</strong> (sharing basis): Dinner, bed & breakfast basis'
     - 'Packed lunch and a farewell restaurant meal on departure day'
-    - <strong>Hiking Guide</strong> - on Days 2,3 and 4. Self-guided first day
+    - <strong>Hiking Guide</strong> - on Days 2, 3 and 4. Self-guided first day
     - <strong>Daily luggage transfers</strong>
     - Calamari Tasting and Canal Cruise
 
   notIncludes: null
 popularTour:
-  featured: 1
+  featured: 0
   image: ../../img/gallery/chokka_boat trip.jpg
   tagline: Chokka Delights
   title: Oyster Bay - St Francis Chokka Slackpack

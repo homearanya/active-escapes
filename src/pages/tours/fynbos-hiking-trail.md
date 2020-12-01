@@ -18,8 +18,8 @@ tourName: The Fynbos Trail – Overberg
 slug: fynbos-hiking-trail
 featuredImage: ../../img/generic/PP-Fynbos.jpg
 longDescription:
-  - The Fynbos trail is a unique nature experience in the heart of the Cape Floral Kingdom that can be undertaken as a fully guided and catered slackpacker, or as a self-guided option. Just two hours from Cape Town and close to Hermanus in the Overberg, the Fynbos trail has a two or three night option and takes hikers along a beautiful stretch of trail through coastal and mountain fynbos, remote forests and visits some fascinating environmental and social projects along the way.
-  - Enjoy highly knowledgeable guides, the opportunity to plant a tree in your name, and delicious locally prepared food and wine. This trail has a real personal touch which will leave you with wonderful memories.
+  - The Fynbos trail is a unique nature experience in the heart of the Cape Floral Kingdom, and can be undertaken as a fully guided and catered slackpacker, or as a self-guided option. Just two hours from Cape Town and close to Hermanus in the Overberg, the Fynbos trail is two or three nights -  taking hikers along beautiful coastal and mountain fynbos, remote forests and visiting some fascinating environmental and social projects along the way.
+  - Enjoy highly knowledgeable guides, the opportunity to plant a tree in your name, and delicious locally sourced and prepared food and wine. This trail has a real personal touch which will leave you with wonderful memories.
 
 fromPricing: R4500
 difficultyLevel: fairly-easy
@@ -31,24 +31,24 @@ details:
       - + Coastal Add-on Day
   - heading: Daily Distance
     description:
-      - 'Day 1: 6.5km/ 3hr (Steynbos to Fynbos Retreat) '
+      - 'Day 1: 6.5km / 3hr (Steynbos to Fynbos Retreat) '
       - 'Day 2: 12km / 6hr (Fynbos Retreat to Witkrans) '
       - 'Day 3: 6-8km / 4hr (Witkrans to Grootbos) '
       - 'Day 4: Coastal Add On - 10km / 4-5hrs (De Kelders to Grootbos)'
   - heading: Trail Grading
     description:
-      - <strong>2/ 5 - Fitness</strong>. Easy to moderate. Pace is slow with regular stops to look at and learn about flora along the way.
-      - <strong>2/ 5 - Technicality</strong>. Graded easy to moderate with HOSA/VOSA. Some steep climbs, some boardwalks and ladders. Older hikers have managed this trail with ease as have younger hikers – ideal for families.
+      - <strong>2 / 5 - Fitness</strong>. Easy to moderate. Pace is slow with regular stops to look at and learn about flora along the way.
+      - <strong>2 / 5 - Technicality</strong>. Graded easy to moderate. Some steep climbs, some boardwalks and ladders. Older hikers have managed this trail with ease, as have younger hikers – ideal for families.
   - heading: Trail Terrain
     description:
-      - The trail is mostly well maintained footpaths through the fynbos, some boardwalks and ladders accessing forested areas, some steeper climbs but with great views.
+      - The trail is mostly well maintained footpaths through the fynbos. Some boardwalks and ladders accessing forested areas, and some steeper climbs but with great views.
   - heading: Accommodation
     description:
-      - Comfy Cottages & Guesthouse for coastal day. Some bathroom sharing may be required, as not all rooms are ensuite.
+      - Comfy cottages on the Fynbos trail & a guesthouse for the coastal day. Some bathroom sharing may be required, as not all rooms are ensuite.
   - heading: Logistic Support
     description:
-      - A fully catered, expertly guided and luggage supported trail.
-      - Transfers (extra) can be arranged to/from George & Mossel Bay airports.
+      - A fully catered, expertly guided and luggage supported trail
+      - Transfers (extra) can be arranged to/from George & Mossel Bay airports
   - heading: Group Size
     description:
       - Preferred min of <strong>4</strong> and maximum of <strong>12</strong> hikers
@@ -60,8 +60,8 @@ emailSubject: Fynbos Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - As you drive down the R43 between the Overberg villages of Stanford and Gansbaai you have no inkling of the hidden treasures in the hills to your left. This three-day, 26km trail, meanders through pockets of indigenous forest with Tolkeinesque dells of dense lichens, tumbling waterfalls, and you guessed it, exquisite fynbos.
-    - "It's a true voyage of discovery, led by expert guides whose enthusiasm is infectious, as they relate the fascinating dynamics between propagator and fynbos. More than 800 different fynbos species have been identified along this route and whatever time of year you walk, there is always something in bloom. From proteas and pins, varied erica’s, delicate orchids, colourful moraea’s, seasonal bulbs, and diverse restio’s; the Grootbos Nature Reserve and Flower valley is a sight to behold."
+    - As you drive down the R43 between the Overberg villages of Stanford and Gansbaai, you have no inkling of the hidden treasures in the hills to your left. This three-day, 26km trail, meanders through pockets of indigenous forest with Tolkeinesque dells of dense lichens, tumbling waterfalls, and you guessed it, exquisite fynbos.
+    - "It's a true voyage of discovery, led by expert guides whose enthusiasm is infectious, as they relate the fascinating dynamics between propagator and fynbos. More than 800 different fynbos species have been identified along this route and whatever time of year you walk, there is always something in bloom. From proteas and pins, varied erica’s, delicate orchids, colourful moraea’s, seasonal bulbs, and diverse restio’s; the Grootbos Nature Reserve and Flower Valley is a sight to behold."
 
 itinerary:
   itinerary:
@@ -148,11 +148,11 @@ price:
     - 'Coastal add on day-night: R2100/pp'
   table2: null
   includes:
-    - '<strong>2 Nights Accom</strong> in cottages and guesthouse '
+    - '<strong>2 Nights Accom</strong> in cottages'
     - '<strong>All meals:</strong> 2 dinners, 2 lunches, 2 breakfasts (last lunch at an esteemed restaurant) '
     - '<strong>Expert Fynbos Guide</strong> - for all 3 hike days'
     - '<strong>Daily luggage transfers</strong>'
-    - 'Fully guided option includes field guide book to Walker Bay, tree planting, wine tasting of Lomond and Witkrans wines and fynbos gift.'
+    - 'Fully guided catered option includes field guide book to Walker Bay, tree planting, wine tasting of Lomond and Witkrans wines and fynbos gift.'
 
   notIncludes: null
 popularTour:
@@ -165,6 +165,6 @@ destinationTour:
   order: 1
   image: ../../img/listing/wcape-fynbostrail.jpg
   title: Fynbos Slackpacking Trail
-  description: This unique nature trail in the heart of the Cape Floral Kingdom, is just 2 hours from Cape Town and close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and visits some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown and sourced food and wine on this eco-trail.
+  description: This unique nature trail, in the heart of the Cape Floral Kingdom, is just 2hr from Cape Town, close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and visit some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown food and wine on this eco-trail.
   emailLink: mailto:tours@active-escapes.co.za?subject=Fynbos Slackpacker – Western Cape Destination Listing
 ---

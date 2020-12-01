@@ -36,7 +36,7 @@ details:
       - 'Day 3: 9-12km / 4hrs'
   - heading: Trail Grading
     description:
-      - <strong>3/ 5 - Fitness</strong>. Day 2 (17.5km) is a relatively long day though the ascent is not great.
+      - <strong>3/ 5 - Fitness</strong>. Day 2 (18km) is a relatively long day though the ascent is not great.
       - <strong>2/ 5 - Technicality</strong>. A clear path (relatively well maintained), with no sheer vertical sections.
   - heading: Trail Terrain
     description:
@@ -44,7 +44,7 @@ details:
       - Clear hiking path, mostly maintained by Ezemvelo KZN Wildlife.
   - heading: Accommodation
     description:
-      - "<strong>Farmstays</strong>  & 3-4 Star equivalent Guesthouse / B&B's"
+      - "Farmstays & 3-4 Star equivalent Guesthouse / B&B's"
 
   - heading: Logistic Support
     description:
@@ -74,19 +74,19 @@ itinerary:
     - heading: Day 2
       subHeading: 'Hike Day 1:  Sani Pass to Cobham Nature Reserve  (13km/ 5-6hr hike time)'
       description:
-        - After breakfast, you will be transported to the start of the trail, a few kms up the Sani Pass road. After crossing between the Mkomazana and Gxalingwa valleys, Ngwenya Pools makes an ideal refresher point, before the trail ascends gradually through attractive country into the Pholela valley. The suspension bridge marks the entry into Cobham reserve, from where you will be collected & transferred to your overnight stay. 
+        - After breakfast, you will be transported to the start of the trail, a few km up the Sani Pass road. After crossing between the Mkomazana and Gxalingwa valleys, Ngwenya Pools makes an ideal refresher point, before the trail ascends gradually through attractive country into the Pholela valley. The suspension bridge marks the entry into Cobham reserve, from where you will be collected & transferred to your overnight stay. 
         - 'Overnight: <strong>Farmstay/ Himeville Guesthouse </strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 3
       subHeading: 'Hike Day 2: Cobham to Drak Gardens (18km/7-8hr)'
       description:
-        - After breakfast, you will transfer back to Cobham, and continue the trail which ascends the Siphongweni Ridge past Tortoise Rocks before traversing its southern flank and dropping down into the Mzimkulwana valley. Mzimkulwana Hut (normally the 2nd nights hut on the GC Trail) makes for a shady rest point, as from here it is a steady climb out of the valley, towards Little Bamboo Mountain.
-        - On the top of the ridge you will find a number of small ponds (tarns) where blue cranes frequent and the remains of a petrified forest can be found. The trail then follows the Killiecrankie stream down to the Drakensberg Gardens Valley where you will be picked up and taken to your next night’s guesthouse. 
+        - After breakfast, you will transfer back to Cobham, and continue the trail. The trail ascends Siphongweni Ridge, past Tortoise Rocks, before traversing its southern flank and dropping down into the Mzimkulwana valley. Mzimkulwana Hut (normally the 2nd nights hut on the GC Trail) makes for a shady rest point, as from here it is a steady climb out of the valley, towards Little Bamboo Mountain.
+        - On the top of the ridge you will find a number of small ponds (tarns) where blue cranes frequent, and the remains of a petrified forest. The trail then follows the beautiful Killiecrankie stream, down to Drakensberg Gardens Valley, where you will be collected and transferred to your next night’s guesthouse. 
         - 'Overnight: <strong>Drak Gardens Rd - Guesthouse</strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3:  Castleburn to Drakensberg Gardens Hotel (10km/4hr)'
       description:
         - From Castleburn you will again pick up the marked Giants Cup Trail. The first half of the trail ascends the ridge to the west of Garden Castle mountain via the scenic but steep Black Eagle Pass which reaches an altitude of 1900 metres. Many pleasant vistas present themselves as you follow the contour path to the top of the Drakensberg Gardens hotel, at which point you will come down. 
-        - '<strong>Return transfer to vehicles</strong>'
+        - '<strong>Return transfer to your vehicles</strong>'
         
   images:
     - src: ../../img/gallery/giants-gxalingene.jpg
@@ -116,10 +116,10 @@ faq:
         - 'Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months. For the most stable weather, winter months (June-July) can be the best: chilly starts but generally warm and dry days with a warm lodge to snuggle down overnight. The hottest months (Nov-Feb) tend to have heavy afternoon thunderstorms.'
     - question: Can this hike be lengthened?
       answer:
-        - Yes, if you have the time, you can do the final hike day which goes from Swiman’s hut (just beyond Drak Gardens hotel) through to Bushmens Nek hotel – approx. 12kms. A night at Bushmens Nek hotel is a great way to finish off the trail.
+        - Yes, if you have the time, you can do the final hike day which goes from Swiman’s hut (just beyond Drak Gardens hotel) through to Bushmens Nek hotel – approx. 12km. A night at Bushmens Nek hotel is a great way to finish off the trail.
     - question: Can this hike be run?
       answer:
-        - Absolutely. It makes a great trail run. The whole trail can comfortably be run in 3 days or even over a weekend. There is an event which does this trail, but we can organise it for you as a private run with your friends.
+        - Absolutely. It makes a great trail run. The whole trail can be comfortably run in 3 days or over a weekend. There is an event which does this trail, but we can organise it for you as a private run with your friends.
 
 gallery:
   pictures:
@@ -146,7 +146,7 @@ price:
   overview2: null
   table2: null
   includes:
-    - '<strong>4 nights DBB accommodation </strong> (sharing basis): 2 nights in Himeville  & 2 night Drakensberg Gardens valley'
+    - '<strong>4 nights DBB accommodation </strong> (sharing basis): 2 nights in Himeville  & 2 nights Drakensberg Gardens valley'
     - '<strong>Packed lunches</strong> on all 3 hike days'
     - '<strong>Daily Shuttles </strong> to/from the trail each day'
     - '<strong>Luggage transfers</strong>'
@@ -164,6 +164,6 @@ destinationTour:
   order: 5
   image: ../../img/listing/drak-giants.jpg
   title: Easy Slackpacking in the Southern Berg – Giants Cup
-  description: Following the well-marked trail that runs along the base of the Southern Berg, this 3 day slackpacking hike follows the Giants Cup Trail in the little berg, but overnighting in comfy guesthouses with catering & daily  luggage transfers provided. Without the burden of a heavy pack, enjoy more time to take a swim in a mountain stream, or photograph the wild flowers along the way.
+  description: Following the well-marked trail that runs along the base of the Southern Berg, this 3 day slackpacking hike follows the Giants Cup Trail in the little berg, but overnighting in comfy guesthouses with catering and daily luggage transfers provided. Without the burden of a heavy pack, enjoy more time to take a swim in a mountain stream, or photograph the wild flowers along the way.
   emailLink: mailto:tours@active-escapes.co.za?subject=Giants Cup Hike Enquiry – Drak Destination Listing  
 ---

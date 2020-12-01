@@ -22,8 +22,8 @@ featuredToursSection:
   heading: Nature Retreats
   subHeading: Discover naturally good getaways, where you can just BE
 taylorMadeSection:
-  heading: This is the heading
-  subHeading: This is the subHeading
+  heading: null
+  subHeading: null
   options:
     - image: ../../img/listing/nature-pondocamps.jpg
       title: Pondoland Tented Camps

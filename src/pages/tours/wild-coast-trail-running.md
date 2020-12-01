@@ -184,7 +184,7 @@ popularTour:
   image: ../../img/generic/pp-WCtrailrun-500.jpg
   tagline: Wild Running
   title: Trail Running the Wild Coast
-  description: 'Running along miles of sun-kissed beach, following local fishermen paths up and over the rocky headlands, you too can run wild with Active Escapes.  Most of our Wild Coast hikes can be arranged as a trail-run, but the southern stretch with its well positioned hotels and easy flight access in & out of East London is a great place to start.'
+  description: 'Running along miles of sun-kissed beach, following local fishermen paths up and over the rocky headlands, you too can run wild with Active Escapes.  Most of our Wild Coast hikes can be arranged as a trail-run, but the southern stretch with its well positioned hotels and easy flight access in and out of East London is a great place to start.'
 destinationTour:
   order: 0.3
   image: ../../img/listing/WC-trailrunning.jpg

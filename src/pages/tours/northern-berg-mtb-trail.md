@@ -11,15 +11,15 @@ activity:
       image: ../../img/listing/activity-NBerg-MTB.jpg
       title: Northern Berg MTB Adventure
       subtitle: Self-guided option in the Big Berg
-      description: Training for a multi-day event and tiring of your same old routes? Need some hills to sweat and new track to tame? Just 2.5hrs from Durbs and 3.5hrs from Joburg, the Northern Berg makes for an easy weekend MTB getaway.  With over 100 kms of custom built single-track and bikes available for hire, it is an easy self-guided option for international travellers and those looking for a weekend escape in big berg country.
-subActivity:
-  - hiking
+      description: Training for a multi-day event and tiring of your same old routes? Need some hills to sweat and new track to tame? Just 2.5hrs from Durban and 3.5hrs from Joburg, the Northern Berg makes for an easy weekend MTB getaway.  With over 100 km of custom built single-track and bikes available for hire, it is an easy self-guided option for international travellers and those looking for a weekend escape in big berg country.
+subActivity: null
+
 tourName: Northern Berg MTB Trail
 slug: northern-berg-mtb-trail
 featuredImage: ../../img/generic/PP-BergMTB.jpg
 
 longDescription:
-  - Just 4hrs from Joey's & 3hrs from Durbs, our Northern Drakensberg MTB weekender is a lodge-to-lodge self-guided mountain bike  tour, combining sublime single-track with majestic mountain views. Altitude, ascent and some technical descents, offers the perfect training ground for advanced riders looking to 'up their game' or train for a multi-day event, whilst easier tour options can be tailored to novice, intermediate and family riders.
+  - Just 4hr from JHB & 3hr from Durban, our Northern Drakensberg MTB weekender is a lodge-to-lodge self-guided mountain bike tour, combining sublime single-track with majestic mountain views. Altitude, ascent and some technical descents, offer the perfect training ground for advanced riders looking to 'up their game' or train for a multi-day event, whilst easier tour options can be tailored to novice, intermediate and family riders.
   - The tour option described below is designed for intermediate to advanced riders.
 
 fromPricing: R5500
@@ -38,7 +38,7 @@ details:
   - heading: Trail Grading
     description:
       - <strong>4/ 5 - Fitness</strong>. This trip is best suited to riders with a good level  of mountain bike fitness and experience.
-      - <strong>3-4/ 5 - Technicality</strong>. One can expect some serious climbing, large amounts of single track, and some rocky descents. Less technical alternatives can also be arranged.
+      - <strong>3-4/ 5 - Technicality</strong>. One can expect some serious climbing, large amounts of single-track, and some rocky descents. Less technical alternatives can also be arranged.
   - heading: Trail Terrain
     description:
       - This is as close to ‘high berg’ riding as you will get. Taking you from the plains of the Tugela River to 1800m’s above sea level, under the shadow of the mighty Drakensberg peaks where Cape Vultures soar.
@@ -52,7 +52,7 @@ details:
 
   - heading: Group Size
     description:
-      - Possible from 1 person
+      - Possible from <strong>1</strong> person
   - heading: Pricing
     description:
       - 'On a group of 4-5 persons: <strong>R5,500/pp</strong> '
@@ -61,26 +61,28 @@ emailSubject: Northern Berg MTB Tour Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - Just 4hrs from Johannesburg and 3hrs from Durban, our Northern Drakensberg MTB weekender is a lodge-to-lodge self-guided MTB tour, combining sublime single-track with majestic mountain views. Altitude, ascent and some technical descents, offers the perfect training ground for advanced riders looking to 'up their game' or train for a multi-day event, whilst easier tour options can be tailored to novice, intermediate and family riders.
-    - This is also one of the few places where bike hire is available ,and a guide can be arranged if wanted. We highly recommend a second day at Drak Mountain Lodge, where you can hike to a vulture colony or take a horse ride.
+    - In this Northern Drakensberg valley there is a custom built network of over 100kms of sublime singletrack linking Drakensberg accommodation establishments to one another. Because the trails are well marked and we can provide a detailed route description, most groups are happy to guide themselves, but they’d still like to have the experience of a point-to-point tour with catering and luggage transfers provided.
+    - We generally start this trip at the Cavern hotel, and then overnight at Drak Mountain Inn (a stiff climb to get up to it- but very rewarding) – and then back to the Cavern. The route distances are 35-50km /day, and there are many variations or additional loops you can do if you wanted more or less mileage.
+    - There is also the option of spending an extra day at Drak Mountain Inn - which comes highly recommended, as there is a fantastic day hike that you can do up and over the sandstone cliffs to visit a Cape Vulture colony or take the day to relax, go horse-riding or flyfishing in the small dams at the lodge.
+    
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - Self-drive drive to <strong>Cavern Hotel</strong>, Northern Drakensberg   (3.5hrs from Durban/ 4hrs from JHB).
-        - 'Overnight: Cavern Hotel (Dinner provided)'
+        - Self-drive drive to Cavern Hotel, Northern Drakensberg (3.5hrs from Durban/ 4hrs from JHB).
+        - 'Overnight: <strong>Cavern Hotel</strong> (Dinner provided)'
     - heading: Day 2
       subHeading: 'Ride Day 1: Approx 35km ride up to Drak Mountain Lodge.'
       description:
-        - Sublime valley singletrack, some steep jeep-track riding, fantastic mountain views.
-        - Luggage transferred via vehicle to Mountain Lodge
+        - Sublime valley singletrack, some steep jeep-track riding and fantastic mountain views.
+        - Luggage transferred by vehicle to Mountain Lodge
         - 'Overnight: <strong>Drak Mountain Lodge</strong> (Breakfast & trail lunch from Cavern. Dinner at Mountain lodge) '
     - heading: Day 3
       subHeading: 'Ride Day 2: Approx 40-60km route options back to Cavern.'
       description:
         - Some thrilling technical descents and world-class singletrack routes
-        - 'Recommend: book for a massage at Cavern Spa'
+        - 'Recommend: booking a massage at the Cavern Spa'
         - 'Overnight: <strong>Cavern Hotel</strong> (Breakfast & trail lunch from Mountain lodge. Dinner at Cavern)'
     - heading: Day 4
       subHeading: 'Departure Day'
@@ -96,7 +98,7 @@ lodging:
   heading: 'Lodges'
   description:
     - 2 Nights at <strong>Cavern Berg Hotel</strong> –  family friendly owner-run hotel in serene setting with plenty on the go. Standard rooms, but for just a little extra, upgrade to superior rooms with private gardens overlooking indigenous forest.
-    - 1 Night at <strong>Mountain Lodge </strong>– log cabins nestled under the sandstone cliffs with fantastic views.
+    - 1 Night at <strong>Mountain Lodge </strong>– log cabins nestled under the sandstone cliffs with fantastic views. Deck pool for the brave. Cosy communal lounge and dining area.
   images:
     - src: ../../img/gallery/vulture_mountaincabins.jpg
       heading: Drak Mountain Lodge
@@ -173,6 +175,6 @@ destinationTour:
   order: 3
   image: ../../img/listing/drak-mtb.jpg
   title: High Berg Vistas & Sublime Singletrack – Northern Berg
-  description: One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway?  The Northern Berg offers the perfect playground with tour options tailored to suite all level of rider.
+  description: One of the few self-guided MTB tours with bikes available for hire. Expertly crafted single-track, majestic mountain views, fully catered lodgings, and close enough away for a weekend getaway. The Northern Berg offers the perfect playground with tour options tailored to suite all level of rider.
   emailLink: mailto:tours@active-escapes.co.za?subject=Northern Berg MTB Tour – Drak Destination Listing
 ---

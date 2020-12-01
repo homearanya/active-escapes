@@ -20,7 +20,7 @@ featuredImage: ../../img/generic/PP-Greenmountain.jpg
 
 longDescription:
   - The Green and Blue Mountain Trails are four and three - day hikes along the Groenlandberg and Elgin valley - Houw Hoek, Western Cape. Approximately 1hr’s drive from Cape Town. The trail's traverse a tapestry of fynbos, private nature reserves, wine and fruit farms - offering four-star country lodging, fine Cape cuisine and enriched guiding.
-  - Daily hike distances range between 11 - 18 kms/day, with every day offering a varied terrain and experience.  From picnic lunches at Oak Valley to poplar forest explorations, fynbos on the Houwhoek mountains, or a refreshing dip in a stream along the way. A slack packing trail in this neck of the woods, would not be complete without a few wine tastings along the way. Here Porcupine Hills, Paul Cluver and Beaumont wines come to taste.
+  - Daily hike distances range between 11 - 18 km/day, with every day offering a varied terrain and experience.  From picnic lunches at Oak Valley to poplar forest explorations, fynbos on the Houwhoek mountains, or a refreshing dip in a stream along the way. A slack packing trail in this neck of the woods, would not be complete without a few wine tastings along the way. Here Porcupine Hills, Paul Cluver and Beaumont wines come to taste.
 
 fromPricing: R9600
 difficultyLevel: moderate
@@ -62,7 +62,7 @@ overview:
   heading: At a Glance
   description:
     - 'The <strong>Green Mountain trail</strong> (4 days/ 4 nights) scheduled from a <em>Monday to Friday</em>, traverses mostly privately-owned land, with all landowners being members of the Groenlandberg Conservancy: the world’s first biodiversity wine route, and part of the region’s efforts to conserve the environment and promote responsible tourism.'
-    - The <strong>Blue Mountain Trail</strong>, which runs from a <em>Tuesday to a Thursday</em>, is a three day - three night  slackpacking trail on the southern side of the Elgin Valley. The trail is 50 kms in total, traversing forest, wilderness, fynbos and fruit farms.
+    - The <strong>Blue Mountain Trail</strong>, which runs from a <em>Tuesday to a Thursday</em>, is a three day - three night  slackpacking trail on the southern side of the Elgin Valley. The trail is 50 km in total, traversing forest, wilderness, fynbos and fruit farms.
     - As part of the trail’s social responsibility programme, hikers are encouraged to “Walk with an Alien”, a project in which a personalised walking stick is carved from alien vegetation by local communities.
 
 itinerary:
@@ -129,7 +129,7 @@ faq:
         - No, unfortunately not, we walk in protected natural and remote areas where domestic animals are not permitted.
     - question: Which is your closest airport and how far from you?
       answer:
-        - Cape Town International, 80kms.
+        - Cape Town International, 80km.
     - question: Do you recommend a transfer company or should we rent a car?
       answer:
         - We recommend Overberg Transfers who will collect and drop you avoiding the hassle of renting your own car.

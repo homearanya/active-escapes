@@ -131,7 +131,7 @@ gallery:
     - src: ../../img/gallery/cb-bul_kids.jpg
       caption: Kids at play in the village of Bulugwini.
     - src: ../../img/gallery/cb-bul_stack.jpg
-      caption: The rock stack next to Hole in the Wall, 11kms south of Coffee Bay.
+      caption: The rock stack next to Hole in the Wall, 11km south of Coffee Bay.
     - src: ../../img/gallery/cb-bul_group.jpg
       caption: A corporate hiking group at Hole-in-the-Wall, Coffee Bay.
     - src: ../../img/gallery/cb-bul_lastlight.jpg

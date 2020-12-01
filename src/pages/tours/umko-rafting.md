@@ -34,7 +34,7 @@ longDescription:
   - Summertime rafting on the Umkomaas is typically Grade 3, however when the mighty African thunderstorms unleash themselves on the Drakensberg, this becomes a fast flowing, high volume Grade 4 river. No previous rafting experience is necessary, but you do need to be reasonably fit to handle the physical nature of this rafting.
   - Our river guides are amongst the most experienced white water paddlers in the country, and strive to make your rafting experience,  both safe and memorable.
 
-fromPricing: R830
+fromPricing: R700
 difficultyLevel: moderate
 duration: 1-2 Days
 details:
@@ -83,7 +83,7 @@ overview:
   description:
     - The Umkomaas River originates in Giant’s Castle and follows a winding course down to the Indian Ocean. The white water rafting trips take place in a valley that lies just 95 km from Durban and 65 km from Pietermaritzburg. Summertime rafting on the Umkomaas is typically Grade 3, however when the mighty African thunderstorms unleash themselves on the Drakensberg, this becomes a fast-flowing, high volume Grade 4 river. No previous rafting experience is necessary; but participants need to be reasonably fit to handle the physical nature of this rafting.
 
-    - '<strong>Half Day Trip: 7km Raft / 3-4hr </strong>. Coffee & snack provided. Min of 4 persons needed to run a trip. Min age 12 years (under 18yrs to be accompanied by at least 1 parent/guardian per 2 minors)       ** Ideal for those wanting a shorter white water experience, with the thrill of experiencing some of the largest rapids on the river.'
+    - '<strong>Half Day Trip: 7km Raft / 3-4hr </strong>. Coffee and snack provided. Min of 4 persons needed to run a trip. Min age 12 years (under 18yrs to be accompanied by at least 1 parent/guardian per 2 minors)       ** Ideal for those wanting a shorter white water experience, with the thrill of experiencing some of the largest rapids on the river.'
     - 'Paddle Stretch: From <strong>Daisy Chain Rapid to Nyala Pans.</strong>'
     - Meet at 9am - Umkomaas Valley Site. After a comprehensive safety briefing over a cup of tea/coffee, we 4x4 transfer up-river and embark on a 7km section of Grade 3+ (low water) to Grade 4+ (high water) white-water back down to NP River Camp. We arrive back at the meeting point around 1pm.
 
@@ -102,13 +102,12 @@ itinerary:
     - heading: Day 2
       subHeading: Rafting Day 1
       description:
-        - Enjoy an early morning run or hike on the reserve property before breakfast (a guided hike can be arranged if the group wishes to do this) – abundance of non-dangerous game on the farm property -  Nyala, Kudu, Giraffe, Warthog, Wildebeest and Zebra'
+        - Enjoy an early morning run or hike on the reserve before breakfast (a guided hike can be arranged if the group wishes to do this) – abundance of non-dangerous game on the farm property -  Nyala, Kudu, Giraffe, Warthog, Wildebeest and Zebra.
         - Breakfast
-        - '09h00: Get collected from the Bush Camp – 4x4 transfer approx. 25kms upstream'
+        - '09h00: Get collected from the Bush Camp – 4x4 transfer approx. 25km upstream.'
         - Comprehensive Safety Briefing on the River Banks
         - 'Todays rafting will take you from <strong>Daisy Chains Rapid to Lower Nkonka:</strong> 13-14km Raft / Grade 3+ (low water) to Grade 4+(high water)'
-        - 'Overnight: same <strong>Bushcamp </strong>(no need to pack bags)'
-        - (Breakfast. Picnic lunch on the river. Dinner back at Camp)
+        - 'Overnight: same <strong>Bushcamp </strong>(no need to pack bags)' (Breakfast. Picnic lunch on the river. Dinner back at Camp)
 
     - heading: Day 3
       subHeading: 'Rafting Day 2 & Departure'
@@ -127,7 +126,7 @@ lodging:
   description:
     - '<strong>Large Bush Camp 1</strong>: 9 x Ensuite rooms – accommodates up to <em>24</em> guests. River frontage with sundowner deck. Firepit and private swimming pool.'
     -
-    - '<strong>Bush Camp 2:</strong> Main Large House: Accomodates up to <em>20</em> persons. 4 Bedrooms on main level & 2 rooms in the loft. Open firelace in living room. Sundownders deck & firepit. Level lawn area.'
+    - '<strong>Bush Camp 2:</strong> Large Main House: Accomodates up to <em>20</em> persons. 4 Bedrooms on main level and 2 rooms in the loft. Open firelace in living room. Sundownders deck and firepit. Level lawn area.'
 
     - 'Budget Alternative: Level and shady grass patches to <strong>pitch your own tent </strong>with communal kitchen and shower facilities OR <strong>Dormitory Style</strong> School Group Tents - with bunk beds, no bedding.'
 
@@ -174,7 +173,7 @@ gallery:
     - src: ../../img/gallery/umko_gorge.jpg
       caption: The Mkomazi river cuts through valley bushveld and rock gorges
     - src: ../../img/gallery/umko_rapid.jpg
-      caption: In the thick of things.....just keep PADDLING
+      caption: In the thick of things.....just keep PADDLING!!
     - src: ../../img/gallery/umko_takeout.jpg
       caption: Take-out point after the full-day rafting trip. Load the boats and return by 4x4 transfer back to the meet point.
     - src: ../../img/gallery/umko_raft1.jpg
@@ -192,7 +191,7 @@ price:
 
   heading2: 'Half-Day Rafting Trip: R700/pp'
   overview2:
-    - Experienced guides, all equipment, private reserve access fees, up-river transfer from meet-point. Coffee, snack & light refreshment.  * We do not provide lunch on the half-day, but can do so on special request.
+    - Experienced guides, all equipment, private reserve access fees, up-river transfer from meet-point. Coffee, snack and light refreshment.  * We do not provide lunch on the half-day, but can do so on special request.
   table2:
     - pax: 2 Day/ 2N Trip (mid-week)
       price:
@@ -220,6 +219,6 @@ destinationTour:
   order: 2
   image: ../../img/listing/tugela-umko-rafting.jpg
   title: Umkomaas River Rafting
-  description: The Mkomazi River boasts Grade 3 rapids, which step-up to Grade 4 if there's been sufficient rain. The section from Daisy Chain to Lower Nkonka rapid is regarded as the one the biggest traversable sections of white water south of the Zambezi. Just 1hr from Durban and 30-min from PMB, a rafting trip on the Umko makes a great corporate team-build or day-trip adventure.
+  description: The Mkomazi River boasts Grade 3 rapids, which step-up to Grade 4 if there's been sufficient rain. The section from Daisy Chain to Lower Nkonka rapid is regarded as the one the biggest traversable sections of white water south of the Zambezi. Just 90min from Durban and 1hr from PMB, a rafting trip on the Umko makes a great corporate team-build or day-trip adventure.
   emailLink: mailto:tours@active-escapes.co.za?subject=Umkomaas River Rafting – KZN Interior Destination Listing
 ---
