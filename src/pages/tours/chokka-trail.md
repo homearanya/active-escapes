@@ -164,7 +164,7 @@ price:
 
   notIncludes: null
 popularTour:
-  featured: 1
+  featured: 0
   image: ../../img/gallery/chokka_boat trip.jpg
   tagline: Chokka Delights
   title: Oyster Bay - St Francis Chokka Slackpack

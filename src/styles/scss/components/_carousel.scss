@@ -111,7 +111,7 @@
       .slide-image {
         height: 100vh;
         width: auto;
-        filter: brightness(50%);
+        filter: brightness(75%);
         transition: transform 15s;
         transform: translate3d(0px, 0px, 0px) scale(1, 1);
         transform-origin: 0% 0% 0px;
@@ -147,7 +147,7 @@
         transform: translate(-50%, calc(-50% + 100px)) rotateY(180deg);
       }
       .slide-image {
-        filter: brightness(50%);
+        filter: brightness(75%);
         transition: transform 15s;
         transform: translate3d(0, 0, 0px) scale(1.2, 1.2);
         transform-origin: 0% 0% 0px;
@@ -216,7 +216,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
-        font-weight: 100 !important;
+        font-weight: 300 !important;
         font-size: 47px !important;
         text-transform: uppercase;
         opacity: 1;
@@ -243,7 +243,7 @@
         font-weight: 900 !important;
         font-size: 60px !important;
         text-transform: uppercase;
-        color: #b0a377;
+        color: #f2e9a9;
         opacity: 1;
 
         @include breakpoint-max($screen-lg - 1) {
@@ -280,9 +280,9 @@
         }
       }
       .slide-button {
-        border-color: #6b6957;
+        border-color: #f2e9a9;
         background: none;
-        color: #b0a377;
+        color: #f2e9a9;
         cursor: pointer;
         border-radius: 25px;
         transition: all 0.3s;

@@ -18,7 +18,7 @@ const GallerySection = () => {
     query {
       photo1: file(relativePath: { eq: "gallery/img-01-hiking.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -26,7 +26,7 @@ const GallerySection = () => {
       }
       photo2: file(relativePath: { eq: "gallery/img-02-cycling.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -34,7 +34,7 @@ const GallerySection = () => {
       }
       photo3: file(relativePath: { eq: "gallery/img-03-rafting.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -42,7 +42,7 @@ const GallerySection = () => {
       }
       photo4: file(relativePath: { eq: "gallery/img-04-drakensberg.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -50,7 +50,7 @@ const GallerySection = () => {
       }
       photo5: file(relativePath: { eq: "gallery/img-05-midlands.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -58,7 +58,7 @@ const GallerySection = () => {
       }
       photo6: file(relativePath: { eq: "gallery/img-06-wildcoast.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -66,7 +66,7 @@ const GallerySection = () => {
       }
       photo7: file(relativePath: { eq: "gallery/img-07-kosi.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -74,7 +74,7 @@ const GallerySection = () => {
       }
       photo8: file(relativePath: { eq: "gallery/img-08-freestate.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -82,7 +82,7 @@ const GallerySection = () => {
       }
       photo9: file(relativePath: { eq: "gallery/img-08-westerncape.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 170, maxHeight: 165, quality: 80) {
+          fluid(maxWidth: 170, maxHeight: 165, quality: 70) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

@@ -17,5 +17,5 @@ featuredToursSection:
   heading: HORSE RIDING PRODUCTS
   subHeading: NULL
 icon: ico-horse-riding ux
-order: 0
+order: 8
 ---

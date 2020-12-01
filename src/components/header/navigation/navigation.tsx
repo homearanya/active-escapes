@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
+import { scroller } from 'react-scroll'
 import Burger from './burger'
 import MenuItem from './menu-item'
 import WhiteLogo from '../../../img/logos/logo-white.inline.svg'
@@ -39,6 +40,12 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
 
   const [openMenu, setOpenMenu] = useState(false)
   const handleClick = () => setOpenMenu((openMenu) => !openMenu)
+  const navigateToNewsletter = () => {
+    scroller.scrollTo('signup', {
+      duration: 1500,
+      smooth: 'easeInOut',
+    })
+  }
   useEffect(() => {
     // Update the document title using the browser API
     if (openMenu) {
@@ -72,7 +79,7 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
             </a>
           </li>
           <li className="hidden-xs hidden-sm">
-            <a href="login.html" className="subscribe">
+            <a onClick={navigateToNewsletter} className="subscribe">
               <WhiteLogo className="newsletter-icon" />
             </a>
           </li>

@@ -23,5 +23,5 @@ featuredToursSection:
   heading: TRAIL RUNNING PRODUCTS
   subHeading: Many of our hikes can be trail run with some modifications to distances and logistics.
 icon: ico-running ux
-order: 8
+order: 7
 ---

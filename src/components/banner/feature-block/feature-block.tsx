@@ -44,7 +44,7 @@ const FeatureBlock = () => {
             text="Rafting"
           />
           <Feature
-            link="/running/"
+            link="/activity/running/"
             icon={<i className="ico-running ux"></i>}
             text="Running"
           />

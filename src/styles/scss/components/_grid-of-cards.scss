@@ -3,6 +3,11 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+
+    &:before {
+      content: none;
+    }
+
     .menu-mega-col {
       padding-bottom: 10px;
 
