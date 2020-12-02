@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import UniversalLink from '../universal-link'
 import { ImageSharp, Reference } from '../../types'
 import { processText } from '../../utils/helpers'
 import Image from '../image'
@@ -35,14 +34,6 @@ const PopularTour = ({
         </Link>
         <div className="img-caption text-uppercase">{tagline}</div>
         <div className="hover-article">
-          <div className="icons">
-            <UniversalLink href={''}>
-              <span className="icon-heart"></span>
-            </UniversalLink>
-            <UniversalLink href={''}>
-              <span className="icon-reply"></span>
-            </UniversalLink>
-          </div>
           <div className="info-footer">
             <Link to={tourLink} className="link-more">
               Explore

@@ -61,7 +61,7 @@ const ReviewsSection = () => {
             showStatus={false}
             autoPlay={true}
             infiniteLoop={true}
-            interval={5000}
+            interval={20000}
             showThumbs={false}
           >
             {googleReviews.edges.map(({ node }) => (

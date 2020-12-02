@@ -201,7 +201,7 @@ price:
     - Change to Morgan Bay hotel (avail dependent) – budget extra R250/pp
 
 popularTour:
-  featured: 7
+  featured: 0
   image: ../../img/generic/pp-hh-500.jpg
   tagline: Hotel Hopping
   title: Slackpacking Southern Wild Coast

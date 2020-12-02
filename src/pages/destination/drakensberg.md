@@ -17,6 +17,5 @@ intro:
   inset:
     bestSeason: Mar – Nov
     locations: Northern, Southern Berg & Maluti’s.
-    icon: ../../img/icons/ico-landing-hiking.svg
 order: 2
 ---

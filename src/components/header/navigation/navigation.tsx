@@ -1,15 +1,18 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useContext } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import { scroller } from 'react-scroll'
+
+import { SubscribeContext } from '../../../context/subscribe-context'
 import Burger from './burger'
 import MenuItem from './menu-item'
 import WhiteLogo from '../../../img/logos/logo-white.inline.svg'
 
 interface NavigationProps {
   handleOpenSearch: () => void
+  newsletterRef: React.RefObject<HTMLInputElement>
 }
 
-const Navigation = ({ handleOpenSearch }: NavigationProps) => {
+const Navigation = ({ handleOpenSearch, newsletterRef }: NavigationProps) => {
   const {
     site: {
       siteMetadata: {
@@ -37,14 +40,19 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
       }
     }
   `)
-
+  const { dispatch } = useContext(SubscribeContext)
   const [openMenu, setOpenMenu] = useState(false)
   const handleClick = () => setOpenMenu((openMenu) => !openMenu)
   const navigateToNewsletter = () => {
+    if (openMenu) setOpenMenu(false)
+    dispatch({ type: 'subscribe', payload: true })
     scroller.scrollTo('signup', {
       duration: 1500,
       smooth: 'easeInOut',
     })
+    if (newsletterRef && newsletterRef.current) {
+      newsletterRef.current.focus()
+    }
   }
   useEffect(() => {
     // Update the document title using the browser API
@@ -74,7 +82,7 @@ const Navigation = ({ handleOpenSearch }: NavigationProps) => {
             />
           ))}
           <li className="visible-xs visible-sm">
-            <a href="login.html" className="subscribe">
+            <a onClick={navigateToNewsletter} className="subscribe">
               <span className="text">Subscribe</span>
             </a>
           </li>

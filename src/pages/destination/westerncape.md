@@ -18,7 +18,5 @@ intro:
   inset:
     bestSeason: Jan – May; Sept - Dec
     locations: Mossel Bay, Hermanus, Overberg, Cederberg
-    icon: ../../img/icons/ico-landing-hiking.svg
-
 order: 8
 ---

@@ -19,6 +19,5 @@ intro:
   inset:
     bestSeason: Mar – Nov
     locations: Kosi Bay Lakes, Lala Nek, Mabibi
-    icon: ../../img/icons/ico-landing-hiking.svg
 order: 3
 ---

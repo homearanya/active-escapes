@@ -18,7 +18,6 @@ intro:
   inset:
     bestSeason: Jan – Dec
     locations: From Port Edward to Cintsa, we cover every km
-    icon: ../../../img/icons/ico-landing-hiking.svg
 customListings:
   - order: 1
     image: ../../../img/listing/WC-hikes.jpg

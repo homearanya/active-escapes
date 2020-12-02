@@ -20,7 +20,7 @@ intro:
   inset:
     bestSeason: Scheduled Dates - Email Us
     locations: Tugela, Kosi, Wild Coast
-    icon: ../../img/icons/ico-culture.svg
+    icon: icon-culture
 featuredToursSection:
   heading: Scheduled Retreats
   subHeading: Yoga & Nature Retreats, Trail Runs...

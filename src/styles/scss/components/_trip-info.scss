@@ -1,14 +1,19 @@
 /* trip info styles */
+.row.tour {
+  display: flex;
+  flex-direction: column;
+  &:before,
+  &:after {
+    content: none;
+  }
+
+  @media only screen and (min-width: $screen-md) {
+    flex-direction: row;
+  }
+}
+
 .trip-info {
   background: $trip-info-bg;
-
-  .row.tour {
-    display: flex;
-    flex-direction: column;
-    @media only screen and (min-width: $screen-md) {
-      flex-direction: row;
-    }
-  }
 
   .height {
     &:first-child {
@@ -202,6 +207,7 @@
 
     p {
       margin: 0;
+      font-size: 13px;
     }
   }
 
@@ -260,7 +266,9 @@
 
   [class^='col-'],
   [class*=' col-'] {
-    margin-bottom: $global-xs-space;
+    &:not(:last-child) {
+      margin-bottom: $global-xs-space;
+    }
   }
 
   .nav-wrap {
@@ -292,6 +300,9 @@
     p {
       margin: 0 0 25px;
     }
+    p:last-child {
+      margin-bottom: 0;
+    }
 
     .reviews-slot {
       padding-top: 25px;
@@ -306,10 +317,6 @@
     }
   }
 
-  .text-box {
-    padding-bottom: 35px;
-  }
-
   .accomodation-block {
     .text-box {
       padding-right: 30px;
@@ -318,6 +325,13 @@
       .sub-title {
         margin-bottom: $global-xs-space;
       }
+    }
+  }
+  .map-holder {
+    height: 70vh;
+    iframe {
+      width: 100%;
+      height: 100%;
     }
   }
 
@@ -334,8 +348,8 @@
   }
 
   @include breakpoint-min($screen-md) {
-    padding-top: $global-space;
-    padding-bottom: $global-space;
+    padding-top: $global-md-space;
+    padding-bottom: $global-md-space;
 
     .text-box {
       padding-left: 30px;
@@ -360,10 +374,13 @@
     [class^='col-'],
     [class*=' col-'] {
       margin-bottom: 0;
+      &:not(:last-child) {
+        margin-bottom: 0;
+      }
     }
 
     .detail {
-      padding: 40px 40px 20px 30px;
+      padding: 20px 30px;
     }
 
     .gallery-list {
@@ -375,10 +392,14 @@
     .text-box {
       padding-right: 80px;
     }
+    .map-holder {
+      height: 100%;
+      min-height: 400px;
+    }
   }
 
   @include breakpoint-min($screen-lg) {
-    padding-bottom: $global-space;
+    padding-bottom: $global-md-space;
   }
 }
 

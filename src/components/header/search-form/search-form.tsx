@@ -54,7 +54,7 @@ const SearchForm = ({
   const handleSubmit = (e) => {
     e.preventDefault()
     navigate(`/destination/${formData.destination}/`, {
-      state: { activity: formData.activity },
+      state: { activity: formData.activity, scroll: true },
     })
   }
 

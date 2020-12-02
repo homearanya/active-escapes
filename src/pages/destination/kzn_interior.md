@@ -18,6 +18,5 @@ intro:
   inset:
     bestSeason: Year round & Summer Rafting
     locations: Tugela River, Battlefields, Umkomaas
-    icon: ../../img/icons/icon-rafting.inline.svg
 order: 6
 ---

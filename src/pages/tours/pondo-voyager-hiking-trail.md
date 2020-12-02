@@ -186,7 +186,7 @@ price:
   notIncludes: null
 
 popularTour:
-  featured: 6
+  featured: 0
   image: ../../img/generic/pp-pvoyager_500.jpg
   tagline: Pondo Diversity
   title: Pondoland Voyager

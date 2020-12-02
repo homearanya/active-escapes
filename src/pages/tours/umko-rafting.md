@@ -107,7 +107,7 @@ itinerary:
         - '09h00: Get collected from the Bush Camp – 4x4 transfer approx. 25km upstream.'
         - Comprehensive Safety Briefing on the River Banks
         - 'Todays rafting will take you from <strong>Daisy Chains Rapid to Lower Nkonka:</strong> 13-14km Raft / Grade 3+ (low water) to Grade 4+(high water)'
-        - 'Overnight: same <strong>Bushcamp </strong>(no need to pack bags)' (Breakfast. Picnic lunch on the river. Dinner back at Camp)
+        - 'Overnight: same <strong>Bushcamp </strong>(no need to pack bags) (Breakfast. Picnic lunch on the river. Dinner back at Camp)'
 
     - heading: Day 3
       subHeading: 'Rafting Day 2 & Departure'

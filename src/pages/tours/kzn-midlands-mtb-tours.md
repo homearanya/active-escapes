@@ -76,15 +76,15 @@ itinerary:
     - heading: Day 2
       subHeading: 'Ride Day 1: Transfer to Lotheni. Ride Lotheni (Umgeni Vlei) – Lions Bush (40km / 557m Ascent, 920m Descent , 3.5 – 4 hours) '
       description:
-        - Todays ride is largely along farm tracks and provides riders with magnificent views of the Drakensberg foothills, expansive wetlands and mist-belt grasslands. 
-        - Beginning at a lofty height of 1877m, the Drakensberg is highly visible on a clear day, giving you a real sense of riding in the mountains.  
+        - Todays ride is largely along farm tracks and provides riders with magnificent views of the Drakensberg foothills, expansive wetlands and mist-belt grasslands.
+        - Beginning at a lofty height of 1877m, the Drakensberg is highly visible on a clear day, giving you a real sense of riding in the mountains.
         - The trail crosses the source of the Mgeni River and continues to descend through wild mountain terrain, towards one of the oldest and most successful working farms in the region. There is a steep descent before joining up with quiet country road.
         - 'Overnight: <strong>Fort Nottingham Guesthouse </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 3
       subHeading: 'Ride Day 2: Fort Nottingham to Currys Post (36km / 712m ascent, 912m descent / 3.5hrs )'
       description:
         - Today we cross several private farms. The last half of the ride sees you climbing out of the valley and, ascending 350m over a distance of 4km, but provides some absolutely magnificent views back over Balgowan and the Drakensberg mountains.
-        - 'Overnight: <strong>Curry's Post Country Lodge </strong> (breakfast, packed lunch & dinner)'
+        - "Overnight: <strong>Curry's Post Country Lodge </strong> (breakfast, packed lunch & dinner)"
     - heading: Day 4
       subHeading: 'Ride Day 3: Currys Post to Karkloof (35km /3-4hrs) '
       description:
@@ -94,8 +94,8 @@ itinerary:
     - heading: Day 5
       subHeading: 'Ride Day 4:  Karkloof to Howick (35-40km /4hrs) '
       description:
-        - After <em>eggs benedict</em>, today’s ride will start by crossing pig and dairy farms across to the Karkloof Country Club.  
-        - From here you enter the heart of Karkloof single-track territory, where more technical riders can test their mettle on the curves, rock gardens and berms (less technical routes are also available). 
+        - After <em>eggs benedict</em>, today’s ride will start by crossing pig and dairy farms across to the Karkloof Country Club.
+        - From here you enter the heart of Karkloof single-track territory, where more technical riders can test their mettle on the curves, rock gardens and berms (less technical routes are also available).
         - You will pass the impressive Karkloof Falls and follow the contours with some dips and dales, across to Howick for lunch at a local restaurant.
         - Transfer provided back to your vehicles.
 
@@ -107,7 +107,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - 3-4 Star Country Guest Houses and B&B’s in superb locations 
+    - 3-4 Star Country Guest Houses and B&B’s in superb locations
     - Mostly all ensuite
     - Towels provided
   images:

@@ -53,7 +53,6 @@ exports.createPages = async ({ actions, graphql }) => {
         case 'destination-activity-page':
           activity = frontmatter.filter.activity
           destination = frontmatter.filter.destination
-          console.log('destination-activity-page :', activity, destination)
           break
       }
       createPage({

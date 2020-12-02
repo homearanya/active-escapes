@@ -116,7 +116,7 @@ gallery:
       caption: Learning about the fungi lifecycle on the Fynbos trail, near Standford, Western Cape.
     - src: ../../img/gallery/fynbos-photographer.jpg
       caption: Flower Valley in full bloom – a photographers dream.
-    - src: ../../img/gallery/fynbos-guideJPG
+    - src: ../../img/gallery/fynbos-guide.jpg
       caption: Sean Privett, founder of the Fynbos Trail, explains the role of the bird pollinators  on these Mimetes Pagoda’s
     - src: ../../img/gallery/fynbos-oldmansbeard.jpg
       caption: Old Man’s Beard – a canary species indicator for excellent air quality.
@@ -138,12 +138,11 @@ gallery:
       caption: Leucadendron salignum, the common sunshine conebush, has a wide variety of colours from yellow-green to vivid orange-red, and it is popular species within the wild flower industry.
 
 price:
-  heading: 'Fully guided and catered trail (3 Days/2 Nights): R4500/pp'
+  heading: 'Fully guided and catered trail (3 Days/2 Nights): <strong>R4500/pp</strong>'
   overview:
     - 'Surcharge if less than 4 persons: R900/pp'
   table: null
-
-  heading2: 'Self-guided and catered trail (3 Days/2 Nights): R3600/pp'
+  heading2: 'Self-guided and catered trail (3 Days/2 Nights): <strong>R3600/pp</strong>'
   overview2:
     - 'Coastal add on day-night: R2100/pp'
   table2: null

@@ -4,7 +4,7 @@
 
   .text-holder {
     padding-top: $global-md-space;
-    margin-bottom: $global-sm-space;
+    // margin-bottom: $global-sm-space;
     text-align: center;
 
     p {
@@ -33,8 +33,9 @@
   }
 
   .map-holder {
-    margin: 0 0 20px;
+    margin: 20px 0;
     border: 0;
+    text-align: center;
   }
 
   .info {
@@ -49,6 +50,14 @@
 
     .sub {
       font-style: italic;
+    }
+    .slot:first-child {
+      margin-bottom: 10px;
+    }
+    &.icon {
+      font-size: 150px;
+      line-height: 1;
+      color: #242020;
     }
   }
 
@@ -73,7 +82,7 @@
     }
 
     .text-holder {
-      padding-top: $global-top-space;
+      padding-top: $global-md-space;
     }
   }
 }

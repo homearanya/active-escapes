@@ -20,6 +20,5 @@ intro:
   inset:
     bestSeason: Mar – Nov
     locations: Malawi, Zambia, Mozambique
-    icon: ../../img/icons/ico-landing-hiking.svg
 order: 9
 ---

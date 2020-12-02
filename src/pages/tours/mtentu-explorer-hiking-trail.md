@@ -175,7 +175,7 @@ price:
     - 'Canoe Hire at Mtentu (for Swallowtail Falls): R100/per canoe'
 
 popularTour:
-  featured: 2
+  featured: 4
   image: ../../img/generic/pp-mtentu-500.jpg
   tagline: Exploring Mtentu
   title: Red Dunes & Kloofing - Mtentu Explorer

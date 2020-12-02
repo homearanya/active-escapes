@@ -179,9 +179,10 @@ export const query = graphql`
           inset {
             bestSeason
             locations
-            icon {
+            image {
               publicURL
             }
+            icon
           }
           link {
             href

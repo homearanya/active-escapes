@@ -3,6 +3,7 @@ import React from 'react'
 export interface TourOverviewData {
   heading: string
   description: string[]
+  mapUrl?: string
 }
 
 interface TourOverviewProps {
@@ -10,10 +11,10 @@ interface TourOverviewProps {
 }
 
 const TourOverview = ({
-  data: { heading, description },
+  data: { heading, description, mapUrl },
 }: TourOverviewProps) => (
-  <div className="row">
-    <div className="col-md-offset-2 col-md-8">
+  <div className="row tour">
+    <div className={`${mapUrl ? 'col-md-6' : 'col-md-offset-2 col-md-8'}`}>
       {heading ? <strong className="header-box">{heading}</strong> : null}
       <div className="detail">
         {description.map((paragraph, i) => (
@@ -21,6 +22,13 @@ const TourOverview = ({
         ))}
       </div>
     </div>
+    {mapUrl && (
+      <div className="col-md-6">
+        <div className="map-holder">
+          <iframe src={mapUrl} allowFullScreen />
+        </div>
+      </div>
+    )}
   </div>
 )
 

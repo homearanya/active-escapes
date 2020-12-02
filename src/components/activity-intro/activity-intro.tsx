@@ -7,9 +7,10 @@ export interface ActivityIntroData {
   inset: {
     bestSeason: string
     locations: string
-    icon: {
+    image?: {
       publicURL: string
     }
+    icon?: string
   }
   link?: {
     href: string
@@ -19,10 +20,12 @@ export interface ActivityIntroData {
 
 interface ActiviyIntroProps {
   data: ActivityIntroData
+  destination?: boolean
 }
 
 const ActivityIntro = ({
   data: { heading, text, inset, link },
+  destination = false,
 }: ActiviyIntroProps) => (
   <div className="activity-intro content-intro">
     <div className="container">
@@ -46,14 +49,23 @@ const ActivityIntro = ({
         {inset && (
           <div className="col-sm-4 col-md-3 map-col">
             <div className="holder">
-              <div className="map-holder">
-                <img
-                  src={inset.icon.publicURL}
-                  alt={heading}
-                  height="300"
-                  width="200"
-                />
-              </div>
+              {!destination && (
+                <div className="map-holder">
+                  {inset.image && (
+                    <img
+                      src={inset.image.publicURL}
+                      alt={heading}
+                      height="200"
+                      width="200"
+                    />
+                  )}
+                  {inset.icon && (
+                    <span className="info icon">
+                      <span className={inset.icon} />
+                    </span>
+                  )}
+                </div>
+              )}
               {(inset.bestSeason || inset.locations) && (
                 <div className="info">
                   {inset.bestSeason && (
@@ -64,7 +76,7 @@ const ActivityIntro = ({
                   )}
                   {inset.locations && (
                     <div className="slot">
-                      <strong>Popular Location:</strong>
+                      <strong>Popular Locations:</strong>
                       <span className="sub">{inset.locations}</span>
                     </div>
                   )}

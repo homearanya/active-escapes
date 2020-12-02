@@ -41,7 +41,12 @@ const TourPrice = ({
     <>
       <div className="row">
         <div className="col-md-6">
-          {heading ? <strong className="header-box">{heading}</strong> : null}
+          {heading && (
+            <p
+              className="header-box"
+              dangerouslySetInnerHTML={{ __html: heading }}
+            />
+          )}
           {overview ? (
             <div className="text-box">
               <div className="holder">
@@ -58,7 +63,7 @@ const TourPrice = ({
                   <thead>
                     <tr>
                       <th>
-                        <strong className="date-text">PAX</strong>
+                        <strong className="date-text">Group Size</strong>
                       </th>
 
                       <th>
@@ -88,7 +93,12 @@ const TourPrice = ({
               </div>
             </div>
           ) : null}
-          {heading2 ? <strong className="header-box">{heading2}</strong> : null}
+          {heading2 && (
+            <p
+              className="header-box"
+              dangerouslySetInnerHTML={{ __html: heading2 }}
+            />
+          )}
           {overview2 ? (
             <div className="text-box">
               <div className="holder">
@@ -105,7 +115,7 @@ const TourPrice = ({
                   <thead>
                     <tr>
                       <th>
-                        <strong className="date-text">PAX</strong>
+                        <strong className="date-text">Group Size</strong>
                       </th>
 
                       <th>

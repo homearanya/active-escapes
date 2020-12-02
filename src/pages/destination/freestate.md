@@ -16,6 +16,5 @@ intro:
   inset:
     bestSeason: Mar – Nov
     locations: Clarens & surrounds
-    icon: ../../img/icons/ico-landing-hiking.svg
 order: 7
 ---

@@ -5,10 +5,11 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 // import { useStaticQuery, graphql } from 'gatsby'
 
 import { ModalProvider } from '../context/modal-context'
+import { SubscribeProvider } from '../context/subscribe-context'
 
 import Header from './header'
 import Footer from './footer'
@@ -42,6 +43,7 @@ const Layout = ({
   //     }
   //   }
   // `)
+  const newsletterRef = useRef<HTMLInputElement>(null)
   const [hasScrolled, setHasScrolled] = useState(false)
   const handleScroll = () => {
     const scrollTop = window.pageYOffset
@@ -60,21 +62,27 @@ const Layout = ({
   })
 
   return (
-    <ModalProvider>
-      <Header tour={tour} hasScrolled={hasScrolled} />
-      <main
-        id="main"
-        className={`${hasScrolled ? 'scrolled' : ''}${
-          pageClassName ? ` ${pageClassName}` : ''
-        }`}
-        style={{ overflow: 'hidden' }}
-      >
-        {children}
-      </main>
-      <Footer />
-      <ScrollToTop show={hasScrolled} />
-      <Modals />
-    </ModalProvider>
+    <SubscribeProvider>
+      <ModalProvider>
+        <Header
+          tour={tour}
+          hasScrolled={hasScrolled}
+          newsletterRef={newsletterRef}
+        />
+        <main
+          id="main"
+          className={`${hasScrolled ? 'scrolled' : ''}${
+            pageClassName ? ` ${pageClassName}` : ''
+          }`}
+          style={{ overflow: 'hidden' }}
+        >
+          {children}
+        </main>
+        <Footer ref={newsletterRef} />
+        <ScrollToTop show={hasScrolled} />
+        <Modals />
+      </ModalProvider>
+    </SubscribeProvider>
   )
 }
 

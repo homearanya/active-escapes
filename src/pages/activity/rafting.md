@@ -18,7 +18,7 @@ intro:
   inset:
     bestSeason: Summer. Generally Nov - end of Mar
     locations: KZN Interior - Umkomaas, Tugela
-    icon: ../../img/icons/icon-rafting.inline.svg
+    image: ../../img/icons/icon-rafting-activity.svg
 featuredToursSection:
   heading: RAFTING PRODUCTS
   subHeading: Paddle your way down the Tugela or Umkomaas River

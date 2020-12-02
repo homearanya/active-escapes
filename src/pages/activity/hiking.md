@@ -17,13 +17,13 @@ intro:
   inset:
     bestSeason: We have destinations for year-round, but best to avoid Dec-Jan school holidays
     locations: Drakensberg, Kosi Bay, Midlands, Wild Coast
-    icon: ../../img/icons/ico-landing-hiking.svg
+    icon: icon-hiking
 featuredToursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
   subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
 byDestinationSection:
   heading: By Destination
-  subHeading: null
+  subHeading: ''
   destinations:
     - destination: wildcoast
       image: ../../img/listing/activity-wc-hiking.jpg

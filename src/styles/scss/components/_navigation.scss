@@ -53,7 +53,7 @@
   }
 
   .newsletter-icon {
-    height: 30px;
+    height: 35px;
     width: auto;
   }
 
@@ -70,6 +70,7 @@
         &.subscribe {
           position: relative;
           bottom: 5px;
+          cursor: pointer;
         }
 
         &.search-opener {
@@ -112,7 +113,7 @@
 
   @include breakpoint-min($screen-md) {
     flex: 1 0 auto;
-    font-size: 0.9em;
+    font-size: 1em;
 
     .open {
       .dropdown-menu {

@@ -82,6 +82,7 @@ overview:
   description:
     - By spending 3 days and 3 nights on the route, staying at conveniently located lodges along the way, and accompanied by an experienced trail guide, it is possible for anyone who is reasonably fit to summit the escarpment. This hike has been planned so that you can walk at a comfortable pace and not be encumbered by a heavy backpack. At the end of the day, you can relax at your lodgings where a soak in the tub, delicious food, and a comfy bed will certainly beat tinned bully beef and a thermorest!
     - On this trail, you'll do 40 kilometres over 3 days of hiking with an altitude gain of 1300m, so it is not a hike for the faint-hearted, but the views are worth every drop of sweat.
+  mapUrl: https://www.google.com/maps/d/embed?mid=1GjhK3wkVPpFsUCdfncel-kgXmYI&hl=en
 # itineary tab on tour page
 itinerary:
   itinerary:

@@ -286,3 +286,7 @@ img {
 .text-white {
   color: $white;
 }
+
+p:last-child {
+  margin-bottom: 0;
+}

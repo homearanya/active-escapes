@@ -251,7 +251,7 @@ export const query = graphql`
         slug
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 966) {
+            fluid(maxWidth: 966, quality: 70) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
@@ -266,6 +266,7 @@ export const query = graphql`
         overview {
           heading
           description
+          mapUrl
         }
         itinerary {
           itinerary {
@@ -312,7 +313,7 @@ export const query = graphql`
           pictures {
             src {
               childImageSharp {
-                fluid(maxWidth: 370) {
+                fluid(maxWidth: 370, quality: 80) {
                   ...GatsbyImageSharpFluid
                 }
               }

@@ -48,7 +48,7 @@ h2 {
 
   @include breakpoint-min($screen-md) {
     font-size: 2.143em;
-    margin-bottom: 34px;
+    margin-bottom: 20px;
   }
 }
 
@@ -136,6 +136,10 @@ p.intro {
     font-size: 1.186em;
     line-height: 1.75;
   }
+}
+
+strong {
+  font-weight: 600;
 }
 
 p.special-text {

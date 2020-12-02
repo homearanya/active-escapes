@@ -10,8 +10,13 @@ import WhiteLogo from '../../img/logos/logo-white.inline.svg'
 interface HeaderProps {
   tour?: boolean
   hasScrolled?: boolean
+  newsletterRef: React.RefObject<HTMLInputElement>
 }
-const Header = ({ tour = false, hasScrolled = false }: HeaderProps) => {
+const Header = ({
+  tour = false,
+  hasScrolled = false,
+  newsletterRef,
+}: HeaderProps) => {
   const [showSearch, setShowSearch] = useState(false)
 
   const handleOpenSearch = () => setShowSearch(true)
@@ -47,7 +52,10 @@ const Header = ({ tour = false, hasScrolled = false }: HeaderProps) => {
           handleOpenSearch={handleOpenSearch}
           open={showSearch}
         />
-        <Navigation handleOpenSearch={handleOpenSearch} />
+        <Navigation
+          handleOpenSearch={handleOpenSearch}
+          newsletterRef={newsletterRef}
+        />
       </div>
     </header>
   )

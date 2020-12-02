@@ -18,6 +18,5 @@ intro:
   inset:
     bestSeason: Jan – Dec
     locations: Howick, Karkloof, Nottingham Road, Kamberg
-    icon: ../../img/icons/ico-mountain-biking.svg
 order: 4
 ---

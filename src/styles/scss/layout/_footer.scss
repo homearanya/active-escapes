@@ -70,6 +70,9 @@
     &:-ms-input-placeholder {
       color: $newsletter-color;
     }
+    &.email.animate:focus {
+      animation: bounceInRight 1s 1 ease-in-out 1s;
+    }
   }
 
   .input-holder {

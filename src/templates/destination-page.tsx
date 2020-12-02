@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { graphql } from 'gatsby'
 import { Flipper, Flipped } from 'react-flip-toolkit'
+import { scroller } from 'react-scroll'
 
 import TaylorMadeCard from '../components/taylor-made-card'
 import DestinationTour from '../components/destination-tour'
@@ -63,7 +64,6 @@ const DestinationPage = ({
   },
   location,
 }: DestinationPageProps) => {
-  console.log('tours: ', tours)
   const [grid, setGrid] = useState(false)
   const [{ holidayTypes, difficultyLevels }, setDropdowns] = useState({
     holidayTypes: {},
@@ -204,11 +204,21 @@ const DestinationPage = ({
     setDropdowns({ holidayTypes: finalHTypes, difficultyLevels: finalDFLevels })
   }, [])
 
+  useEffect(() => {
+    if (location.state && location.state.scroll) {
+      scroller.scrollTo('filters', {
+        duration: 1500,
+        smooth: 'easeInOut',
+        offset: -100,
+      })
+    }
+  }, [location])
+
   return (
     <Layout pageClassName="destination-page">
       <SEO title={title} description={description} />
       <BannerDestination data={bannerData} />
-      <ActivityIntro data={intro} />
+      <ActivityIntro data={intro} destination />
       {customListings && customListings.length > 0 && (
         <div className="content-block content-sub">
           <div className="container">
@@ -248,7 +258,7 @@ const DestinationPage = ({
         </div>
       )}
       {tours && tours.edges.length > 0 && (
-        <div className="content-block content-sub">
+        <div id="filters" className="content-block content-sub">
           <div className="container">
             <div className="filter-option">
               <strong className="result-info">
@@ -471,9 +481,10 @@ export const query = graphql`
           inset {
             bestSeason
             locations
-            icon {
+            image {
               publicURL
             }
+            icon
           }
           link {
             href
