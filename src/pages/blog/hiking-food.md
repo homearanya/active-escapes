@@ -14,24 +14,50 @@ banner:
   heading: Our Travel Blog
   subHeading: Some Guidelines from the Field
 blogListingImage:
-  alt: Fresh Hiking Food 
+  alt: Fresh Hiking Food
   image: ../../img/blog/healthy-food.jpeg
 homePageListingImage:
-  alt: Fresh Hiking Food 
+  alt: Fresh Hiking Food
   image: ../../img/blog/healthy-food.jpeg
+gallery:
+  pictures:
+    - src: ../../img/gallery/amphi_amphi.jpg
+      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
+    - src: ../../img/gallery/amphi_chains.jpg
+      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
+    - src: ../../img/gallery/amphi_falls.jpg
+      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
+    - src: ../../img/gallery/amphi_edge.jpg
+      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
+    - src: ../../img/gallery/amphi_gully.jpg
+      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
+    - src: ../../img/gallery/amphi_ladders2.jpg
+      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
+    - src: ../../img/gallery/amphi_mahai.jpg
+      caption: The third day’s route down the Mahai valley is an easy self-guided day.
+    - src: ../../img/gallery/amphi_swimhole.jpg
+      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
+    - src: ../../img/gallery/amphi_top.jpg
+      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
+    - src: ../../img/gallery/amphi_headwater.jpg
+      caption: Headwaters of the Tugela river, as hikers make their way towards Mont-Aux-Sources –  one of the highest points of the Drakensberg range lying within Lesotho, the province of the Free State and KwaZulu-Natal.
+    - src: ../../img/gallery/amphi_footpath.jpg
+      caption: Start of Day 2 – the basalt cap of the Amphitheatre looms large.  You will be heading up and over.
 category: 'hiking-food'
-tags: []
+tags:
+  - hiking
+  - food
 ---
 
-Whether you heading off on day-hike or planning for a week-long expedition, choosing the right food to bring along, can be your <em>‘make or break’</em>.  Foods are your fuel, and on multi-day hikes you wish to choose wisely for both **endurance** and **recovery**.
+Whether you heading off on day-hike or planning for a week-long expedition, choosing the right food to bring along, can be your <em>‘make or break’</em>. Foods are your fuel, and on multi-day hikes you wish to choose wisely for both **endurance** and **recovery**.
 
-The best hiking foods are those that are **nutrient-dense** and give you **sustained energy** without weighing you down. Instead of fatty or sugary refined foods that give you a quick high but also an invariable <em>down</em>, you need to choose foods with complex carbs and proteins, for energy that is slow-released over the course of the day. 
+The best hiking foods are those that are **nutrient-dense** and give you **sustained energy** without weighing you down. Instead of fatty or sugary refined foods that give you a quick high but also an invariable <em>down</em>, you need to choose foods with complex carbs and proteins, for energy that is slow-released over the course of the day.
 
 <em>Here are a few food considerations for Day Hikes</em>:
 
 #### **Focus on lasting energy -**
 
-The best foods will be protein rich, nutrient-dense and made of complex carb’s and healthy fats – that are digested slowly and release a steady supply of energy. 
+The best foods will be protein rich, nutrient-dense and made of complex carb’s and healthy fats – that are digested slowly and release a steady supply of energy.
 
 Starting out with a bowl of oatmeal (or soaked rolled oats) topped with nuts (good fats), fruit & honey provides just the blend your body will draw from.
 
@@ -39,7 +65,7 @@ Eggs – packed with 6gms of protein and rich in Vit B and amino acids also make
 
 #### **Enjoy something fresh -**
 
-When choosing food for day hikes, you are not as limited to non-perishable foods as you may be on a multi-day trip. Pack in some fresh fruits & vegetables to snack on – small apples, firm naartjies, carrots, peppers, baby cucumbers & rosa (small) tomatoes all travel well.  A good firm cheese on a cracker, topped with a bit of fresh cucumber is as gourmet as it needs to be. * I prioritise these fresh items (which keep for days) even on multiday hikes.
+When choosing food for day hikes, you are not as limited to non-perishable foods as you may be on a multi-day trip. Pack in some fresh fruits & vegetables to snack on – small apples, firm naartjies, carrots, peppers, baby cucumbers & rosa (small) tomatoes all travel well. A good firm cheese on a cracker, topped with a bit of fresh cucumber is as gourmet as it needs to be. \* I prioritise these fresh items (which keep for days) even on multiday hikes.
 
 #### **Keep it cool –**
 
@@ -47,13 +73,14 @@ For both day hikes and my multi-days, I pack my veg, cheeses and other perishabl
 
 #### **Stay hydrated –**
 
-Drink lots of water before your hike, and pack enough water to last the day. Remember to drink regularly, even if you do not feel thirsty, especially on hotter days. Storing water in a bladder with hands-free access to the valve means you will sip more regularly. Staying hydrated is the first and most important step towards keeping energised. 
+Drink lots of water before your hike, and pack enough water to last the day. Remember to drink regularly, even if you do not feel thirsty, especially on hotter days. Storing water in a bladder with hands-free access to the valve means you will sip more regularly. Staying hydrated is the first and most important step towards keeping energised.
 
 ### **Planning Meals & Foods for a Multi-Day Trip**
 
-On a multi-day hiking trip, choosing compact and lightweight foods is obviously more critical. But in addition, your choice of food also needs to be  easy-to-eat (and prepare) – and healthy.
+On a multi-day hiking trip, choosing compact and lightweight foods is obviously more critical. But in addition, your choice of food also needs to be easy-to-eat (and prepare) – and healthy.
 
 When planning meals for a multi-day trip, one needs to think:<ol>
+
 <li>Quantity</li>
 <li>Quality</li>
 <li>Variety, and</li>
@@ -63,14 +90,14 @@ When planning meals for a multi-day trip, one needs to think:<ol>
 
 #### **Quantity**
 
-The amount of food you need is dependent on a variety of factors: your metabolism, the weather conditions (in cold temps we need to eat more), your age, sex and how strenuous the hike is. If you have been on hikes before, the chances are you have worked out how much food you need through trial and error. 
+The amount of food you need is dependent on a variety of factors: your metabolism, the weather conditions (in cold temps we need to eat more), your age, sex and how strenuous the hike is. If you have been on hikes before, the chances are you have worked out how much food you need through trial and error.
 
 As a guideline though, expeditionist’s recommend you carry at least 1kg of food per day, in the following caloric breakdown: <br>
 45-55% complex carbohydrates<br>
- 35-40% Fats<br> 
- 10-15% Proteins<br>
+35-40% Fats<br>
+10-15% Proteins<br>
 
-On a high berg expedition, one can easily expend between 6000-7000 calories in a day and its quite hard to replenish that in normal foods consumed. Thus the need to supplement with high calorie-to-ounce ratio foods such as nut spreads (like peanut butter), protein bars etc. 
+On a high berg expedition, one can easily expend between 6000-7000 calories in a day and its quite hard to replenish that in normal foods consumed. Thus the need to supplement with high calorie-to-ounce ratio foods such as nut spreads (like peanut butter), protein bars etc.
 
 It is also important to snack regularly – at least every 2 hours - with foods like trail mix. Make sure your snacks are stored in a pocket you can access without having to stop and remove your backpack.
 
@@ -78,17 +105,16 @@ It is also important to snack regularly – at least every 2 hours - with foods 
 
 Think nutritionally-rich and varied foodstuffs which don’t take up too much energy or time to prepare: quick cooking rice, lentils, bulgar wheat (which literally just needs to be soaked in hot water), dry chickpeas (soaked in some water overnight provide a fresh & crunchy protein-carb for lunch the next day).
 
-Here are a few <em>pro-tips</em> for buying food for a backpacking trip: 
+Here are a few <em>pro-tips</em> for buying food for a backpacking trip:
 
 - **Choose lightweight & lightly packaged:** dehydrated or freeze-dried meals and snacks. These can be expensive but are worth the price when you looking at more than 3 nights on the trail. Remove all excess packaging (there’s always too much) and repack items into ziplock bags. Soft items squeeze together much better and save space in your pack. CAN the cans – there is usually a lighter version if you look – like tuna with dressing in a vaccuum-packed sachet, or dried fruit and biltong.<br>
-<br>
+  <br>
 
-- **Pack the right amount:** every meal should be planned for and measured out. You will curse the extra grams (which quicky become kilo’s) in the excess items you threw in ‘just in case’. But it is also good practice to include an extra day’s food should you get weathered in or lost -  this extra day’s supply can definitely be dehydrated pasta & sauce or soya mince and soup. Packet soups are a very light win, especially when it’s cold!<br>
-<br>
+- **Pack the right amount:** every meal should be planned for and measured out. You will curse the extra grams (which quicky become kilo’s) in the excess items you threw in ‘just in case’. But it is also good practice to include an extra day’s food should you get weathered in or lost - this extra day’s supply can definitely be dehydrated pasta & sauce or soya mince and soup. Packet soups are a very light win, especially when it’s cold!<br>
+  <br>
 
 - **Focus on good nutrition:** Prioritise high-protein, complex carbohydrate foods with good fats and enough fibre, calories and electrolytes to replenish your body.<br>
-<br>
-
+  <br>
 
 ### **Keep it Simple**
 
@@ -96,23 +122,23 @@ Trust Us. After a long days hike, you do NOT want to be cutting onions. Pre-prep
 
 ### **<em>Variety</em> remains the Spice of Life**
 
-Meal planning with a little imagination will ensure you don’t sit down to pasta four nights in a row! Dried herbs, a bit of garlic, chilli and simple salt and pepper can transform even the most basic of meals. 
+Meal planning with a little imagination will ensure you don’t sit down to pasta four nights in a row! Dried herbs, a bit of garlic, chilli and simple salt and pepper can transform even the most basic of meals.
 
 Below are some lightweight, long-lasting and power-punching foods to consider for your next multi-day hike.
-- **Cheese:** Protein-rich and calorie-dense, cheese can add a richness to almost any meal. 
-- **Dried meat**: biltong, droewors & salamis 
+
+- **Cheese:** Protein-rich and calorie-dense, cheese can add a richness to almost any meal.
+- **Dried meat**: biltong, droewors & salamis
 - **Dry foods:** Wild rice, quick-cook noodles (there are so many superior alternatives to 2-minute noodles), bulgar wheat (gluten free), lentils, rolled oats, rusks, dried fruit.
-- **A little bit of fresh** – that travels well: small apples, baby carrots, celery, baby cucumbers and even baby tomatoes – packed carefully into your soft  cooler-bag
-- **Hummus & pesto dips** -  on crackers with a bit of cheese or biltong…yum 
+- **A little bit of fresh** – that travels well: small apples, baby carrots, celery, baby cucumbers and even baby tomatoes – packed carefully into your soft cooler-bag
+- **Hummus & pesto dips** - on crackers with a bit of cheese or biltong…yum
 - **High-calorie punch:** nut-butters like peanut butter or almond/ macadamia butter (you get them in nifty tinfoil sachets) and honey – the nectar of the gods.
-- **Dehydrated or freeze-dried foods:** Although somewhat expensive, dehydrated or freeze-dried meals purchased from a camping store offer the lightest & tastiest option for Night 4 & 5 of your hike. 
-- **Spices:** Salt, pepper, garlic powder, basil, cayenne pepper or cinnamon can bring the zing to even the most bland of meals. 
-- **Olive oil:** Dense in calories and fat, olive oil is an excellent source of energy. Try drizzling olive oil on tuna or crackers or mixing it in pasta or rice dishes for added flavour and moisture. 
-- **Powdered beverage/electrolyte mixes:** A game sachet does a great job of masking the taste of water purfication tabs or iodine drops. Flavoured rehydrate sachets are an even better bet – providing the extra electrolytes your body needs. 
+- **Dehydrated or freeze-dried foods:** Although somewhat expensive, dehydrated or freeze-dried meals purchased from a camping store offer the lightest & tastiest option for Night 4 & 5 of your hike.
+- **Spices:** Salt, pepper, garlic powder, basil, cayenne pepper or cinnamon can bring the zing to even the most bland of meals.
+- **Olive oil:** Dense in calories and fat, olive oil is an excellent source of energy. Try drizzling olive oil on tuna or crackers or mixing it in pasta or rice dishes for added flavour and moisture.
+- **Powdered beverage/electrolyte mixes:** A game sachet does a great job of masking the taste of water purfication tabs or iodine drops. Flavoured rehydrate sachets are an even better bet – providing the extra electrolytes your body needs.
 - **Trail mix:** comprising nuts, seeds, dried fruit, raisens. If you have a sweet tooth, toss-in some dark chocolate or smarties.
 - **Nuts and seeds:** Nuts and seeds provide healthy fats, a high concentration of protein and excellent calorie-per-ounce ratio, making them one of the best foods for hiking. Enjoy your nuts and seeds in granola bars or nut butters or simply munch on them plain.
-<br>
-<br>
+  <br>
+  <br>
 
 **_So there it is, with a bit of planning and imagination, you need not go hungry or subsist on toppers and smash! Or you can join one of our catered-slackpacking trails where you wont have to think aboout any meal-planning or prep_**
-

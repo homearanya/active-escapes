@@ -2,18 +2,18 @@ import React from 'react'
 import { ImageSharp } from '../../types'
 import ImageGallery from 'react-image-gallery'
 
-export interface TourGalleryData {
+export interface PostGalleryData {
   pictures: {
     src: ImageSharp
     caption: string
   }[]
 }
 
-interface TourGalleryProps {
-  data: TourGalleryData
+interface PostGalleryProps {
+  data: PostGalleryData
 }
 
-const TourGallery = ({ data: { pictures } }: TourGalleryProps) => {
+const PostGallery = ({ data: { pictures } }: PostGalleryProps) => {
   const items = pictures.map(({ src, caption }) => {
     return {
       original: src.publicURL,
@@ -31,4 +31,4 @@ const TourGallery = ({ data: { pictures } }: TourGalleryProps) => {
   return <ImageGallery items={items} lazyLoad={true} showPlayButton={false} />
 }
 
-export default TourGallery
+export default PostGallery

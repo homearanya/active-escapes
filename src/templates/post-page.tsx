@@ -9,9 +9,19 @@ import BannerDestination, {
 } from '../components/banner-destination'
 import BlogSidebar from '../components/blog-sidebar'
 import Image from '../components/image'
+import PostGallery, { PostGalleryData } from '../components/post-gallery'
 
 interface PostPageProps {
   readonly data: PageQueryData
+  readonly pageContext: {
+    id: string
+    tags: {
+      [key: string]: {
+        count: number
+        slug: string
+      }
+    }
+  }
 }
 
 const PostPage = ({
@@ -24,9 +34,11 @@ const PostPage = ({
         banner,
         title: postTitle,
         homePageListingImage,
+        gallery,
       },
     },
   },
+  pageContext,
 }: PostPageProps) => {
   const breadcrumbs: Breadcrumbs = [
     { id: '1', name: 'home', href: '/' },
@@ -56,7 +68,9 @@ const PostPage = ({
               <div className="blog-holder no-pagination">
                 <article className="blog-single">
                   <div className="img-wrap">
-                    {homePageListingImage.image &&
+                    {gallery && <PostGallery data={gallery} />}
+                    {!gallery &&
+                    homePageListingImage.image &&
                     homePageListingImage.image.childImageSharp ? (
                       <Image
                         image={homePageListingImage.image}
@@ -71,7 +85,7 @@ const PostPage = ({
                 </article>
               </div>
             </div>
-            <BlogSidebar />
+            <BlogSidebar tags={pageContext.tags} />
           </div>
         </div>
       </div>
@@ -107,6 +121,7 @@ interface PageQueryData {
         alt: string
         image: ImageSharp
       }
+      gallery: PostGalleryData
     }
   }
 }
@@ -150,6 +165,19 @@ export const query = graphql`
               }
             }
             publicURL
+          }
+        }
+        gallery {
+          pictures {
+            caption
+            src {
+              childImageSharp {
+                fluid(maxWidth: 1250) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+              publicURL
+            }
           }
         }
       }

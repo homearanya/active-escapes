@@ -11,10 +11,11 @@ import BannerDestination, {
 import PostThumbnail from '../components/post-thumbnail'
 import BlogSidebar from '../components/blog-sidebar'
 
-interface BlogPageProps {
+interface TagPageProps {
   readonly data: PageQueryData
   readonly pageContext: {
     id: string
+    tag: string
     tags: {
       [key: string]: {
         count: number
@@ -23,7 +24,7 @@ interface BlogPageProps {
     }
   }
 }
-const BlogPage = ({
+const TagPage = ({
   data: {
     site: {
       siteMetadata: { siteUrl },
@@ -37,14 +38,18 @@ const BlogPage = ({
     posts: { edges: postEdges },
   },
   pageContext,
-}: BlogPageProps) => {
+}: TagPageProps) => {
   const breadcrumbs: Breadcrumbs = [
     { id: '1', name: 'home', href: '/' },
-    { id: '2', name: 'Blog', href: '' },
+    { id: '2', name: 'Blog', href: '/blog/' },
+    { id: '3', name: 'Tags', href: '' },
+    { id: '4', name: pageContext.tag, href: '' },
   ]
   const bannerData: BannerDestinationData = {
     heading: banner.heading,
-    subHeading: banner.subHeading,
+    subHeading: `${pageContext.tag} (${
+      pageContext.tags[pageContext.tag].count
+    })`,
     heroImage: banner.image.childImageSharp.fluid,
     breadcrumbs,
   }
@@ -85,7 +90,7 @@ const BlogPage = ({
   )
 }
 
-export default BlogPage
+export default TagPage
 
 interface PageQueryData {
   site: {
@@ -126,7 +131,7 @@ interface PageQueryData {
   }
 }
 export const query = graphql`
-  query BlogPage {
+  query TagPage($tag: String!) {
     site {
       siteMetadata {
         siteUrl
@@ -153,7 +158,7 @@ export const query = graphql`
       }
     }
     posts: allMarkdownRemark(
-      filter: { frontmatter: { templateKey: { eq: "post-page" } } }
+      filter: { frontmatter: { tags: { eq: $tag } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

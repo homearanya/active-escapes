@@ -7,7 +7,7 @@ export interface SocialSharerData {
   tourLink: string
   tourName: string
   shortDescription: string
-  emailLink: string
+  emailLink?: string
 }
 interface SocialSharerProps {
   data: SocialSharerData

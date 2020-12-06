@@ -13,6 +13,8 @@ interface PostThumbnailData {
   introduction: string
   date: string
   image: ImageSharp
+  tags: string[]
+  allTags: { [key: string]: { count: number; slug: string } }
 }
 
 interface PostThumbnailProps {
@@ -20,7 +22,7 @@ interface PostThumbnailProps {
 }
 
 const PostThumbnail = ({
-  data: { siteUrl, postTitle, slug, date, introduction, image },
+  data: { siteUrl, postTitle, slug, date, introduction, image, tags, allTags },
 }: PostThumbnailProps) => {
   const postLink = `/blog/${slug}/`
   return (
@@ -42,6 +44,9 @@ const PostThumbnail = ({
           </header>
           <p>{processText(introduction)}</p>
           <footer className="meta">
+            <div className="link-view">
+              <Link to={postLink}>VIEW POST</Link>
+            </div>
             <SocialSharer
               data={{
                 siteUrl,
@@ -51,8 +56,15 @@ const PostThumbnail = ({
               }}
             />
           </footer>
-          <div className="link-view">
-            <Link to={postLink}>VIEW POST</Link>
+          <div className="thumbnail__tags">
+            {tags.map((tag, index) => (
+              <span key={index} className="thumbnail__tag">
+                <Link to={allTags[tag].slug}>{tag}</Link>
+                {tags.length > 1 && index < tags.length - 1 ? (
+                  <span>&nbsp;&nbsp;&sdot;&nbsp;&nbsp;</span>
+                ) : null}
+              </span>
+            ))}
           </div>
         </div>
       </div>
