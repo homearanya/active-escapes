@@ -251,12 +251,6 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
               .getAllNodes({ type: 'MarkdownRemark' })
               .filter((node) => {
                 if (node.frontmatter.templateKey === 'tour-page') {
-                  console.log(
-                    'buildObjectType',
-                    source.code,
-                    node.frontmatter.destination,
-                    node.frontmatter.activity,
-                  )
                   return (
                     (node.frontmatter.destination &&
                       node.frontmatter.destination === source.code) ||

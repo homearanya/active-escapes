@@ -80,7 +80,7 @@ const ContactPage = ({
             </div>
           </div>
           <AnchorPlaceholder anchorPlaceholderId="tour-enquiry" />
-          <div ref={ref} className="row">
+          <div ref={ref} className="row contact">
             <div
               className={`col-md-6 wow fadeInLeft${inView ? ' animated' : ''}`}
               style={
@@ -117,8 +117,6 @@ const ContactPage = ({
               <div className="map-holder">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111060.11102652778!2d30.278920749627964!3d-29.556312228241712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef6a5c1c140393d%3A0x58968436568fb100!2sHilton!5e0!3m2!1sen!2sza!4v1597362836234!5m2!1sen!2sza"
-                  width="100%"
-                  height="auto"
                   allowFullScreen
                 />
               </div>
