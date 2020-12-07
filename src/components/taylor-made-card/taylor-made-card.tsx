@@ -44,7 +44,7 @@ const TaylorMadeCard = ({
         ) : null}
       </div>
       <div className="taylor-made-card__textblock">
-        <h3 className="taylor-made-card__title">{title}</h3>
+        {title && <h3 className="taylor-made-card__title">{title}</h3>}
         {subTitle && <p className="taylor-made-card__subTitle">{subTitle}</p>}
 
         {description && (
