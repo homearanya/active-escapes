@@ -18,12 +18,7 @@ const Banner = () => {
       slide1: file(relativePath: { eq: "banner/img-01-kosi-1920x964.jpg" }) {
         id
         childImageSharp {
-          fluid(
-            maxWidth: 1920
-            sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
-            srcSetBreakpoints: [1600, 1920]
-            quality: 70
-          ) {
+          fluid(maxWidth: 1920, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -32,12 +27,7 @@ const Banner = () => {
       slide2: file(relativePath: { eq: "banner/img-03-amphi1920x964.jpg" }) {
         id
         childImageSharp {
-          fluid(
-            maxWidth: 1920
-            sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
-            srcSetBreakpoints: [1600, 1920]
-            quality: 70
-          ) {
+          fluid(maxWidth: 1920, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -46,12 +36,7 @@ const Banner = () => {
       slide3: file(relativePath: { eq: "banner/img-05-sentinel1920x964.jpg" }) {
         id
         childImageSharp {
-          fluid(
-            maxWidth: 1920
-            sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
-            srcSetBreakpoints: [1600, 1920]
-            quality: 70
-          ) {
+          fluid(maxWidth: 1920, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -60,12 +45,7 @@ const Banner = () => {
       slide4: file(relativePath: { eq: "banner/img-06-sisal1920x964.jpg" }) {
         id
         childImageSharp {
-          fluid(
-            maxWidth: 1920
-            sizes: "(max-width: 1600px) 1600px, (max-width: 1920px) , 1920px"
-            srcSetBreakpoints: [1600, 1920]
-            quality: 70
-          ) {
+          fluid(maxWidth: 1920, quality: 80) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

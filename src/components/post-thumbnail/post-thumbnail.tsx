@@ -59,7 +59,9 @@ const PostThumbnail = ({
           <div className="thumbnail__tags">
             {tags.map((tag, index) => (
               <span key={index} className="thumbnail__tag">
-                <Link to={allTags[tag].slug}>{tag}</Link>
+                <Link to={allTags[tag].slug}>
+                  <em>{tag}</em>
+                </Link>
                 {tags.length > 1 && index < tags.length - 1 ? (
                   <span>&nbsp;&nbsp;&sdot;&nbsp;&nbsp;</span>
                 ) : null}
