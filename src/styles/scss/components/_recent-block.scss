@@ -195,6 +195,11 @@
     }
   }
   .recent-block-row {
+    &::before,
+    &::after {
+      content: none;
+    }
+
     display: flex;
     flex-wrap: wrap;
     .article {
@@ -210,10 +215,6 @@
       height: 100%;
       display: flex;
       flex-direction: column;
-
-      h3.no-space {
-        margin-bottom: auto;
-      }
 
       .sub-info {
         width: 60%;

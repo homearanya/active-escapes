@@ -1,5 +1,19 @@
 .blog-section {
+  padding: $global-bottom-space 0 $global-bottom-space;
+  @include breakpoint-min($screen-sm) {
+    padding: $global-bottom-space 0 $global-bottom-space;
+  }
+  .content-block {
+    @include breakpoint-min($screen-md) {
+      padding: $global-bottom-space 0 $global-bottom-space;
+    }
+  }
+
   @include breakpoint-min($screen-md) {
+    &::before,
+    &::after {
+      content: none;
+    }
     padding-bottom: 0;
     .blog-section-row {
       display: flex;

@@ -224,22 +224,31 @@ module.exports = {
     },
   },
   plugins: [
-    // {
-    //   resolve: 'gatsby-plugin-htaccess',
-    //   options: {
-    //     RewriteBase: true,
-    //     https: true,
-    //     www: true,
-    //     SymLinksIfOwnerMatch: true,
-    //     host: 'www.active-escapes.co.za', // if 'www' is set to 'false', be sure to also remove it here!
-    //     ErrorDocument: `
-    //       ErrorDocument 404 /error_pages/404.html
-    //     `,
-    //     redirect: [
-    //       'RewriteRule ^not-existing-url/?$ /existing-url [R=301,L,NE]'
-    //     ],
-    //   },
-    // },
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        RewriteBase: true,
+        https: true,
+        www: true,
+        SymLinksIfOwnerMatch: true,
+        host: 'www.active-escapes.co.za', // if 'www' is set to 'false', be sure to also remove it here!
+        ErrorDocument: `
+          ErrorDocument 404 /error_pages/404.html
+        `,
+        redirect: [
+          'RewriteRule ^not-existing-url/?$ /existing-url [R=301,L,NE]',
+        ],
+      },
+    },
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.active-escapes.co.za',
+        sitemap: 'https://www.active-escapes.co.za/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    },
     `gatsby-plugin-sass`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,

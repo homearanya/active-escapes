@@ -18,7 +18,7 @@
 
   .title {
     display: block;
-    font-size: 1.143em;
+    font-size: 1.043em;
     font-family: $montserrat;
     font-weight: 400;
     line-height: 1.2;
@@ -32,7 +32,8 @@
     line-height: 1.2;
     padding-bottom: 25px;
     border-bottom: 1px solid $desert-storm;
-    margin-bottom: 25px;
+    margin-top: -5px;
+    margin-bottom: 15px;
   }
 }
 

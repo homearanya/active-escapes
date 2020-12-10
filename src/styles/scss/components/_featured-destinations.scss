@@ -1,5 +1,9 @@
 .featured-destinations {
   .featured-destination-row {
+    &::before,
+    &::after {
+      content: none;
+    }
     display: flex;
     flex-wrap: wrap;
     .article {

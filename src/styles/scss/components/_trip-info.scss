@@ -191,6 +191,10 @@
     max-width: none;
     margin-bottom: $global-xs-space;
 
+    &:last-child {
+      margin-bottom: 0;
+    }
+
     .text-block {
       padding: 15px 20px 15px;
       font-size: 0.857em;
@@ -323,7 +327,7 @@
       padding-bottom: $global-sm-space;
 
       .sub-title {
-        margin-bottom: $global-xs-space;
+        margin-bottom: 15px;
       }
     }
   }
@@ -353,12 +357,15 @@
 
     .text-box {
       padding-left: 30px;
-      margin-bottom: $global-sm-space;
 
       &:before {
         top: 19px;
         font-size: 48px;
       }
+    }
+
+    .text-box:last-child {
+      margin-bottom: 0;
     }
 
     .comments {

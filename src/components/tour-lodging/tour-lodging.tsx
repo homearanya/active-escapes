@@ -30,7 +30,11 @@ const TourLodging = ({ data: { description, images } }: TourLodgingProps) => (
       {images.map(({ src, heading, subHeading }, i) => (
         <div key={i} className="text-box">
           <div className="holder">
-            {heading && <strong className="title">{heading}</strong>}
+            {heading && (
+              <strong className={`title${subHeading ? '' : ' smaller'}`}>
+                {heading}
+              </strong>
+            )}
             {subHeading && <span className="sub-title">{subHeading}</span>}
             {src && (
               <div className="img-holder">

@@ -1,5 +1,9 @@
 .grid-of-cards.drop-wrap {
   .row.menu-mega-row {
+    &::before,
+    &::after {
+      content: none;
+    }
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;

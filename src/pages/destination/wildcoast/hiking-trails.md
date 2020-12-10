@@ -21,10 +21,10 @@ intro:
   inset: null
 featuredToursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: On the Wilder Side of South Africa Coastline
-taylorMadeSection: 
-  heading: ""
-  subHeading: ""
+  subHeading: "On the Wilder Side of South Africa's Coastline"
+taylorMadeSection:
+  heading: ''
+  subHeading: ''
   options:
     - image: ../../../img/listing/WCH-tailor-made.jpg
       title: Tailor Made Wild Coast Adventures

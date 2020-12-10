@@ -39,7 +39,7 @@ const ContactPage = ({
   }
   const [ref, inView] = useInView({
     /* Optional options */
-    threshold: 0.5,
+    threshold: 0,
     triggerOnce: true,
   })
   return (

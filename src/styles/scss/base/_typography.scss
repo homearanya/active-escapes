@@ -228,7 +228,7 @@ blockquote.normal {
 .main-heading {
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-bottom: 0 !important;
+  margin-bottom: 10px;
 }
 
 .main-subtitle {
@@ -238,13 +238,14 @@ blockquote.normal {
   font-weight: 300;
   font-style: italic;
   letter-spacing: 0.04em;
+  margin-bottom: 10px;
 
   @include breakpoint-min($screen-sm) {
     font-size: 1.857142em;
   }
 
   @include breakpoint-min($screen-md) {
-    font-size: 2.142857em;
+    font-size: 1.857142em;
   }
 }
 

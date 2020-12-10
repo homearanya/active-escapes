@@ -1,11 +1,47 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useReducer } from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import { useCookies } from 'react-cookie'
+import useMedia from 'use-media'
 
 import ActivitiesList from '../activities-list'
 
+interface State {
+  maxHeight: number
+  heights: number[]
+  totalMeasurements: number
+}
+
+interface Action {
+  type: string
+  payload: {
+    index: number
+    height: number
+  }
+}
+
+const reducer = (state: State, action: Action) => {
+  const { maxHeight, heights, totalMeasurements } = state
+  const { type, payload } = action
+  const { index, height } = payload
+  switch (type) {
+    case 'add':
+      if (!heights[index] || height > heights[index]) {
+        heights[index] = height
+        return {
+          maxHeight: height > maxHeight ? height : maxHeight,
+          heights,
+          totalMeasurements: height ? totalMeasurements + 1 : totalMeasurements,
+        }
+      }
+      return state
+    default:
+      throw state
+  }
+}
+
 const RecentlyViews = () => {
+  const isNotMobile = useMedia({ minWidth: 660 })
   const [cookies] = useCookies(['recently-views'])
   const [{ tours, allTours }, setTours] = useState({ tours: [], allTours: [] })
   const {
@@ -88,12 +124,19 @@ const RecentlyViews = () => {
     setTours({ tours, allTours })
   }, [edges])
 
+  const initialState: State = {
+    maxHeight: 0,
+    heights: tours.map((e) => 0),
+    totalMeasurements: 0,
+  }
+
+  const [state, dispatch] = useReducer(reducer, initialState)
   return (
     <aside className="recent-block recent-list recent-wide-thumbnail">
       <div className="container">
         <h2 className="text-center text-uppercase">RECENTLY VIEWED</h2>
         <div className="row recent-block-row">
-          {tours.map((tour) => {
+          {tours.map((tour, index) => {
             const { id, frontmatter } = allTours[tour]
             const {
               tourName,
@@ -110,7 +153,27 @@ const RecentlyViews = () => {
             return (
               <article key={id} className="col-sm-6 col-md-3 article">
                 <div className="thumbnail">
-                  <h3 className="no-space">
+                  <h3
+                    ref={(h3) => {
+                      if (
+                        isNotMobile &&
+                        h3 &&
+                        (h3.clientHeight > state.heights[index] ||
+                          !state.heights[index])
+                      ) {
+                        dispatch({
+                          type: 'add',
+                          payload: { index, height: h3.clientHeight },
+                        })
+                      }
+                    }}
+                    style={
+                      isNotMobile && state.totalMeasurements >= tours.map.length
+                        ? { height: `${state.maxHeight}px` }
+                        : {}
+                    }
+                    className="no-space"
+                  >
                     <Link to={tourLink}>{tourName}</Link>
                   </h3>
                   <strong className="info-title">

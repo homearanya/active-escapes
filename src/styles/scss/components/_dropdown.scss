@@ -331,6 +331,10 @@
   }
 
   .menu-mega-row {
+    &::before,
+    &::after {
+      content: none;
+    }
     display: flex;
     flex-wrap: wrap;
   }

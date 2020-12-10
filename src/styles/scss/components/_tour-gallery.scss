@@ -64,6 +64,9 @@
 .gallery-container {
   display: flex;
   justify-content: center;
+
+  padding-bottom: 0;
+
   .gallery-list {
     display: grid;
     grid-template-columns: 1fr;
