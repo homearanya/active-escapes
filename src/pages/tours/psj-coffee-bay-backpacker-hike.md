@@ -67,7 +67,7 @@ overview:
     - You'll pass some impressive natural phenomena along this undulating stretch of Wild Coastline. From the fascinating table mountain sandstone cliffs of Port St Johns, to the arched bays of Mpande and Mdumbi (voted in the top three of South Africa's most beautiful beaches and a surfing hotspot); the impressive dolerite intrusion at Brazen Head and the fabled landmark, Hole in the Wall, where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound.
     - On this 5 day guided hiking trail you can chose between overnighting at friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
     - The village homestays provide dinner and breakfast as part of their inclusive rate. We include dinner in the backpacker option, and they are also well equipped for self-catering.  We provide a shuttle back to your vehicles left in Port St Johns, or to and from Mtata.
-  mapUrl: https://www.google.com/maps/d/edit?mid=15N4T-ChJMZHLK1nc6dUBy2Dm9F8&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=15N4T-ChJMZHLK1nc6dUBy2Dm9F8&usp=en
 itinerary:
   itinerary:
     - heading: Day 1
@@ -93,7 +93,7 @@ itinerary:
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Hluleka - Mdumbi (21km/8hrs walk)'
       description:
-        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen and villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4km, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. 
+        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen and villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4km, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach.
         - After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
         - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Mdumbi Backpackers</strong> (dinner)'
     - heading: Day 6
@@ -134,7 +134,7 @@ faq:
         - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.
     - question: What type of footwear is appropriate?
       answer:
-        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip. However, if your backpack is on the heavier side, I would  recommend going with boots for the extra support. 
+        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip. However, if your backpack is on the heavier side, I would  recommend going with boots for the extra support.
     - question: What is the best time of year for this trail?
       answer:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a stable climate for hiking and there is also the sardine run. This is one hike we can usually arrange during holidays as there is usually a homestay alternative.

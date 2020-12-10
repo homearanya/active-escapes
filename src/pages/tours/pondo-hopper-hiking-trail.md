@@ -70,7 +70,7 @@ overview:
   description:
     - Overnighting in the same East African style tented camps as the pondo-explorer, but with all bedding supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, breakfast and a packed lunch for each trail day will be provided by the tented camps and your third night is spent at Mbotyi River hotel.
     - The tented camps all have superb locations - sheltered under the milkwoods overlooking an estuary, or perched on a hillside offering panoramic sea views. This fully supported hike is a fantastic trail to do with a group of friends looking for a hike that is within reach of the average hiker and with enough activities - like canoeing up the estuaries, fishing and swimming, to keep the Duracell bunnies entertained.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=en
 
 itinerary:
   itinerary:

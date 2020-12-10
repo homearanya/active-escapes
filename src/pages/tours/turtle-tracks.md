@@ -65,7 +65,7 @@ overview:
     - Starting out close to the Mozambican border, the route meanders along the top of the iSimangaliso Wetland Park, a UNESCO World Heritage Site comprising 3280km2 of natural ecosystems. After snorkelling between colourful sealife in the crystalline aquarium of Kosi Mouth, hikers leave Kosi Bay to walk through coastal savannah with a view of the giant fish traps curling far below like an ancient tribal tattoo. The hills are a mixture of water berry trees, monkey apples with their bright green cricket ball sized fruits, and giant flat crown acacias.
     - After a boat trip across Third Lake, hikers are dropped at Bhanga Nek and from here it’s an adventurous walk along sandy pathways, dropping in and out of rural villages, pockets of indigenous bushveld, and small cultivated gardens before the landscape changes once again. The giant Raffia Palms that the area is famous for tower overhead, and views of the tannin coloured Fourth Lake (Amanzamnyama) are visible from the dense forest.
     - Day two and three of walking moves guests from the mysterious inland pathways of the lake systems to the beautiful wide open beaches further south. Beaches such as Black Rock and Lala Nek are picture-book wedges of white sand, edged by snorkeling paradise.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1iEHIeL7S5qxia_9nvPla-6u6wem7i1Ab&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1iEHIeL7S5qxia_9nvPla-6u6wem7i1Ab&usp=en
 
 itinerary:
   itinerary:

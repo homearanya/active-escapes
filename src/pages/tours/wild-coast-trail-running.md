@@ -63,7 +63,7 @@ overview:
     - For fitter hikers, and trail runners, we run a trip which essentially covers two hiking days in one. These daily distances are possible if you speed-walk or jog-walk, with light packs.
     - It is not possible to provide guides and porters over these daily distances (as it covers many guiding sections in a single day), so we cost <em>without</em> a guide or porters.
     - As the hotels all provide bedding, towels and meals; you really can go superlight if you wash out your running clothes overnight and bring light layers for the evening. We will use the same transfer provider from and back to East London airport so you can leave excess luggage with them OR you can leave it in your vehicle if you are self-driving to the end point.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1DVeJ6EU3BmZvYAnYKlVWuOe5n6dZ7Mv4&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1DVeJ6EU3BmZvYAnYKlVWuOe5n6dZ7Mv4&usp=en
 
 itinerary:
   itinerary:

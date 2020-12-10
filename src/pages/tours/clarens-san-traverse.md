@@ -30,7 +30,7 @@ details:
       - '* Shorter and longer variations'
   - heading: Daily Distances
     description:
-      - 'Day 1: 17km'  
+      - 'Day 1: 17km'
       - 'Day 2: 14km'
       - 'Day 3: 5.5 - 10km'
 
@@ -60,7 +60,7 @@ overview:
   description:
     - Daily distances and pace are quite manageable, making this an excellent trail for families and persons looking to test-out the trail waters.
     - You will overnight in charming country houses, just outside of Clarens. With meals, transfers and luggage transfers all arranged for, all you need to do is wake up and enjoy the golden-lit sandstone trails, so unique to this part of the world.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1B-eNt-tZaiRzQ3exL-90rSSr8_9kwIY5&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1B-eNt-tZaiRzQ3exL-90rSSr8_9kwIY5&usp=en
 
 itinerary:
   itinerary:
@@ -96,7 +96,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - Homely <strong>farmstays</strong> and <strong>country lodges</strong> - 3-star equivalent. Most rooms are ensuite, but some of the rooms will share a bathroom. Breakfasts and dinners will be prepared and served at your overnight lodgings.   
+    - Homely <strong>farmstays</strong> and <strong>country lodges</strong> - 3-star equivalent. Most rooms are ensuite, but some of the rooms will share a bathroom. Breakfasts and dinners will be prepared and served at your overnight lodgings.
   images:
     - src: ../../img/gallery/clarens_stone-cottage.jpg
       heading: Original Sandstone cottage, St Fort - First nights  accomodation.

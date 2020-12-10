@@ -66,7 +66,7 @@ overview:
     - This three night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25 min drive from Mossel Bay.
     - Under the escort of two armed and professional wilderness guides, you will hike approximately 10 km/a day (+/- 6hrs of walking) on exclusive, remote access game trails; whilst your luggage is transferred to the next luxury tented camp.
     - Trailist’s can expect gourmet bush meals, top notch guiding and artistic, uniquely-appointed tented camps. An active wilderness experience with a big lick of luxury....
-  mapUrl: https://www.google.com/maps/d/edit?mid=18MCmiZCo1HuTk-Scy_peWzVwU3s3EbVH&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=18MCmiZCo1HuTk-Scy_peWzVwU3s3EbVH&usp=en
 
 itinerary:
   itinerary:
@@ -185,4 +185,3 @@ destinationTour:
   description: This three-night wilderness trail traverses an 11 000 hectare, malaria-free, Big Five Game Reserve in the heart of the Garden Route, Western Cape . It is a true journey of discovery, as the trail leads you to three remotely located seasonal tented camps, over two full hiking days. Your seasoned trail guides will educate you on Gondwana’s unique biodiversity, with exciting wildlife encounters on foot.
   emailLink: mailto:tours@active-escapes.co.za?subject=Pioneer Trail – Western Cape Destination Listing
 ---
-

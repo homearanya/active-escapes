@@ -64,8 +64,8 @@ overview:
     - Starting at Coffee Bay, or Mdumbi for a longer hike option, the trail allows walkers to pack in some of the most scenic and iconic Wild Coast 'scapes' on a tight schedule and budget.
     - It is a fully guided trail, overnighting in funky backpackers with tasty, hearty meals all included. We can also arrange for the bulk of your luggage to be safely transferred to the hike finish, so you get to hike with just a small backpack.
     - On this trail, you will pass the iconic Hole in the Wall , where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound. You will end the hike at Bulungula – a 100% community owned backpacker lodge and voted one of the world's Top 25 Ultimate Ethical Travel Experiences by Rough Guide.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1UHhtJ5RMryM_tTEby6p37gnt_BIrnYRr&usp=sharing
-    
+  mapUrl: https://www.google.com/maps/d/embed?mid=1UHhtJ5RMryM_tTEby6p37gnt_BIrnYRr&usp=en
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -151,7 +151,7 @@ gallery:
 price:
   heading: At a Glance
   overview: null
-   
+
   table:
     - pax: 2 Person
       price: R3700/pp

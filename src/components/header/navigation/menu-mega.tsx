@@ -30,7 +30,7 @@ const MenuDropdown = ({
         relativePath: { eq: "generic/activity-slackpacking.jpg" }
       ) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -38,7 +38,7 @@ const MenuDropdown = ({
       }
       cyclingImg: file(relativePath: { eq: "generic/activity-mtb.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -48,7 +48,7 @@ const MenuDropdown = ({
         relativePath: { eq: "generic/activity-horseriding.jpg" }
       ) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -56,7 +56,7 @@ const MenuDropdown = ({
       }
       natureImg: file(relativePath: { eq: "generic/activity-nature.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -64,7 +64,7 @@ const MenuDropdown = ({
       }
       familyImg: file(relativePath: { eq: "generic/activity-family.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -72,7 +72,7 @@ const MenuDropdown = ({
       }
       groupsImg: file(relativePath: { eq: "generic/activity-groups.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -80,7 +80,7 @@ const MenuDropdown = ({
       }
       raftingImg: file(relativePath: { eq: "generic/activity-rafting.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -88,7 +88,7 @@ const MenuDropdown = ({
       }
       retreatsImg: file(relativePath: { eq: "listing/activity-retreat.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -96,7 +96,7 @@ const MenuDropdown = ({
       }
       runningImg: file(relativePath: { eq: "generic/activity-running.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 370, maxHeight: 175, quality: 75) {
+          fluid(maxWidth: 390, maxHeight: 180, quality: 75) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

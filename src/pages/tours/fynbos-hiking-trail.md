@@ -62,7 +62,7 @@ overview:
   description:
     - As you drive down the R43 between the Overberg villages of Stanford and Gansbaai, you have no inkling of the hidden treasures in the hills to your left. This three-day, 26km trail, meanders through pockets of indigenous forest with Tolkeinesque dells of dense lichens, tumbling waterfalls, and you guessed it, exquisite fynbos.
     - "It's a true voyage of discovery, led by expert guides whose enthusiasm is infectious, as they relate the fascinating dynamics between propagator and fynbos. More than 800 different fynbos species have been identified along this route and whatever time of year you walk, there is always something in bloom. From proteas and pins, varied erica’s, delicate orchids, colourful moraea’s, seasonal bulbs, and diverse restio’s; the Grootbos Nature Reserve and Flower Valley is a sight to behold."
-  mapUrl: https://www.google.com/maps/d/edit?mid=1BiAvt5NP4SbElJj17JXo2rT9UHM&usp=sharing 
+  mapUrl: https://www.google.com/maps/d/embed?mid=1BiAvt5NP4SbElJj17JXo2rT9UHM&usp=en
 
 itinerary:
   itinerary:

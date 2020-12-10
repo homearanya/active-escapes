@@ -72,7 +72,7 @@ overview:
     - The upper Dargle/Impendle area, although part of the Midlands, is also considered the start of the mighty Drakensberg escarpment, and this hike combines some more rugged berg hiking with the luxury of Midland's comforts.
     - Given the variety of ecological niches, the Dargle valley is home to over 200 bird species including the rare Cape Parrot and White-winged Starling. Due to the protection status of this area, it is not uncommon to find highly specialised animals like the elusive Samango monkeys playing in the Cape Chestnut trees, or some of the successfully re-introduced rock dassies sunbathing in the forest fringe. Blue duiker, oribi and mountain reedbuck are also frequent visitors.
     - Some steep ascents and off-camber grassy trails, make this hike challenging at times. As with the Karkloof Falls2Falls, 10% of profit will go towards local conservation projects.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1luQJGXq6vP8CAvCjeIpmZSZFYLgvsUVM&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1luQJGXq6vP8CAvCjeIpmZSZFYLgvsUVM&usp=en
 
 itinerary:
   itinerary:
@@ -90,15 +90,15 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: The Heart of the Midlands (+/- 15km / 5-7hrs)'
       description:
-        - Today's hike is relatively easy walking; taking hikers through typical Midlands farm scenery and past an expansive wetland (an important nesting site for cranes), before descending to pass by one of the oldest farmhouses of KwaZulu-Natal, renowned for its architecture.  
+        - Today's hike is relatively easy walking; taking hikers through typical Midlands farm scenery and past an expansive wetland (an important nesting site for cranes), before descending to pass by one of the oldest farmhouses of KwaZulu-Natal, renowned for its architecture.
         - From here, it's an undulating stroll through mistbelt grassland to your next nights accommodation, nestled under the eaves of one of the most ancient indigenous forests.
         - 'Overnight: <strong>Dargle Guesthouse </strong> (breakfast, packed lunch, dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: The ancient Dargle Forest (10-15km /200m ascent/ 5-7hrs)'
       description:
-        - Using old logging trails and newly developed hiking paths, todays hike takes you through the cool undergrowth of Mistbelt forest, in the heart of the Dargle valley. There are plenty of spring mountain streams to drink from, as well as frequent sightings of tree dassie's, oribi, reedbuck and perhaps a Samango monkey. 
+        - Using old logging trails and newly developed hiking paths, todays hike takes you through the cool undergrowth of Mistbelt forest, in the heart of the Dargle valley. There are plenty of spring mountain streams to drink from, as well as frequent sightings of tree dassie's, oribi, reedbuck and perhaps a Samango monkey.
         - At the top of the forest you are rewarded with a panoramic view of the Dargle and Lidgetton valley, with the iconic Nhlosane mountain as a backdrop.
-        - "A <em>‘local is lekker’</em> picnic lunch ends off the experience, with finger foods selected from the surrounding producers: a true taste of the Midlands."
+        - 'A <em>‘local is lekker’</em> picnic lunch ends off the experience, with finger foods selected from the surrounding producers: a true taste of the Midlands.'
         - Transfer provided back to vehicles or alternative arrangements made.
 
   images:

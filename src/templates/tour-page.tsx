@@ -10,7 +10,7 @@ import TourOverview, { TourOverviewData } from '../components/tour-overview'
 import TourItinerary, { TourItineraryData } from '../components/tour-itinerary'
 import TourLodging, { TourLodgingData } from '../components/tour-lodging'
 import TourFaq, { TourFaqData } from '../components/tour-faq'
-import Gallery, { BigGalleryImage } from '../components/gallery'
+import Gallery, { BigGalleryImage } from '../components/tour-gallery'
 import { GalleryThumbnailData } from '../components/gallery-thumbnail'
 
 import TourPrice, { TourPriceData } from '../components/tour-price'
@@ -251,7 +251,7 @@ export const query = graphql`
         slug
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 966, quality: 70) {
+            fluid(maxWidth: 966, quality: 80) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
@@ -352,7 +352,7 @@ export const query = graphql`
           pictures {
             src {
               childImageSharp {
-                fluid(maxWidth: 1000) {
+                fluid(maxWidth: 1000, quality: 80) {
                   ...GatsbyImageSharpFluid
                 }
               }

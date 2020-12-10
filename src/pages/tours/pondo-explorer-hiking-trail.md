@@ -65,7 +65,7 @@ overview:
     - We offer a 3 or 5 night hiking package, both starting from Msikaba and either finishing at Mbotyi (3 Night Trail) or in Port St John’s (the 5 Night trail).
     - Highlights of this trail include the deepest estuary in South Africa (Msikaba), the ocean spray spectacular at Luphuthana, waterfalls which plunge directly into the ocean (including the 80 metre high waterfall at Waterfall Bluff), Cathedral Rock, friendly Pondo villages and sweeping vistas. During the annual sardine run (June-July), the ocean is a-frenzy with game fish, dolphins, sharks and myriad seabirds.
     - On this self-catered trail version, extra day-nights can be had at any of the camps or at Mbotyi. It is also possible to break the first hike day into two days by overnighting at Grosvenor lodge where catering is provided.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=en
 
 itinerary:
   itinerary:

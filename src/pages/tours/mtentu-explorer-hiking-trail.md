@@ -65,7 +65,7 @@ overview:
   description:
     - The hike to Mtentu is two days, overnighting at a village homestay the first night, and then hiking through to Mtentu Lodge for another two nights. The village homestay is basic but provides an excellent and authentic cultural experience.
     - Mtentu Lodge provides wood-and-thatch accommodation, with all bedding and meals provided. On your free exploration day, you can hike into neighbouring Mkambathi  Reserve where you can go swimming up to waterfalls and see roaming game.  You can also take a canoe up the gorgeous Mtentu estuary, do the epic Swallowtail Falls kloofing hike, or just enjoy this stunning private beach.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1gy7B6GN2iXEMWDvYsuTHdkcT_nPdMCwU&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1gy7B6GN2iXEMWDvYsuTHdkcT_nPdMCwU&usp=en
 itinerary:
   itinerary:
     - heading: Day 1

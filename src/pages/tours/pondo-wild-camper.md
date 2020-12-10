@@ -65,7 +65,7 @@ overview:
   description:
     - The Wild Camper requires that you are experienced backpackers and will come self-sufficient in terms of your own tent, sleeping bag and food provisions. Essentially, we provide the hiking guide to accompany you with his local knowledge for the best overnight locations, sourcing spring water etc, and we take care of the transfers at the end of the hike, to get you back to your starting point (a 3hr transfer from Mbotyi back to Port Edward).
     - If you chose the wild camper option, you can chose to overnight at a homestay on any of the nights, for an extra R350/pp (the cost of the homestay which includes a simple dinner, breakfast & snack).
-  mapUrl: https://www.google.com/maps/d/edit?mid=1eww-gZEmtFXNftAuDCR1g8Tr5P5iF5qR&usp=sharing 
+  mapUrl: https://www.google.com/maps/d/embed?mid=1eww-gZEmtFXNftAuDCR1g8Tr5P5iF5qR&usp=en
 
 itinerary:
   itinerary:

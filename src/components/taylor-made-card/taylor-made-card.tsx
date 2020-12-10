@@ -23,6 +23,8 @@ export interface TaylorMadeCardInterface {
 
 interface TaylorMadeCardProps {
   data: TaylorMadeCardInterface
+  first: boolean
+  last: boolean
 }
 
 const TaylorMadeCard = ({
@@ -35,9 +37,15 @@ const TaylorMadeCard = ({
     link,
     link2,
   },
+  first,
+  last,
 }: TaylorMadeCardProps) => {
   return (
-    <article className="taylor-made-card__wrapper">
+    <article
+      className={`taylor-made-card__wrapper${first ? ' first' : ''}${
+        last ? ' last' : ''
+      }`}
+    >
       <div className="taylor-made-card__img-wrap">
         {image && image.childImageSharp ? (
           <Image image={image} alt={title} />

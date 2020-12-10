@@ -66,7 +66,7 @@ overview:
   description:
     - Take on this 5 Day High Berg challenge from the Sentinel to Cathedral Peak Hotel via the famous Bell Traverse. Overnighting in tents and caves, this is a bucket-list hike for the fit and adventurous.
     - It is effectively half the Grand Traverse (GT) and includes the epic 'Bell Traverse' which the GT does not.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1EPylL3X-xB2-pV5GOvWtoLV17zgurlfo&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1EPylL3X-xB2-pV5GOvWtoLV17zgurlfo&usp=en
 
 itinerary:
   itinerary:

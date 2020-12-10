@@ -66,7 +66,7 @@ overview:
     - This hike is more accessible to younger and older hikers as the terrain flattens out (fewer hills) with paths running close to the beach, or along wide flat beaches.
     - Accommodation is in the characterful old world hotels with 3-course dinners (often fresh line fish and seafood if you time it right), a cooked breakfast to start your day, and a packed lunch to munch-on out on the trail. Porters can be arranged north of the Kei to take your backpack from hotel to hotel, whilst vehicle luggage transfers are possible south of Morgan’s Bay. You can therefore hike burden-free, though you need pack little more than your clothes and trail shoes on this slackpacker.
     - The hiking distances between the hotels, allow ample time to soak in the atmosphere, take a swim and a leisurely lunch along way - arriving at the next hotel by mid-afternoon. Hikers have the option of flying in / out of East London, or driving their car to the start / finish of the trail, and we'll arrange a shuttle to the other end.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1rFGNGTLMpBfVAR6cXMrxxy6P9R0&usp=sharing 
+  mapUrl: https://www.google.com/maps/d/embed?mid=1rFGNGTLMpBfVAR6cXMrxxy6P9R0&usp=en
 itinerary:
   itinerary:
     - heading: Day 1 - Meander Trail

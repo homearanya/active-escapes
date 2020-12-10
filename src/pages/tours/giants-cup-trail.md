@@ -64,7 +64,7 @@ overview:
   description:
     - This slackpacking trail effectively covers the first 4 days of the Giants Cup Trail, and can be extended to cover the full 5-day 60km trail all the way through to Bushmens Nek. At the end of each days hike, you are ferried a short distance to a comfortable lodge or farmstay, with your bags awaiting your arrival. This means you can hike the trail without the burden of a heavy pack, giving you more time to take that swim in a refreshing mountain pool or photograph the wild flowers along the way.
     - Being a three day trail, it is a good option for a long weekend getaway. For those walkers who want to marry fine dining and more luxury lodgings to the experience, this trail can be upgraded to do so.
-  mapUrl: https://www.google.com/maps/d/edit?mid=14-lcLqCYypCLlhLwz54UW5k7CNo&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=14-lcLqCYypCLlhLwz54UW5k7CNo&usp=en
   
 itinerary:
   itinerary:

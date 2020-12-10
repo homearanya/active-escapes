@@ -34,9 +34,9 @@ details:
       - '* Fewer days on request'
   - heading: Daily Distances
     description:
-      - 'Day 1: 14km/ 6hr' 
+      - 'Day 1: 14km/ 6hr'
       - 'Day 2: 20km/ 8hr'
-      - 'Day 3: 13km/ 7hr' 
+      - 'Day 3: 13km/ 7hr'
       - 'Day 4: 12km/ 6hr'
 
   - heading: Trail Grading
@@ -70,7 +70,7 @@ overview:
   description:
     - This 4 day/ 4 night hiking trail explores the diverse natural and cultural heritage of the Maloti-Drakensberg World Heritage Site. Hiking along the mountainous foothills, you’ll pass through friendly rural villages, take in ancient rock-art sites, and learn about local medicinal plants and culture.
     - Each night you'll be welcomed by your chalet host into a comfortable trail hut where hot showers, fresh linen and a delicious dinner awaits. The hike is guided by a qualified community guide, and luggage transfers from one chalet to the next, can easily be arranged for those who don't wish to carry more than a light daypack.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1rQmpZ9CFEonGY_XE0AKZs5Vk7-o&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1rQmpZ9CFEonGY_XE0AKZs5Vk7-o&usp=en
 
 itinerary:
   itinerary:
@@ -129,7 +129,7 @@ faq:
         - Worn-in hiking boots for ankle support if you wish, otherwise a hiking or trail-running shoe will also be suitable for this trail.
     - question: What is the best time of year for this trail?
       answer:
-        - "In the Drakensberg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, Winter months (June-July) are usually the best: chilly starts but generally warm and dry days. The hottest months (Nov-Feb) also tend to have the heaviest thunderstorms."
+        - 'In the Drakensberg, one can experience 4 seasons in a day. Autumn (Mar-May) and Spring (mid August - Oct) are some of the best months, but for the most stable weather, Winter months (June-July) are usually the best: chilly starts but generally warm and dry days. The hottest months (Nov-Feb) also tend to have the heaviest thunderstorms.'
     - question: Can this hike be lengtened or shortened?
       answer:
         - Yes, it is very customisable.

@@ -76,7 +76,7 @@ overview:
     - It is 139km of riding through to Coffee Bay and close on 200km to Umngazi from our starting point in Morgan Bay. The standard tour will cover the full distance over 5 days of riding with the first or final day of the Imana Wild Ride, being split over two days.
     - The average daily ride distance is around 45km/day. For less fit groups we can also do the full route over 6 ride days - overnighting at both Wavecrest and Mpande enroute.
     - A 'rest day' can be included at any of the overnight places enroute, which allows one to make this as much a holiday as a journey.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1ffIsUUD6MPKfQRfDT4tPse_B-kk&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1ffIsUUD6MPKfQRfDT4tPse_B-kk&usp=en
 
 itinerary:
   itinerary:

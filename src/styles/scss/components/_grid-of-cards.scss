@@ -10,25 +10,44 @@
 
     .menu-mega-col {
       padding-bottom: 10px;
-
+      transition: all 0.2s linear;
       .img-wrap {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
       }
       .des {
         text-align: left;
+        p {
+          line-height: 1.5;
+          margin-bottom: 10px;
+          color: #9d9d9d;
+          transition: all 0.2s linear;
+        }
       }
       .title {
-        a {
-          display: inline-block;
-          font-size: 18px;
-          color: $gray;
-          margin-bottom: 10px;
-          text-transform: uppercase;
-        }
+        padding: 10px 0;
+        display: block;
+        text-transform: uppercase;
+        position: relative;
+        font-size: 1.18em;
+        color: #9d9d9d;
+        transition: all 0.2s linear;
       }
       width: 100%;
       max-width: 500px;
       margin: 0 auto;
+
+      &:hover {
+        transition: all 0.2s linear;
+        .des {
+          p {
+            color: $mongoose;
+          }
+        }
+        .title {
+          color: $mongoose;
+        }
+      }
+
       @media (min-width: $screen-sm-max) {
         width: 33.3333%;
       }

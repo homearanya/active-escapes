@@ -140,8 +140,13 @@ const ActivityPage = ({
                 gridTaylorMadeSection ? ` ${gridTaylorMadeSection}` : ''
               }`}
             >
-              {taylorMadeSection.options.map((data) => (
-                <TaylorMadeCard data={data} />
+              {taylorMadeSection.options.map((data, index) => (
+                <TaylorMadeCard
+                  key={index}
+                  data={data}
+                  first={index === 0}
+                  last={index === taylorMadeSection.options.length - 1}
+                />
               ))}
             </div>
           </div>

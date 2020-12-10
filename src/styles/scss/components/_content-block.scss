@@ -3,6 +3,10 @@
   text-align: center;
   position: relative;
 
+  h2 {
+    margin-bottom: 10px;
+  }
+
   .subtitle {
     display: block;
   }
@@ -295,11 +299,11 @@
   }
 
   @include breakpoint-min($screen-md) {
-    padding: $global-top-space 0;
+    padding: $global-md-space 0;
 
     &.content-sub {
-      padding-top: $global-space;
-      padding-bottom: $global-bottom-space;
+      padding-top: $global-sm-space;
+      padding-bottom: $global-sm-space;
     }
 
     &.guide-sub {

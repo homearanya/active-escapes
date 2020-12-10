@@ -60,14 +60,14 @@ overview:
     - Hike the largely undeveloped Southern Cape coastline between Mossel Bay and Gourikwa Private Nature Reserve, crossing the spectacular Gouritz River along the way.
     - During the mild winter months, this area is known for its whale activity as mothers come in to give birth in the quiet protected bays. The combination of raptors, marine and Fynbos avian species, makes this a birders paradise too.
     - Overnight accommodation is in the well-appointed guest cottages at Sandpiper, or other establishments of similar quality, in the area.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1Jocik35GlP8jnXMYn7oxeCjafaY&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1Jocik35GlP8jnXMYn7oxeCjafaY&usp=en
 
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day - Meet at Mossel Bay.
       description:
-        - Dinner at a local restaurant 
+        - Dinner at a local restaurant
         - 'Overnight: Mossel Bay hotel or guesthouse.'
     - heading: Day 2
       subHeading: 'Hike Day 1: Hike to Dana Bay (12/15km)'
@@ -96,7 +96,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - Quality <strong>guesthouses</strong> or <strong>characteristic cottages</strong> on all nights (4-star grade). Usually the same cottage for all nights so you do not need to worry about packing and unpacking bags.  
+    - Quality <strong>guesthouses</strong> or <strong>characteristic cottages</strong> on all nights (4-star grade). Usually the same cottage for all nights so you do not need to worry about packing and unpacking bags.
     - Meals are prepared by local cooks in the traditional Cape style.
   images:
     - src: ../../img/gallery/OC-cottage.jpg

@@ -64,7 +64,7 @@ overview:
     - The Chokka Trail is a uni-directional hike from Oyster Bay to Cape St Francis.  Vehicles can be left in Cape St Francis at the Resort, or shuttles from Port Elizabeth airport can be arranged straight to Oyster Bay.
     - Highlights of the trail include a sundown cruise on the famous St Francis canals, and a calamari tasting at Port St Francis, the only privately owned working harbour in South Africa.  The trail is professionally  guided and catered for.
     - This slackpacking trail won the National Lilizela Awards for Best Visitors Experience (Beach Category) in 2016, 2017, 2018 and 2019.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1Kb9_bvB8qu4khgvJnjFWTHsXo2GP4y-R&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1Kb9_bvB8qu4khgvJnjFWTHsXo2GP4y-R&usp=en
 
 itinerary:
   itinerary:

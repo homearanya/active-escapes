@@ -66,7 +66,7 @@ overview:
   description:
     - An extended option on Coffee Bay – Bulungula, this trail takes in the iconic ‘Hole in the Wall’, the esteemed beaches of Mpame and Bulungula, and finishes at the lovely Haven Hotel, where we highly recommend staying an extra night or two.
     - It is best suited to groups of four or more as we'll organise a private transfer collection from the Haven. The trail is a mix of backpacker and hotel accommodation options and is well suited to friend and family groups.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1muR3ja5-g8rowRU2aWRiylYa02qMrTtf&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1muR3ja5-g8rowRU2aWRiylYa02qMrTtf&usp=en
 
 itinerary:
   itinerary:

@@ -309,6 +309,10 @@
     color: $text-color;
   }
 
+  p {
+    font-size: 14px;
+  }
+
   .description {
     border: 1px solid $desert-storm;
     padding: $global-xs-space 10px;
@@ -354,6 +358,9 @@
   @include breakpoint-min($screen-md) {
     .description {
       padding: $global-xs-space 30px;
+    }
+    p {
+      font-size: 15px;
     }
   }
 

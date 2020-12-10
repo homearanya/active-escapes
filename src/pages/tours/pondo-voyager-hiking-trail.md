@@ -70,8 +70,8 @@ overview:
     - This is a 5 day / night hiking trail starting at the Wild Coast Casino and finishing at Mbotyi. Led by a passionate local guide, hikers will be treated to warm amaXhosa hospitality at a village homestay in Xolobeni on the first night of the trail. The second night is spent at a community lodge on the gorgeous Mtentu estuary, before entering Mkambati Nature Reserve and walking  through to the Msikaba River, where a night will be spent in an East African style tented camp, nestled amongst the milkwoods. Canoes are available from the camp, and guests can finish the day with a sunset paddle up the estuary.
     - The fourth day's hike takes you from Msikaba to Luphuthana, passing the site of the fated Grosvenor shipwreck and the remnants of the pioneering attempts to recover her treasure. Overnighting at another tented camp, hikers can enjoy sundowners whilst watching the natural spray display that is created from waves crashing up against the flat rock shelf at Luphuthana.
     - The final day's hike from Luphuthana to Mbotyi is the longest, but the renowned landmarks of Waterfall Bluff, Cathedral Rock and Mfhilo falls make for exciting exploration! Finishing at Mbotyi, hikers can treat themselves to a final night of luxury offered by Mbotyi River Lodge.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1VhyJWOny0oXHz4t4S1UGzwIV2Aw&usp=sharing
-  
+  mapUrl: https://www.google.com/maps/d/embed?mid=1VhyJWOny0oXHz4t4S1UGzwIV2Aw&usp=en
+
 itinerary:
   itinerary:
     - heading: Day 1

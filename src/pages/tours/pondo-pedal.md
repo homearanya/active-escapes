@@ -65,7 +65,7 @@ overview:
     - The tour consist of 3 cycle days, or 2 cycle days and a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach.
     - You’ll spend two nights at Mtentu lodge before cycling back to the Wild Coast casino via a different route.  Depending on the time and tides, you'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
     - If you an independent soul and wish to make it a more affordable getaway, there is also an option to self-guide and not have luggage support as the lodge does provide bedding, towels and meals.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1NPlyV9fWE2BElu43tQO8G_DF7S4&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1NPlyV9fWE2BElu43tQO8G_DF7S4&usp=en
 
 itinerary:
   itinerary:

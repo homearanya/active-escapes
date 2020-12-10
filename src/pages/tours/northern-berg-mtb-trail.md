@@ -64,8 +64,8 @@ overview:
     - In this Northern Drakensberg valley there is a custom built network of over 100kms of sublime singletrack linking Drakensberg accommodation establishments to one another. Because the trails are well marked and we can provide a detailed route description, most groups are happy to guide themselves, but they’d still like to have the experience of a point-to-point tour with catering and luggage transfers provided.
     - We generally start this trip at the Cavern hotel, and then overnight at Drak Mountain Inn (a stiff climb to get up to it- but very rewarding) – and then back to the Cavern. The route distances are 35-50km /day, and there are many variations or additional loops you can do if you wanted more or less mileage.
     - There is also the option of spending an extra day at Drak Mountain Inn - which comes highly recommended, as there is a fantastic day hike that you can do up and over the sandstone cliffs to visit a Cape Vulture colony or take the day to relax, go horse-riding or flyfishing in the small dams at the lodge.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1B_jlclqYLvlqLVJ1hOikXlQRvRE&usp=sharing
-  
+  mapUrl: https://www.google.com/maps/d/embed?mid=1B_jlclqYLvlqLVJ1hOikXlQRvRE&usp=en
+
 itinerary:
   itinerary:
     - heading: Day 1

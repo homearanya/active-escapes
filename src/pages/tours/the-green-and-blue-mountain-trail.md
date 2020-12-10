@@ -64,7 +64,7 @@ overview:
     - 'The <strong>Green Mountain trail</strong> (4 days/ 4 nights) scheduled from a <em>Monday to Friday</em>, traverses mostly privately-owned land, with all landowners being members of the Groenlandberg Conservancy: the world’s first biodiversity wine route, and part of the region’s efforts to conserve the environment and promote responsible tourism.'
     - The <strong>Blue Mountain Trail</strong>, which runs from a <em>Tuesday to a Thursday</em>, is a three day - three night  slackpacking trail on the southern side of the Elgin Valley. The trail is 50 km in total, traversing forest, wilderness, fynbos and fruit farms.
     - As part of the trail’s social responsibility programme, hikers are encouraged to “Walk with an Alien”, a project in which a personalised walking stick is carved from alien vegetation by local communities.
-  mapUrl: https://www.google.com/maps/d/edit?mid=18KP3T099LcHLhaz6o8dHgWzjT3TrJLXq&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=18KP3T099LcHLhaz6o8dHgWzjT3TrJLXq&usp=en
 
 itinerary:
   itinerary:

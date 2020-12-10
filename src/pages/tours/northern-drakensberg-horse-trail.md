@@ -62,9 +62,9 @@ overview:
   heading: At a Glance
   description:
     - High mountains, sandstone cliffs and rolling plains provide a scenic backdrop to this Northern Drakensberg multi-day horse trail. Guests wishing to include a cultural element to their ride, can ride through the local village, visiting a Sangoma, and getting a feel for contemporary rural Zulu life.
-    - The sure-footed horses have been bred in the area so whilst the terrain may seem technical, you are on experienced footing. 
+    - The sure-footed horses have been bred in the area so whilst the terrain may seem technical, you are on experienced footing.
     - Each night you will sleep in a comfy mountain lodge, so you get to play cowboy by day... but sleep in a proper bed by night.
-  mapUrl: https://www.google.com/maps/d/edit?mid=1GrIuuvCYQfA3ZG_gU46vldhVGGU&usp=sharing
+  mapUrl: https://www.google.com/maps/d/embed?mid=1GrIuuvCYQfA3ZG_gU46vldhVGGU&usp=en
 
 itinerary:
   itinerary:

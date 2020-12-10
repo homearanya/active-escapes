@@ -220,9 +220,9 @@ const DestinationPage = ({
       <BannerDestination data={bannerData} />
       <ActivityIntro data={intro} destination />
       {customListings && customListings.length > 0 && (
-        <div className="content-block content-sub">
-          <div className="container">
-            {customListings.map((data) => {
+        <div className="container">
+          <div className="content-block content-sub">
+            {customListings.map((data, index) => {
               const {
                 title,
                 image,
@@ -244,6 +244,7 @@ const DestinationPage = ({
                 : undefined
               return (
                 <TaylorMadeCard
+                  key={index}
                   data={{
                     title,
                     image,
@@ -251,6 +252,8 @@ const DestinationPage = ({
                     link,
                     link2,
                   }}
+                  first={index === 0}
+                  last={index === customListings.length - 1}
                 />
               )
             })}
@@ -258,7 +261,19 @@ const DestinationPage = ({
         </div>
       )}
       {tours && tours.edges.length > 0 && (
-        <div id="filters" className="content-block content-sub">
+        <div
+          id="filters"
+          className="content-block content-sub"
+          style={
+            customListings && customListings.length > 0
+              ? {
+                  padding: 0,
+                }
+              : {
+                  paddingBottom: 0,
+                }
+          }
+        >
           <div className="container">
             <div className="filter-option">
               <strong className="result-info">
