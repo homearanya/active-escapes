@@ -60,11 +60,12 @@
 
 /* content block styles */
 .content-block {
-  padding: $global-md-space 0;
+  padding: $global-md-space 0 $global-bottom-space;
   background: $teritory-color;
 
   &.content-sub {
-    padding: $global-sm-space 0;
+    padding-top: 0;
+    padding-bottom: $global-xs-space;
 
     .article {
       margin-top: $global-xs-space;
@@ -264,15 +265,15 @@
   }
 
   @include breakpoint-min($screen-sm) {
-    padding: $global-space 0;
+    padding: $global-md-space 0 $global-bottom-space;
 
     .article {
       margin-top: $global-sm-space;
     }
 
     &.content-sub {
-      padding-top: $global-md-space;
-      padding-bottom: $global-md-space;
+      padding-top: 0;
+      padding-bottom: $global-sm-space;
 
       .content-holder {
         margin-top: -35px;
@@ -299,10 +300,10 @@
   }
 
   @include breakpoint-min($screen-md) {
-    padding: $global-md-space 0;
+    padding: $global-md-space 0 $global-bottom-space;
 
     &.content-sub {
-      padding-top: $global-sm-space;
+      padding-top: 0;
       padding-bottom: $global-sm-space;
     }
 

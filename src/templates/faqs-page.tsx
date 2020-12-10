@@ -47,7 +47,11 @@ const FAQSPage = ({
           <header className="content-heading">
             <h2 className="main-heading">{intro.heading}</h2>
             {intro.description.map((paragraph, i) => (
-              <p key={i} dangerouslySetInnerHTML={{ __html: paragraph }} />
+              <p
+                className="intro intro--center"
+                key={i}
+                dangerouslySetInnerHTML={{ __html: paragraph }}
+              />
             ))}
             <div className="seperator"></div>
           </header>

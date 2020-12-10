@@ -219,61 +219,49 @@ const DestinationPage = ({
       <SEO title={title} description={description} />
       <BannerDestination data={bannerData} />
       <ActivityIntro data={intro} destination />
-      {customListings && customListings.length > 0 && (
-        <div className="container">
-          <div className="content-block content-sub">
-            {customListings.map((data, index) => {
-              const {
-                title,
-                image,
-                description,
-                link: pageLink,
-                emailLink,
-              } = data
-              const link = pageLink
-                ? {
-                    href: pageLink,
-                    text: 'explore',
-                  }
-                : undefined
-              const link2 = emailLink
-                ? {
-                    href: emailLink,
-                    text: 'Enquire now',
-                  }
-                : undefined
-              return (
-                <TaylorMadeCard
-                  key={index}
-                  data={{
+      {tours && tours.edges.length > 0 && (
+        <div id="filters" className="content-block">
+          {customListings && customListings.length > 0 && (
+            <div className="container">
+              <div className="content-block content-sub">
+                {customListings.map((data, index) => {
+                  const {
                     title,
                     image,
                     description,
-                    link,
-                    link2,
-                  }}
-                  first={index === 0}
-                  last={index === customListings.length - 1}
-                />
-              )
-            })}
-          </div>
-        </div>
-      )}
-      {tours && tours.edges.length > 0 && (
-        <div
-          id="filters"
-          className="content-block content-sub"
-          style={
-            customListings && customListings.length > 0
-              ? {
-                  padding: 0,
-                }
-              : {
-                  paddingBottom: 0,
-                }
-          }
-        >
+                    link: pageLink,
+                    emailLink,
+                  } = data
+                  const link = pageLink
+                    ? {
+                        href: pageLink,
+                        text: 'explore',
+                      }
+                    : undefined
+                  const link2 = emailLink
+                    ? {
+                        href: emailLink,
+                        text: 'Enquire now',
+                      }
+                    : undefined
+                  return (
+                    <TaylorMadeCard
+                      key={index}
+                      data={{
+                        title,
+                        image,
+                        description,
+                        link,
+                        link2,
+                      }}
+                      first={index === 0}
+                      last={index === customListings.length - 1}
+                    />
+                  )
+                })}
+              </div>
+            </div>
+          )}
           <div className="container">
             <div className="filter-option">
               <strong className="result-info">

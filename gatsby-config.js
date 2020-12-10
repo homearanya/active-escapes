@@ -3,6 +3,13 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 module.exports = {
+  flags: {
+    FAST_DEV: true,
+    QUERY_ON_DEMAND: true,
+    PRESERVE_WEBPACK_CACHE: true,
+    PRESERVE_FILE_DOWNLOAD_CACHE: true,
+    FAST_REFRESH: true,
+  },
   siteMetadata: {
     title: `Active Escapes`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
