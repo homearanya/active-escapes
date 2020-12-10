@@ -1,7 +1,12 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
+import useResizeObserver from 'use-resize-observer/polyfilled'
 
 const RecentPosts = () => {
+  const ref = useRef<HTMLDivElement>(null)
+  const { height } = useResizeObserver({
+    ref,
+  })
   const {
     posts: { edges },
   } = useStaticQuery(graphql`
@@ -26,7 +31,7 @@ const RecentPosts = () => {
   `)
   const [open, setOpen] = useState(true)
   return (
-    <div className="accordion-group">
+    <div className="recent-posts accordion-group">
       <div className="panel-heading">
         <h4 className="panel-title">
           <a
@@ -39,10 +44,11 @@ const RecentPosts = () => {
       </div>
       <div
         id="collapse2"
-        className={`panel-collapse collapse${open ? ' in' : ''}`}
+        className={`panel-collapse collapse in`}
         role="tabpanel"
+        style={open && height ? { height: `${height + 60}px` } : { height: 0 }}
       >
-        <div className="panel-body">
+        <div ref={ref} className="panel-body">
           <ul className="side-list post-list hovered-list">
             {edges.map(({ node: { id, frontmatter } }) => (
               <li key={id}>

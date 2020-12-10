@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { Link } from 'gatsby'
+import useResizeObserver from 'use-resize-observer/polyfilled'
 
 export interface TagsProps {
   tags?: {
@@ -11,9 +12,13 @@ export interface TagsProps {
 }
 
 const Tags = ({ tags = {} }: TagsProps) => {
+  const ref = useRef<HTMLDivElement>(null)
+  const { height } = useResizeObserver({
+    ref,
+  })
   const [open, setOpen] = useState(true)
   return (
-    <div className="accordion-group">
+    <div className="tags accordion-group">
       <div className="panel-heading">
         <h4 className="panel-title">
           <a
@@ -26,10 +31,11 @@ const Tags = ({ tags = {} }: TagsProps) => {
       </div>
       <div
         id="collapse1"
-        className={`panel-collapse collapse${open ? ' in' : ''}`}
+        className={`panel-collapse collapse in`}
         role="tabpanel"
+        style={open && height ? { height: `${height + 60}px` } : { height: 0 }}
       >
-        <div className="panel-body">
+        <div ref={ref} className="panel-body">
           <ul className="side-list category-side-list hovered-list">
             {Object.keys(tags).map((tag, index) => (
               <li key={index}>

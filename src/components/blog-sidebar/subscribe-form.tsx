@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import axios from 'axios'
+import useResizeObserver from 'use-resize-observer/polyfilled'
 
 const resetFields = () => ({
   first_name: '',
@@ -11,6 +12,10 @@ const resetFields = () => ({
 })
 
 const SubscribeForm = () => {
+  const ref = useRef<HTMLDivElement>(null)
+  const { height } = useResizeObserver({
+    ref,
+  })
   const [open, setOpen] = useState(true)
   const [mailchimpMessage, setMailchimpMessage] = useState('')
   const [formData, setFormData] = useState({
@@ -95,7 +100,7 @@ const SubscribeForm = () => {
   }
 
   return (
-    <div className="accordion-group">
+    <div className="subscribe-form accordion-group">
       <div className="panel-heading">
         <h4 className="panel-title">
           <a
@@ -108,10 +113,11 @@ const SubscribeForm = () => {
       </div>
       <div
         id="collapse5"
-        className={`panel-collapse collapse${open ? ' in' : ''}`}
+        className={`panel-collapse collapse in`}
         role="tabpanel"
+        style={open && height ? { height: `${height + 60}px` } : { height: 0 }}
       >
-        <div className="panel-body">
+        <div ref={ref} className="panel-body">
           <form className="subscribe-form" onSubmit={handleSubmit}>
             {' '}
             {/* honeypot fields */}

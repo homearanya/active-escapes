@@ -1,7 +1,7 @@
 import React from 'react'
 import RecentPosts from './recent-posts'
 import Tags, { TagsProps } from './tags'
-import SubscibeForm from './subscribe-form'
+import SubscribeForm from './subscribe-form'
 
 const BlogSidebar = ({ tags }: TagsProps) => {
   return (
@@ -10,7 +10,7 @@ const BlogSidebar = ({ tags }: TagsProps) => {
         <div className="accordion">
           <RecentPosts />
           <Tags tags={tags} />
-          <SubscibeForm />
+          <SubscribeForm />
         </div>
       </div>
     </aside>
