@@ -228,9 +228,11 @@ blockquote.normal {
 .main-heading {
   letter-spacing: 2px;
   text-transform: uppercase;
+  margin-bottom: 0 !important;
 }
 
 .main-subtitle {
+  margin-top: 10px;
   font-size: 1.371428em;
   line-height: 1.25;
   font-weight: 300;

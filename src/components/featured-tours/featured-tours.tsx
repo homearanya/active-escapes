@@ -21,10 +21,7 @@ const FeaturedTours = ({
   data: { heading, subHeading, grid = '', activityFilter, featuredTours },
 }: FeaturedToursProps) => {
   return (
-    <article
-      className={`content-block article-boxed featured-tours`}
-      style={{ paddingBottom: 0 }}
-    >
+    <article className={`content-block article-boxed featured-tours`}>
       <div className="container">
         <header className="content-heading">
           <h2 className="main-heading">{heading}</h2>

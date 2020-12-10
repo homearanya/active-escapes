@@ -16,3 +16,18 @@
     }
   }
 }
+
+.content-block.featured-destinations {
+  margin-top: -$global-md-space;
+  padding: 0 0 $global-bottom-space;
+
+  @include breakpoint-min($screen-sm) {
+    margin-top: -25px;
+    padding: 0 0 $global-bottom-space;
+  }
+
+  @include breakpoint-min($screen-md) {
+    margin-top: -25px;
+    padding: 0 0 $global-bottom-space;
+  }
+}
