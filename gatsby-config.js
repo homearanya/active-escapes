@@ -9,7 +9,7 @@ module.exports = {
     author: `@carloswebdev`,
     googlePlaceId: process.env.GOOGLE_APIKEY,
     emailAddress: 'tours@active-escapes.co.za',
-    siteUrl: 'http://active-escapes.co.za/',
+    siteUrl: 'http://www.active-escapes.co.za/',
     siteMenu: {
       menuItems: [
         { id: '1', name: 'home', link: '/' },
@@ -217,6 +217,22 @@ module.exports = {
     },
   },
   plugins: [
+    // {
+    //   resolve: 'gatsby-plugin-htaccess',
+    //   options: {
+    //     RewriteBase: true,
+    //     https: true,
+    //     www: true,
+    //     SymLinksIfOwnerMatch: true,
+    //     host: 'www.active-escapes.co.za', // if 'www' is set to 'false', be sure to also remove it here!
+    //     ErrorDocument: `
+    //       ErrorDocument 404 /error_pages/404.html
+    //     `,
+    //     redirect: [
+    //       'RewriteRule ^not-existing-url/?$ /existing-url [R=301,L,NE]'
+    //     ],
+    //   },
+    // },
     `gatsby-plugin-sass`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
