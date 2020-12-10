@@ -17,14 +17,14 @@ intro:
     - With its phenomenal scenery, quite unlike any other area in South Africa, the Wild Coast is a hiker's paradise. Stretching from Port Edward in the north down to Cintsa in the south; the landscape changes from the softer features of KwaZulu-Natal's south coast to that of the rugged, raw beauty synonymous with the Eastern Cape.
     - Historically, this 300km stretch of coast was dubbed 'wild' due to its notoriously rocky headlands that ended the voyage of many a ship. It is these same headlands, banked by brilliant green hills and sliced by deep rivers, that provide the diverse walking landscape hikers so enjoy.
     - Unique sights such as waterfalls that drop into the sea, Nguni cattle that roam the beaches and massive caves accessible only by foot, provide fantastic spectacles along the way.  Mangrove swamps in sheltered estuaries, indigenous forests and traditionally cultivated fields extend the view, thumb-tacked together by the colourful thatched rondavels of the local amaXhosa people.
-    - Slackpacking, where one's luggage is transported or portered from one overnight stop to the next, is an appealing prospect for those not keen on hauling a pack. For those who prefer the more traditional, staying in backpackers, tented camps or even local homestays; Active Escapes can assist with logistics to ensure a well organised, hassle free trip.
+    - Slackpacking, where one's luggage is transported or portered from one overnight stop to the next, is an appealing prospect for those not keen on hauling a pack. For those who prefer the more traditional, staying in backpackers, tented camps or even local homestays; Active Escapes can assist with logistics to ensure a well organised, hassle-free trip.
   inset: null
 featuredToursSection:
   heading: HIKING & SLACKPACKING PRODUCTS
-  subHeading: Chose a hike in the mountains, coast or bush of Southern Africa
-taylorMadeSection:
-  heading: This is the heading
-  subHeading: This is the subHeading
+  subHeading: On the Wilder Side of South Africa Coastline
+taylorMadeSection: 
+  heading: ""
+  subHeading: ""
   options:
     - image: ../../../img/listing/WCH-tailor-made.jpg
       title: Tailor Made Wild Coast Adventures

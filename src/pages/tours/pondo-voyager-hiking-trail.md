@@ -28,17 +28,17 @@ duration: 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 5 Hike Days / 5 Nights – extra 'lay' days can be taken
-      - Extensions down to Port St Johns (8 days) - also possible.
-  - heading: Daily Distance
+      - 5 Hike Days / 5 Nights – extra 'lay' days can be taken.
+      - Extensions down to Port St Johns (8 days) also possible.
+  - heading: Daily Distances
     description:
       - 'Day 1: 14km    Day 2: 12-14km '
       - 'Day 3: 12-15km  Day 4: 16km '
       - 'Day 5: 19km'
   - heading: Trail Grading
     description:
-      - <strong>3/ 5 - Fitness</strong>. Easy gradient but some longer daily distances.
-      - <strong>2/ 5 - Technicality</strong>. Limited scrambling, some rock hopping and potential river crossings.
+      - <strong>3 / 5 - Fitness</strong>. Easy gradient but some longer daily distances.
+      - <strong>2 / 5 - Technicality</strong>. Limited scrambling, some rock-hopping and potential river crossings.
   - heading: Trail Terrain
     description:
       - Coastal Trail - traversing grasslands with deep forest ravines and gorges, rocky headlands, sandy beaches and passing through friendly Pondo villages.
@@ -70,6 +70,8 @@ overview:
     - This is a 5 day / night hiking trail starting at the Wild Coast Casino and finishing at Mbotyi. Led by a passionate local guide, hikers will be treated to warm amaXhosa hospitality at a village homestay in Xolobeni on the first night of the trail. The second night is spent at a community lodge on the gorgeous Mtentu estuary, before entering Mkambati Nature Reserve and walking  through to the Msikaba River, where a night will be spent in an East African style tented camp, nestled amongst the milkwoods. Canoes are available from the camp, and guests can finish the day with a sunset paddle up the estuary.
     - The fourth day's hike takes you from Msikaba to Luphuthana, passing the site of the fated Grosvenor shipwreck and the remnants of the pioneering attempts to recover her treasure. Overnighting at another tented camp, hikers can enjoy sundowners whilst watching the natural spray display that is created from waves crashing up against the flat rock shelf at Luphuthana.
     - The final day's hike from Luphuthana to Mbotyi is the longest, but the renowned landmarks of Waterfall Bluff, Cathedral Rock and Mfhilo falls make for exciting exploration! Finishing at Mbotyi, hikers can treat themselves to a final night of luxury offered by Mbotyi River Lodge.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1VhyJWOny0oXHz4t4S1UGzwIV2Aw&usp=sharing
+  
 itinerary:
   itinerary:
     - heading: Day 1
@@ -90,12 +92,12 @@ itinerary:
     - heading: Day 4
       subHeading: 'Hike Day 4: Msikaba - Luphuthana (16km)'
       description:
-        - Todays hike is mostly walking on the plateau above the cliffs. The vestiges of treasure quests at Grosvenor, Goss’s Point & the stunning Mkweni estuary as well as the fantastic spray display at Luphuthana, are highlights.
+        - Todays hike is mostly walking on the plateau above the cliffs. The vestiges of treasure quests at Grosvenor, Goss’s Point and the stunning Mkweni estuary as well as the fantastic spray display at Luphuthana, are highlights.
         - 'Overnight: <strong>Luphuthana tented camp  </strong> (self-cater)'
     - heading: Day 5
       subHeading: 'Hike Day 5: Luphuthana – Mbotyi River Lodge (18.5km)'
       description:
-        - 'Another long day but without major ascents . Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, the Views from the top of Drew’s Camp looking down towards Mbotyi where you will enjoy the comfort of Mbotyi River Lodge for this final night.'
+        - 'Another long day but without major ascents. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, the Views from the top of Drew’s Camp looking down towards Mbotyi where you will enjoy the comfort of Mbotyi River Lodge for this final night.'
         - 'Overnight: <strong>Mbotyi River Lodge</strong> (self-cater breakfast & lunch. Dinner at Mbotyi)'
     - heading: Day 6
       subHeading: 'Departure Day'
@@ -123,7 +125,7 @@ faq:
   faq:
     - question: Can this hike be shortened or lengthened?
       answer:
-        - It is possible to spend an extra day-night at any of the overnight locations. We can highly recommend a second night at Mtentu lodge, where catering is provided. The paddle-hike to Swallowtail falls is an unforgettable experience. If you looking for a shorter version of this trail – try the Mtentu Explorer.
+        - It is possible to spend an extra day-night at any of the overnight locations. We can highly recommend a second night at Mtentu lodge, where catering is provided. The paddle-hike to Swallowtail falls is an unforgettable experience. If you looking for a shorter version of this trail – try our Mtentu Explorer.
     - question: Is it possible to organise vehicle luggage transfers on this hike?
       answer:
         - Not without a lot of extra cost. Local porters are a better option, but they also are a little tricky to arrange on this particular hike as the hike crosses over a number of guide-porter territories.

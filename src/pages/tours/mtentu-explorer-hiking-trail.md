@@ -64,14 +64,14 @@ overview:
   heading: At a Glance
   description:
     - The hike to Mtentu is two days, overnighting at a village homestay the first night, and then hiking through to Mtentu Lodge for another two nights. The village homestay is basic but provides an excellent and authentic cultural experience.
-    - Mtentu Lodge provides wood-and-thatch accommodation, with all bedding and meals provided. On your free exploration day, you can hike into neighbouring Mkambathi  Reserve where you can go swimming up to waterfalls and see roaming game.  You can also take a canoe up the gorgeous Mtentu estuary, do the epic Swallow Falls kloofing hike, or just enjoy this stunning private beach.
-
+    - Mtentu Lodge provides wood-and-thatch accommodation, with all bedding and meals provided. On your free exploration day, you can hike into neighbouring Mkambathi  Reserve where you can go swimming up to waterfalls and see roaming game.  You can also take a canoe up the gorgeous Mtentu estuary, do the epic Swallowtail Falls kloofing hike, or just enjoy this stunning private beach.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1gy7B6GN2iXEMWDvYsuTHdkcT_nPdMCwU&usp=sharing
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: 'Arrival & Hike Day 1: Wild Coast Casino – Nyameni (14km)'
       description:
-        - Leave your vehicle in secure parking at the Wild Coast casino and meet your guide. Today’s hike is mostly along the beach passing remnants of a petrified forest, through to the stunning Nyameni river and then on to the Xolobeni village for a night in a local homestay.'
+        - Leave your vehicle in secure parking at the Wild Coast casino and meet your guide. Today’s hike is mostly along the beach,passing remnants of a petrified forest, through to the stunning Nyameni river and then on to the Xolobeni village for a night in a local homestay.
         - 'Overnight: <strong>Nyameni Village Homestay</strong> (dinner)'
     - heading: Day 2
       subHeading: 'Hike Day 2: Nyameni to Mtentu (12-14km)'
@@ -82,7 +82,7 @@ itinerary:
       subHeading: 'Hike Day 3: Mtentu – free day or self-exploration'
       description:
         - Hike into neighbouring Mkambati Nature Reserve –where you can do a 10km return hike to Mkambati & Strandloper waterfalls.
-        - For the fit and adventurous – take a paddle up the stunning Mtentu estuary and do the Swallowtail Falls rock-hop (approx. 10km return), or just enjoy a general relaxation day - swimming, snorkelling, beach chill.
+        - For the fit and adventurous – take a paddle up the stunning Mtentu estuary and do the Swallowtail Falls rock-hop (approx. 10km return), or just enjoy a general relaxation day - swimming, snorkelling or beach chill.
         - 'Overnight: <strong>Mtentu River Lodge </strong> (breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Return Transfer Day'
@@ -98,7 +98,7 @@ lodging:
   heading: Lodges
   description:
     - '1 Night at a <strong>Village Homestay</strong> - traditional mud & thatch rondavels, mattress on floor with bedding & bucket bath.'
-    - '2 Nights at <strong>Mtentu River Lodge</strong> - 4-sleeper Log Cabins (twin front room, bunk bed back room), communal ablutions (hot water showers), central dining area and bar.'
+    - '2 Nights at <strong>Mtentu River Lodge</strong> - 4-sleeper Log Cabins (twin front room, bunk-bed back room), communal ablutions (hot water showers), central dining area and bar.'
 
   images:
     - src: ../../img/gallery/mtentuaccom_chalet.jpg

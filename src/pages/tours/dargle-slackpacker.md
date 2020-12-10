@@ -72,6 +72,7 @@ overview:
     - The upper Dargle/Impendle area, although part of the Midlands, is also considered the start of the mighty Drakensberg escarpment, and this hike combines some more rugged berg hiking with the luxury of Midland's comforts.
     - Given the variety of ecological niches, the Dargle valley is home to over 200 bird species including the rare Cape Parrot and White-winged Starling. Due to the protection status of this area, it is not uncommon to find highly specialised animals like the elusive Samango monkeys playing in the Cape Chestnut trees, or some of the successfully re-introduced rock dassies sunbathing in the forest fringe. Blue duiker, oribi and mountain reedbuck are also frequent visitors.
     - Some steep ascents and off-camber grassy trails, make this hike challenging at times. As with the Karkloof Falls2Falls, 10% of profit will go towards local conservation projects.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1luQJGXq6vP8CAvCjeIpmZSZFYLgvsUVM&usp=sharing
 
 itinerary:
   itinerary:

@@ -60,6 +60,8 @@ overview:
   description:
     - Daily distances and pace are quite manageable, making this an excellent trail for families and persons looking to test-out the trail waters.
     - You will overnight in charming country houses, just outside of Clarens. With meals, transfers and luggage transfers all arranged for, all you need to do is wake up and enjoy the golden-lit sandstone trails, so unique to this part of the world.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1B-eNt-tZaiRzQ3exL-90rSSr8_9kwIY5&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -122,7 +124,7 @@ gallery:
     - src: ../../img/gallery/clarens_cosmos.jpg
       caption: The Free State in Spring – a cosmos wonderland.
     - src: ../../img/gallery/clarens_batcave.jpg
-      caption: Bat Cave – aptly named.
+      caption: Bat Cave – aptly named
     - src: ../../img/gallery/clarens_medicinal.jpg
       caption: Learning about the medicinal and hallucinogenic properties of some of interesting plant species along the way.
     - src: ../../img/gallery/clarens_imphepho.jpg
@@ -146,7 +148,7 @@ gallery:
     - src: ../../img/gallery/clarens_forest.jpg
       caption: There are some cool forest sections too – with ancient Ou hout trees.
     - src: ../../img/gallery/clarens_errol.jpg
-      caption: Up and over.
+      caption: Up and over
     - src: ../../img/gallery/clarens_birdspot.jpg
       caption: The first Bird of Prey sighting on the days trail.
 price:

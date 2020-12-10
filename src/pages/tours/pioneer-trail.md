@@ -66,6 +66,8 @@ overview:
     - This three night trail traverses the 11 000 hectare, Big Five Gondwana Game Reserve, a mere 25 min drive from Mossel Bay.
     - Under the escort of two armed and professional wilderness guides, you will hike approximately 10 km/a day (+/- 6hrs of walking) on exclusive, remote access game trails; whilst your luggage is transferred to the next luxury tented camp.
     - Trailist’s can expect gourmet bush meals, top notch guiding and artistic, uniquely-appointed tented camps. An active wilderness experience with a big lick of luxury....
+  mapUrl: https://www.google.com/maps/d/edit?mid=18MCmiZCo1HuTk-Scy_peWzVwU3s3EbVH&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -137,7 +139,7 @@ gallery:
     - src: ../../img/gallery/pioneer_elephants.jpg
       caption: Elephant encounter in Gondwana Game Reserve, on the Pioneer Slackpacking trail.
     - src: ../../img/gallery/pioneer_fire.jpg
-      caption: Fireside Stories.
+      caption: Fireside Stories
     - src: ../../img/gallery/pioneer_koppie.jpg
       caption: A koppie provides a natural viewing point on the Pioneer Wilderness hiking trail.
     - src: ../../img/gallery/P_C3_tent.jpg
@@ -147,14 +149,14 @@ gallery:
     - src: ../../img/gallery/pioneer_butterfly.jpg
       caption: On a guided walking trail, it’s just as much about the smaller things.
     - src: ../../img/gallery/pioneer_lion.jpg
-      caption: A male lion looks on.
+      caption: A male lion looks on
     - src: ../../img/gallery/pioneer_eastafrican_diningtable.jpg
       caption: Fine dining on this luxury wilderness trail, Western Cape.
     - src: ../../img/gallery/P_camp2_bed&bath.jpg
       caption: Free standing iron bath at the second nights camp.
 
 price:
-  heading: R15 000 per night Exclusive Use of the Trail for up to 8 people OR  R15 500/per person/sharing to join a trail group.
+  heading: <strong>R15 000 per night Exclusive Use</strong> of the Trail for up to 8 people OR <strong>R15 500/per person/sharing</strong> to join a trail group.
   overview: null
   table: null
 

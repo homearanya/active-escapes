@@ -64,6 +64,8 @@ overview:
     - High mountains, sandstone cliffs and rolling plains provide a scenic backdrop to this Northern Drakensberg multi-day horse trail. Guests wishing to include a cultural element to their ride, can ride through the local village, visiting a Sangoma, and getting a feel for contemporary rural Zulu life.
     - The sure-footed horses have been bred in the area so whilst the terrain may seem technical, you are on experienced footing. 
     - Each night you will sleep in a comfy mountain lodge, so you get to play cowboy by day... but sleep in a proper bed by night.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1GrIuuvCYQfA3ZG_gU46vldhVGGU&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -155,5 +157,5 @@ destinationTour:
   order: 8
   image: ../../img/listing/activity-northernhorse.jpg
   title: Overnight Horse Trail - Northern Berg
-  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure- footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support provided.'
+  description: 'This multi-day horse trail through the foothills of the Northern Berg, will see you forging mountain streams and galloping wide open plains; as our sure-footed boerperds lead the way. Overnighting in snug lodges with catering and luggage support provided.'
 ---

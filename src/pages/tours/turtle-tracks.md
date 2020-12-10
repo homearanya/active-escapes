@@ -29,7 +29,7 @@ details:
   - heading: Trip Duration
     description:
       - 4 Nights / 3 Hike Days
-      - 5 Nights/ 4 Hike Days.
+      - 5 Nights/ 4 Hike Days
       - Extra hike or lay days avail
   - heading: Daily Distances
     description:
@@ -65,6 +65,8 @@ overview:
     - Starting out close to the Mozambican border, the route meanders along the top of the iSimangaliso Wetland Park, a UNESCO World Heritage Site comprising 3280km2 of natural ecosystems. After snorkelling between colourful sealife in the crystalline aquarium of Kosi Mouth, hikers leave Kosi Bay to walk through coastal savannah with a view of the giant fish traps curling far below like an ancient tribal tattoo. The hills are a mixture of water berry trees, monkey apples with their bright green cricket ball sized fruits, and giant flat crown acacias.
     - After a boat trip across Third Lake, hikers are dropped at Bhanga Nek and from here it’s an adventurous walk along sandy pathways, dropping in and out of rural villages, pockets of indigenous bushveld, and small cultivated gardens before the landscape changes once again. The giant Raffia Palms that the area is famous for tower overhead, and views of the tannin coloured Fourth Lake (Amanzamnyama) are visible from the dense forest.
     - Day two and three of walking moves guests from the mysterious inland pathways of the lake systems to the beautiful wide open beaches further south. Beaches such as Black Rock and Lala Nek are picture-book wedges of white sand, edged by snorkeling paradise.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1iEHIeL7S5qxia_9nvPla-6u6wem7i1Ab&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1 - 4N Opt A - Luxury Turtle Trail
@@ -165,7 +167,7 @@ gallery:
       caption: Sea view room at Thonga Beach Lodge
 
 price:
-  heading: Opt A - 4 Nights Luxury (Utshwayelo - Kosi Forest Lodge - Gugulisizwe - Thonga Beach Lodge)
+  heading: <strong>Opt A</strong> - 4 Nights <strong><em>Luxury</strong></em> (Utshwayelo - Kosi Forest Lodge - Gugulisizwe - Thonga Beach Lodge)
   overview:
   table:
     - pax: 2 Persons
@@ -179,7 +181,7 @@ price:
     - pax: 9-10 Persons
       price: R12 000/pp
 
-  heading2: Opt B - 4 Nights Eco
+  heading2: <strong>Opt B</strong> - 4 Nights <strong><em>Eco</strong></em>
     - Utshwayelo - Kosi Bay Lodge - Gugulisizwe x 2 Nights
   overview2:
   table2:
@@ -216,7 +218,7 @@ popularTour:
 destinationTour:
   order: 1
   image: ../../img/listing/kosi-turtletrails.jpg
-  title: The Turtle Trails – from Kosi to Mabibi
-  description: Combining the best of the Kosi Lakes with Maputaland’s finest beaches, we offer four 'Turtle Trail' hiking packages. All of them start at the lodge closest to Kosi Mouth, crossing third lake by boat, and finish up near Mabibi. It is the trail to consider if world-class snorkelling and beach time comes top of your priority list. To end off with the ultimate in barefoot luxury, look no further than a final night spent at Thonga Beach Lodge.
+  title: Turtle Trails – Kosi to Mabibi
+  description: Combining the best of the Kosi Lakes with Maputaland’s finest beaches, we offer four 'Turtle Trail' hikes. All of them start at the lodge closest to Kosi Mouth, crossing third lake by boat, and finish near Mabibi. It is the trail to consider if world-class snorkelling and beach time comes top of your priority list. To end with the ultimate in barefoot luxury, look no further than a final night at Thonga Beach Lodge.
   emailLink: mailto:tours@active-escapes.co.za?subject=Turtle Trails – Kosi Destination Listing
 ---

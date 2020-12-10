@@ -72,6 +72,7 @@ overview:
     - The trail is led by local community guides who are happy to share their knowledge and heritage, so you leave not only 'refreshed' but enriched.
     - An inclusive boat excursion will take you through the reed channels, with an opportunity to snorkel and visit the Tonga fish traps. These palisade fish kraals consist of a guide fence that curves in towards a fish trap allowing the fish easy entry but no escape. Fish moving through the channel are guided into the traps where they are then caught and speared by the trap owner. Ownership of these kraals is handed down through the generations.
     - Other activities such as snorkelling and birding are very much part of the hike experience, whilst additional activities like turtle tours (in-season) or specialised fishing trips can be organised on request.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1PsWWqghm8LRaytzbVgJsZi--1V8&usp=sharing
 
 itinerary:
   itinerary:
@@ -149,9 +150,9 @@ gallery:
     - src: ../../img/gallery/KB_groups.jpg
       caption: Learning about some of the medicinal properties of the trees on the Kosi Bay Lakes hike.
     - src: ../../img/gallery/KB_coastline.jpg
-      caption: Maputaland’s sub-tropical coastline.
+      caption: Maputaland’s sub-tropical coastline
     - src: ../../img/gallery/KB_fernsingle.jpg
-      caption: Paths through ancient fern forests.
+      caption: Paths through ancient fern forests
     - src: ../../img/gallery/KB_dunewalk.jpg
       caption: Coming down off the Zilonde dune – sky and ocean blue in the horizon.
     - src: ../../img/gallery/KB_boat.jpg

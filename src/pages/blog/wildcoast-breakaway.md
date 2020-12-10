@@ -21,33 +21,54 @@ homePageListingImage:
   image: ../../img/blog/WC_lockdown.jpeg
 gallery:
   pictures:
-    - src: ../../img/gallery/pondohopper-drewscamp.jpg
-      caption: The view from ‘Drews Camp’ down to Shelly beach is a sight to behold.
-    - src: ../../img/gallery/pondohopper-luphut.jpg
-      caption: The tented camps comprise of safari style tents on wooden platforms, with thatch roofs, to keep cool. All have their own ensuite.
-    - src: ../../img/gallery/pondohopper-estuary.jpg
-      caption: There are many stunning estuaries along this stretch of coastline. There are canoes at Msikaba, Manteku and Ntafufu estuaries for the intrepid to explore.
-    - src: ../../img/gallery/pondohopper-cathedralselfie.jpg
-      caption: Cathedral peak  - a free standing rock stack – is one of the geological wonders along the route.
-    - src: ../../img/gallery/pondoexplore-cathedralrock.jpg
-      caption: The iconic Cathedral Rock – a freestanding rock stack – Day 2 of the Pondo-Explorer trail.
-    - src: ../../img/gallery/pondoexplore_milkwoods.jpg
-      caption: The milkwood forests make for a perfect lunch stop enroute.
-    - src: ../../img/gallery/pondohopper-breakfast.jpg
-      caption: Breakfast awaits at Ntafufu tented camp.
-    - src: ../../img/gallery/pondohopper_boats.jpg
-      caption: The final ferry crossing over the Mzimvubu river, Port St Johns.
-    - src: ../../img/gallery/pondohopper-aloes.jpg
-      caption: Aloes provide a vibrant splash of colour during winter months.
-    - src: ../../img/gallery/pondohopper-msikaba-canoe.jpg
-      caption: Paddling up the Msikaba estuary – one can paddle about 5km upstream.
-    - src: ../../img/gallery/pondohopper-seaview.jpg
-      caption: Little pockets of indigenous forest between the rolling green hills.
-    - src: ../../img/gallery/pondohopper-bluff.jpg
-      caption: Much of the walking on the first two days of the pondo trail is on the plateau above the cliffs, offering sweeping sea vistas.
+    - src: ../../img/blog/WC_ntafufu.jpeg
+      caption: Sunrise at Ntafufu Tented Camp
+    - src: ../../img/blog/WC_dolphinsurfing.jpeg
+      caption: Greeted by dolphins surfing the waves 
+    - src: ../../img/blog/WC_freshmorning.jpeg
+      caption: The gold and blue hues of winter on the Wild Coast 
+    - src: ../../img/blog/WC_Computer.jpeg
+      caption: Our friendly guide, Computer, leads the way.
+    - src: ../../img/blog/WC_widebeach.jpeg
+      caption: Expansive beach and sugar-loafed hills
+    - src: ../../img/blog/WC_Mzimvubu.jpeg
+      caption: The mighty Mzimvubu River marks Port St Johns
+    - src: ../../img/blog/WC_stillestuary.jpeg
+      caption: An opportunity to take an Ocean Safari in perfect conditions
+    - src: ../../img/blog/WC_dolphinbreach.jpeg
+      caption: Seeing schools of dolphin play in our bow-waves
+    - src: ../../img/blog/WC_mackeralbait.jpeg
+      caption: We even made ourselves useful, taking off the live mackeral, to be used as bait-fish  
+    - src: ../../img/blog/WC_dronecatch.jpeg
+      caption: And catching drones...which is harder than it looks
+    - src: ../../img/blog/WC_umngazibeach.jpeg
+      caption: Looking down to Umngazi beach - Day 3 of the hike 
+    - src: ../../img/blog/WC_Mngazana.jpeg
+      caption: Back at the Mngazana estuary by way of foot, and crossing the estaury with a ferry-man
+    - src: ../../img/blog/WC_rockwave.jpeg
+      caption: A little stroll on the beach below our village homestay at Mngazana 
+    - src: ../../img/blog/WC_nuedi.jpeg
+      caption: A beautiful nudibranch spotted in one of the rock pools    
+    - src: ../../img/blog/WC_vba.jpeg
+      caption: Bidding farewell to our friendly village homestay 
+    - src: ../../img/blog/WC_beach.jpeg
+      caption: The final days hike had some so many picture-perfect bays 
+    - src: ../../img/blog/WC_hillock.jpeg
+      caption: And another....
+    - src: ../../img/blog/WC_covidgreet.jpeg
+      caption: Covid-code greeting 
+    - src: ../../img/blog/WC_boulderbay.jpeg
+      caption: The southern most point of our explorations, before we had to turn on our heels.
+    - src: ../../img/blog/WC_ meditation.jpeg
+      caption: But one final time of quiet reflection. It really doesn't get much better than this.                 
 tags:
   - wild coast
   - hiking
+  - tented camps
+  - pondoland
+  - ocean safari
+  - backpacking
+  - lockdown breakout
 ---
 
 When Sarah Drew, owner of Active-Escapes, asked if I’d like to join her on a 6-day breakaway slack pack down the Wild Coast , I jumped at the opportunity like a hound with a nose for hidden biltong. I have always had a keen scent for hedonistic adventure, and the urgency to break with routine was made more pronounced in the dreary shadow of lockdown restrictions. It had been a while since I had last packed for an extended self-supported hike, and the fears of discomfort become increasingly more salient as you approach the wrong end of 40. These fears, however, were quickly abated with plentiful supplies of fresh undies, sugary delights and a hip flask of illicit alcohol. Treats I would have begrudingly denied myself in my early twenties.

@@ -38,7 +38,7 @@ details:
   - heading: Trail Grading
     description:
       - <strong>3/ 5 - Fitness</strong>. Tours are flexible and can be adapted to suit riders of all ages and fitness. On the 3 Day MTB Meander (distances above) a moderate level of MTB experience is recommended.
-      - <strong>3/ 5 - Technicality</strong>. A moderate level of technical competency (or willingness to try) is advised to make the most of this tour. However if you not technically inclined, more farm and jeep-track route options can also be organised.
+      - <strong>3/ 5 - Technicality</strong>. A moderate level of technical competency (or willingness to try) is advised to make the most of this tour. However, if you not technically inclined, more farm and jeep-track route options can also be organised.
 
   - heading: Trail Terrain
     description:
@@ -66,6 +66,7 @@ overview:
     - The 3-4 day <strong>Midlands MTB Meander</strong> tour is a great introduction to the diverse mountain biking terrain on offer in the KwaZulu-Natal Midlands. Beginning in the foothills of the Drakensberg (Lotheni) and making tracks to the small town of Howick, riders get to experience a diverse mix of landscapes from mist-belt grasslands to wetlands, montane forests and farmlands.
     - Enjoyable at all times of the year, but best during Winter and Autumn months, this tour combines handcrafted trails with pastoral scenery, warm hospitality, and some of the finest cuisine that the Midlands has to offer.
     - Midland's multiday tours are flexible and can be adapted to different levels of experience, fitness and interest. This tour can also be tailored to groups training for multi-stage events such as Sani2C or Joberg2C, with longer daily distances, ascents and more technical route options.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1ZDql_94qHSEGdL-wTOC9rCLw5uQ&usp=sharing
 
 itinerary:
   itinerary:

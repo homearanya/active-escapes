@@ -67,6 +67,8 @@ overview:
     - The birdlife is plentiful. A stop at the Karkloof Conservancy’s bird hide makes for a peaceful coffee break and an opportunity to tick off all three of South Africa’s cranes including the very rare Wattled Crane.
     - Other mammals like reedbuck, porcupine, giraffe, zebra and the endangered samango monkey, all share their hide-outs in the beautiful Karkloof valley.
     - 10% of proceeds from this hike go towards local conservation projects.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1JciXjVXKAWy8e93P1oDgDmE9bBqtFz2x&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1

@@ -36,8 +36,8 @@ details:
       - 'Day 5: 14km   Day 6: 16km'
   - heading: Trail Grading
     description:
-      - <strong>2/ 5 - Fitness</strong>. The easy trail gradient and long beach sections make this a good trail for people of moderate fitness or older/younger hikers.
-      - <strong>1/ 5 - Technicality</strong>. Some small boulder hopping on rocky beach sections but no scrambling or sheer sections.
+      - <strong>2 / 5 - Fitness</strong>. The easy trail gradient and long beach sections make this a good trail for people of moderate fitness or older/younger hikers.
+      - <strong>1 / 5 - Technicality</strong>. Some small boulder hopping on rocky beach sections but no scrambling or sheer sections.
   - heading: Trail Terrain
     description:
       - Coastal Trail –  mostly flattish terrain with some small hills, long stretches of pristine beaches, secluded bays, and beautiful estuaries
@@ -66,6 +66,7 @@ overview:
     - This hike is more accessible to younger and older hikers as the terrain flattens out (fewer hills) with paths running close to the beach, or along wide flat beaches.
     - Accommodation is in the characterful old world hotels with 3-course dinners (often fresh line fish and seafood if you time it right), a cooked breakfast to start your day, and a packed lunch to munch-on out on the trail. Porters can be arranged north of the Kei to take your backpack from hotel to hotel, whilst vehicle luggage transfers are possible south of Morgan’s Bay. You can therefore hike burden-free, though you need pack little more than your clothes and trail shoes on this slackpacker.
     - The hiking distances between the hotels, allow ample time to soak in the atmosphere, take a swim and a leisurely lunch along way - arriving at the next hotel by mid-afternoon. Hikers have the option of flying in / out of East London, or driving their car to the start / finish of the trail, and we'll arrange a shuttle to the other end.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1rFGNGTLMpBfVAR6cXMrxxy6P9R0&usp=sharing 
 itinerary:
   itinerary:
     - heading: Day 1 - Meander Trail
@@ -86,15 +87,15 @@ itinerary:
       description:
         - The hike from Cebe to Wavecrest is almost all along the beach, passing the beautiful Bowkers Bay and around Sandy's point.
         - Behind the dunes lies some very interesting artefacts - likely meteoritic in origin.
-        - Arriving at Wavecrest by midday or early afternoon, allows one to exlore this beautiful estuary. Canoes are available from the hotel or - tide-permitting - enjoy a boozy sunset cruise up the estuary.
-        - 'Overnight: <strong>Wavecrest Hotel</strong> (Breakfast, packed lunch & Dinner)'
+        - Arriving at Wavecrest by midday or early afternoon, allows one to explore this beautiful estuary. Canoes are available from the hotel or - tide-permitting - enjoy a boozy sunset cruise up the estuary.
+        - 'Overnight: <strong>Wavecrest Hotel</strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Hike Wavecrest to Seagulls / Trennerys (13.5km) '
       description:
         - From Wavecrest to the Kobonqaba River, you will pass through a lovely section of indigenous forest.
         - After the Kobonqaba River crossing, the trail is easy going. Look out for the last remains of the Jacaranda Shipwreck – a Greek Freighter that was wrecked in 1971 on a voyage from East London to Durban.
         - After crossing the Qolora river it is about another 800m along the beach to Seagulls hotel, or Trennerys, located on the estuary.
-        - 'Overnight: <strong>Seagulls / Trennerys Hotel</strong> (Breakfast, packed lunch & Dinner)'
+        - 'Overnight: <strong>Seagulls / Trennerys Hotel</strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Trennerys - Morgan Bay (14km) '
       description:
@@ -110,7 +111,7 @@ itinerary:
   images:
     - src: ../../img/gallery/HH_estuarycruise.jpg
       heading: Nxaxo River Cruise - Wavecrest
-      subHeading: 'Tide-permitting, a sunset cruise us the Nxaxo estuary, offers the perfect tonic to the end of good days hike.'
+      subHeading: 'Tide-permitting, a sunset cruise us the Nxaxo estuary, offers the perfect tonic to the end of a good days hike.'
 
 lodging:
   heading: 'Lodges'
@@ -136,17 +137,17 @@ faq:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be more stable months with less rainfall. If possible, it is best to try avoid the busy school holiday periods. Peak period rates will apply during Dec/ Jan holidays. Winter months offer a wonderful and stable climate for hiking and the annual sardine run brings with it game fish, schools of dolphin, and pelagic birds - a great time to hike along this coastline.
     - question: How do the group transfers work?
       answer:
-        - We include and cost for a group transfer/shuttle from either the end point of the hike to the start (usually done at the beginning so you hike back to your vehicle) OR return airport transfers (to/from East London airport). Groups need to co-ordinate their flight arrival times. On larger groups, it is possible to do multiple transfers but you will pay for the additional transfers required. It is also possible to collect some of the group from the airport and the rest from the hike end-point, but  additional 'detour' charges will apply.
+        - We include and cost for a group transfer/shuttle from either the end point of the hike to the start (usually done at the beginning so you hike back to your vehicle) OR return airport transfers (to/from East London airport). Groups need to co-ordinate their flight arrival times. On larger groups, it is possible to do multiple transfers but you will pay for the additional transfers as required. It is also possible to collect some of the group from the airport and the rest from the hike end-point, but  additional 'detour' charges will apply.
 gallery:
   pictures:
     - src: ../../img/gallery/HH_Wcrest_deck.jpg
       caption: Kicking back on the Wavecrest deck, after hiking in from Mazeppa.
     - src: ../../img/gallery/HH_WC.jpg
-      caption: Wavecrest hotel chalets at first light.
+      caption: Wavecrest hotel chalets at first light
     - src: ../../img/gallery/HH-wavecrash.jpg
       caption: Spectacular wave explosion on the Southern Wild Coast near Haga Haga
     - src: ../../img/gallery/HH-headlands.jpg
-      caption: The headlands south of Morgan Bay – Double Mouth and Haga Haga lie beyond.
+      caption: The headlands south of Morgan Bay – Double Mouth and Haga Haga lie beyond
     - src: ../../img/gallery/HH_wcrest deckpool.jpg
       caption: The ebb and flow of the Nxaxo estuary at Wavecrest, Southern Wild Coast.
     - src: ../../img/gallery/HH_pristinebeach.jpg
@@ -158,7 +159,7 @@ gallery:
     - src: ../../img/gallery/HH_ngunicows.jpg
       caption: D’em cows on the beach becomes a normalised sight after a few days on the Lower Wild Coast Hotel-Hopping trail
     - src: ../../img/gallery/HH_Trennerys.jpg
-      caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail.
+      caption: A family cottage at Trennerys Hotel – Night 2 on the Sunshine Hotel-Hopping Trail
     - src: ../../img/gallery/HH_jacuzzi.jpg
       caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
     - src: ../../img/gallery/HH-lunch.jpg
@@ -189,7 +190,7 @@ price:
       price: R5100/pp
 
   includes:
-    - <strong>'5 Night Meander Trail:'</strong>
+    - <strong><em>5 Night Meander Trail:</strong></em>
     - '<strong>5 Nights Accommodation:</strong> Wavecrest, Trennerys, Mitford Lodge, Haga Haga & Crawfords'
     - '<strong>All meals:</strong> from dinner on arrival night to breakfast on departure day (5 Breakfasts, 4 Packed Lunches and 5 Dinners).'
     - '<strong>Hiking Guide</strong> on every hike day'

@@ -63,7 +63,8 @@ overview:
   description:
     - This 2 day hike is a great option to do as a weekend break. It is a good option for families or groups with mixed ability. The hiking trail covers between 15 - 18 km/day of mainly contoured trail with some short steep climbs, and a few fairly steep descents.
     - You will overnight in tasteful and uniquely positioned cottages and log-cabins, with top notch catering, excellent guiding, and limited cell phone comm’s – needed for a proper breakaway.
-
+  mapUrl: https://www.google.com/maps/d/edit?mid=1mb_L7UMN3foY1R4U3VcPh7A7YgX8QVHj&usp=sharing
+  
 itinerary:
   itinerary:
     - heading: Day 1

@@ -19,7 +19,7 @@ slug: psj-coffee-bay-backpacker-hike
 featuredImage: ../../img/generic/PP-psj-cbay.jpg
 
 longDescription:
-  - The 60km stretch of Wild Coast from Port St Johns to Coffee Bay is well suited to the fitter traveller looking for an authentic Wild Coast Experience. On this 5 day guided hiking trail you can chose between friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
+  - The 60km stretch of Wild Coast from Port St Johns to Coffee Bay is well suited to the fitter hiker looking for an authentic Wild Coast Experience. On this 5 day guided walking trail you can chose between friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
   - From the lush coastal forests of Silaka to the rolling hills of Mpande, the PSJ to Coffee Bay hiking trail traverses grassland, rocky shores, mangrove-clad estuaries, sandy bays, nature reserves and passes through many colourful rural villages.
 
 fromPricing: R4000
@@ -28,8 +28,8 @@ duration: 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 5 Hike Days / 6 Nights.
-      - Extra day extension to Hole-in-the-Wall
+      - 5 Hike Days / 6 Nights
+      - Extension day to Hole-in-the-Wall
   - heading: Daily Distances
     description:
       - 'Day 1: 18km  Day 2: 14km '
@@ -37,8 +37,8 @@ details:
       - 'Day 5: 10km'
   - heading: Trail Grading
     description:
-      - <strong>4/ 5 - Fitness</strong>. This is the most 'undulating' stretch of Wild Coast with a number of steep ascents and descents and long beach sections
-      - <strong>3/ 5 - Technicality</strong>. Hiking paths sometimes contour along steep-sided hill slopes where persons who suffer from vertigo may feel exposed.
+      - <strong>4 / 5 - Fitness</strong>. This is the most 'undulating' stretch of Wild Coast with a number of steep ascents and descents and long beach stretches.
+      - <strong>3 / 5 - Technicality</strong>. Hiking paths sometimes contour along steep-sided hill slopes where persons who suffer from vertigo may feel exposed.
   - heading: Trail Terrain
     description:
       - Coastal Trail – on one of SA's most dramatic and beautiful coastlines. Sandy and rocky beaches, lagoons, jutting cliffs, rock formations in the sea, mangrove swamps, rock pools and interesting intertidal life, good birdlife and fishing.
@@ -46,16 +46,16 @@ details:
     description:
       - 1-2 nights in <strong>Village homestays</strong>
       - Friendly <strong>Backpackers</strong>
-      - Private <strong>Holiday Cottages</strong> (larger grps)
+      - Private <strong>Holiday Cottages</strong> (for larger grps)
       - 'Optional upgrade: to more upmarket B&Bs or hotels in Port St Johns, Mdumbi and Coffee Bay.'
   - heading: Logistic Support
     description:
       - Hiking Guide for all days
-      - 'Partially catered trail: Village homestays provide simple dinner and breakfast inclusive in rate. Dinner inclusive at backpackers & other meals for own account'
+      - 'Partially catered trail: village homestays provide simple dinner and breakfast inclusive in rate. Dinner inclusive at backpackers & other meals for own account'
       - '* Optional: Porter-support'
   - heading: Group Size
     description:
-      - From 2 persons - max 14 pax / per guide.
+      - From <strong>2</strong> persons - max <strong>14</strong> pax / per guide.
   - heading: Pricing
     description:
       - 'On a group of 6 persons:<strong> R4000/pp</strong>'
@@ -66,14 +66,14 @@ overview:
   description:
     - You'll pass some impressive natural phenomena along this undulating stretch of Wild Coastline. From the fascinating table mountain sandstone cliffs of Port St Johns, to the arched bays of Mpande and Mdumbi (voted in the top three of South Africa's most beautiful beaches and a surfing hotspot); the impressive dolerite intrusion at Brazen Head and the fabled landmark, Hole in the Wall, where the roar of ocean through this hollowed cliff gives rise to its Xhosa name 'esiKhaleni' - place of sound.
     - On this 5 day guided hiking trail you can chose between overnighting at friendly village homestays, chilled-out backpackers, private holiday cottages, or a mixture of all.
-    - The village homestays provide dinner and breakfast as part of their inclusive rate. We include dinner in the backpacker option, and they are also well equipped for self-catering.  We provide a shuttle back to your vehicles left in Port St Johns, or to and from Mtata
-
+    - The village homestays provide dinner and breakfast as part of their inclusive rate. We include dinner in the backpacker option, and they are also well equipped for self-catering.  We provide a shuttle back to your vehicles left in Port St Johns, or to and from Mtata.
+  mapUrl: https://www.google.com/maps/d/edit?mid=15N4T-ChJMZHLK1nc6dUBy2Dm9F8&usp=sharing
 itinerary:
   itinerary:
     - heading: Day 1
       subHeading: Arrival Day
       description:
-        - 'Arrive in Port St Johns. OR self-drive / public transport to Mtata – arrive by 14h00. Backpacker Shuttle (departs 14h30) from Mtata down to PSJ.'
+        - 'Arrive in Port St Johns OR self-drive / public transport to Mtata – arrive by 14h00. Backpacker Shuttle (departs 14h30) from Mtata down to PSJ.'
         - 'Overnight: <strong>Amapondo Backpackers</strong> – PSJ, 2nd Beach (dinner-own account)'
     - heading: Day 2
       subHeading: 'Hike Day 1: Hike from 2nd Beach PSJ – Mngazana Estuary (18km/6-7hrs walk)'
@@ -83,17 +83,18 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: Hike from Mngazana – Mpande (14km/ 4-5hrs walk) '
       description:
-        - Todays hike follows the inland paths through hills and villages, and in and out forested valleys. The coastline itself is all rocks and headlands, so there will be no beach stretches today, until you descend to Sinangwana, where the river spills from the forest straight onto the beach.
+        - Todays hike follows the inland paths through hills and villages, and in and out of forested valleys. The coastline itself is all rocks and headlands, so there will be no beach stretches today, until you descend to Sinangwana, where the river spills from the forest straight onto the beach.
         - 'Overnight: <strong>Kraal Backpackers </strong> (dinner incl) OR <strong>VBA</strong> (DBB) or <strong>Self-catering holiday cottage</strong> for groups of 6 or more out-of-season.'
     - heading: Day 4
       subHeading: 'Hike Day 3: Hike Mpande - Hluleka (18km/6-7hrs walk)'
       description:
-        - Today’s hike is one of the more challenging. You’ll ascend from Mpande through pristine forests towards Mthonga mouth - reputed to be one of the most beautiful spots on the Wild Coast. More hills and footpaths take you on a descent to the beach and the Mnenu River which then crosses into Hluleka Nature Reserve  - a combination of diverse eco systems including, rocky seashore, estuaries and evergreen
-        - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Hluleka Nature Reserve</strong> Self-Catering chalets (Self-catering)'
+        - Today’s hike is one of the more challenging. You’ll ascend from Mpande through pristine forests towards Mthonga mouth - reputed to be one of the most beautiful spots on the Wild Coast. More hills and footpaths take you on a descent to the beach and the Mnenu River which then crosses into Hluleka Nature Reserve  - a combination of diverse eco systems including, rocky seashore, estuaries and evergreen forests.
+        - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Hluleka Nature Reserve</strong> self-catering chalets (Self-catering)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Hike Hluleka - Mdumbi (21km/8hrs walk)'
       description:
-        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen & villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4km, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
+        - As the coastline becomes rocks and headlands again, todays paths are made by fishermen and villagers, with some breathtaking views to speak of. The gorgeous Mtakagagie River crossing at just over 4km, provides a great opportunity to soak it all in, and then undulating grasslands and partly vegetated dune paths make up the route to Presley’s Bay and down to Lwandile beach. 
+        - After crossing the Lwandile River, you’ll come across some of the most southern distribution of mangrove trees before following the coastal contour path through to Mdumbi – voted one of South Africa’s top beach and surf hot-spots.
         - 'Overnight: <strong>VBA</strong> (DBB) OR <strong>Mdumbi Backpackers</strong> (dinner)'
     - heading: Day 6
       subHeading: 'Hike Day 5: Hike Mdumbi-Coffee Bay (10km/ 4hrs walk)'
@@ -133,7 +134,7 @@ faq:
         - You will need to have a very good level of fitness and endurance for this hike. The daily distances are long and the terrain hilly, so its best suited to the more experienced or fitter hiker.
     - question: What type of footwear is appropriate?
       answer:
-        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip.
+        - Because the terrain can be steep and get slippery / muddy, some groups have said that a sturdier hiking boot with ankle support comes highly recommended. I personally still prefer a hiking type shoe or trail sneaker, with a solid sole and grip. However, if your backpack is on the heavier side, I would  recommend going with boots for the extra support. 
     - question: What is the best time of year for this trail?
       answer:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a stable climate for hiking and there is also the sardine run. This is one hike we can usually arrange during holidays as there is usually a homestay alternative.
@@ -186,14 +187,14 @@ price:
   overview2: null
   table2: null
   includes:
-    - '<strong>6 Nights Accommodation</strong>(sharing basis): 4 nights backpackers (PSJ, Coffee Bay, Kraal-Mpande, Mdumbi) & 2 nights VBA’s (dinner & breakfast included) or substitute VBA for backpacker nights, & upgrade options as selected from itinerary.'
-    - '- Homestay’s will provide dinner & breakfast in their inclusive rate. Homestays can provide a basic packed lunch for an extra R50 (can pre-request this).'
-    - '- Backpackers provide dinner only in the inclusive rate (breakfasts & packed lunches for own account from backpackers)'
+    - '<strong>6 Nights Accommodation</strong> (sharing basis): 4 nights backpackers (PSJ, Coffee Bay, Kraal-Mpande, Mdumbi) & 2 nights VBA’s (dinner & breakfast included) or substitute VBA for backpacker nights, and upgrade options as selected from itinerary.'
+    - 'Homestay’s will provide dinner and breakfast in their inclusive rate. Homestays can provide a basic packed lunch for an extra R50 (can pre-request this).'
+    - 'Backpackers provide dinner only in the inclusive rate (breakfasts & packed lunches for own account from backpackers)'
     - '<strong>5 Full Hiking Days</strong> accompanied by a local hiking guide'
-    - '<strong>Return Backpacker shuttles</strong>from Coffee Bay back to PSJ (self-drives) OR pick-up from Mtata to PSJ + return from Coffee Bay to PSJ (* Larger groups – can request the additional price of a PRIVATE TRANSFER from Coffee Bay – PSJ direct, which doesn’t work out to much more)'
-    - '<strong>Meals:</strong> Dinner & Breakfast’s inclusive from all village homestay’s. Dinner included on backpacker nights, but breakfasts for own account (continental & cooked ala carte breakfast options)'
+    - '<strong>Return Backpacker shuttles</strong> from Coffee Bay back to PSJ (self-drives) OR pick-up from Mtata to PSJ + return from Coffee Bay to PSJ (* Larger groups – can request the additional price of a PRIVATE TRANSFER from Coffee Bay – PSJ direct)'
+    - '<strong>Meals:</strong> Dinner and breakfasts inclusive from all village homestays. Dinner included on backpacker nights, but breakfasts for own account (continental & cooked ala carte breakfast options)'
   notIncludes:
-    - '<strong>Trail Lunches</strong>(sharing basis)- you will need to supply your own trail lunches or pre-request/book these from the homestays'
+    - '<strong>Trail Lunches</strong> - you will need to supply your own trail lunches or pre-request/book these from the homestays'
     - Personal Insurance
     - Own transport to/from start of hike
 

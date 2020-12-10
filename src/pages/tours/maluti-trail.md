@@ -70,6 +70,7 @@ overview:
   description:
     - This 4 day/ 4 night hiking trail explores the diverse natural and cultural heritage of the Maloti-Drakensberg World Heritage Site. Hiking along the mountainous foothills, you’ll pass through friendly rural villages, take in ancient rock-art sites, and learn about local medicinal plants and culture.
     - Each night you'll be welcomed by your chalet host into a comfortable trail hut where hot showers, fresh linen and a delicious dinner awaits. The hike is guided by a qualified community guide, and luggage transfers from one chalet to the next, can easily be arranged for those who don't wish to carry more than a light daypack.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1rQmpZ9CFEonGY_XE0AKZs5Vk7-o&usp=sharing
 
 itinerary:
   itinerary:

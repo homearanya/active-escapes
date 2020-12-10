@@ -62,6 +62,7 @@ overview:
   description:
     - As you drive down the R43 between the Overberg villages of Stanford and Gansbaai, you have no inkling of the hidden treasures in the hills to your left. This three-day, 26km trail, meanders through pockets of indigenous forest with Tolkeinesque dells of dense lichens, tumbling waterfalls, and you guessed it, exquisite fynbos.
     - "It's a true voyage of discovery, led by expert guides whose enthusiasm is infectious, as they relate the fascinating dynamics between propagator and fynbos. More than 800 different fynbos species have been identified along this route and whatever time of year you walk, there is always something in bloom. From proteas and pins, varied erica’s, delicate orchids, colourful moraea’s, seasonal bulbs, and diverse restio’s; the Grootbos Nature Reserve and Flower Valley is a sight to behold."
+  mapUrl: https://www.google.com/maps/d/edit?mid=1BiAvt5NP4SbElJj17JXo2rT9UHM&usp=sharing 
 
 itinerary:
   itinerary:
@@ -164,6 +165,6 @@ destinationTour:
   order: 1
   image: ../../img/listing/wcape-fynbostrail.jpg
   title: Fynbos Slackpacking Trail
-  description: This unique nature trail, in the heart of the Cape Floral Kingdom, is just 2hr from Cape Town, close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and visit some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown food and wine on this eco-trail.
+  description: This unique nature trail, in the heart of the Cape Floral Kingdom, is just 2hr from Cape Town, close to Hermanus in the Overberg. Two or three night trail options take hikers through coastal and mountain fynbos, remote forests, and some fascinating environmental and social projects along the way. Enjoy knowledgeable guides, the opportunity to plant a tree in your name, and locally grown food and wine on this eco-trail.
   emailLink: mailto:tours@active-escapes.co.za?subject=Fynbos Slackpacker – Western Cape Destination Listing
 ---

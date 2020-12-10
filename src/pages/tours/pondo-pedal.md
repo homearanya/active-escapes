@@ -27,30 +27,30 @@ duration: 3 Days
 details:
   - heading: Trip Duration
     description:
-      - 2-3 Ride Days / 2 Nights.
+      - 2 - 3 Ride Days / 2 Nights
   - heading: Daily Distances
     description:
-      - 'Ride Day 1: Casino – Mtentu Lodge via Beach route: 28 – 35km  '
+      - 'Ride Day 1: Casino – Mtentu Lodge via Beach route: 25 – 28km  '
       - 'Ride Day 2 (opt): Mtentu - Msikaba/Grosvenor return: 35 - 40km'
-      - 'Ride Day 3: Mtentu – WC Casino via Nyameni Waterfall: 38 – 45km'
+      - 'Ride Day 3: Mtentu – WC Casino via Nyameni Waterfall: 38 – 43km'
   - heading: Trail Grading
     description:
-      - <strong>3/ 5 - Fitness</strong>. A moderate level of MTB fitness and good overall fitness is recommended. Whilst the daily distances may not seem high, anticipate a few steep climbs, slower-going sections, and portaging in parts.
-      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to stay on your bike through soft sand and rutted paths.
+      - <strong>3 / 5 - Fitness</strong>. A moderate level of MTB fitness and good overall fitness is recommended. Whilst the daily distances may not seem high, anticipate a few steep climbs, slower-going sections, and portaging in parts.
+      - <strong>3 / 5 - Technicality</strong>. Some technical skills are useful to stay on your bike through soft sand and rutted paths.
 
   - heading: Trail Terrain
     description:
       - 'Coastal Mountain Bike Trail: beach riding (though there is also an option to do two inland routes), cattle and jeep tracks, some 4x4 gravel road sections.  There are some steep, rocky or soft sand sections on which you may have to push or portage your bike, as well as a potential river crossing or two.'
   - heading: Accommodation
     description:
-      - Rustic Wood and Thatch lodge on Mtentu estuary. 4 person chalets with communal showers, toilets and dining boma.
+      - Rustic wood and thatch lodge on Mtentu estuary. 4 person chalets with communal showers, toilets and dining boma.
 
   - heading: Logistic Support
     description:
       - Fully Supported and Guided Mountain Bike Tour
       - Luggage transfer provided
       - All meals from dinner on arrival day to packed lunch on departure day
-      - '* Opt NOT to have luggage support at a reduced fee'
+      - '* Opt NOT to have luggage support or a guide at a reduced fee'
   - heading: Group Size
     description:
       - Preferred min of <strong>4</strong> riders – max 18 riders/group.
@@ -62,16 +62,17 @@ emailSubject: Pondo-Pedal MTB Tour Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - The tour consist of 3 cycle days, or 2 cycle days & a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach.
+    - The tour consist of 3 cycle days, or 2 cycle days and a more ‘free/exploration day’ in-between. At Mtentu, you’ll have the opportunity to paddle and kloof to Swallowtail Falls - up the gorgeous Mtentu estuary, swim under forgotten falls in Mkambati Nature reserve, or just enjoy the pristine beach.
     - You’ll spend two nights at Mtentu lodge before cycling back to the Wild Coast casino via a different route.  Depending on the time and tides, you'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
-    - If you an independent soul & wish to make it a more affordable getaway, there is also an option to self-guide and not have luggage support as the lodge does provide bedding, towels and meals.
+    - If you an independent soul and wish to make it a more affordable getaway, there is also an option to self-guide and not have luggage support as the lodge does provide bedding, towels and meals.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1NPlyV9fWE2BElu43tQO8G_DF7S4&usp=sharing
 
 itinerary:
   itinerary:
     - heading: Day 1
-      subHeading: 'Arrival/ Guided Cycle Day 1: Meet at Wild Coast Casino – Cycle in to Mtentu (38km or 26km routes)'
+      subHeading: 'Arrival / Guided Cycle Day 1: Meet at Wild Coast Casino – Cycle in to Mtentu (38km or 25km routes)'
       description:
-        - Leave vehicles in undercover parking at Wild Coast Casino (just beyond Port Edward) and start from here. Inland Cycle Route - approx 38km to Mtentu Lodge or approx 26km directly on the beach
+        - Leave vehicles in undercover parking at Wild Coast Casino (just beyond Port Edward) and start from here. Inland Cycle Route - approx 38km to Mtentu Lodge or approx 25km directly on the beach
         - 'Overnight: <strong>Mtentu Lodge</strong> - 4-sleeper chalets (provide own packed lunch. Dinner at lodge)'
     - heading: Day 2
       subHeading: 'Hike/Bike/Paddle: Free day at Mtentu Lodge '
@@ -81,7 +82,7 @@ itinerary:
     - heading: Day 3
       subHeading: 'Guided Cycle Day 2: Mtentu back to Wild Coast Casino via alternative route (38 or 26km)'
       description:
-        - If you did more beach riding on the way-in, you can chose a more  inland route on the return - passing villages and waterfalls. (35-45km depending on route taken) - in discussion with guide and wind / tide permitting.
+        - If you did more beach riding on the way-in, you can chose a more  inland route on the return - passing villages and waterfalls. (35-43km depending on route taken) - in discussion with guide and wind / tide permitting.
 
   images:
     - src: ../../img/gallery/pondopedal_red.jpg
@@ -91,7 +92,7 @@ itinerary:
 lodging:
   heading: 'Lodges'
   description:
-    - Rustic-style Wood and Thatch lodge on the stunning Mtentu estuary.  All meals, bedding and bath towels provided, so you literally just need to bring your change of clothes.
+    - <strong>Rustic-style Wood and Thatch lodge</strong> on the stunning Mtentu estuary.  All meals, bedding and bath towels provided, so you literally just need to bring your change of clothes.
     - Each chalet sleeps 4 persons (twin front room, and adult bunk bed in back room).
     - Communal showers & toilets. Central dining area and bar.
   images:
@@ -121,17 +122,17 @@ gallery:
     - src: ../../img/gallery/pondopedal_red-desert.jpg
       caption: The red desert – a place of great cultural significance to the local Pondo villagers and under threat from proposed dune mining.
     - src: ../../img/gallery/pondopedal_sunset.jpg
-      caption: An early start may be optimal based on the tides.
+      caption: An early start may be optimal based on the tides
     - src: ../../img/gallery/pondopedal-estuary.jpg
-      caption: Riders at Mzamba Estuary – Day 1 of the Pondo-pedal.
+      caption: Riders at Mzamba Estuary – Day 1 of the Pondo-pedal
     - src: ../../img/gallery/pondopedal_welcome.jpg
-      caption: A warm welcome – Pondo pedalling.
+      caption: A warm welcome – Pondo pedalling
     - src: ../../img/gallery/pondopedal-Jan.jpg
       caption: Some portaging is inevitable on a Wild Coast ride.
     - src: ../../img/gallery/pondopedal_mtentuestuary.jpg
       caption: The Mtentu Estuary is your playground for your ‘free’ day between cycling.
     - src: ../../img/gallery/pondopedal_shebeen.jpg
-      caption: Nothing like a refreshment stop at a local spaza store.
+      caption: Nothing like a refreshment stop at a local spaza store
 
 price:
   heading: 3 Day / 2 Night Package/ 2 Guided Ride Days
@@ -167,6 +168,6 @@ destinationTour:
   order: 0.1
   image: ../../img/listing/WC-pondopedal.jpg
   title: Pondo-Pedal Weekender
-  description: The Pondo-Pedal mountain bike trip is the perfect trip to cut your teeth on, if you looking for a whetting of wild coast trail riding over a long weekend. Starting at the Wild Coast casino (Port Edward), you'll cycle to Mtentu Lodge. A free day can be spent paddling up the gorgeous Mtentu estuary, or swimming under forgotten falls in Mkambati Nature reserve, before cycling back to the Wild Coast casino via a different route. Depending on the time and tides, we'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
+  description: The Pondo-Pedal MTB is the perfect trip to cut your teeth on, if you looking for a whetting of wild coast trail riding over a long weekend. Starting at the Wild Coast casino, you'll cycle to Mtentu Lodge. A free day can be spent paddling up the gorgeous Mtentu estuary, or swimming under forgotten falls in Mkambati, before cycling back to the casino via a different route. We'll cycle a beach route one way and an inland route the next - stopping at local villages for a cold quart or a plunge in one of the natural pools along the way.
   emailLink: mailto:tours@active-escapes.co.za?subject=Pondo-pedal – Wild Coast Destination Listing
 ---

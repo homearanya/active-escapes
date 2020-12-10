@@ -37,14 +37,14 @@ details:
       - 'Day 5: 13km'
   - heading: Trail Grading
     description:
-      - <strong>3/ 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
-      - <strong>2/ 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
+      - <strong>3 / 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
+      - <strong>2 / 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
   - heading: Trail Terrain
     description:
       - Coastal Trail - traversing grasslands with deep forest ravines and gorges, rocky headlands, sandy beaches and passing through friendly Pondo villages.
   - heading: Accommodation
     description:
-      - Tented Camps - twin bedded safari tents with ensuite ablutions & hot shower. Central kitchen & dining boma - fully equipped for self-catering.
+      - Tented Camps - twin bedded safari tents with ensuite ablutions and hot shower. Central kitchen & dining boma - fully equipped for self-catering.
       - 1 Night DBB at Mbotyi River Lodge
   - heading: Logistic Support
     description:
@@ -56,7 +56,7 @@ details:
       - Min <strong>2</strong> pax and max <strong>24</strong> pax per camp
   - heading: Pricing
     description:
-      - 'On a group of 4 -6 persons: <strong>R4,100/pp</strong> for the 5 Night Explorer'
+      - 'On a group of 4 - 6 persons: <strong>R4,100/pp</strong> for the 5 Night Explorer'
 
 emailSubject: Pondo-Explorer Hike Enquiry – PP Enquire Now
 overview:
@@ -65,6 +65,8 @@ overview:
     - We offer a 3 or 5 night hiking package, both starting from Msikaba and either finishing at Mbotyi (3 Night Trail) or in Port St John’s (the 5 Night trail).
     - Highlights of this trail include the deepest estuary in South Africa (Msikaba), the ocean spray spectacular at Luphuthana, waterfalls which plunge directly into the ocean (including the 80 metre high waterfall at Waterfall Bluff), Cathedral Rock, friendly Pondo villages and sweeping vistas. During the annual sardine run (June-July), the ocean is a-frenzy with game fish, dolphins, sharks and myriad seabirds.
     - On this self-catered trail version, extra day-nights can be had at any of the camps or at Mbotyi. It is also possible to break the first hike day into two days by overnighting at Grosvenor lodge where catering is provided.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -75,7 +77,7 @@ itinerary:
     - heading: Day 2
       subHeading: 'Hike Day 1: Msikaba to Luphuthana Camp (16km)'
       description:
-        - Todays hike is mostly walking on the plateau above the cliffs. The vestiges of treasure quests at Grosvenor, Goss’s Point and the stunning Mkweni estuary as well as the fantastic spray display at Luphuthana are highlights of the day.
+        - Todays hike is mostly walking on the plateau above the cliffs. The vestiges of treasure quests at Grosvenor, Goss’s Point and the stunning Mkweni estuary, as well as the fantastic spray display at Luphuthana are highlights of the day.
         - 'Overnight: <strong>Luphuthana Camp</strong>'
     - heading: Day 3
       subHeading: 'Hike Day 2: Luphuthana – Mbotyi River Lodge (18.5km)'
@@ -108,7 +110,7 @@ lodging:
   heading: 'Lodges'
   description:
     - 1 Night DBB at <strong>Mbotyi River Lodge</strong> – Riverview Chalets.
-    - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower. Central kitchen & dining boma - fully equipped for self-catering.
+    - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions and hot water gas shower. Central kitchen & dining boma - fully equipped for self-catering.
 
   images:
     - src: ../../img/gallery/pondoexplore-Mbotyi.jpg

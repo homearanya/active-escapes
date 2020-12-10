@@ -37,20 +37,20 @@ details:
       - 'Day 5: 18km  Day6/7: 10km'
   - heading: Trail Grading
     description:
-      - <strong>4/5 - Fitness</strong>. Carrying a backpack with food, tent & equipment requires multi-day hike experience & a good level of cardio fitness
-      - <strong>3/5 - Technicality</strong>. Some scrambling, rock-hopping and river crossings
+      - <strong>4 / 5 - Fitness</strong>. Carrying a backpack with food, tent and equipment requires multi-day hike experience, and a good level of cardio fitness
+      - <strong>3 / 5 - Technicality</strong>. Some scrambling, rock-hopping and river crossings
   - heading: Trail Terrain
     description:
       - Coastal Trail – traversing grasslands with deep forest ravines and gorges, rocky headlands, sandy beaches and friendly Pondo villages.
   - heading: Accommodation
     description:
       - <strong>Wild camping</strong> near streams, sheltered clearings in dune forest and pristine locations
-      - Local <strong>village homestays</strong> - where simple meals are provided.
+      - Local <strong>village homestays</strong> - where simple meals are provided
       - Upgraded accom options at certain locations - tented camps & a hotel
   - heading: Logistic Support
     description:
       - 'If wild camping – you will need to be entirely self-sufficient with your own tent, food & cooking equipment.'
-      - 'Dinner & breakfast provided by the village homestays, community lodge & the hotel.'
+      - 'Dinner & breakfast provided by the village homestays, community lodge and the hotel.'
       - '* Exceptions: Porter-support can be arranged'
   - heading: Group Size
     description:
@@ -65,6 +65,8 @@ overview:
   description:
     - The Wild Camper requires that you are experienced backpackers and will come self-sufficient in terms of your own tent, sleeping bag and food provisions. Essentially, we provide the hiking guide to accompany you with his local knowledge for the best overnight locations, sourcing spring water etc, and we take care of the transfers at the end of the hike, to get you back to your starting point (a 3hr transfer from Mbotyi back to Port Edward).
     - If you chose the wild camper option, you can chose to overnight at a homestay on any of the nights, for an extra R350/pp (the cost of the homestay which includes a simple dinner, breakfast & snack).
+  mapUrl: https://www.google.com/maps/d/edit?mid=1eww-gZEmtFXNftAuDCR1g8Tr5P5iF5qR&usp=sharing 
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -134,7 +136,7 @@ faq:
 gallery:
   pictures:
     - src: ../../img/gallery/WC_backpacker.jpg
-      caption: The true backpacking experience.
+      caption: The true backpacking experience
     - src: ../../img/gallery/WC_grasslands.jpg
       caption: Backpacking through the grasslands of the Eastern Cape, Wild Coast.
     - src: ../../img/gallery/WC_cutweni.jpg
@@ -142,17 +144,17 @@ gallery:
     - src: ../../img/gallery/WC_shebeen.jpg
       caption: A refresher at a local shebeen on the Pondo Wild Camper.
     - src: ../../img/gallery/WC_melons.jpg
-      caption: Pumpkins in transit.
+      caption: Pumpkins in transit
     - src: ../../img/gallery/WC_Mlambom.jpg
       caption: The Mlambomkulu river which plunges over the cliffs at Waterfall Bluff, make for a wonderful overnight stop.
     - src: ../../img/gallery/WC_yellowboat.jpg
-      caption: Local kids having fun on one of the rivers.
+      caption: Local kids having fun on one of the rivers
     - src: ../../img/gallery/WC_stickcollecters.jpg
-      caption: Collecting firewood.
+      caption: Collecting firewood
     - src: ../../img/gallery/WC-mtentucrossing.jpg
-      caption: Local ferryman helps hikers cross the Mtentu River.
+      caption: Local ferryman helps hikers cross the Mtentu River
 price:
-  heading: 'Option A: Wild Camping – own tent & food'
+  heading: '<strong>Option A:</strong> Wild Camping – own tent & food'
   overview: null
   table:
     - pax: 6-9 Persons

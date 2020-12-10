@@ -21,32 +21,23 @@ homePageListingImage:
   image: ../../img/blog/healthy-food.jpeg
 gallery:
   pictures:
-    - src: ../../img/gallery/amphi_amphi.jpg
-      caption: One of the most recognisable parts of the Drakensberg – the Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_chains.jpg
-      caption: The chain-ladders consist of two parts, ascending 35m on to the top of the escarpment. Amphitheatre, Northern Drakensberg.
-    - src: ../../img/gallery/amphi_falls.jpg
-      caption: The Tugela Falls, Africa’s highest waterfall, drops 614m over the Drakensberg escarpment.
-    - src: ../../img/gallery/amphi_edge.jpg
-      caption: The view from the ‘roof of South Africa’ – Amphitheatre, Northern Berg.
-    - src: ../../img/gallery/amphi_gully.jpg
-      caption: Up or down the gully is an alternative for those who don’t like the exposure of the chain-ladders. The guide will often take you up the chainladders and back down the gully.
-    - src: ../../img/gallery/amphi_ladders2.jpg
-      caption: There are two ladders, useful for large groups, or to ascend alongside your friend.
-    - src: ../../img/gallery/amphi_mahai.jpg
-      caption: The third day’s route down the Mahai valley is an easy self-guided day.
-    - src: ../../img/gallery/amphi_swimhole.jpg
-      caption: During summer months, a dip in one of the Tugela pools before it plunges over the edge, may be enticing.
-    - src: ../../img/gallery/amphi_top.jpg
-      caption: Top of the Amphitheatre with the Sentinel Massif in the background.
-    - src: ../../img/gallery/amphi_headwater.jpg
-      caption: Headwaters of the Tugela river, as hikers make their way towards Mont-Aux-Sources –  one of the highest points of the Drakensberg range lying within Lesotho, the province of the Free State and KwaZulu-Natal.
-    - src: ../../img/gallery/amphi_footpath.jpg
-      caption: Start of Day 2 – the basalt cap of the Amphitheatre looms large.  You will be heading up and over.
+    - src: ../../img/blog/food_cave.jpeg
+      caption: Sleeping in tents and caves - keep your cooking SIMPLE
+    - src: ../../img/blog/food_snack.jpg
+      caption: A high berg hike is a huge calorific burn, so regular snacks are essential
+    - src: ../../img/blog/food_backpacks.jpeg
+      caption: When you need to be entirely self-sufficient over a few days, light and nutrient-dense is the key. 
+    - src: ../../img/blog/food_fresh.jpg
+      caption: If you chose wisely and pack carefully, you can still treat yourself to a little 'fresh' out on the trail.
+    
 category: 'hiking-food'
 tags:
   - hiking
-  - food
+  - trail food
+  - sustained energy
+  - nutrient-dense
+  - lightweight
+  - recipe ideas
 ---
 
 Whether you heading off on day-hike or planning for a week-long expedition, choosing the right food to bring along, can be your <em>‘make or break’</em>. Foods are your fuel, and on multi-day hikes you wish to choose wisely for both **endurance** and **recovery**.

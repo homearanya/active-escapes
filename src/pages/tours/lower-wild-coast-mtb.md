@@ -20,7 +20,7 @@ featuredImage: ../../img/generic/PP-WCMTB.jpg
 longDescription:
   - Taking place on the Lower Wild Coast, this unique mountain biking destination was placed on the map by the famous Imana Wild Ride.  Our tour follows more or less the same route as the Wild Ride but takes things at a more relaxed tempo.  The full tour begins in Morgan Bay and follows the rugged coastline north, to finish in Coffee Bay (4 Ride Days) or through to Umngazi / Port St. Johns (6 Ride Days).
   - Groups can overnight in the friendly Wild Coast hotels along the way, or chose a mix of accommodation - from nature reserves, hotels, vibey eco-lodges and private cottages – offering a kaleidoscope of wild coast flavours along the way.
-  - The more laid-back pace of our Wild Coast Adventure tour offers plenty of time for swims, chats to the locals and photos along the way, so is aimed at social groups with a good level of mountain biking fitness and adventurous spirits, looking for a cycle tour on the wild side.
+  - The more laid-back pace of our Wild Coast Adventure tour offers plenty of time for swims, chats to the locals and photos along the way, so is aimed at social groups with a good level of mountain biking fitness and adventurous spirits, looking for a cycle tour on the <em>wilder side</em>.
 
 fromPricing: R11200
 difficultyLevel: challenging
@@ -41,8 +41,8 @@ details:
 
   - heading: Trail Grading
     description:
-      - <strong>4/ 5 - Fitness</strong>. Persons with a good level of strength, fitness and an adventurous mindset enjoy this tour most. Endurance counts far more than speed on this type of tour, where a fair amount of time can be spent portaging and getting on and off your bike. Riding on the Wild Coast is about time in (and out of) the saddle.
-      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to be able to stay on your bike through soft sand and rutted paths. However, pushing & portaging sections is always an option and in many instances, a necessity.
+      - <strong>4 / 5 - Fitness</strong>. Persons with a good level of strength, fitness and an adventurous mindset enjoy this tour most. Endurance counts far more than speed on this type of tour, where a fair amount of time can be spent portaging and getting on and off your bike. Riding on the Wild Coast is about time in (and out of) the saddle.
+      - <strong>3/ 5 - Technicality</strong>. Some technical skills are useful to be able to stay on your bike through soft sand and rutted paths. However, pushing and portaging sections is always an option and in many instances, a necessity.
 
   - heading: Trail Terrain
     description:
@@ -73,9 +73,10 @@ emailSubject: Lower Wild Coast Mountain Bike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - It is 139km of riding through to Coffee Bay and close on 200km to Umngazi from our starting point in Morgan Bay. The standard tour will cover the full distance over 5 days of riding with the last long day of the Imana Wild Ride being split over two days.
-    - The average daily ride distance is around 45km/day, with the final day being just 21km through to Umngazi River Bungalows. However, for less fit groups we can also do the full route over 6 ride days - overnighting at both Dwesa and Bulungula as opposed to 1 night at the Haven.
+    - It is 139km of riding through to Coffee Bay and close on 200km to Umngazi from our starting point in Morgan Bay. The standard tour will cover the full distance over 5 days of riding with the first or final day of the Imana Wild Ride, being split over two days.
+    - The average daily ride distance is around 45km/day. For less fit groups we can also do the full route over 6 ride days - overnighting at both Wavecrest and Mpande enroute.
     - A 'rest day' can be included at any of the overnight places enroute, which allows one to make this as much a holiday as a journey.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1ffIsUUD6MPKfQRfDT4tPse_B-kk&usp=sharing
 
 itinerary:
   itinerary:
@@ -131,7 +132,7 @@ faq:
   faq:
     - question: Is it possible to self-guide but have vehicle back-up support?
       answer:
-        - Yes we offer this – see Option B. We can provide daily route guidelines and a gps route, though the best route is always determined by the tide and weather conditions on the day. Our support vehicle can really only carry luggage from lodge to lodge, so out on the trail you are on your own – but that is the true spirit of the adventure .
+        - Yes we offer this – see Option B. We can provide daily route guidelines and a gps route, though the best route is always determined by the tide and weather conditions on the day. Our support vehicle can really only carry luggage from lodge to lodge, so out on the trail you are on your own – but that is the true spirit of this adventure .
     - question: How good a mountain-biker do you need to be, to do this tour?
       answer:
         - Wild Coast riding is much more about endurance than it is about speed and skills. Skills help of course, to stay on your bike longer as you navigate the fisherman paths or negotiate some soft sand, but overall – it’s about time in the saddle, and a good amount of ‘vasbyt’ when the going gets tough. A 40km day on the Wild Coast is a full day on the trail so you’ll be grateful for the  shorter / half-days…for this is a journey not a race.

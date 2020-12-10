@@ -62,7 +62,9 @@ overview:
   description:
     - For fitter hikers, and trail runners, we run a trip which essentially covers two hiking days in one. These daily distances are possible if you speed-walk or jog-walk, with light packs.
     - It is not possible to provide guides and porters over these daily distances (as it covers many guiding sections in a single day), so we cost <em>without</em> a guide or porters.
-    - As the hotels all provide bedding, towels and meals; you really can go superlight if you wash out your running clothes overnight and bring light layers for the evening. We will use the same transfer provider from & back to East London airport so you can leave excess luggage with them OR you can leave it in your vehicle if you are self-driving to the end point.
+    - As the hotels all provide bedding, towels and meals; you really can go superlight if you wash out your running clothes overnight and bring light layers for the evening. We will use the same transfer provider from and back to East London airport so you can leave excess luggage with them OR you can leave it in your vehicle if you are self-driving to the end point.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1DVeJ6EU3BmZvYAnYKlVWuOe5n6dZ7Mv4&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -74,7 +76,7 @@ itinerary:
       subHeading: 'Trail Run Day 1: Kob Inn to Wavecrest (25km)'
       description:
         - Today’s route is perhaps the ‘wildest’ - offering a mix of sandy beaches flanked by rippled dunes one side and flat-shelved wave-cut rocks on the other; and grassy banks that pass natural springs and indigenous forests alive with birds and insects.
-        - After crossing the Ngqwara River its a combination of beach, flat rocky shelves and grassy tracks before reaching the beautiful Cebe River Mouth. Flanked on both sides with thick indigenous forest, this river mouth is a truly a wild and special spot. the last stretch from Cebe to Wavecrest is along wide flat beach.
+        - After crossing the Ngqwara River its a combination of beach, flat rocky shelves and grassy tracks before reaching the beautiful Cebe River Mouth. Flanked on both sides with thick indigenous forest, this river mouth is a truly a wild and special spot. The final stretch from Cebe to Wavecrest is along wide flat beach.
         - 'Overnight: <strong>Wavecrest Hotel</strong> (Breakfast, packed lunch & Dinner)'
     - heading: Day 3
       subHeading: 'Trail Run Day 2: Wavecrest to Morgan Bay (28km)'
@@ -123,7 +125,7 @@ faq:
 
     - question: What type of footwear is appropriate?
       answer:
-        - A trail running shoe with some good grip and should have an inner mesh layer to stop sand from coming in at the top. Ankle gaiters are also good at preventing this.
+        - A trail running shoe with some good grip and should have an inner mesh layer to stop sand from coming in at the top. Lycra trail-running gaiters are also good at preventing this.
     - question: What backpack should I run with?
       answer:
         - Firstly we recommend using a properly fitted trail running pack / vest which wont move around and chaffe and also give you easy access to your hydration (bottles or bladder). Ultimate Direction, Osprey, Salomon all provide good options. You will need a min 10L storage capacity and up to 20L would be ideal. You will need to be able to carry approx 1l of water with you and your trail snacks, over and above your spare clothes.
@@ -138,7 +140,7 @@ gallery:
     - src: ../../img/gallery/WC-TR-sea.jpg
       caption: Running wild with your significant other – a very bonding experience
     - src: ../../img/gallery/WC-TR-Mbay cliffs.jpg
-      caption: The trail hugs the spectacular Morgan Bay cliffs.
+      caption: The trail hugs the spectacular Morgan Bay cliffs
     - src: ../../img/gallery/HH_WC.jpg
       caption: Wavecrest hotel chalets at first light.
     - src: ../../img/gallery/WC-TR-grp.jpg
@@ -150,11 +152,11 @@ gallery:
     - src: ../../img/gallery/WC-TR-forest.jpg
       caption: Some of the trail wanders through cool dune forest – a welcome reprieve.
     - src: ../../img/gallery/WC-TR-sky.jpg
-      caption: Big sky, high dunes.
+      caption: Big sky, high dunes
     - src: ../../img/gallery/WC-TR-rocks.jpg
       caption: On a spring low tide, the beaches become hard and fast.
     - src: ../../img/gallery/WC-TR-girls.jpg
-      caption: Nothing beats a break with your beastie. Running wild and free on the lower Wild Coast.
+      caption: Nothing beats a break with your bestie. Running wild and free on the lower Wild Coast.
     - src: ../../img/gallery/HH_jacuzzi.jpg
       caption: A soak in the hot tub with a glass of bubbly. What more could a girl want.
     - src: ../../img/gallery/HH_estuary.jpg

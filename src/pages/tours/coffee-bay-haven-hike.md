@@ -29,12 +29,13 @@ details:
       - 3 - 4 Hike Days / 4 Nights
   - heading: Daily Distances
     description:
-      - 'Day 1 - 16km   Day 2 - 13km  '
+      - 'Day 1 - 16km'
+      - 'Day 2 - 13km'
       - 'Day 3 - 17km'
 
   - heading: Trail Grading
     description:
-      - <strong>3.5 -4 / 5</strong> - <strong>Fitness</strong>. Hilly terrain combined with relatively long hike distances along this stretch, requires hikers have a good level of fitness.
+      - <strong>3.5 - 4 / 5</strong> - <strong>Fitness</strong>. Hilly terrain combined with relatively long hike distances along this stretch, requires hikers have a good level of fitness.
       - <strong>3 / 5</strong> - <strong>Technicality</strong>. The hiking path on Day 1 contours along steep-sided hill slope where persons who suffer from vertigo may feel a bit exposed.
 
   - heading: Trail Terrain
@@ -64,7 +65,9 @@ overview:
   heading: At a Glance
   description:
     - An extended option on Coffee Bay – Bulungula, this trail takes in the iconic ‘Hole in the Wall’, the esteemed beaches of Mpame and Bulungula, and finishes at the lovely Haven Hotel, where we highly recommend staying an extra night or two.
-    - It is best suited to groups of 4 or more as we'll organise a private transfer collection from the Haven. The trail is a mix of backpacker and hotel accommodation options and is well suited to friend and family groups.
+    - It is best suited to groups of four or more as we'll organise a private transfer collection from the Haven. The trail is a mix of backpacker and hotel accommodation options and is well suited to friend and family groups.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1muR3ja5-g8rowRU2aWRiylYa02qMrTtf&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1

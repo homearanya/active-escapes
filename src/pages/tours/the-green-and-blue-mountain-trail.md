@@ -64,6 +64,7 @@ overview:
     - 'The <strong>Green Mountain trail</strong> (4 days/ 4 nights) scheduled from a <em>Monday to Friday</em>, traverses mostly privately-owned land, with all landowners being members of the Groenlandberg Conservancy: the world’s first biodiversity wine route, and part of the region’s efforts to conserve the environment and promote responsible tourism.'
     - The <strong>Blue Mountain Trail</strong>, which runs from a <em>Tuesday to a Thursday</em>, is a three day - three night  slackpacking trail on the southern side of the Elgin Valley. The trail is 50 km in total, traversing forest, wilderness, fynbos and fruit farms.
     - As part of the trail’s social responsibility programme, hikers are encouraged to “Walk with an Alien”, a project in which a personalised walking stick is carved from alien vegetation by local communities.
+  mapUrl: https://www.google.com/maps/d/edit?mid=18KP3T099LcHLhaz6o8dHgWzjT3TrJLXq&usp=sharing
 
 itinerary:
   itinerary:
@@ -165,11 +166,11 @@ gallery:
       caption: Finishing the hike off the at the lovely Beaumont winery with a Ploughmans platter and wine tasting.
 
 price:
-  heading: 'Green Mountain: 4 Night/ 4 Day Trail: R12 490/pp'
+  heading: '<strong>Green Mountain</strong>: 4 Night/ 4 Day Trail: R12 490/pp'
   overview: null
   table: null
 
-  heading2: 'Blue Mountain: 3 Night/ 3 Day Trail - R9 600/pp'
+  heading2: '<strong>Blue Mountain</strong>: 3 Night/ 3 Day Trail - R9 600/pp'
   overview2: null
   table2: null
   includes:
@@ -191,7 +192,7 @@ popularTour:
 destinationTour:
   order: 2
   image: ../../img/listing/wcape-winelands.jpg
-  title: Wine & Fynbos in the Elgin Valley
+  title: Wine & Fynbos - Elgin Valley
   description: Enjoy a rich tapestry of fynbos, private nature reserves, wine and fruit farms. Four star lodgings , fine Cape cuisine and truly enriching guiding. These 3 & 4 day hikes along the Groenlandberg and Elgin valley, are just an hour’s drive from  Cape Town. Daily hike distances range from 11 -18km / day, with some exclusive wine tastings and picnics along the way. The trail is mostly over privately-owned land in the world's first 'biodiversity wine route'.
   emailLink: mailto:tours@active-escapes.co.za?subject=Elgin Winelands Slackpacker – Western Cape Destination Listing
 ---

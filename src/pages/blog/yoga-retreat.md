@@ -21,36 +21,26 @@ homePageListingImage:
   image: ../../img/gallery/zing_retreat3.jpg
 gallery:
   pictures:
-    - src: ../../img/gallery/zing_aloe-trail.jpg
-      caption: Animal paths provide a natural trail network, with a little bit of rock clearing from the trail blazers.
-    - src: ../../img/gallery/zing_flyfishing.jpg
-      caption: During winter months, the Tugela River cleans up considerably and fishing for the Natal Yellow fish becomes a key attraction.
-    - src: ../../img/gallery/zing_mtb2.jpg
-      caption: Blaaukrantz hill - a daring climb or a dare-devil descent
-    - src: ../../img/gallery/zing_sunrock.jpg
-      caption: Sundowners or meditation time at Sunset Rock, just a short scramble above the lodge.
+    - src: ../../img/blog/YR-sunsetrock.jpg
+      caption: Sundowners on Sunset Rock - Arrival Day
+    - src: ../../img/blog/YR-meditation.jpg
+      caption: Kundalini yoga and meditation
+    - src: ../../img/blog/YR-talks.jpg
+      caption: Learning about journalling
+    - src: ../../img/blog/YR-zen.jpg
+      caption: Restorative meditation on Hippo Hill 
     - src: ../../img/gallery/zing_campchat.jpg
-      caption: 'Tugela Bush Camp provides a unique venue for celebrating special occasions: birthdays, weddings, family reunions'
+      caption: Time to catch up with friends
     - src: ../../img/gallery/zing_HOH.jpg
-      caption: The last rays of light on a summers eve – House on the Hill, Tugela Bush Camp
-    - src: ../../img/gallery/zing_road.jpg
-      caption: Take a dirt road….. See where it leads
+      caption: The last rays of light on a summers eve – House on the Hill
+    - src: ../../img/blog/YR-dining.jpg
+      caption: Meals are a very open-air affair
     - src: ../../img/gallery/zing_trailrunning.jpg
       caption: Find a trail that takes your breath away
-    - src: ../../img/gallery/zing_sunset.jpg
-      caption: And if that doesn’t….then the view absolutely should.
-    - src: ../../img/gallery/zing_dawsonscreek.jpg
-      caption: Dawsons - one of the lovely 'Larney Lane' units - double outdoor shower...of course
-    - src: ../../img/gallery/zing_boat-on-river.jpg
-      caption: Merrily, merrily down the stream, life is but a dream.
-    - src: ../../img/gallery/zing_abseil.jpg
-      caption: Abseil Rock
+    - src: ../../img/blog/YR-coffee.jpg
+      caption: Coffee break
     - src: ../../img/gallery/zing_badlands.jpg
-      caption: One of the 'Badlands' units - built from local stone, thatch and reeds by our valley master builders.
-    - src: ../../img/gallery/zing_retreat1.jpg
-      caption: Yoga & Meditation Retreats can be organised on a private request basis or look out for our scheduled weekends
-    - src: ../../img/gallery/zing_retreat6.jpg
-      caption: Discussing the practice of Journalling on our last Yoga Retreat
+      caption: A 'Badlands' units - built from local stone, thatch and reeds 
 category: 'Female-travel'
 tags:
   - yoga

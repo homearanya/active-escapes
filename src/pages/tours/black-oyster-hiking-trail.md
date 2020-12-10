@@ -60,6 +60,7 @@ overview:
     - Hike the largely undeveloped Southern Cape coastline between Mossel Bay and Gourikwa Private Nature Reserve, crossing the spectacular Gouritz River along the way.
     - During the mild winter months, this area is known for its whale activity as mothers come in to give birth in the quiet protected bays. The combination of raptors, marine and Fynbos avian species, makes this a birders paradise too.
     - Overnight accommodation is in the well-appointed guest cottages at Sandpiper, or other establishments of similar quality, in the area.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1Jocik35GlP8jnXMYn7oxeCjafaY&usp=sharing
 
 itinerary:
   itinerary:
@@ -117,17 +118,17 @@ faq:
         - Yes, there is also a two and three night version of this trail .
 gallery:
   pictures:
-    - src: ../../img/gallery/OC-cliffs.jpg
-      caption: Lichen headlands on the Black Oyster trail.
+    - src: ../../img/gallery/OC-cliffs.JPG
+      caption: Lichen headlands on the Black Oyster trail
     - src: ../../img/gallery/OC-cottage.jpg
       caption: Quaint accommodation
     - src: ../../img/gallery/OC-oystercatchers.jpg
       caption: The Black Oystercatchers are known to pair up for as long as 25 years.
     - src: ../../img/gallery/OC-voorhuis.jpg
-      caption: Cosy lodgings.
+      caption: Cosy lodgings
     - src: ../../img/gallery/OC-2hikers.jpg
       caption: Golden dunes and aquamarine ocean on the Black Oyster Trail.
-    - src: ../../img/gallery/OC-pinnacles.jpg
+    - src: ../../img/gallery/OC-pinnacles.JPG
       caption: At Pinnacle Point, an optional experience is the POHO (Point of Human Origin) presentation by Dr Peter Nilssen with a guided tour of the famous 13 series middle stone age caves.
     - src: ../../img/gallery/OC-bedroom.jpg
       caption: null

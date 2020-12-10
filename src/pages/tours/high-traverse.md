@@ -66,6 +66,7 @@ overview:
   description:
     - Take on this 5 Day High Berg challenge from the Sentinel to Cathedral Peak Hotel via the famous Bell Traverse. Overnighting in tents and caves, this is a bucket-list hike for the fit and adventurous.
     - It is effectively half the Grand Traverse (GT) and includes the epic 'Bell Traverse' which the GT does not.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1EPylL3X-xB2-pV5GOvWtoLV17zgurlfo&usp=sharing
 
 itinerary:
   itinerary:
@@ -135,7 +136,7 @@ faq:
 gallery:
   pictures:
     - src: ../../img/gallery/traverse_mweni.jpg
-      caption: Top of Mweni Pass.
+      caption: Top of Mweni Pass
     - src: ../../img/gallery/traverse_rolands.jpg
       caption: Dawn in Rolands Cave
     - src: ../../img/gallery/traverse_twins.jpg
@@ -149,7 +150,7 @@ gallery:
     - src: ../../img/gallery/traverse_saddle.jpg
       caption: Wild camping on the saddle
     - src: ../../img/gallery/traverse_bell.jpg
-      caption: The Bell Traverse - Final Day.
+      caption: The Bell Traverse - Final Day
     - src: ../../img/gallery/traverse_solohiker.jpg
       caption: One feels on top of the world from the escarpment
     - src: ../../img/gallery/traverse_cliffs.jpg

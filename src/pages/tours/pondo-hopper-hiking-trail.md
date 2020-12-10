@@ -25,24 +25,24 @@ tourName: Pondo-Hopper Hiking Trail
 slug: pondo-hopper-hiking-trail
 featuredImage: ../../img/generic/PP-pondohopper.jpg
 longDescription:
-  - Keen to hike the most rugged and pristine section of Wild Coast, but don't feel like the schlep of planning and preparing meals, or bringing little more than you tekkies and a beach towel? Provided your hike is planned for outside the peak school holidays, we can offer a fully supported, fully-catered version of the 3 & 5 night Pondo-Explorer trail.
-  - You will overnight at the same East African style tented camps, but all bedding will be supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, Breakfast and a packed lunch for each trail day, will be provided by the tented camps and your third night is spent at Mbotyi River Lodge.
+  - Keen to hike the most rugged and pristine section of Wild Coast, but don't feel like the schlep of planning and preparing meals, or bringing little more than your tekkies and a beach towel? Provided your hike is planned for outside the peak school holidays, we can offer a fully supported and catered version of the 3 & 5 night Pondo-Explorer trail.
+  - You will overnight at the same East African style tented camps, but all bedding will be supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, breakfast and a packed lunch for each trail day, will be provided by the tented camps and your third night is spent at Mbotyi River Lodge.
 fromPricing: R8400 (5N)
 difficultyLevel: moderate
 duration: 3 or 5 Days
 details:
   - heading: Trip Duration
     description:
-      - 3 or 5 Night Std Hike Options.
-  - heading: Daily Distance
+      - 3 or 5 Night Std Hike Options
+  - heading: Daily Distances
     description:
       - 'Day 1: 16km    Day 2: 18.5km '
       - 'Day 3: 11km    Day 4: 10km '
       - 'Day 5: 13km'
   - heading: Trail Grade
     description:
-      - <strong>3/ 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
-      - <strong>2/ 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
+      - <strong>3 / 5 - Fitness</strong>. Easy gradient for first 2 days but higher daily distances. More hills on Day’s 3 & 4.
+      - <strong>2 / 5 - Technicality</strong>. Limited scrambling. Some sheer sections for viewpoints (optional).
   - heading: Trail Terrain
     description:
       - Coastal Trail - traversing grasslands with deep forest ravines and gorges, rocky headlands, sandy beaches and passing through friendly Pondo villages.
@@ -59,7 +59,7 @@ details:
     description:
       - Min <strong>4</strong> persons for the 5N Hopper
       - Min <strong>2</strong> persons for the 3N Hopper.
-      - Maximum of 24 persons/group.
+      - Maximum of <strong>24</strong> persons/group.
   - heading: Pricing
     description:
       - 'On a group of 4-6 persons: <strong>R8,400/pp</strong> for the 5 Night Hopper'
@@ -68,8 +68,10 @@ emailSubject: Pondo-Hopper Hike Enquiry – PP Enquire Now
 overview:
   heading: At a Glance
   description:
-    - Overnighting in the same East African style tented camps as the pondo-explorer, but with all bedding supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, Breakfast and a packed lunch for each trail day will be provided by the tented camps and your third night is spent at Mbotyi River hotel.
-    - The tented camps all have superb locations - sheltered under the milkwoods overlooking an estuary, or perched on a hillside offering panoramic sea views. This fully supported hike is a fantastic trail to do with a group of friends looking for a hike that is within reach of the average hiker and with enough activities - like canoeing up the estuaries, fishing and swimming, to keep the Duracell bunnies active.
+    - Overnighting in the same East African style tented camps as the pondo-explorer, but with all bedding supplied. Your main kit bags will be transferred from camp to camp by vehicle, so you need only hike with a light daypack. Dinner, breakfast and a packed lunch for each trail day will be provided by the tented camps and your third night is spent at Mbotyi River hotel.
+    - The tented camps all have superb locations - sheltered under the milkwoods overlooking an estuary, or perched on a hillside offering panoramic sea views. This fully supported hike is a fantastic trail to do with a group of friends looking for a hike that is within reach of the average hiker and with enough activities - like canoeing up the estuaries, fishing and swimming, to keep the Duracell bunnies entertained.
+  mapUrl: https://www.google.com/maps/d/edit?mid=1Lut279e-j8WmfwhFRpVgJvuPq5A&usp=sharing
+
 itinerary:
   itinerary:
     - heading: Day 1
@@ -85,12 +87,12 @@ itinerary:
     - heading: Day 3
       subHeading: 'Hike Day 2: Luphuthana – Mbotyi River Lodge (18.5km)'
       description:
-        - 'A long day but without major ascents. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, and the views from the top of Drew’s Camp looking down towards Mbotyi where you will enjoy the comfort of Mbotyi River Lodge for the night.'
-        - 'Overnight: <strong>Mbotyi River Lodge</strong>(Breakfast, packed lunch & dinner)'
+        - 'A long day but without major ascent. Trail Highlights include: Top Hat, Waterfall Bluff (an 80m high waterfall which plunges directly into the ocean), Cathedral Rock, Mfihlelo Waterfall, freshwater swimming pools on the Mlambomkulu river, and the views from the top of Drew’s Camp looking down towards Mbotyi, where you will enjoy the comfort of Mbotyi River Lodge for the night.'
+        - 'Overnight: <strong>Mbotyi River Lodge</strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 4
       subHeading: 'Hike Day 3: Mbotyi River Lodge - Manteku (11km)'
       description:
-        - 'The terrain becomes more undulating after Mbotyi. Trail Highlights: Friendly rural villages, sweeping vistas from the hilltops, Manteku mangrove estuary with prolific birdlife, canoeing up Manteku Estuary.'
+        - 'The terrain becomes more undulating after Mbotyi. Trail Highlights: friendly rural villages, sweeping vistas from the hilltops, Manteku mangrove estuary with prolific birdlife, canoeing up Manteku Estuary.'
         - 'Overnight: <strong>Manteku Camp</strong> (Breakfast, packed lunch & dinner)'
     - heading: Day 5
       subHeading: 'Hike Day 4: Manteku – Ntafufu (10km) (Breakfast, packed lunch & dinner)'
@@ -110,7 +112,7 @@ lodging:
   heading: 'Lodges'
   description:
     - 1 Night DBB at <strong>Mbotyi River Lodge</strong> – Riverview Chalets.
-    - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower. Central kitchen & dining boma where meals will be provided.
+    - 2 / 4 Nights <strong>Tented Camps</strong> - twin bedded safari tents on wooden platforms under thatch boma's with ensuite ablutions & hot water gas shower. Central kitchen & dining boma where meals will be served.
 
   images:
     - src: ../../img/gallery/pondohopper-breakfast.jpg
@@ -123,8 +125,8 @@ faq:
   faq:
     - question: How do I get to the start of the trail?
       answer:
-        - 'If you are self-driving, we will collect you from the hike finish-point: Port St Johns on the 5 night trail or Mbotyi for the 3 night trail. You will leave your vehicle in secure parking in PSJ or Mbotyi and be transferred to Msikaba – the hike start for both the 3 & 5 night trail. This transfer is included in the hike price.'
-        - If you are flying, we can arrange private transfers from the airport. Mtata is the closest airport (1.5hr from PSJ) but there are only direct flights from JHB. Durban or East London are the next closest  airports (5- 6hr transfer). If the group is flying – we will arrange transfers directly to Msikaba (trail head) and back from Port St Johns (trail-end) – please request a quote for these extra transfers.
+        - 'If you are self-driving, we will collect you from the hike finish-point: Port St Johns on the 5 night trail or Mbotyi on the 3 night trail. You will leave your vehicle in secure parking in PSJ or Mbotyi and be transferred to Msikaba – the hike start for both the 3 & 5 night trail. This transfer is included in the hike price.'
+        - If you are flying, we can arrange private transfers from the airport. Mtata is the closest airport (1.5hr from PSJ) but the only direct flights there, are from JHB. Durban or East London are the next closest  airports (5- 6hr transfer). If the group is flying – we can arrange transfers directly to Msikaba (trail-head) and back from Port St Johns (trail-end) – please request a quote for these extra transfers.
     - question: What is the best time of year for this trail?
       answer:
         - The Wild Coast has a very temperate climate so can be hiked all year round, but from about March through to November tend to be better months i.t.o less rainfall. Winter months offer a wonderful and stable climate for hiking and the annual sardine brings lots of marine action, but we do struggle to get a booking at Mbotyi hotel as it is block-booked by the sardine tour operators.
@@ -156,7 +158,7 @@ gallery:
     - src: ../../img/gallery/pondoexplore_milkwoods.jpg
       caption: The milkwood forests make for a perfect lunch stop enroute.
     - src: ../../img/gallery/pondohopper-breakfast.jpg
-      caption: Breakfast awaits at Ntafufu tented camp.
+      caption: Breakfast awaits at Ntafufu tented camp
     - src: ../../img/gallery/pondohopper_boats.jpg
       caption: The final ferry crossing over the Mzimvubu river, Port St Johns.
     - src: ../../img/gallery/pondohopper-aloes.jpg
@@ -213,5 +215,5 @@ destinationTour:
   image: ../../img/generic/pp-pondohopper-500.jpg
   tagline: Pondo Hopping
   title: Pondo-Hopper Slackpacker
-  description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding & meals are catered for and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning & logistics taken care of."
+  description: "This trail is along the same 3 or 5 day route as the Pondo-Explorer, but is a fully supported and catered trail where all bedding and meals are catered for, and your luggage is transferred from camp to camp by vehicle. A great option for groups who'd like to have the planning and logistics taken care of."
 ---
