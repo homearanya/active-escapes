@@ -15,13 +15,22 @@ interface FeaturedToursData {
 
 interface FeaturedToursProps {
   data: FeaturedToursData
+  className?: string
+  style?: React.CSSProperties
 }
 
 const FeaturedTours = ({
   data: { heading, subHeading, grid = '', activityFilter, featuredTours },
+  className,
+  style,
 }: FeaturedToursProps) => {
   return (
-    <article className={`content-block article-boxed featured-tours`}>
+    <article
+      className={`content-block article-boxed featured-tours${
+        className ? ` ${className}` : ''
+      }`}
+      style={style}
+    >
       <div className="container">
         <header className="content-heading">
           <h2 className="main-heading">{heading}</h2>

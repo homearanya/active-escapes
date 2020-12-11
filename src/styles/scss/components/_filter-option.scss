@@ -81,8 +81,17 @@
   }
 
   .filter-slide.destination {
-    .select-col:first-child {
+    .select-col {
+      margin: 15px 15px 0 15px;
       width: 250px;
+    }
+    @include breakpoint-min($screen-sm) {
+      .select-col {
+        margin: 0 10px;
+      }
+      .select-col:first-child {
+        width: 250px;
+      }
     }
   }
 

@@ -1,9 +1,42 @@
-import React from 'react'
+import React, { useReducer } from 'react'
 
 import { ImageSharp } from '../../types'
 import { processText } from '../../utils/helpers'
 import UniversalLink from '../universal-link'
 import Image from '../image'
+
+interface State {
+  maxWidth: number
+  widths: number[]
+  totalMeasurements: number
+}
+
+interface Action {
+  type: string
+  payload: {
+    index: number
+    width: number
+  }
+}
+const reducer = (state: State, action: Action) => {
+  const { maxWidth, widths, totalMeasurements } = state
+  const { type, payload } = action
+  const { index, width } = payload
+  switch (type) {
+    case 'add':
+      if (!widths[index] || width > widths[index]) {
+        widths[index] = width
+        return {
+          maxWidth: width > maxWidth ? width : maxWidth,
+          widths,
+          totalMeasurements: width ? totalMeasurements + 1 : totalMeasurements,
+        }
+      }
+      return state
+    default:
+      throw state
+  }
+}
 
 export interface TaylorMadeCardInterface {
   image: ImageSharp
@@ -40,6 +73,22 @@ const TaylorMadeCard = ({
   first,
   last,
 }: TaylorMadeCardProps) => {
+  const initialState: State = {
+    maxWidth: 0,
+    widths: [0, 0],
+    totalMeasurements: 0,
+  }
+
+  const [state, dispatch] = useReducer(reducer, initialState)
+
+  const updateWidths = (index: number, div: HTMLDivElement) =>
+    div.clientWidth &&
+    div.clientWidth > state.widths[index] &&
+    dispatch({
+      type: 'add',
+      payload: { index, width: div.clientWidth },
+    })
+  console.log(state)
   return (
     <article
       className={`taylor-made-card__wrapper${first ? ' first' : ''}${
@@ -66,22 +115,44 @@ const TaylorMadeCard = ({
               {processText(paragraph)}
             </p>
           ))}
-        {link && (
-          <UniversalLink
-            href={link.href}
-            className="btn btn-default featured-explore-button"
-          >
-            {link.text}
-          </UniversalLink>
-        )}
-        {link2 && (
-          <UniversalLink
-            href={link2.href}
-            className="btn btn-default featured-explore-button featured-explore-button--extra"
-          >
-            {link2.text}
-          </UniversalLink>
-        )}
+        <div className="taylor-made-card__buttons-wrapper">
+          {link && (
+            <div
+              ref={(div) => div && updateWidths(0, div)}
+              style={
+                state.totalMeasurements >= 2
+                  ? { display: 'flex', width: `${state.maxWidth}px` }
+                  : {}
+              }
+            >
+              <UniversalLink
+                href={link.href}
+                className="btn btn-default featured-explore-button"
+                style={{ flex: '1 0 auto' }}
+              >
+                {link.text}
+              </UniversalLink>
+            </div>
+          )}
+          {link2 && (
+            <div
+              ref={(div) => div && updateWidths(1, div)}
+              style={
+                state.totalMeasurements >= 2
+                  ? { display: 'flex', width: `${state.maxWidth}px` }
+                  : {}
+              }
+            >
+              <UniversalLink
+                href={link2.href}
+                className="btn btn-default featured-explore-button featured-explore-button--extra"
+                style={{ flex: '1 0 auto' }}
+              >
+                {link2.text}
+              </UniversalLink>
+            </div>
+          )}
+        </div>
       </div>
     </article>
   )

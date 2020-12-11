@@ -20,6 +20,7 @@ interface MenuItemProps {
   megaMenu: boolean
   menuItems: MenuItems
   props?: React.HTMLAttributes<HTMLAnchorElement | HTMLSpanElement>
+  closeMenu: () => void
 }
 
 const MenuItem = ({
@@ -27,6 +28,7 @@ const MenuItem = ({
   link,
   megaMenu = false,
   menuItems,
+  closeMenu,
   ...props
 }: MenuItemProps) => {
   const isMobile = useMedia({ maxWidth: 992 - 1 })
@@ -48,6 +50,7 @@ const MenuItem = ({
     >
       <UniversalLink
         activeClassName="active"
+        onClick={() => !menuItems && closeMenu()}
         href={link}
         className={`menu-item-header ${!!menuItems ? 'dropdown-toggle' : ''}`}
         data-toggle={`${!!menuItems ? 'dropdown' : undefined}`}
@@ -55,7 +58,9 @@ const MenuItem = ({
       >
         {name} {!!menuItems ? <b className="icon-angle-down"></b> : null}
       </UniversalLink>
-      {!!menuItems && !megaMenu ? <MenuDropdown menuItems={menuItems} /> : null}
+      {!!menuItems && !megaMenu ? (
+        <MenuDropdown menuItems={menuItems} closeMenu={closeMenu} />
+      ) : null}
       {megaMenu ? <MenuMega menuItems={menuItems} /> : null}
     </li>
   )

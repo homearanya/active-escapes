@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
-import UniversalLink from '../universal-link'
 import useMedia from 'use-media'
+
+import { scrollToTop } from '../scroll-to-top'
+import UniversalLink from '../universal-link'
 
 type MenuItem = {
   id: string
@@ -40,7 +42,9 @@ const FooterUnit = ({ heading, menuItems, last = false }: FooterUnitProps) => {
         {menuItems.map(({ id, iconClassName, link, name }) => (
           <li key={id} className="wrap-text">
             {iconClassName ? <span className={iconClassName}></span> : null}
-            <UniversalLink href={link}>{name}</UniversalLink>
+            <UniversalLink onClick={scrollToTop} href={link}>
+              {name}
+            </UniversalLink>
           </li>
         ))}
       </ul>

@@ -113,6 +113,11 @@ const ActivityPage = ({
           activityFilter: code,
           featuredTours,
         }}
+        style={
+          taylorMadeSection && taylorMadeSection.options.length > 0
+            ? { paddingBottom: 0 }
+            : {}
+        }
       />
       {byDestinationSection && (
         <ByDestination

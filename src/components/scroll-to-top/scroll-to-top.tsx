@@ -1,6 +1,8 @@
 import React from 'react'
 import { animateScroll } from 'react-scroll'
 
+export const scrollToTop = () => animateScroll.scrollToTop()
+
 interface ScrollToTopProps {
   show: boolean
 }
@@ -10,7 +12,7 @@ const ScrollToTop = ({ show = false }: ScrollToTopProps) => (
     <span
       id="scroll-to-top"
       style={show ? { display: 'block' } : { display: 'none' }}
-      onClick={() => animateScroll.scrollToTop()}
+      onClick={() => scrollToTop()}
     >
       <i className="icon-arrow-down"></i>
     </span>

@@ -64,6 +64,7 @@ const DestinationPage = ({
   },
   location,
 }: DestinationPageProps) => {
+  const [openFilter, setOpenFilter] = useState(false)
   const [grid, setGrid] = useState(false)
   const [{ holidayTypes, difficultyLevels }, setDropdowns] = useState({
     holidayTypes: {},
@@ -263,7 +264,9 @@ const DestinationPage = ({
             </div>
           )}
           <div className="container">
-            <div className="filter-option">
+            <div
+              className={`filter-option${openFilter ? ' filter-active' : ''}`}
+            >
               <strong className="result-info">
                 {`${filteredTours?.length} TRIPS MATCHES YOUR SEARCH CRITERIA`}
               </strong>
@@ -283,7 +286,10 @@ const DestinationPage = ({
                   </div>
                 </div>
                 <div className="select-holder">
-                  <a href="#" className="btn btn-primary btn-filter">
+                  <a
+                    onClick={() => setOpenFilter((openFilter) => !openFilter)}
+                    className="btn btn-primary btn-filter"
+                  >
                     <i className="fa fa-sliders"></i> Filter
                   </a>
                   <div className="filter-slide destination">

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useContext } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
-import { scroller } from 'react-scroll'
+import { scroller, animateScroll } from 'react-scroll'
 
 import { SubscribeContext } from '../../../context/subscribe-context'
 import Burger from './burger'
@@ -43,6 +43,10 @@ const Navigation = ({ handleOpenSearch, newsletterRef }: NavigationProps) => {
   const { dispatch } = useContext(SubscribeContext)
   const [openMenu, setOpenMenu] = useState(false)
   const handleClick = () => setOpenMenu((openMenu) => !openMenu)
+  const closeMenu = () => {
+    setOpenMenu(false)
+    animateScroll.scrollToTop()
+  }
   const navigateToNewsletter = () => {
     if (openMenu) setOpenMenu(false)
     dispatch({ type: 'subscribe', payload: true })
@@ -79,6 +83,7 @@ const Navigation = ({ handleOpenSearch, newsletterRef }: NavigationProps) => {
               megaMenu={megaMenu}
               link={link}
               menuItems={menuItems}
+              closeMenu={closeMenu}
             />
           ))}
           <li className="visible-xs visible-sm">

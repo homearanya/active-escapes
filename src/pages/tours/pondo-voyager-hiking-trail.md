@@ -32,8 +32,10 @@ details:
       - Extensions down to Port St Johns (8 days) also possible.
   - heading: Daily Distances
     description:
-      - 'Day 1: 14km    Day 2: 12-14km '
-      - 'Day 3: 12-15km  Day 4: 16km '
+      - 'Day 1: 14km'
+      - 'Day 2: 12-14km'
+      - 'Day 3: 12-15km'
+      - 'Day 4: 16km'
       - 'Day 5: 19km'
   - heading: Trail Grading
     description:

@@ -1,9 +1,12 @@
 .taylor-made-card {
   &__wrapper {
     background: $white;
-    padding: 30px;
+    padding: 20px 15px;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    align-items: stretch;
     box-shadow: 0 2px 2px rgba(1, 2, 2, 0.05);
     &.first {
       margin-top: 0;
@@ -11,32 +14,59 @@
     &.last {
       margin-bottom: 0;
     }
-    @media only screen and (max-width: $screen-sm) {
-      flex-direction: column;
-      align-items: stretch;
-    }
   }
   &__img-wrap {
-    flex: 1 0 45%;
-    @media only screen and (max-width: $screen-sm) {
-      flex-grow: 0;
-      margin-bottom: 30px;
-    }
-  }
-  &__textblock {
-    padding-left: 30px;
-    @media only screen and (max-width: $screen-sm) {
-      padding-left: 0px;
-    }
+    flex-grow: 0;
+    margin-bottom: 20px;
   }
   &__title {
-    font-size: 30px;
+    font-size: 20px;
   }
   &__subTitle {
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 20px;
   }
   &__description {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+  }
+
+  &__buttons-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .featured-explore-button--extra {
+      margin: 10px 0 0;
+    }
+  }
+  @media only screen and (min-width: $screen-sm) {
+    &__wrapper {
+      padding: 30px;
+      max-width: unset;
+      flex-direction: row;
+      align-items: center;
+    }
+    &__img-wrap {
+      flex: 1 0 45%;
+      margin-bottom: 30px;
+    }
+    &__textblock {
+      padding-left: 30px;
+    }
+    &__title {
+      font-size: 30px;
+    }
+    &__subTitle {
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    &__description {
+      margin-bottom: 30px;
+    }
+    &__buttons-wrapper {
+      flex-direction: row;
+      .featured-explore-button--extra {
+        margin: 0 0 0 20px;
+      }
+    }
   }
 }

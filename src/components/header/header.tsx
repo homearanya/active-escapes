@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'gatsby'
+import useMedia from 'use-media'
 
 import Navigation from './navigation'
 import SearchForm from './search-form'
@@ -17,6 +18,7 @@ const Header = ({
   hasScrolled = false,
   newsletterRef,
 }: HeaderProps) => {
+  const isMobile = useMedia({ maxWidth: 992 - 1 })
   const [showSearch, setShowSearch] = useState(false)
 
   const handleOpenSearch = () => setShowSearch(true)
@@ -38,6 +40,8 @@ const Header = ({
               ) : (
                 <ColorLogo className="gray-logo" />
               )
+            ) : isMobile ? (
+              <ColorLogo className="gray-logo" />
             ) : (
               <WhiteLogo className="normal" />
             )}

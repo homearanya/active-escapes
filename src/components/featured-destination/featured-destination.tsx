@@ -29,7 +29,7 @@ const FeaturedDestination = ({
     navigate(`${link}`, { state: { activity: destinationFilter } })
   }
   return (
-    <article className="col-sm-6 col-md-4 article has-hover-s1">
+    <article className="col-xs-12 col-sm-6 col-md-4 article has-hover-s1">
       <div className="thumbnail">
         <div className="img-wrap">
           {image && image.childImageSharp ? (

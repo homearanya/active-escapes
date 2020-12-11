@@ -11,16 +11,6 @@
         @media only screen and (max-width: $screen-sm) {
           width: 100%;
         }
-        .taylor-made-card__textblock {
-          padding-left: 0;
-        }
-        .taylor-made-card__img-wrap {
-          flex: 0 1 auto;
-          margin-bottom: 30px;
-          @media only screen and (max-width: $screen-sm) {
-            width: 100%;
-          }
-        }
       }
       @media only screen and (max-width: $screen-sm) {
         flex-direction: column;
