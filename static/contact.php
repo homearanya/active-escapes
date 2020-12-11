@@ -12,10 +12,10 @@ if (empty($_POST['first_nameabcdefgjk']) && empty($_POST['emailabcdefgjk'])) die
  */
 
 // an email address that will be in the From field of the email.
-$from = 'info@spanafrican-adventures.co.za';
+$from = 'tours@active-escapes.co.za';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'info@spanafrican-adventures.co.za';
+$sendTo = 'tours@active-escapes.co.za';
 
 // subject of the email
 $subject = 'Active Escapes Website - Tour Enquiry';

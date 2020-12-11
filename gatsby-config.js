@@ -3,6 +3,8 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 
+const { redirects } = require('./src/utils/redirectsArray')
+
 module.exports = {
   flags: {
     FAST_DEV: true,
@@ -234,11 +236,9 @@ module.exports = {
         SymLinksIfOwnerMatch: true,
         host: 'www.active-escapes.co.za', // if 'www' is set to 'false', be sure to also remove it here!
         ErrorDocument: `
-          ErrorDocument 404 /error_pages/404.html
+          ErrorDocument 404 /404/index.html
         `,
-        redirect: [
-          'RewriteRule ^not-existing-url/?$ /existing-url [R=301,L,NE]',
-        ],
+        redirect: redirects,
       },
     },
     `gatsby-plugin-sitemap`,

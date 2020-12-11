@@ -47,7 +47,7 @@
 
 
     
-          ErrorDocument 404 /error_pages/404.html
+          ErrorDocument 404 /404/index.html
         
         
 
@@ -348,7 +348,172 @@ AddDefaultCharset utf-8
 
     RewriteEngine On
 
-    RewriteRule ^not-existing-url/?$ /existing-url [R=301,L,NE]
+    RewriteRule /aeblog/ /blog/
+RewriteRule /aeblog/2016/02/11/south-african-adventure-tourism/ /blog/
+RewriteRule /aeblog/2016/03/30/trail-dog-salomon-running/ /blog/
+RewriteRule /aeblog/2016/06/28/trail-daze-series/ /blog/
+RewriteRule /aeblog/2016/08/11/poorts-passes/ /blog/
+RewriteRule /aeblog/2017/02/21/multi-sport-holidays-a-challenge-for-the-whole-family/ /blog/
+RewriteRule /aeblog/2017/03/07/does-life-insurance-cover-extreme-adventures-in-south-africa/ /blog/
+RewriteRule /aeblog/2018/02/08/discovering-cycle-routes-in-sa/ /blog/
+RewriteRule /aeblog/about-us/ /about/
+RewriteRule /aeblog/adventure/ /blog/
+RewriteRule /aeblog/author/kath-fourie/ /blog/
+RewriteRule /aeblog/category/adventure/ /blog/
+RewriteRule /aeblog/category/hiking/ /blog/
+RewriteRule /aeblog/galleries/canoe-safaris/nggallery/page/2 /blog/
+RewriteRule /aeblog/galleries/canoe-safaris/nggallery/page/2/slideshow /blog/
+RewriteRule /aeblog/galleries/canoe-safaris/nggallery/slideshow /blog/
+RewriteRule /aeblog/galleries/drakensberg-hikes/ /blog/
+RewriteRule /aeblog/galleries/drakensberg-hikes/nggallery/slideshow /blog/
+RewriteRule /aeblog/galleries/kosi-bay-hikes/ /blog/
+RewriteRule /aeblog/galleries/kosi-bay-hikes/nggallery/slideshow /blog/
+RewriteRule /aeblog/galleries/kzn-cycling-mtb/ /blog/
+RewriteRule /aeblog/galleries/kzn-cycling-mtb/nggallery/slideshow /blog/
+RewriteRule /aeblog/galleries/wild-coast-hikes/ /blog/
+RewriteRule /aeblog/galleries/wild-coast-hikes/nggallery/page/2/slideshow /blog/
+RewriteRule /aeblog/galleries/wild-coast-hikes/nggallery/slideshow /blog/
+RewriteRule /aeblog/galleries/wild-coast-mtb/ /blog/
+RewriteRule /aeblog/galleries/wild-coast-mtb/nggallery/page/1/slideshow /blog/
+RewriteRule /aeblog/galleries/wild-coast-mtb/nggallery/slideshow /blog/
+RewriteRule /aeblog/guest-book/ /blog/
+RewriteRule /aeblog/hiking-2/ /blog/
+RewriteRule /aeblog/mountain-biking-2/ /blog/
+RewriteRule /aeblog/tag/baviaans-kloof/ /blog/
+RewriteRule /aeblog/tag/dirty-boots/ /blog/
+RewriteRule /aeblog/tag/drakensberg/ /blog/
+RewriteRule /aeblog/tag/ewald-sadie/ /blog/
+RewriteRule /aeblog/tag/george/ /blog/
+RewriteRule /aeblog/tag/glencoe/ /blog/
+RewriteRule /aeblog/tag/hayden-brown/ /blog/
+RewriteRule /aeblog/tag/hiking/ /blog/
+RewriteRule /aeblog/tag/karfkloof/ /blog/
+RewriteRule /aeblog/tag/leopard/ /blog/
+RewriteRule /aeblog/tag/prince-albert/ /blog/
+RewriteRule /aeblog/tag/swartberg-pass/ /blog/
+RewriteRule /aeblog/tag/toddlers/ /blog/
+RewriteRule /aeblog/tag/van-gaalens/ /blog/
+RewriteRule /blog/ /blog/
+RewriteRule /blog/wp-content/gallery/drakensberg_hike/ /blog/
+RewriteRule /blog/wp-content/gallery/kosi_bay_hike/ /blog/
+RewriteRule /blog/wp-content/gallery/kwazulu-natal-mtb/ /blog/
+RewriteRule /blog/wp-content/gallery/pondo_peddle/ /blog/
+RewriteRule /blog/wp-content/gallery/umko-paddling/ /blog/
+RewriteRule /blog/wp-content/gallery/wild_coast_hiking/ /blog/
+RewriteRule /blog/wp-content/gallery/wild-coast-mtb/ /blog/
+RewriteRule /blog/wp-content/plugins/google-analytics-for-wordpress/ /blog/
+RewriteRule /blog/wp-content/plugins/gravityforms/ /blog/
+RewriteRule /blog/wp-content/plugins/stout-google-calendar/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/contemplate/src/main/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/contemplate/src/main/php/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/filesystem/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/finder/src/main/php/ehough/finder/shell/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/shortstop/src/main/php/ehough/shortstop/impl/ /blog/
+RewriteRule /blog/wp-content/plugins/tubepress/vendor/ehough/shortstop/src/main/php/ehough/shortstop/impl/decoding/transfer/command/ /blog/
+RewriteRule /blog/wp-content/plugins/wordpress-seo/images/ /blog/
+RewriteRule /destination/wildcoast/hikes/pondo-hopper.html /wildcoast/hiking/pondo-hopper-hiking-trail/
+RewriteRule /activity/canoe_safaris/ /activity/rafting/
+RewriteRule /activity/canoe_safaris/images/ /activity/rafting/
+RewriteRule /activity/hiking/hikes.html /activity/hiking/
+RewriteRule /activity/hiking/images/ /activity/hiking/
+RewriteRule /activity/horse_trails/ /activity/horseriding/
+RewriteRule /activity/mountainbiking/ /activity/mountainbiking/
+RewriteRule /activity/multisport/ /
+RewriteRule /activity/rafting/ /activity/rafting/
+RewriteRule /activity/trail-running/images/ /activity/running/
+RewriteRule /destination/drakensberg/ /destination/drakensberg/
+RewriteRule /destination/drakensberg/hikes/amphitheatre/images/ /drakensberg/hiking/ampthitheatre-slackpacker/
+RewriteRule /destination/drakensberg/hikes/giantscup/Giants%20Itinerary_2018.pdf /drakensberg/hiking/giants-cup-trail/
+RewriteRule /destination/drakensberg/hikes/giantscup/images/ /drakensberg/hiking/giants-cup-trail/
+RewriteRule /destination/drakensberg/hikes/maluti/images/ /hiking/maluti-trail/
+RewriteRule /destination/drakensberg/hikes/maluti/Maluti%20Trail_2018.pdf /hiking/maluti-trail/
+RewriteRule /destination/drakensberg/images/ /destination/drakensberg/
+RewriteRule /destination/drakensberg/mtb/images/ /drakensberg/mountainbiking/northern-berg-mtb-trail/
+RewriteRule /destination/EC_highlands/ /destination/easterncape/
+RewriteRule /destination/EC_highlands/h_hike.html /destination/easterncape/
+RewriteRule /destination/free_state/ /destination/freestate/
+RewriteRule /destination/free_state/clarens_hike.html /freestate/hiking/clarens-san-traverse/
+RewriteRule /destination/kosibay/ /destination/kosibay/
+RewriteRule /destination/kosibay/images/ /destination/kosibay/
+RewriteRule /destination/midlands/ /destination/kzn_midlands/
+RewriteRule /destination/midlands/mtb/images/ /kzn_midlands/mountainbiking/kzn-midlands-mtb-tours/
+RewriteRule /destination/tugela/ /destination/kzn_interior/
+RewriteRule /destination/tugela/images/ /destination/kzn_interior/
+RewriteRule /destination/wildcoast/ /destination/wildcoast/
+RewriteRule /destination/wildcoast/hikes/images/ /destination/wildcoast/hiking-trails/
+RewriteRule /destination/wildcoast/images/ /destination/wildcoast/
+RewriteRule /destination/wildcoast/mtb/images/ /wildcoast/mountainbiking/lower-wild-coast-mtb/
+RewriteRule /destination/worldwide/ /destination/southernafrica/
+RewriteRule /destination/worldwide/internat-tours.html /destination/southernafrica/
+RewriteRule /other/friends.html /about/
+RewriteRule /other/trailgrading.html /trail-grading/
+RewriteRule /other/videos.html /about/
+RewriteRule /special_interest/ /activity/nature/
+RewriteRule /special_interest/birdfish/bf.html /activity/nature/
+RewriteRule /special_interest/events/events.html /activity/retreats/
+RewriteRule /destination/midlands/hikes/dargle_hike.html /kzn_midlands/hiking/dargle-slackpacker/
+RewriteRule / /
+RewriteRule /about_us.html /about/
+RewriteRule /activity/canoe_safaris/canoesafaris.html /activity/rafting/
+RewriteRule /activity/canoe_safaris/mozambique.html /activity/rafting/
+RewriteRule /activity/canoe_safaris/pongola.html /kzn_interior/family/tugela-bush-camp/
+RewriteRule /activity/hiking/umko_hike.html /destination/kzn_interior/
+RewriteRule /activity/horse_trails/northerndrak.html /drakensberg/horseriding/northern-drakensberg-horse-trail/
+RewriteRule /activity/mountainbiking/mtb.html /activity/mountainbiking/
+RewriteRule /activity/multisport/multi-sport.html /activity/groups/
+RewriteRule /activity/rafting/rafting.html /activity/rafting/
+RewriteRule /activity/rafting/umkomaas.html /kzn_interior/rafting/umko-rafting/
+RewriteRule /activity/trail-running/trailruns.html /activity/running/
+RewriteRule /AE_newssubscribe.html /contact-us/
+RewriteRule /destination/drakensberg/drak.html /destination/drakensberg/
+RewriteRule /destination/drakensberg/hikes/amphitheatre/amphitheatre_hike.html /drakensberg/hiking/ampthitheatre-slackpacker/
+RewriteRule /destination/drakensberg/hikes/giantscup/giantscup_hike.html /drakensberg/hiking/giants-cup-trail/
+RewriteRule /destination/drakensberg/hikes/maluti/malutihike.html /drakensberg/hiking/maluti-trail/
+RewriteRule /destination/drakensberg/hikes/vulture/vulture_hike.html /drakensberg/hiking/vulture-trail/
+RewriteRule /destination/drakensberg/mtb/nberg_mtb_advancedtour.html /drakensberg/mountainbiking/northern-berg-mtb-trail/
+RewriteRule /destination/EC_highlands/highlands.html /destination/easterncape/
+RewriteRule /destination/EC_highlands/skyride.html /destination/easterncape/
+RewriteRule /destination/kosibay/kosi.html /destination/kosibay/
+RewriteRule /destination/kosibay/kosihike.html /kosibay/hiking/kosi-bay-lakes-trail/
+RewriteRule /destination/kosibay/turtle_hike.html /kosibay/hiking/turtle-tracks
+RewriteRule /destination/midlands/midlands.html /destination/kzn_midlands/
+RewriteRule /destination/midlands/mtb/bike_maintenanceworkshops.html /activity/mountainbiking/
+RewriteRule /destination/midlands/mtb/diamondsanddust.html /kzn_midlands/mountainbiking/kzn-midlands-mtb-tours/
+RewriteRule /destination/midlands/mtb/mid_mtbtours.html /kzn_midlands/mountainbiking/kzn-midlands-mtb-tours/
+RewriteRule /destination/midlands/mtb/multiday.html /kzn_midlands/mountainbiking/kzn-midlands-mtb-tours/
+RewriteRule /destination/midlands/pdf/Girls_WG.pdf /activity/retreats/
+RewriteRule /destination/midlands/pdf/Guys_WG.pdf /activity/retreats/
+RewriteRule /destination/midlands/pdf/Love_Retreat_WG.pdf /activity/retreats/
+RewriteRule /destination/southern_africa/snafrica.html /destination/southernafrica/
+RewriteRule /destination/tugela/tugela.html /destination/kzn_interior/
+RewriteRule /destination/tugela/tugela_bushcamp.html /kzn_interior/family/tugela-bush-camp/
+RewriteRule /destination/tugela/tugela_mtbtours.html /kzn_interior/family/tugela-bush-camp/
+RewriteRule /destination/westerncape/hikes/fynbos_hike.html /westerncape/hiking/fynbos-hiking-trail/
+RewriteRule /destination/westerncape/hikes/oyster_hike.html /westerncape/hiking/black-oyster-hiking-trail/
+RewriteRule /destination/westerncape/hikes/winelands_hike.html /westerncape/hiking/the-green-and-blue-mountain-trail/
+RewriteRule /destination/westerncape/wcape.html /destination/westerncape/
+RewriteRule /destination/wildcoast/hikes/coffeebay-bulungula_trail.html /wildcoast/hiking/cbay-bulungula-backpacking-trail/
+RewriteRule /destination/wildcoast/hikes/hotel-hopping.html /wildcoast/hiking/hotel-hopping-wild-coast-trail/
+RewriteRule /destination/wildcoast/hikes/mtentu-explorer.html /wildcoast/hiking/mtentu-explorer-hiking-trail/
+RewriteRule /destination/wildcoast/hikes/pondo-explore.html /wildcoast/hiking/pondo-explorer-hiking-trail/
+RewriteRule /destination/wildcoast/hikes/pondo-hopper.html /wildcoast/hiking/pondo-hopper-hiking-trail/
+RewriteRule /destination/wildcoast/hikes/pondo-voyager.html /wildcoast/hiking/pondo-voyager-hiking-trail/
+RewriteRule /destination/wildcoast/hikes/pondo-wildcamper.html /wildcoast/hiking/pondo-wild-camper/
+RewriteRule /destination/wildcoast/hikes/psj-coffeebay_trail.html /wildcoast/hiking/psj-coffee-bay-backpacker-hike/
+RewriteRule /destination/wildcoast/hikes/wildcoast_hikes.html /destination/wildcoast/hiking-trails/
+RewriteRule /destination/wildcoast/mtb/mountainbiking.html /wildcoast/mountainbiking/pondo-pedal/
+RewriteRule /destination/wildcoast/mtb/pondopedal.html /wildcoast/mountainbiking/pondo-pedal/
+RewriteRule /destination/wildcoast/mtb/wc_adventure.html /wildcoast/mountainbiking/lower-wild-coast-mtb/
+RewriteRule /destination/wildcoast/wildcoast.html /destination/wildcoast/
+RewriteRule /disclaimer.html /terms-and-conditions/
+RewriteRule /enqf.html /contact-us/
+RewriteRule /special_interest/corporate/teambuild.html /activity/groups/
+RewriteRule /special_interest/daytrips/day-trips.html /activity/family/
+RewriteRule /special_interest/family_hols/family.html /activity/family/
+RewriteRule /special_interest/photography/photo.html /activity/retreats/
+RewriteRule /special_interest/weekend_breaks/weekend.html /activity/nature/
+RewriteRule /special_interest/workshops/courses.html /activity/retreats/
 
 </IfModule>
 
