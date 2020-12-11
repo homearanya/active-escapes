@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/activee/public_html/
-    - /bin/cp -R public $DEPLOYPATH
+    - /bin/cp -R public/* $DEPLOYPATH
