@@ -19,7 +19,7 @@ module.exports = {
     author: `@carloswebdev`,
     googlePlaceId: process.env.GOOGLE_APIKEY,
     emailAddress: 'tours@active-escapes.co.za',
-    siteUrl: 'http://www.active-escapes.co.za/',
+    siteUrl: 'https://www.active-escapes.co.za/',
     siteMenu: {
       menuItems: [
         { id: '1', name: 'home', link: '/' },
