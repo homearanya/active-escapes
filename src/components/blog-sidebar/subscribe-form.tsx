@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react'
-import axios from 'axios'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
 import useResizeObserver from 'use-resize-observer/polyfilled'
 
 const resetFields = () => ({
@@ -37,17 +37,13 @@ const SubscribeForm = () => {
     if (first_name || last_name || email) {
       return
     }
-    axios({
-      method: 'post',
-      url: `http://active-escapes.co.za/mailchimp.php`,
-      headers: { 'content-type': 'application/json' },
-      data: {
-        ...formData,
-      },
+    addToMailchimp(emailabcdefgjk, {
+      FNAME: first_nameabcdefgjk,
+      LNAME: last_nameabcdefgjk,
     })
-      .then((result) => {
+      .then(({ result, msg }) => {
         setFormData(resetFields())
-        setMailchimpMessage(result.data)
+        setMailchimpMessage(msg)
       })
       .catch((error) => {
         setMailchimpMessage(error.message)
@@ -115,7 +111,11 @@ const SubscribeForm = () => {
         id="collapse5"
         className={`panel-collapse collapse in`}
         role="tabpanel"
-        style={open && height ? { height: `${height + 60}px` } : { height: 0 }}
+        style={
+          open && height
+            ? { height: `${height + (mailchimpMessage ? 150 : 60)}px` }
+            : { height: 0 }
+        }
       >
         <div ref={ref} className="panel-body">
           <form className="subscribe-form" onSubmit={handleSubmit}>
@@ -185,10 +185,9 @@ const SubscribeForm = () => {
                 </button>
                 <p
                   id="error_message"
-                  className="contact-confirmation contact-confirmation--mailchimp3"
-                >
-                  {mailchimpMessage}
-                </p>
+                  className="contact-confirmation contact-confirmation--mailchimp2"
+                  dangerouslySetInnerHTML={{ __html: mailchimpMessage }}
+                />
               </div>
             </fieldset>
           </form>

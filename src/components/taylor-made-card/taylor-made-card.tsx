@@ -88,7 +88,6 @@ const TaylorMadeCard = ({
       type: 'add',
       payload: { index, width: div.clientWidth },
     })
-  console.log(state)
   return (
     <article
       className={`taylor-made-card__wrapper${first ? ' first' : ''}${

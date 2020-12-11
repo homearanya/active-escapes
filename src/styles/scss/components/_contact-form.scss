@@ -161,6 +161,16 @@
   left: 0px;
   color: $secondary-color;
   padding: 10px 0;
+
+  a,
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: $mongoose;
+  }
+
   &--mailchimp {
     top: 75px;
   }

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import axios from 'axios'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
 
 const resetFields = () => ({
   first_name: '',
@@ -33,17 +33,13 @@ const MailchimpForm = ({ inputEmail }: MailchimpFormProps) => {
     if (first_name || last_name || email) {
       return
     }
-    axios({
-      method: 'post',
-      url: `http://active-escapes.co.za/mailchimp.php`,
-      headers: { 'content-type': 'application/json' },
-      data: {
-        ...formData,
-      },
+    addToMailchimp(emailabcdefgjk, {
+      FNAME: first_nameabcdefgjk,
+      LNAME: last_nameabcdefgjk,
     })
-      .then((result) => {
+      .then(({ result, msg }) => {
         setFormData(resetFields())
-        setMailchimpMessage(result.data)
+        setMailchimpMessage(msg)
       })
       .catch((error) => {
         setMailchimpMessage(error.message)
@@ -175,9 +171,8 @@ const MailchimpForm = ({ inputEmail }: MailchimpFormProps) => {
           <p
             id="error_message"
             className="contact-confirmation contact-confirmation--mailchimp2"
-          >
-            {mailchimpMessage}
-          </p>
+            dangerouslySetInnerHTML={{ __html: mailchimpMessage }}
+          />
         </div>
       </fieldset>
     </form>

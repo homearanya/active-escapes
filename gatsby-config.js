@@ -2,6 +2,7 @@
 require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 })
+
 module.exports = {
   flags: {
     FAST_DEV: true,
@@ -316,6 +317,13 @@ module.exports = {
       options: {
         placeIds: [process.env.GOOGLE_PLACE_ID],
         apiKey: process.env.GOOGLE_APIKEY,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: process.env.MAILCHIMP_END_POINT, // string; add your MC list endpoint here; see instructions below
+        timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

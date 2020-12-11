@@ -16,7 +16,7 @@ const Tags = ({ tags = {} }: TagsProps) => {
   const { height } = useResizeObserver({
     ref,
   })
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false)
   return (
     <div className="tags accordion-group">
       <div className="panel-heading">

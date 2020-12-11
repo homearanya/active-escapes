@@ -19,7 +19,7 @@ const defaultStyle = {
 }
 
 const NewsletterForm = React.forwardRef(
-  (props, ref: React.ForwardedRef<HTMLInputElement>) => {
+  (props, ref: React.Ref<HTMLInputElement>) => {
     const { state, dispatch } = useContext(SubscribeContext)
     const [openModal, setOpenModal] = useState(false)
 

@@ -64,4 +64,9 @@
       }
     }
   }
+  &.contact-form {
+    .form-group:first-child {
+      margin-bottom: 0px;
+    }
+  }
 }
