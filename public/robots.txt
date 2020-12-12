@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.active-escapes.co.za/sitemap.xml
-Host: https://www.active-escapes.co.za
