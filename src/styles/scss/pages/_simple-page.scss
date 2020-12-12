@@ -8,9 +8,10 @@
     overflow-x: auto;
   }
   table {
+    display: table;
+    width: 100%;
     margin-top: 30px;
     margin-bottom: 20px;
-    min-width: 500px;
   }
 
   table > tbody > tr > td,
@@ -19,7 +20,7 @@
   table > tfoot > tr > th,
   table > thead > tr > td,
   table > thead > tr > th {
-    padding: 15px 15px;
+    padding: 15px 5px;
     border-color: #ebebeb;
   }
 
@@ -40,13 +41,37 @@
   }
 
   table > tbody > tr > td.media-middle {
-    vertical-align: middle;
+    vertical-align: top;
   }
   thead tr {
     background: #f8f8f8;
   }
   tbody tr:nth-child(even) {
     background: #f8f8f8;
+  }
+
+  table.perceived {
+    th:first-child,
+    td:first-child {
+      text-align: center;
+      vertical-align: top;
+    }
+    th:first-child + th,
+    td:first-child + td {
+      text-align: center;
+      white-space: normal;
+      vertical-align: top;
+    }
+  }
+  table.technical {
+    th:first-child,
+    td:first-child {
+      text-align: center;
+      vertical-align: top;
+    }
+    td {
+      vertical-align: top;
+    }
   }
 
   @media screen and (min-width: $screen-sm) {
@@ -86,29 +111,28 @@
       content: '';
       width: auto;
     }
-  }
-}
-
-table.perceived {
-  th:first-child,
-  td:first-child {
-    text-align: center;
-    vertical-align: middle;
-  }
-  th:first-child + th,
-  td:first-child + td {
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-  }
-}
-table.technical {
-  th:first-child,
-  td:first-child {
-    text-align: center;
-    vertical-align: middle;
-  }
-  td {
-    vertical-align: middle;
+    table.perceived {
+      th:first-child,
+      td:first-child {
+        text-align: center;
+        vertical-align: middle;
+      }
+      th:first-child + th,
+      td:first-child + td {
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+      }
+    }
+    table.technical {
+      th:first-child,
+      td:first-child {
+        text-align: center;
+        vertical-align: middle;
+      }
+      td {
+        vertical-align: middle;
+      }
+    }
   }
 }

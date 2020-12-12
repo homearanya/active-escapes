@@ -24,6 +24,22 @@ const Header = ({
   const handleOpenSearch = () => setShowSearch(true)
   const handleCloseSearch = () => setShowSearch(false)
 
+  let logo
+
+  if (tour) {
+    logo = <WhiteLogo className="normal scrolled" />
+  } else {
+    if (isMobile) {
+      logo = <ColorLogo className="gray-logo" />
+    } else {
+      if (hasScrolled) {
+        logo = <ColorLogo className="gray-logo" />
+      } else {
+        logo = <WhiteLogo className="normal scrolled" />
+      }
+    }
+  }
+
   return (
     <header
       id="header"
@@ -34,17 +50,7 @@ const Header = ({
       <div className="header-wrapper">
         <div className={`logo${tour ? ' tour' : ''}`}>
           <Link className="logo-link" to="/">
-            {hasScrolled ? (
-              tour ? (
-                <WhiteLogo className="normal scrolled" />
-              ) : (
-                <ColorLogo className="gray-logo" />
-              )
-            ) : isMobile ? (
-              <ColorLogo className="gray-logo" />
-            ) : (
-              <WhiteLogo className="normal" />
-            )}
+            {logo}
           </Link>
           <span className="logo-text">
             Active Escapes

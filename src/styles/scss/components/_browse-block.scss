@@ -47,6 +47,14 @@
             z-index: 5;
           }
         }
+        &.open {
+          z-index: 5;
+        }
+        &.closed {
+          > .dropdown-menu {
+            display: none;
+          }
+        }
       }
       span {
         background: #b0a377;

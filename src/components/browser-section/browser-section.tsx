@@ -1,7 +1,47 @@
-import React, { useState, useEffect } from 'react'
+import React, { useRef, useEffect, useReducer } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import MenuDropDown from '../header/navigation/menu-dropdown'
 import useMedia from 'use-media'
+
+interface State {
+  showActivities: boolean
+  showDestinations: boolean
+  activityDropdown: boolean
+  destinationDropdown: boolean
+}
+
+interface Action {
+  type:
+    | 'showActivity'
+    | 'showDestination'
+    | 'activityDropdown'
+    | 'destinationDropdown'
+  payload: boolean
+}
+
+const reducer = (state: State, action: Action) => {
+  const { type, payload } = action
+
+  switch (type) {
+    case 'showActivity':
+      return { ...state, showActivities: payload }
+    case 'showDestination':
+      return { ...state, showDestinations: payload }
+    case 'activityDropdown':
+      return { ...state, activityDropdown: payload }
+    case 'destinationDropdown':
+      return { ...state, destinationDropdown: payload }
+    default:
+      return state
+  }
+}
+
+const initialState: State = {
+  showActivities: false,
+  showDestinations: false,
+  activityDropdown: false,
+  destinationDropdown: false,
+}
 
 const BrowserSection = () => {
   const isMobile = useMedia({ maxWidth: 992 - 1 })
@@ -29,26 +69,41 @@ const BrowserSection = () => {
       }
     }
   `)
-  const [showActivities, setShowActivities] = useState(false)
-  const [showDestinations, setShowDestinations] = useState(false)
-  const [activityDropdown, setActivityDropdown] = useState(false)
-  const [destinationDropdown, setDestinationDropdown] = useState(false)
-  const [activityDivOffset, setActivityDivOffset] = useState(0)
-  const [destinationDivOffset, setDestinationDivOffset] = useState(0)
+
+  const activityRef = useRef<HTMLDivElement | null>(null)
+  const destinationRef = useRef<HTMLDivElement | null>(null)
+
+  const [state, dispatch] = useReducer(reducer, initialState)
+  const {
+    showActivities,
+    showDestinations,
+    activityDropdown,
+    destinationDropdown,
+  } = state
 
   const handleScroll = () => {
     const scrollTop = window.pageYOffset
 
+    let activityDivOffset = 0
+    if (activityRef && activityRef.current) {
+      activityDivOffset = activityRef.current.offsetTop
+    }
+
+    let destinationDivOffset = 0
+    if (destinationRef && destinationRef.current) {
+      destinationDivOffset = destinationRef.current.offsetTop
+    }
+
     if (scrollTop > activityDivOffset - window.innerHeight / 2) {
-      setActivityDropdown(true)
+      dispatch({ type: 'activityDropdown', payload: true })
     } else {
-      setActivityDropdown(false)
+      dispatch({ type: 'activityDropdown', payload: false })
     }
 
     if (scrollTop > destinationDivOffset - window.innerHeight / 2) {
-      setDestinationDropdown(true)
+      dispatch({ type: 'destinationDropdown', payload: true })
     } else {
-      setDestinationDropdown(false)
+      dispatch({ type: 'destinationDropdown', payload: false })
     }
   }
 
@@ -65,18 +120,42 @@ const BrowserSection = () => {
     (menuItem) => menuItem.name === 'Destinations',
   )
 
+  let destinationDropdownClass = ''
+  if (isMobile) {
+    if (showDestinations) {
+      destinationDropdownClass = ' open'
+    } else {
+      destinationDropdownClass = ' closed'
+      // destinationDropdownClass = ''
+    }
+  } else {
+    destinationDropdownClass = ''
+  }
+  let activityDropdownClass = ''
+  if (isMobile) {
+    if (showActivities) {
+      activityDropdownClass = ' open'
+    } else {
+      activityDropdownClass = ' closed'
+      // activityDropdownClass = ''
+    }
+  } else {
+    activityDropdownClass = ''
+  }
+
   return (
     <section className="browse-block">
-      <div
-        ref={(div) => div && setDestinationDivOffset(div.offsetTop)}
-        className="browse-destination column"
-      >
-        <div
-          className={`dropdown${isMobile && showDestinations ? ' open' : ''}`}
-        >
+      <div ref={destinationRef} className="browse-destination column">
+        <div className={`dropdown${destinationDropdownClass}`}>
           <span
-            onClick={() =>
-              setShowDestinations((showDestinations) => !showDestinations)
+            onClick={
+              isMobile
+                ? () =>
+                    dispatch({
+                      type: 'showDestination',
+                      payload: !showDestinations,
+                    })
+                : undefined
             }
             className="dropdown-toggle"
           >
@@ -85,17 +164,20 @@ const BrowserSection = () => {
           <MenuDropDown
             menuItems={menuItems[destinationIndex].menuItems}
             className={isMobile ? '' : destinationDropdown ? 'down' : ''}
+            closeMenu={() =>
+              dispatch({ type: 'showDestination', payload: false })
+            }
           />
         </div>
       </div>
-      <div
-        ref={(div) => div && setActivityDivOffset(div.offsetTop)}
-        className="browse-adventures column"
-      >
-        <div className={`dropdown${isMobile && showActivities ? ' open' : ''}`}>
+      <div ref={activityRef} className="browse-adventures column">
+        <div className={`dropdown${activityDropdownClass}`}>
           <span
-            onClick={() =>
-              setShowActivities((showActivities) => !showActivities)
+            onClick={
+              isMobile
+                ? () =>
+                    dispatch({ type: 'showActivity', payload: !showActivities })
+                : undefined
             }
             className="dropdown-toggle"
           >
@@ -104,6 +186,7 @@ const BrowserSection = () => {
           <MenuDropDown
             menuItems={menuItems[activityIndex].menuItems}
             className={isMobile ? 'down' : activityDropdown ? 'down' : ''}
+            closeMenu={() => dispatch({ type: 'showActivity', payload: false })}
           />
         </div>
       </div>
